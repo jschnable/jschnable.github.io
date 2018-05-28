@@ -179,7 +179,7 @@ And that's it for 2015 folks!
 
 - Lab tour of a production maize farm just across the Missouri river in western Iowa. Fascinating experience, thanks to the Iowa Corn Growers for organizing.
 
-![Farm Tour](/images/News_Images/FarmTour.jpg){:width="500" align="middle" }
+![Farm Tour](/images/News_Images/Farm_Tour.jpg){:width="500" align="middle" }
 
 - Our first attempt to grow corn plants at the new UNL automated phenotyping greenhouse. ... it does not go well. 
 
