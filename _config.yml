@@ -4,12 +4,12 @@
 
 # Name of your site (displayed in the header)
 name: The Schnable Lab@UNL
-
+site.title: The Schnable Lab@UNL
 # Short bio or description (displayed in the header)
 description: Hypothesis Driven Research in Plant Genomics and Phenomics
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: /images/lab_logo.jpg
 
 #
 # Flags below are optional
