@@ -6,14 +6,14 @@ googlefonts: ["Monoton", "Lobster"]
 ---
 
 | | **Name** | **Title**| **CV** |
-|![James Schnable](/images/People_Images/jamesschnable.jpg){:width="120" align="middle"}|James Schnable|Assistant Professor||
-|![Guangchao Sun](/images/People_Images/Guangchao.JPG){:width="120" align="middle"}|Guangchao Sun|Postdoctoral Scholar||
-|![Zhikai Liang](/images/People_Images/Zhikai_Liang_small.jpg){:width="120"}|Zhikai Liang|PhD Student||
-|![Daniel Carvalho](/images/People_Images/Daniel_Carvalho.jpg){:width="120"}|Daniel Carvalho|PhD Student||
-|![Chenyong Miao](/images/People_Images/Miao_Small.jpg){:width="120"}|Chenyong Miao|PhD Student||
+|![James Schnable](/images/People_Images/jamesschnable.jpg){:width="120" align="middle"}|James Schnable<a href="https://twitter.com/szintri"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Assistant Professor||
+|![Guangchao Sun](/images/People_Images/Guangchao.JPG){:width="120" align="middle"}|Guangchao Sun<a href="https://twitter.com/xiaoguanghuan"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Postdoctoral Scholar||
+|![Zhikai Liang](/images/People_Images/Zhikai_Liang_small.jpg){:width="120"}|Zhikai Liang<a href="https://twitter.com/shanwai1234"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|PhD Student||
+|![Daniel Carvalho](/images/People_Images/Daniel_Carvalho.jpg){:width="120"}|Daniel Carvalho<a href="https://twitter.com/deCarvalhoD90"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|PhD Student||
+|![Chenyong Miao](/images/People_Images/Miao_Small.jpg){:width="120"}|Chenyong Miao<a href="https://twitter.com/Valiancy_miao"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|PhD Student||
 |![Preston Hurst](/images/People_Images/Preston.jpg){:width="120"}|Preston Hurst|MS Student||
-|![Xiuru Dai](/images/People_Images/Xiuru_small.jpg){:width="120"}|Xiuru Dai|Visiting PhD Student<br>Shandong Agricultural Universty||
-|![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|co-mentored PhD Student||
+|![Xiuru Dai](/images/People_Images/Xiuru_small.jpg){:width="120"}|Xiuru Dai<a href="https://twitter.com/Xiuru_Dai"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Visiting PhD Student<br>Shandong Agricultural Universty||
+|![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|PhD Student<br>_(co-advised)_||
 |![Connor Pedersen](/images/People_Images/Connor.JPG){:width="120"}|Connor Pedersen|Research Assistant||
 |![Thomas Hoban](/images/People_Images/thoban.jpg){:width="120"}|Thomas Hoban|Bachelors Student|
 ||Alex Enersen|Bachelors Student||
@@ -24,11 +24,11 @@ googlefonts: ["Monoton", "Lobster"]
 **Lab Alumni**
 
 | | **Name** | **Title**| **Tenure** |
-|![Yang Zhang](/images/People_Images/yzhang_small.jpg){:width="120" align="middle"}|Yang Zhang|Postdoctoral Scholar|2014-2017|
-|![Jinliang Yang](/images/People_Images/jinliang.JPG){:width="120"}|Jinliang Yang|Postdoctoral Scholar|2016-2017|
-|![Sunil Kumar](/images/People_Images/Sunil.jpg){:width="120"}|Sunil Kumar|Postdoctoral Scholar|2017-2018|
-|![Lang Yang](/images/People_Images/Lang_Small.jpg){:width="120"}|Lang Yang|Visiting Scholar|2016-2017|
-|![Xianjun Lai](/images/People_Images/xlai.jpg){:width="120"}|Xianjun Lai|CSC PhD Student|2015-2017|
+|![Yang Zhang](/images/People_Images/yzhang_small.jpg){:width="120" align="middle"}|Yang Zhang<a href="https://twitter.com/zymaize"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Postdoctoral Scholar|2014-2017|
+|![Jinliang Yang](/images/People_Images/jinliang.JPG){:width="120"}|Jinliang Yang<a href="https://twitter.com/JinliangYang"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Postdoctoral Scholar|2016-2017|
+|![Sunil Kumar](/images/People_Images/Sunil.jpg){:width="120"}|Sunil Kumar<a href="https://twitter.com/Sunil_KumarKR"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Postdoctoral Scholar|2017-2018|
+|![Lang Yang](/images/People_Images/Lang_Small.jpg){:width="120"}|Lang Yang<a href="https://twitter.com/langyan87"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Visiting Scholar|2016-2017|
+|![Xianjun Lai](/images/People_Images/xlai.jpg){:width="120"}|Xianjun Lai<a href="https://twitter.com/xianjunlai"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|CSC PhD Student|2015-2017|
 |![Bhushit Agarwal](/images/People_Images/Bhushit.jpg){:width="120"}|Bhushit Agarwal|Comp. Sci. MS Student<br>_(co-advised)_|2015-2016|
 |![Srinidhi Bashyam](/images/People_Images/Srinidhi.jpg){:width="120"}|Srinidhi Bashyam|Comp. Sci. MS Student<br>_(co-advised)_|2015-2016|
 |![Sarah Johnson](/images/People_Images/Sarah.jpg){:width="120"}|Sarah Johnson|Rotating PhD Student<br>Complex Biosystems|Spring 2017|
