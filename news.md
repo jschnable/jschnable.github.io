@@ -6,6 +6,14 @@ title: Schnable Lab News
 
 ### 2018, May
 
+* A successful planting in at UNL's Havelock farm. 80,000 total kernels put into the ground over two days. Fortunate to have Schnable Lab alumni as a professor here at UNL to make this happen. 
+
+![Havelock Planting1](/images/News_Images/Field18A.jpg){:width="500" align="middle" }
+![Havelock Planting2](/images/News_Images/Field18B.jpg){:width="500" align="middle" }
+
+R->L Christine (Schnable Lab), Connor (Schnable Lab), Sam (Yang Lab), Jinliang Yang, Josh (Ag & Hort Field team). 
+*Photo Credit: Raghu (Yang Lab)*
+
 * Our lab becomes a victim our our own success and is evicted from our office space over the summer while renovations take place to double the number of student desks.
 
 ![Lost Offices](/images/News_Images/Lost_Office.jpg){:width="500" align="middle" }
