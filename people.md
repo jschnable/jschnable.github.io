@@ -6,11 +6,11 @@ googlefonts: ["Monoton", "Lobster"]
 ---
 
 | | **Name** | **Title**| **CV** |
-|![James Schnable](/images/People_Images/jamesschnable.jpg){:width="120" align="middle"}|James Schnable<a href="https://twitter.com/szintri"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Assistant Professor|[CV](/CVs/JSchnable.pdf)|
+|![James Schnable](/images/People_Images/jamesschnable.jpg){:width="120" align="middle"}|[James Schnable](/peoplepages/jschnable/)<a href="https://twitter.com/szintri"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Assistant Professor|[CV](/CVs/JSchnable.pdf)|
 |![Guangchao Sun](/images/People_Images/Guangchao.JPG){:width="120" align="middle"}|Guangchao Sun<a href="https://twitter.com/xiaoguanghuan"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Postdoctoral Scholar||
-|![Zhikai Liang](/images/People_Images/Zhikai_Liang_small.jpg){:width="120"}|Zhikai Liang<a href="https://twitter.com/shanwai1234"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|PhD Student|[CV](/CVs/ZLiang.pdf)|
-|![Daniel Carvalho](/images/People_Images/Daniel_Carvalho.jpg){:width="120"}|Daniel Carvalho<a href="https://twitter.com/deCarvalhoD90"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|PhD Student|[CV](/CVs/DCarvalho.pdf)|
-|![Chenyong Miao](/images/People_Images/Miao_Small.jpg){:width="120"}|Chenyong Miao<a href="https://twitter.com/Valiancy_miao"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|PhD Student|[CV](/CVs/CMiao.pdf)|
+|![Zhikai Liang](/images/People_Images/Zhikai_Liang_small.jpg){:width="120"}|[Zhikai Liang](/peoplepages/zliang/)<a href="https://twitter.com/shanwai1234"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|PhD Student|[CV](/CVs/ZLiang.pdf)|
+|![Daniel Carvalho](/images/People_Images/Daniel_Carvalho.jpg){:width="120"}|[Daniel Carvalho](/peoplepages/Daniel_Carvalho/)<a href="https://twitter.com/deCarvalhoD90"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|PhD Student|[CV](/CVs/DCarvalho.pdf)|
+|![Chenyong Miao](/images/People_Images/Miao_Small.jpg){:width="120"}|[Chenyong Miao](/peoplepages/Chenyong_Miao/)<a href="https://twitter.com/Valiancy_miao"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|PhD Student|[CV](/CVs/CMiao.pdf)|
 |![Preston Hurst](/images/People_Images/Preston.jpg){:width="120"}|Preston Hurst|MS Student||
 |![Xiuru Dai](/images/People_Images/Xiuru_small.jpg){:width="120"}|Xiuru Dai<a href="https://twitter.com/Xiuru_Dai"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Visiting PhD Student<br>Shandong Agricultural Universty||
 |![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|PhD Student<br>_(co-advised)_||
