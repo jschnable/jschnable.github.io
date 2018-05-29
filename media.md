@@ -2,6 +2,10 @@
 layout: page
 title: Media Coverage of Schnable Lab Projects
 ---
+<p>Prof. Schnable presents an our precently published paper with the Qiu and Xu statistics labs on using functional data analysis to analyze time series trait data, one of the big new challenges presented by HTP datasets.<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lw_WsWV6ox0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</p>
+
 <p>Lab member Daniel Carvalho explains his PhD project on photosynthesis, phenotyping, and water use efficiency in maize, sorghum, and allied grasses in an interview with the Water for Food Global Institute which is partially sponsoring his thesis research.<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uF02kuE4Qn0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </p>

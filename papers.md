@@ -3,7 +3,6 @@ layout: page
 title: Schnable Lab Papers
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-test
 
 **Preprints**
 
@@ -27,6 +26,7 @@ test
 <div data-badge-type="2" data-doi="Pubs/Sruti_KDD_FEWS.pd" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
 
 * Xu Y, Qiu Y, <b>Schnable JC</b>. (2018) "[Functional Modeling of Plant Growth Dynamics.](https://dl.sciencesocieties.org/publications/tppj/abstracts/1/1/170007)" <i>The Plant Phenome</i> doi: 10.2135/tppj2017.09.0007 <i>bioRxiv</i> doi: <a href="https://doi.org/10.1101/190967">10.1101/190967</a>
+<i>[Invited The Plant Phenome Journal webinar](https://www.youtube.com/watch?v=lw_WsWV6ox0) by James Schnable describing the key advances from this paper to a wider audience.</i>
 
 <div data-badge-type="2" data-doi="10.2135/tppj2017.09.0007" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
 <div data-badge-type="2" data-doi="10.1101/190967" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
