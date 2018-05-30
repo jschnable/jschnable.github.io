@@ -2,6 +2,8 @@
 layout: page
 title: Media Coverage of Schnable Lab Projects
 ---
+<p>Listen to James Schnable interviewed on the Peggy Smedley show on <a href="https://peggysmedleyshow.com/portfolio-items/05-22-18-episode-564-segment-2-iot-measures-and-manages-plants/">how the Internet of Things is changing agriculture</a>. </p>
+
 <p>Prof. Schnable presents an our precently published paper with the Qiu and Xu statistics labs on using functional data analysis to analyze time series trait data, one of the big new challenges presented by HTP datasets.<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lw_WsWV6ox0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </p>
