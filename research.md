@@ -11,9 +11,11 @@ title: Schnable Lab Research Interests
 <li><a href="#Orphan">Miscellaneous Other Cool Science</a></li>
 </ul>
 
-<a id="Comparative"><p class="heading">Linking Genotype and Phenotype Across Environments and Across Grass Species</p></a>
+<a id="Comparative">
 
-<img align="middle" src="images/Science_Images/multiplant1.jpg"></img>
+**Linking Genotype and Phenotype Across Environments and Across Grass Species**
+
+![MultiPlant](/images/Science_Images/multiplant1.jpg){:width="500"}
 
 <p>Lots of interesting (where "interesting" can mean agronomically useful, or evolutionarily interesting, or just cool) traits show much more variation between species than within populations of a single species. One of the long term goals of our lab is to develop tools to study functional genetic variation across multiple species. Several of the currently funded projects within the lab fall under this umbrella.</p>
 
@@ -32,18 +34,20 @@ title: Schnable Lab Research Interests
 <li><b>Lai X</b>,* Behera S,* <b>Liang Z</b>, Lu Y, Deogun JS, <b>Schnable JC</b>. (2017) "<a href="http://dx.doi.org/10.1016/j.molp.2017.05.010">STAG-CNS: An order-aware conserved noncoding sequence discovery tool for arbitrary numbers of species.</a>" <i>Molecular Plant</i> doi: 10.1016/j.molp.2017.05.010 <i>bioRxiv</i> preprint doi: <a href="http://dx.doi.org/10.1101/120428">10.1101/120428</a></li>
 </ol>
 
-<img align="middle" src="images/Science_Images/Cold.jpg"></img>
+![Cold](/images/Science_Images/Cold.jpg){:width="120" align="middle"}
 
-<a id="Phenotying"><p class="heading">Automated Plant Phenotyping</p></a>
+<a id="Phenotying"></a>
 
-<img align="right" width=120 src="Science_Images/Corn_Plant.jpg"></img> 
+**Automated Plant Phenotyping**
+
+![Corn Plant](/images/Science_Images/Corn_Plant.jpg){:width="120" align="middle"}
 <p>The Schnable lab works with both the "Data Analysis" team within the Center for Integrative Translational Biology and the <a href="http://plantvision.unl.edu/">Plant Vision Initiative</a> in developing and deploying new algorithms, tools, and datasets for high throughput plant phenotyping. Our work in this area is supported by the USDA, and internal funding from the University of Nebraska Lincoln. In 2017, we will be creating and disseminating a reference high throughput imaging dataset for the Sorghum Association Panel. Check back for more details starting in March 2017.</p> 
 
 <p><b>A High Throughput Phenotyping Reference Dataset for GWAS in Sorghum</b></p>
 
 <p>The Consortium for Integrated Translational Biology was founded with the goal of linking variation in phenotype to variation in genotype and translate research from the greenhouse to the field. The initial validation studies of the Scanalyzer 3D were not able to include sufficiently large populations to allow the de novo mapping of genes controlling either traditional or novel phenotypic traits. This proposal aims to generate a first generation sorghum high throughput phenotype reference dataset through the phenotyping and ground truth analysis of 363 accessions from the Sorghum Association Panel (SAP). A publicly available dataset from this population will enable and encourage researchers to develop and validate new computational methods of scoring plant phenotypes using conventional or hyperspectral image data. And, when a trait is validated, it will be possible to perform GWAS to identify traits associated SNPs (TASs) associated with the genes controlling variation in those phenotypes in sorghum.</p>
 
-<img align="left" width=300 src="Science_Images/Greenhouse2.jpg"></img>
+![Greenhouse2](/images/Science_Images/Greenhouse2.jpg){:width="500" align="middle"}
 
 <p>We propose developing new software tools and statistical models to measure reproductive stage phenotypes from conventional RGB image data, measure sorghum plant composition phenotypes from hyperspectral data, and identify genes or candidate intervals for genes responsible for controlling variation in plant architecture, plant composition, and derived traits (ie ratios between specific traits, and rates of change in trait measurements over time). The creation of this dataset will stimulate the development of new methods, and serve as critical preliminary data for future research proposals by both the proposing research teams and other faculty working on sorghum, maize, and related crops.</p>
 
@@ -51,7 +55,7 @@ title: Schnable Lab Research Interests
 
 <p><b>PAPM EAGER: Transitioning to the Next Generation Plant Phenotyping Robots</b></p>
 
-<img align="right" width=200 src="images/Science_Images/Greenhouse.jpg"></img>
+![Greenhouse1](images/Science_Images/Greenhouse.jpg){:width="500" align="middle"}
 
 <p>This project is to develop next generation plant phenotyping robots that can collect in-vivo human-like measurement of plant physiological and chemical traits to complement image analysis. This project is to address the perceived "phenotyping bottleneck". There are three specific research aims. The first is to design and develop robotic grippers integrating specialized plant sensors. The second is to develop a novel vision system for the localization and approaching of plant leaves by the robotic arm and eye-hand coordination. The third is to test and validate the plant phenotyping robot in UNLs high throughput phenotyping greenhouse. The PIs will also work to develop several novel educational and outreach activities in this project.</p>
 
@@ -61,7 +65,7 @@ title: Schnable Lab Research Interests
 
 <p>The team will develop a novel technology toolset consisting of two types of sensors to accelerate plant breeding for nitrogen uptake and nitrogen use efficiency. The team will design and build a novel silicon microneedle in-plant nitrogen sensor and a microfluidic soil nitrogen sensor. Incorporating the new soil and in-plant sensors into real world field trials will improve and accelerate the effort to identify, select and commercialize new crops with improved nitrogen use efficiency.</p>
 
-<p><i>Supported by <a href="https://arpa-e.energy.gov/sites/default/files/documents/files/ROOTS_Project_Descriptions_Final.pdf"> an ARPA-E award lead by to our collaborators in the <a href="http://www.memslab.net/">Liang Dong lab at Iowa State</a>.</p></i>
+_Supported by <a href="https://arpa-e.energy.gov/sites/default/files/documents/files/ROOTS_Project_Descriptions_Final.pdf"> an ARPA-E award lead by to our collaborators in the <a href="http://www.memslab.net/">Liang Dong lab at Iowa State</a>._
 
 <p><b>Recent Publications on Plant Phenotyping</b></p>
 
@@ -78,9 +82,9 @@ title: Schnable Lab Research Interests
 
 <a id="Orphan"><p class="heading">Miscellaneous Other Cool Science</p></a>
 
-<p><b>Genomes to Fields</p></b>
+<p><b>Genomes to Fields</b></p>
 
-<img align="left" width=130 src="images/Science_Images/Field2.jpg"></img>
+![Field2](/images/Science_Images/Field2.jpg){:width="500" align="middle"}
 
 <p>Working with the Rodriguez lab and the Ge Lab, we conduct field trials and high throughput phenotyping of exPVP maize hybrids ("the closest to what farmers in Nebraska grow today as we're legally allowed to work with") as part of the <a href="http://www.genomes2fields.org/">Genomes to Fields</a> public-private consortium working at catalzying the translation of maize genomic information into adances beneficial to growers, consumers, and society. In 2016, members of the consortium collected yield and phenotype data from maize hybrids grown at 29 locations distributed across 17 states.</p>
 
@@ -96,7 +100,7 @@ title: Schnable Lab Research Interests
 
 <p>Members of the Schnable Lab@UNL are working with ICRISAT and the Schnable Lab@ISU to increase the rate of genetic gain in the yield of pearl millet, a drought and stress tolerant crop widely grown for both forage and human consumption in India and Africa.</p>
 
-* <b>Liang Z</b>, Gupta SK, Yeh CT, <b>Zhang Y</b>, <b>Ngu DW</b>, Kumar R, Patil HT, Mungra KD, Yadav DV, Rathore A, Srivastava RK, Gupkta R, <b>Yang J</b>, Varshney RK, Schnable PS, <b>Schnable JC</b> (2018) "[Phenotypic data from inbred parents can improve genomic prediction in pearl millet hybrids.](https://doi.org/10.1534/g3.118.200242)" <i>G3: Genes Genomes Genetics</i> doi: 10.1534/g3.118.200242
+* *Liang Z*, Gupta SK, Yeh CT, *Zhang Y*, *Ngu DW*, Kumar R, Patil HT, Mungra KD, Yadav DV, Rathore A, Srivastava RK, Gupkta R, *Yang J*, Varshney RK, Schnable PS, *Schnable JC* (2018) "[Phenotypic data from inbred parents can improve genomic prediction in pearl millet hybrids.](https://doi.org/10.1534/g3.118.200242)" _G3: Genes Genomes Genetics_ doi: 10.1534/g3.118.200242
 [Chinese Language Summary](https://mp.weixin.qq.com/s/8mGpB0Uel0omoC5QFGjKmA)
 
-<p><i>This work is supported by an award from ICRISAT that is in turn supported by funds from USAID</i></b>
+_This work is supported by an award from ICRISAT that is in turn supported by funds from USAID_
