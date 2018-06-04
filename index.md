@@ -19,4 +19,4 @@ The Schnable Lab is always recruiting promising undergraduates who either wish t
 
 Openings for postdocs or graduate students (without their own source of support) fluctuate based on avaliablity of grant funds.
 
-Read more about ongoing projects in the lab here.
+Read more about [ongoing projects in the lab](/research/).
