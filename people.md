@@ -21,7 +21,7 @@ googlefonts: ["Monoton", "Lobster"]
 ||Alexandra Bradley|Bachelors Student||
 ||Alejandro Pages| UCARE Bachelors Student||
 |![Christian Butera](/images/People_Images/CButera.jpg){:width="120"}|Christian Butera|REU Student||
-|![Ashley Foltz](/images/People_Images/Ashley.jpg){:width="120"}|Ashley Foltz|REU Student||
+|![Ashley Foltz](/images/People_Images/Ashley18.jpg){:width="120"}|Ashley Foltz|REU Student||
 {:.table100.ver1}
 
 **Lab Alumni**
