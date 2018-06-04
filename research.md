@@ -25,7 +25,7 @@ title: Schnable Lab Research Interests
 
 <p><i>Supported by a grant from the USDA NIFA to the Schnable lab and our collaborators in <a href="https://www.rostonlab.com/">the Roston Lab</a> (Biochemistry):</i> 2016-67013-24613</p>
 
-<p><b>Recent Publications On Plant Comparative *Omics</b></p>
+*Recent Publications On Plant Comparative Omics*
 
 <ol>
 <li><b>Lai X</b>, <b>Yan L</b>, Lu Y, <b>Schnable JC</b>. (2018) "<a href="https://doi.org/10.1111/tpj.13806">Largely unlinked gene sets targeted by selection for domestication syndrome phenotypes in maize and sorghum.</a>" <i>The Plant Journal</i> doi: 10.1111/tpj.13806  <i>bioRxiv</i> doi: <a href="https://doi.org/10.1101/184424">10.1101/184424</a></li>
@@ -37,9 +37,9 @@ title: Schnable Lab Research Interests
 ![Cold](/images/Science_Images/Cold.jpg){:width="120" align="middle"}
 
 <a id="Phenotying"></a>
-
+<br>
 **Automated Plant Phenotyping**
-
+<br>
 ![Corn Plant](/images/Science_Images/Corn_Plant.jpg){:width="120" align="middle"}
 <p>The Schnable lab works with both the "Data Analysis" team within the Center for Integrative Translational Biology and the <a href="http://plantvision.unl.edu/">Plant Vision Initiative</a> in developing and deploying new algorithms, tools, and datasets for high throughput plant phenotyping. Our work in this area is supported by the USDA, and internal funding from the University of Nebraska Lincoln. In 2017, we will be creating and disseminating a reference high throughput imaging dataset for the Sorghum Association Panel. Check back for more details starting in March 2017.</p> 
 
