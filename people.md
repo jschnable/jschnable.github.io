@@ -18,8 +18,8 @@ googlefonts: ["Monoton", "Lobster"]
 |![Connor Pedersen](/images/People_Images/Connor.JPG){:width="120"}|Connor Pedersen<a href="https://twitter.com/Connor_1695"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Research Assistant||
 |![Thomas Hoban](/images/People_Images/thoban.jpg){:width="120"}|Thomas Hoban|Bachelors Student|
 |![Alex Enersen](/images/People_Images/AlexE.jpg){:width="120"}|Alex Enersen|Bachelors Student||
-||Alexandra Bradley|Bachelors Student||
-||Alejandro Pages| UCARE Bachelors Student||
+|![Ally](/images/People_Images/Ally.jpg){:width="120"}|Alexandra Bradley|Bachelors Student||
+|![Alejandro Pages](/images/People_Images/AlexP.jpg){:width="120"}|Alejandro Pages| UCARE Bachelors Student||
 |![Christian Butera](/images/People_Images/CButera.jpg){:width="120"}|Christian Butera|REU Student||
 |![Ashley Foltz](/images/People_Images/Ashley18.jpg){:width="120"}|Ashley Foltz|REU Student||
 {:.table100.ver1}
