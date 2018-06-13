@@ -7,7 +7,7 @@ title: Zhikai Liang
 
 ![Zhikai Liang](/images/People_Images/Zhikai_Liang_small.jpg){:align="middle"}|
 
-Zhikai comes from Inner Mongolia, one of the most beautiful provinces in Northern China. In 2011, he earned his BA from Nanjing Agricultural University in major of agronomy (Nanjing, Jiangsu, China). Then he started his research in rice molecular biology at MSstate University in America (Starkville, MS). In 2014, he joined the Schnable lab as a PhD student. His research focuses on phenomics and NGS data analysis.
+Zhikai comes from Inner Mongolia, one of the most beautiful provinces in Northern China. In 2011, he earned his BA from Nanjing Agricultural University in major of agronomy (Nanjing, Jiangsu, China). Then he started his research in rice molecular biology at MSstate University in America (Starkville, MS). In 2014, he joined the Schnable lab as a PhD student. His research focuses on plant phenomic and genomic data analysis.
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=DcoiZmMAAAAJ)
 
@@ -21,6 +21,9 @@ Zhikai comes from Inner Mongolia, one of the most beautiful provinces in Norther
 
 * <b>Liang Z</b>, <b>Schnable JC</b> (2018) "<a href="https://doi.org/10.1016/j.molp.2017.12.010">Functional Divergence Between Subgenomes and Gene Pairs After Whole Genome Duplications.</a>" <i>Molecular Plant</i> doi: 10.1016/j.molp.2017.12.010
 <div data-badge-type="2" data-doi="10.1016/j.molp.2017.12.010" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
+
+* <b>Liang Z</b>, Pandey P, Stoerger V, Xu Y, Qiu Y, Ge Y, <b>Schnable JC</b> (2018) "<a href="https://doi.org/10.1093/gigascience/gix117">Conventional and hyperspectral time-series imaging of maize lines widely used in field trials.</a>" <i>GigaScience</i> doi: 10.1093/gigascience/gix117
+<div data-badge-type="2" data-doi="10.1093/gigascience/gix117" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
 
 *  <b>Zhang Y</b>, <b>Ngu DW</b>, <b>Carvalho D</b>, <b>Liang Z</b>, Qiu Y, Roston RL, <b>Schnable JC</b>. (2017) "<a href="http://dx.doi.org/10.1105/tpc.17.00354">Differentially regulated orthologs in sorghum and the subgenomes of maize.</a>" <i>The Plant Cell</i> doi: 10.1105/tpc.17.00354 <i>bioRxiv</i> preprint doi: <a href="http://dx.doi.org/10.1101/120303">10.1101/120303</a>  
 <div data-badge-type="2" data-doi="10.1105/tpc.17.00354" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
