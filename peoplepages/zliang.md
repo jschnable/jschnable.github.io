@@ -34,5 +34,5 @@ Zhikai comes from Inner Mongolia, one of the most beautiful provinces in Norther
 * Chaudhury SD, Steorger V, Samal A, <b>Schnable JC</b>, <b>Liang Z</b>, Yu J. (2016) "<a href="Pubs/Sruti_KDD_FEWS.pdf">Automated vegetative stage phenotyping analysis of maize plants using visible light images.</a>" <i>KDD: Data Science for Food, Energy, and Water</i> San Francisco, CA, USA (Conference Proceedings)
 <div data-badge-type="2" data-doi="Pubs/Sruti_KDD_FEWS.pd" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
 
-* <b>Liang Z</b>, <b>Schnable JC</b>. "<a href="http://dx.doi.org/10.1371/journal.pone.0157942">RNA-seq based analysis of population structure within the maize inbred B73.</a>" <i>PLoS One</i> doi: 10.1371/journal.pone.0157942 <i>bioRxiv</i> preprint doi: <a href="http://dx.doi.org/10.1101/043513">10.1101/043513</a>
+* <b>Liang Z</b>, <b>Schnable JC</b>. (2016) "<a href="http://dx.doi.org/10.1371/journal.pone.0157942">RNA-seq based analysis of population structure within the maize inbred B73.</a>" <i>PLoS One</i> doi: 10.1371/journal.pone.0157942 <i>bioRxiv</i> preprint doi: <a href="http://dx.doi.org/10.1101/043513">10.1101/043513</a>
 <div data-badge-type="2" data-doi="10.1371/journal.pone.0157942" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div
