@@ -8,6 +8,7 @@ bigimg:
   - "/images/Front_Page_Images/header.png" : ""
 ---
 
+![The Whole Schnable Lab](/images/Whole_Lab.jpg){:width="800" align="middle" }
 
 The Schnable Group is based at the University of Nebraska-Lincoln and is lead by James Schnable. Looking for the ISU research group with the same last name? [Click here](https://schnablelab.plantgenomics.iastate.edu/).
 
