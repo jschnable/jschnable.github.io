@@ -49,7 +49,7 @@ title: Schnable Lab Research Interests
 
 ![Greenhouse2](/images/Science_Images/Greenhouse2.jpg){:width="500" align="middle"}
 
-<p>We propose developing new software tools and statistical models to measure reproductive stage phenotypes from conventional RGB image data, measure sorghum plant composition phenotypes from hyperspectral data, and identify genes or candidate intervals for genes responsible for controlling variation in plant architecture, plant composition, and derived traits (ie ratios between specific traits, and rates of change in trait measurements over time). The creation of this dataset will stimulate the development of new methods, and serve as critical preliminary data for future research proposals by both the proposing research teams and other faculty working on sorghum, maize, and related crops.</p>
+<p>We propose developing new software tools and statistical models to measure reproductive stage phenotypes from conventional RGB image data, measure sorghum plant composition phenotypes from hyperspectral data, and identify genes or candidate intervals for genes responsible for controlling variation in plant architecture, plant composition, and derived traits (i.e. ratios between specific traits, and rates of change in trait measurements over time). The creation of this dataset will stimulate the development of new methods, and serve as critical preliminary data for future research proposals by both the proposing research teams and other faculty working on sorghum, maize, and related crops.</p>
 
 <p><i>Supported by an internal award from the Agricultural Research Division to our lab and multiple collaborators at UNL.</i></p>
 
