@@ -86,7 +86,7 @@ _Supported by <a href="https://arpa-e.energy.gov/sites/default/files/documents/f
 
 ![Field2](/images/Science_Images/Field2.jpg){:width="500" align="middle"}
 
-<p>Working with the Rodriguez lab and the Ge Lab, we conduct field trials and high throughput phenotyping of exPVP maize hybrids ("the closest to what farmers in Nebraska grow today as we're legally allowed to work with") as part of the <a href="http://www.genomes2fields.org/">Genomes to Fields</a> public-private consortium working at catalzying the translation of maize genomic information into adances beneficial to growers, consumers, and society. In 2016, members of the consortium collected yield and phenotype data from maize hybrids grown at 29 locations distributed across 17 states.</p>
+<p>Working with the Rodriguez lab and the Ge Lab, we conduct field trials and high throughput phenotyping of exPVP maize hybrids ("the closest to what farmers in Nebraska grow today as we're legally allowed to work with") as part of the <a href="http://www.genomes2fields.org/">Genomes to Fields</a> public-private consortium working at catalyzing the translation of maize genomic information into advances beneficial to growers, consumers, and society. In 2016, members of the consortium collected yield and phenotype data from maize hybrids grown at 29 locations distributed across 17 states.</p>
 
 * Alkhalifah N, Campbell DA, Falcon CM, ... <b>Schnable JC</b> (31 of 42 authors) ... Spalding EP, Edwards J, Lawrence-Dill CJ (2018) "Maize Genomes to Fields: 2014 and 2015 field season genotype, phenotype, environment, and inbred ear image datasets." <i>BMC Research Notes</i> (Accepted pending minor revision)
 
