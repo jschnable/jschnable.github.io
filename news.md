@@ -28,7 +28,7 @@ R->L Christine (Schnable Lab), Connor (Schnable Lab), Sam (Yang Lab), Jinliang Y
 
 ![Holly's Poster](/images/News_Images/Holly_Poster.jpg){:width="500" align="middle" }
 
-* Connor Pedersen wins **another** prize at the iUNL spring research fair for his own poster on linking greenhouse and field phenotypes. 
+* Connor Pedersen wins **another** prize at the UNL spring research fair for his own poster on linking greenhouse and field phenotypes. 
 
 ![Connor's SRF Poster](/images/News_Images/ConnorPoster.jpg){:width="500" align="middle" }
 
