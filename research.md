@@ -78,7 +78,7 @@ _Supported by <a href="https://arpa-e.energy.gov/sites/default/files/documents/f
 </ol>
 
 <a id="Food4health"><p class="heading">Engineering the Human Gut Microbiome Using Plant Metabolites</p></a>
-<p>The newest research focus within the Schnable lab emphasizes combining quantitative genetic tools with high throughput screening of microbial communities to understand what components of food alter the population structure of the microbiomal community in the human gut. Working with the newly founded <a href="http://news.unl.edu/newsrooms/today/article/nebraska-food-for-health-center-to-unite-strengths-in-agriculture-medicine/">Food for Health Center</a>, we will use these perturbations to understand how different micriobal taxa can influence human health in positive or negative fashions. </p>
+<p>The newest research focus within the Schnable lab emphasizes combining quantitative genetic tools with high throughput screening of microbial communities to understand what components of food alter the population structure of the microbiomal community in the human gut. Working with the newly founded <a href="http://news.unl.edu/newsrooms/today/article/nebraska-food-for-health-center-to-unite-strengths-in-agriculture-medicine/">Food for Health Center</a>, we will use these perturbations to understand how different microbial taxa can influence human health in positive or negative fashions. </p>
 
 <a id="Orphan"><p class="heading">Miscellaneous Other Cool Science</p></a>
 
