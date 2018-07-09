@@ -7,7 +7,7 @@ title: Schnable Lab Papers
 **Preprints**
 
 <div data-badge-type="2" data-doi="10.1101/310391" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Miao C**, **Yang J**, **Schnable JC** "[Optimizing the identification of causal variants across varying genetic architectures in crops.](https://doi.org/10.1101/310391)" <i>bioRxiv</i> doi: 10.1101/310391 
+* **Miao C**, **Yang J**, **Schnable JC**. "[Optimizing the identification of causal variants across varying genetic architectures in crops.](https://doi.org/10.1101/310391)" <i>bioRxiv</i> doi: 10.1101/310391 
 
 <div data-badge-type="2" data-doi="10.1101/187575" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * <b>Yan L</b>, <b>Lai X</b>, Rodriguez O, Mahboub S, Roston RL, <b>Schnable JC</b>. "<a href="https://doi.org/10.1101/187575">Parallels between artificial selection in temperate maize and natural selection in the cold-adapted crop-wild relative Tripsacum.</a>" <i>bioRxiv</i> doi: 10.1101/187575 
@@ -18,14 +18,14 @@ title: Schnable Lab Papers
 
 
 <div data-badge-type="2" data-doi="10.1534/g3.118.200242" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* <b>Liang Z</b>, Gupta SK, Yeh CT, <b>Zhang Y</b>, <b>Ngu DW</b>, Kumar R, Patil HT, Mungra KD, Yadav DV, Rathore A, Srivastava RK, Gupkta R, <b>Yang J</b>, Varshney RK, Schnable PS, <b>Schnable JC</b> (2018) "[Phenotypic data from inbred parents can improve genomic prediction in pearl millet hybrids.](https://doi.org/10.1534/g3.118.200242)" <i>G3: Genes Genomes Genetics</i> doi: 10.1534/g3.118.200242
+* <b>Liang Z</b>, Gupta SK, Yeh CT, <b>Zhang Y</b>, <b>Ngu DW</b>, Kumar R, Patil HT, Mungra KD, Yadav DV, Rathore A, Srivastava RK, Gupkta R, <b>Yang J</b>, Varshney RK, Schnable PS, <b>Schnable JC</b>. (2018) "[Phenotypic data from inbred parents can improve genomic prediction in pearl millet hybrids.](https://doi.org/10.1534/g3.118.200242)" <i>G3: Genes Genomes Genetics</i> doi: 10.1534/g3.118.200242
 [Chinese Language Summary](https://mp.weixin.qq.com/s/8mGpB0Uel0omoC5QFGjKmA)
 
 <div data-badge-type="2" data-doi="10.1038/s41598-018-28294-0" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Miao C**, Fang J, Li D, Liang P, Zhang X, **Yang J**, **Schnable JC**, Tang H (2018) "[Genotype-Corrector: improved genotype calls for genetic mapping.](https://doi.org/10.1038/s41598-018-28294-0)" <i>Scientific Reports</i> doi: 10.1038/s41598-018-28294-0
+* **Miao C**, Fang J, Li D, Liang P, Zhang X, **Yang J**, **Schnable JC**, Tang H. (2018) "[Genotype-Corrector: improved genotype calls for genetic mapping.](https://doi.org/10.1038/s41598-018-28294-0)" <i>Scientific Reports</i> doi: 10.1038/s41598-018-28294-0
 
 <div data-badge-type="2" data-doi="Pubs/Sruti_KDD_FEWS.pd" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Alkhalifah N, Campbell DA, Falcon CM, ... **Schnable JC** (31 of 42 authors) ... Spalding EP, Edwards J, Lawrence-Dill CJ (2018) "Maize Genomes to Fields: 2014 and 2015 field season genotype, phenotype, environment, and inbred ear image datasets." <i>BMC Research Notes</i> (In Press)
+* Alkhalifah N, Campbell DA, Falcon CM, ... **Schnable JC** (31 of 42 authors) ... Spalding EP, Edwards J, Lawrence-Dill CJ. (2018) "Maize Genomes to Fields: 2014 and 2015 field season genotype, phenotype, environment, and inbred ear image datasets." <i>BMC Research Notes</i> (In Press)
 
 <div data-badge-type="2" data-doi="10.2135/tppj2017.09.0007" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Xu Y, Qiu Y, **Schnable JC**. (2018) "[Functional Modeling of Plant Growth Dynamics.](https://dl.sciencesocieties.org/publications/tppj/abstracts/1/1/170007)" <i>The Plant Phenome</i> doi: 10.2135/tppj2017.09.0007 <i>bioRxiv</i> doi: <a href="https://doi.org/10.1101/190967">10.1101/190967</a>
@@ -35,10 +35,10 @@ title: Schnable Lab Papers
 * **Carvalho DS**, **Schnable JC**, Almeida AMR. (2018) "[Integrating phylogenetic and network approaches to study gene family evolution: the case of the AGAMOUS family of floral genes.](https://doi.org/10.1177/1176934318764683)" <i>Evolutionary Bioinformatics</i> doi: 10.1177/1176934318764683 <i>bioRxiv</i> doi: <a href="https://doi.org/10.1101/195669">10.1101/195669</a>
 
 <div data-badge-type="2" data-doi="10.1016/j.molp.2017.12.010" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* <b>Liang Z</b>, <b>Schnable JC</b> (2018) "<a href="https://doi.org/10.1016/j.molp.2017.12.010">Functional Divergence Between Subgenomes and Gene Pairs After Whole Genome Duplications.</a>" <i>Molecular Plant</i> doi: 10.1016/j.molp.2017.12.010
+* **Liang Z**, **Schnable JC**. (2018) "<a href="https://doi.org/10.1016/j.molp.2017.12.010">Functional Divergence Between Subgenomes and Gene Pairs After Whole Genome Duplications.</a>" <i>Molecular Plant</i> doi: 10.1016/j.molp.2017.12.010
 
 <div data-badge-type="2" data-doi="10.1007/s11033-018-4144-5" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Nani TF, <b>Schnable JC</b>, Washburn JD, Albert P, Pereira WA, Sobrinho FS, Birchler JA, Techia VH (2018) "<a href="https://doi.org/10.1007/s11033-018-4144-5">Location of low copy genes in chromosomes of Brachiaria spp.</a>" <i>Molecular Biology Reports</i> doi: 10.1007/s11033-018-4144-5
+* Nani TF, <b>Schnable JC</b>, Washburn JD, Albert P, Pereira WA, Sobrinho FS, Birchler JA, Techia VH. (2018) "<a href="https://doi.org/10.1007/s11033-018-4144-5">Location of low copy genes in chromosomes of Brachiaria spp.</a>" <i>Molecular Biology Reports</i> doi: 10.1007/s11033-018-4144-5
 
 <div data-badge-type="2" data-doi="10.1111/tpj.13806" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * <b>Lai X</b>, <b>Yan L</b>, Lu Y, <b>Schnable JC</b>. (2018) "<a href="https://doi.org/10.1111/tpj.13806">Largely unlinked gene sets targeted by selection for domestication syndrome phenotypes in maize and sorghum.</a>" <i>The Plant Journal</i> doi: 10.1111/tpj.13806  <i>bioRxiv</i> doi: <a href="https://doi.org/10.1101/184424">10.1101/184424</a>
