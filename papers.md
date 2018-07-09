@@ -29,10 +29,10 @@ title: Schnable Lab Papers
 
 <div data-badge-type="2" data-doi="10.2135/tppj2017.09.0007" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Xu Y, Qiu Y, **Schnable JC**. (2018) "[Functional Modeling of Plant Growth Dynamics.](https://dl.sciencesocieties.org/publications/tppj/abstracts/1/1/170007)" <i>The Plant Phenome</i> doi: 10.2135/tppj2017.09.0007 <i>bioRxiv</i> doi: <a href="https://doi.org/10.1101/190967">10.1101/190967</a>
-<i>[Invited The Plant Phenome Journal webinar](https://www.youtube.com/watch?v=lw_WsWV6ox0) by James Schnable describing the key advances from this paper to a wider audience.</i>
+<i>An [invited webinar](https://www.youtube.com/watch?v=lw_WsWV6ox0) organized by the The Plant Phenome Journal where James Schnable describes the key advances from this paper for a wider audience.</i>
 
 <div data-badge-type="2" data-doi="10.1177/1176934318764683" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* <b>Carvalho DS</b>, <b>Schnable JC</b>, Almeida AMR. (2018) "Integrating phylogenetic and network approaches to study gene family evolution: the case of the AGAMOUS family of floral genes." <i>Evolutionary Bioinformatics</i> doi: <a href="https://doi.org/10.1177/1176934318764683">10.1177/1176934318764683</a> <i>bioRxiv</i> doi: <a href="https://doi.org/10.1101/195669">10.1101/195669</a>
+* **Carvalho DS**, **Schnable JC**, Almeida AMR. (2018) "[Integrating phylogenetic and network approaches to study gene family evolution: the case of the AGAMOUS family of floral genes.](https://doi.org/10.1177/1176934318764683)" <i>Evolutionary Bioinformatics</i> doi: 10.1177/1176934318764683 <i>bioRxiv</i> doi: <a href="https://doi.org/10.1101/195669">10.1101/195669</a>
 
 <div data-badge-type="2" data-doi="10.1016/j.molp.2017.12.010" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * <b>Liang Z</b>, <b>Schnable JC</b> (2018) "<a href="https://doi.org/10.1016/j.molp.2017.12.010">Functional Divergence Between Subgenomes and Gene Pairs After Whole Genome Duplications.</a>" <i>Molecular Plant</i> doi: 10.1016/j.molp.2017.12.010
