@@ -24,8 +24,8 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1038/s41598-018-28294-0" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, Fang J, Li D, Liang P, Zhang X, **Yang J**, **Schnable JC**, Tang H. (2018) "[Genotype-Corrector: improved genotype calls for genetic mapping.](https://doi.org/10.1038/s41598-018-28294-0)" <i>Scientific Reports</i> doi: 10.1038/s41598-018-28294-0
 
-<div data-badge-type="2" data-doi="Pubs/Sruti_KDD_FEWS.pd" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Alkhalifah N, Campbell DA, Falcon CM, ... **Schnable JC** (31 of 42 authors) ... Spalding EP, Edwards J, Lawrence-Dill CJ. (2018) "Maize Genomes to Fields: 2014 and 2015 field season genotype, phenotype, environment, and inbred ear image datasets." <i>BMC Research Notes</i> (In Press)
+<div data-badge-type="2" data-doi="https://doi.org/10.1186/s13104-018-3508-1" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* Alkhalifah N, Campbell DA, Falcon CM, ... **Schnable JC** (31 of 44 authors) ... Spalding EP, Edwards J, Lawrence-Dill CJ. (2018) "[Maize Genomes to Fields: 2014 and 2015 field season genotype, phenotype, environment, and inbred ear image datasets.](https://doi.org/10.1186/s13104-018-3508-1)" <i>BMC Research Notes</i> doi: https://doi.org/10.1186/s13104-018-3508-1
 
 <div data-badge-type="2" data-doi="10.2135/tppj2017.09.0007" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Xu Y, Qiu Y, **Schnable JC**. (2018) "[Functional Modeling of Plant Growth Dynamics.](https://dl.sciencesocieties.org/publications/tppj/abstracts/1/1/170007)" <i>The Plant Phenome</i> doi: 10.2135/tppj2017.09.0007 <i>bioRxiv</i> doi: <a href="https://doi.org/10.1101/190967">10.1101/190967</a>
