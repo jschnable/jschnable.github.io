@@ -6,7 +6,7 @@ title: Schnable Lab News
 
 ### 2018, July
 
-*Connor Pedersen's last day. After graduating this spring he stuck around to help with one last field season before heading off for his new job at Los Alamos. 
+* Connor Pedersen's last day. After graduating this spring he stuck around to help with one last field season before heading off for his new job at Los Alamos. 
 
 * Working with the Yang, Sigmon, and Alfano labs we dug up 1000 maize root samples for the CRRI project. By the end (almost) everyone was really happy that we're a heavily computational lab. 
 
