@@ -26,16 +26,16 @@ googlefonts: ["Monoton", "Lobster"]
 
 **Lab Alumni**
 
-| | **Name** | **Title**| **Tenure** |
-|![Yang Zhang](/images/People_Images/yzhang_small.jpg){:width="120" align="middle"}|Yang Zhang<a href="https://twitter.com/zymaize"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Postdoctoral Scholar|2014-2017|
-|![Jinliang Yang](/images/People_Images/jinliang.JPG){:width="120"}|Jinliang Yang<a href="https://twitter.com/JinliangYang"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Postdoctoral Scholar|2016-2017|
-|![Sunil Kumar](/images/People_Images/Sunil.jpg){:width="120"}|Sunil Kumar<a href="https://twitter.com/Sunil_KumarKR"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Postdoctoral Scholar|2017-2018|
-|![Lang Yang](/images/People_Images/Lang_Small.jpg){:width="120"}|Lang Yang<a href="https://twitter.com/langyan87"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Visiting Scholar|2016-2017|
-|![Xianjun Lai](/images/People_Images/xlai.jpg){:width="120"}|Xianjun Lai<a href="https://twitter.com/xianjunlai"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|CSC PhD Student|2015-2017|
-|![Bhushit Agarwal](/images/People_Images/Bhushit.jpg){:width="120"}|Bhushit Agarwal|Comp. Sci. MS Student<br>_(co-advised)_|2015-2016|
-|![Srinidhi Bashyam](/images/People_Images/Srinidhi.jpg){:width="120"}|Srinidhi Bashyam|Comp. Sci. MS Student<br>_(co-advised)_|2015-2016|
-|![Sarah Johnson](/images/People_Images/Sarah.jpg){:width="120"}|Sarah Johnson|Rotating PhD Student<br>Complex Biosystems|Spring 2017|
-|![Lei Tian](/images/People_Images/Lei_Tian_Small.JPG){:width="120" align="middle"}|Lei Tian|Visiting PhD Student<br>Henan Agricultural University|Summer 2014|
+| | **Name** | **Title**| **Tenure** | **Current Affiliation** |
+|![Yang Zhang](/images/People_Images/yzhang_small.jpg){:width="120" align="middle"}|Yang Zhang<a href="https://twitter.com/zymaize"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Postdoctoral Scholar|2014-2017| Research Scientist, St. Jude Children's Research Hospital|
+|![Jinliang Yang](/images/People_Images/jinliang.JPG){:width="120"}|Jinliang Yang<a href="https://twitter.com/JinliangYang"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Postdoctoral Scholar|2016-2017|Assistant Professor, University of Nebraska-Lincoln|
+|![Sunil Kumar](/images/People_Images/Sunil.jpg){:width="120"}|Sunil Kumar<a href="https://twitter.com/Sunil_KumarKR"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Postdoctoral Scholar|2017-2018|Postdoc, Niederhuth Lab, Michigan State|
+|![Lang Yang](/images/People_Images/Lang_Small.jpg){:width="120"}|Lang Yang<a href="https://twitter.com/langyan87"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Visiting Scholar|2016-2017|Deputy Director, Potato Functional Genomics, XiChang College|
+|![Xianjun Lai](/images/People_Images/xlai.jpg){:width="120"}|Xianjun Lai<a href="https://twitter.com/xianjunlai"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|CSC PhD Student|2015-2017|Associate Professor, XiChang College|
+|![Bhushit Agarwal](/images/People_Images/Bhushit.jpg){:width="120"}|Bhushit Agarwal|Comp. Sci. MS Student<br>_(co-advised)_|2015-2016|Software Engineer, Mode.ai|
+|![Srinidhi Bashyam](/images/People_Images/Srinidhi.jpg){:width="120"}|Srinidhi Bashyam|Comp. Sci. MS Student<br>_(co-advised)_|2015-2016|Systems Software Developer, University of Nebraska-Lincoln|
+|![Sarah Johnson](/images/People_Images/Sarah.jpg){:width="120"}|Sarah Johnson|Rotating PhD Student<br>Complex Biosystems|Spring 2017|Graduate Student, Clemente \& Hyten Labs|
+|![Lei Tian](/images/People_Images/Lei_Tian_Small.JPG){:width="120" align="middle"}|Lei Tian|Visiting PhD Student<br>Henan Agricultural University|Summer 2014|PhD Student|
 |![Daniel Ngu](/images/People_Images/Danielngu_small.jpg){:width="120"}|Daniel Ngu|Bachelors Student|2014-2017|
 |![Logan Olson](/images/People_Images/logan.JPG){:width="120"}|Logan Olson|Bachelors Student|2016-2017|
 |![Xiaoyang (Chloe) Ye](/images/People_Images/Chloe.jpg){:width="120"}|Xiaoyang (Chloe) Ye|Bachelors Student|2016-2017|
