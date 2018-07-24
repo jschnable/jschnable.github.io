@@ -4,6 +4,18 @@ title: Schnable Lab News
 
 ---
 
+### 2018, July
+
+*Connor Pedersen's last day. After graduating this spring he stuck around to help with one last field season before heading off for his new job at Los Alamos. 
+
+* Working with the Yang, Sigmon, and Alfano labs we dug up 1000 maize root samples for the CRRI project. By the end (almost) everyone was really happy that we're a heavily computational lab. 
+
+![CRRI Root Sampling](/images/News_Images/CRRI_Field.jpg){:width="500" align="middle" }
+
+* [Our first paper in pearl millet](https://doi.org/10.1534/g3.118.200242), a collaboration with ICRISAT (with Zhikai as lead author) was published in G3. Also check out Daniel's really fun [animated GIF of the whole pearl millet lifecycle.](https://imgur.com/a/k2mnT3i)
+
+![Pearl Millet Greenhouse](/images/News_Images/Pearl_Millet.jpg){:width="500" align="middle" }
+
 ### 2018, May
 
 * A successful planting in at UNL's Havelock farm. 80,000 total kernels put into the ground over two days. Fortunate to have Schnable Lab alumni as a professor here at UNL to make this happen. 
