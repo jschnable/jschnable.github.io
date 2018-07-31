@@ -58,7 +58,7 @@ We propose developing new software tools and statistical models to measure repro
 
 This project is to develop next generation plant phenotyping robots that can collect in-vivo human-like measurement of plant physiological and chemical traits to complement image analysis. This project is to address the perceived "phenotyping bottleneck". There are three specific research aims. The first is to design and develop robotic grippers integrating specialized plant sensors. The second is to develop a novel vision system for the localization and approaching of plant leaves by the robotic arm and eye-hand coordination. The third is to test and validate the plant phenotyping robot in UNL's high throughput phenotyping greenhouse. The PIs will also work to develop several novel educational and outreach activities in this project.
 
-*Supported by a grant from the USDA NIFA to our collaborators in the <a href="http://engineering.unl.edu/bse/faculty/yufeng-ge-1/">Ge Lab</a> (Biological Systems Engineering):* 2017-67007-25941 
+*Supported by a grant from the USDA NIFA to our collaborators in the [Ge Lab](http://engineering.unl.edu/bse/faculty/yufeng-ge-1/) (Biological Systems Engineering):* 2017-67007-25941 
 
 **High-throughput, High-Resolution Phenotyping of Nitrogen Use Efficiency Using Coupled In-Plant and In-Soil Sensors**
 
@@ -68,18 +68,16 @@ Supported by an ARPA-E award lead by to our collaborators in the [Liang Dong lab
 
 **Recent Publications on Plant Phenotyping**
 
-<ol>
-<li>**Liang Z**, Pandey P, Stoerger V, Xu Y, Qiu Y, Ge Y, **Schnable JC**. (2017) "<a href="https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix117/4656251?guestAccessKey=71c1c32f-78fd-42c0-99a3-38e6c4fd8100">Conventional and hyperspectral time-series imaging of maize lines widely used in field trials.</a>" *GigaScience* doi: 10.1093/gigascience/gix117 bioRxiv* doi: <a href="https://doi.org/10.1101/169045">10.1101/169045</a> </li>
-<li>* Xu Y, Qiu Y, **Schnable JC**. (2018) "[Functional Modeling of Plant Growth Dynamics.](https://dl.sciencesocieties.org/publications/tppj/abstracts/1/1/170007)" *The Plant Phenome* doi: 10.2135/tppj2017.09.0007 *bioRxiv* doi: <a href="https://doi.org/10.1101/190967">10.1101/190967</a></li>
-<li>Pandey P, Ge Y, Stoerger V, **Schnable JC**. (2017) "<a href="http://dx.doi.org/10.3389/fpls.2017.01348">High throughput in vivo analysis of plant leaf chemical properties using hyperspectral imaging</a>" *Frontiers in Plant Science* doi: 10.3389/fpls.2017.01348</li>
-<li>Chaudhury SD, Steorger V, Samal A, **Schnable JC**, **Liang Z**, Yu J. (2016) "<a href="Pubs/Sruti_KDD_FEWS.pdf">Automated vegetative stage phenotyping analysis of maize plants using visible light images.</a>" *KDD: Data Science for Food, Energy, and Water* (Conference Proceedings)</li>
-<li>Ge Y, Bai G, Stoerger V, **Schnable JC**. (2016) "<a href="http://dx.doi.org/10.1016/j.compag.2016.07.028">Temporal dynamics of maize plant growth, water use, and plant water content using automated high throughput RGB and hyperspectral imaging.</a>" *Computers and Electronics in Agriculture* doi: 10.1016/j.compag.2016.07.028</li>
-</ol>
 
-<a id="Food4health"><p class="heading">Engineering the Human Gut Microbiome Using Plant Metabolites</a>
-The newest research focus within the Schnable lab emphasizes combining quantitative genetic tools with high throughput screening of microbial communities to understand what components of food alter the population structure of the microbiomal community in the human gut. Working with the newly founded <a href="http://news.unl.edu/newsrooms/today/article/nebraska-food-for-health-center-to-unite-strengths-in-agriculture-medicine/">Food for Health Center</a>, we will use these perturbations to understand how different microbial taxa can influence human health in positive or negative fashions. 
+1. **Liang Z**, Pandey P, Stoerger V, Xu Y, Qiu Y, Ge Y, **Schnable JC**. (2017) [Conventional and hyperspectral time-series imaging of maize lines widely used in field trials.](https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix117/4656251?guestAccessKey=71c1c32f-78fd-42c0-99a3-38e6c4fd8100) *GigaScience* doi: 10.1093/gigascience/gix117 bioRxiv* doi: <10.1101/169045
+2. * Xu Y, Qiu Y, **Schnable JC**. (2018) "[Functional Modeling of Plant Growth Dynamics.](https://dl.sciencesocieties.org/publications/tppj/abstracts/1/1/170007)" *The Plant Phenome* doi: 10.2135/tppj2017.09.0007 *bioRxiv* doi: 10.1101/190967
+3. Pandey P, Ge Y, Stoerger V, **Schnable JC**. (2017) [High throughput in vivo analysis of plant leaf chemical properties using hyperspectral imaging.](http://dx.doi.org/10.3389/fpls.2017.01348) *Frontiers in Plant Science* doi: 10.3389/fpls.2017.01348
+5. Ge Y, Bai G, Stoerger V, **Schnable JC**. (2016) "[Temporal dynamics of maize plant growth, water use, and plant water content using automated high throughput RGB and hyperspectral imaging.](http://dx.doi.org/10.1016/j.compag.2016.07.028) *Computers and Electronics in Agriculture* doi: 10.1016/j.compag.2016.07.028
 
-<a id="Orphan"><p class="heading">Miscellaneous Other Cool Science</a>
+<a id="Food4health">**Engineering the Human Gut Microbiome Using Plant Metabolites
+The newest research focus within the Schnable lab emphasizes combining quantitative genetic tools with high throughput screening of microbial communities to understand what components of food alter the population structure of the microbiomal community in the human gut. As a founding memeber of the [Nebraska Food for Health Center](https://foodforhealth.unl.edu/), we will use these perturbations to understand how different microbial taxa can influence human health in positive or negative fashions. 
+
+<a id="Orphan">**Miscellaneous Other Cool Science**
 
 **Genomes to Fields**
 
