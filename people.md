@@ -22,6 +22,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Alejandro Pages](/images/People_Images/AlexP.jpg){:width="120"}|Alejandro Pages| UCARE Bachelors Student||
 |![Christian Butera](/images/People_Images/CButera.jpg){:width="120"}|Christian Butera|REU Student||
 |![Ashley Foltz](/images/People_Images/Ashley18.jpg){:width="120"}|Ashley Foltz|REU Student||
+|![Isabel Sigmon](/images/People_Images/isabel.jpg){:width="120"}|Isabel Sigmon|High School Intern||
 {:.table100.ver1}
 
 **Lab Alumni**
