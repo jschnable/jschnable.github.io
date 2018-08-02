@@ -74,7 +74,7 @@ Supported by an ARPA-E award lead by to our collaborators in the [Liang Dong lab
 3. Pandey P, Ge Y, Stoerger V, **Schnable JC**. (2017) [High throughput in vivo analysis of plant leaf chemical properties using hyperspectral imaging.](http://dx.doi.org/10.3389/fpls.2017.01348) *Frontiers in Plant Science* doi: 10.3389/fpls.2017.01348
 5. Ge Y, Bai G, Stoerger V, **Schnable JC**. (2016) "[Temporal dynamics of maize plant growth, water use, and plant water content using automated high throughput RGB and hyperspectral imaging.](http://dx.doi.org/10.1016/j.compag.2016.07.028) *Computers and Electronics in Agriculture* doi: 10.1016/j.compag.2016.07.028
 
-<a id="Food4health">**Engineering the Human Gut Microbiome Using Plant Metabolites
+<a id="Food4health" />**Engineering the Human Gut Microbiome Using Plant Metabolites**
 The newest research focus within the Schnable lab emphasizes combining quantitative genetic tools with high throughput screening of microbial communities to understand what components of food alter the population structure of the microbiomal community in the human gut. As a founding memeber of the [Nebraska Food for Health Center](https://foodforhealth.unl.edu/), we will use these perturbations to understand how different microbial taxa can influence human health in positive or negative fashions. 
 
 <a id="Orphan">**Miscellaneous Other Cool Science**
