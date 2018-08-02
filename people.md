@@ -20,7 +20,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Alex Enersen](/images/People_Images/AlexE.jpg){:width="120"}|Alex Enersen|Bachelors Student||
 |![Ally](/images/People_Images/Ally.jpg){:width="120"}|Alexandra Bradley|Bachelors Student||
 |![Alejandro Pages](/images/People_Images/AlexP.jpg){:width="120"}|Alejandro Pages| UCARE Bachelors Student||
-|![Christian Butera](/images/People_Images/CButera.jpg){:width="120"}|Christian Butera|REU Student||
+|![Christian Butera](/images/People_Images/CButera.png){:width="120"}|Christian Butera|REU Student||
 |![Ashley Foltz](/images/People_Images/Ashley18.jpg){:width="120"}|Ashley Foltz|REU Student||
 |![Isabel Sigmon](/images/People_Images/isabel.jpg){:width="120"}|Isabel Sigmon|High School Intern||
 {:.table100.ver1}
