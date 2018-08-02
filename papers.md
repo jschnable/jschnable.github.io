@@ -16,6 +16,7 @@ title: Schnable Lab Papers
 
 **2018**
 
+* **Raju SKK**, Barnes A, **Schnable JC**, Roston RL. (2018) "Low-temperature tolerance in land plants: Are transcript and membrane responses conserved?" *Plant Science* (Accepted)
 
 <div data-badge-type="2" data-doi="10.1534/g3.118.200242" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * <b>Liang Z</b>, Gupta SK, Yeh CT, <b>Zhang Y</b>, <b>Ngu DW</b>, Kumar R, Patil HT, Mungra KD, Yadav DV, Rathore A, Srivastava RK, Gupkta R, <b>Yang J</b>, Varshney RK, Schnable PS, <b>Schnable JC</b>. (2018) "[Phenotypic data from inbred parents can improve genomic prediction in pearl millet hybrids.](https://doi.org/10.1534/g3.118.200242)" <i>G3: Genes Genomes Genetics</i> doi: 10.1534/g3.118.200242
