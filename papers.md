@@ -3,12 +3,15 @@ layout: page
 title: Schnable Lab Papers
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 **Preprints**
 
+<span class="__dimensions_badge_embed__" data-doi="10.1101/310391" data-style="small_circle" style="float:right;">></span>
 <div data-badge-type="2" data-doi="10.1101/310391" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Yang J**, **Schnable JC**. "[Optimizing the identification of causal variants across varying genetic architectures in crops.](https://doi.org/10.1101/310391)" <i>bioRxiv</i> doi: 10.1101/310391 
 
+<span class="__dimensions_badge_embed__" data-doi="10.1101/187575" data-style="small_circle" style="float:right;">></span>
 <div data-badge-type="2" data-doi="10.1101/187575" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * <b>Yan L</b>, <b>Lai X</b>, Rodriguez O, Mahboub S, Roston RL, <b>Schnable JC</b>. "<a href="https://doi.org/10.1101/187575">Parallels between artificial selection in temperate maize and natural selection in the cold-adapted crop-wild relative Tripsacum.</a>" <i>bioRxiv</i> doi: 10.1101/187575 
 
@@ -16,6 +19,7 @@ title: Schnable Lab Papers
 
 **2018**
 
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.plantsci.2018.08.002" data-style="small_circle" style="float:right;">></span>
 <div data-badge-type="2" data-doi="10.1016/j.plantsci.2018.08.002" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Raju SKK**, Barnes A, **Schnable JC**, Roston RL. (2018) "[Low-temperature tolerance in land plants: Are transcript and membrane responses conserved?](https://doi.org/10.1016/j.plantsci.2018.08.002)" *Plant Science* doi: 10.1016/j.plantsci.2018.08.002
 
@@ -48,6 +52,7 @@ title: Schnable Lab Papers
 
 **2017**
 
+<span class="__dimensions_badge_embed__" data-doi="10.1093/gigascience/gix117" data-style="small_circle" style="float:right;">></span>
 <div data-badge-type="2" data-doi="10.1093/gigascience/gix117" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 *  <b>Liang Z</b>, Pandey P, Stoerger V, Xu Y, Qiu Y, Ge Y, <b>Schnable JC</b>. (2017) "<a href="https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix117/4656251?guestAccessKey=71c1c32f-78fd-42c0-99a3-38e6c4fd8100">Conventional and hyperspectral time-series imaging of maize lines widely used in field trials.</a>" <i>GigaScience</i> doi: 10.1093/gigascience/gix117 <i>bioRxiv</i> doi: <a href="https://doi.org/10.1101/169045">10.1101/169045</a>  
 
