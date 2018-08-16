@@ -1,5 +1,8 @@
 Citable datasets (some associated with publications or preprints and some stand alone).
 
+* Schnable JC (2018) Pan-Grass Syntenic Gene Set (sorghum referenced) with both maize v3 and maize v4 gene models <b>figShare.</b> <a href="https://doi.org/10.6084/m9.figshare.6974417.v1">10.6084/m9.figshare.6974417.v1</a><br>
+<i>Syntenic gene list for a bunch of species. Splits out maize1 and maize2 subgenomes. Uses maize v3, maizev4 sorghum v3, setaria v2.2 and rice v7 (among others). Constructed using LastZ to identify homologous genes, QuotaAlign to identify syntenic regions and python polishing scripts to identify high confidence orthologs within syntenic blocks. Maize v3 and maize v4 are treated as two separate species for the purposes of this analysis. Please cite <a href="http://dx.doi.org/10.1105/tpc.17.00354">Zhang et al 2017</a>. </i>
+
 * Liang Z, Schnable JC. (2017) RGB and Hyperspectral images of approx. 1 meter tall corn plants from the genomes to fields inbred panel. <b>Cyverse.</b> <a href="https://doi.org/10.7946/P22K7V">10.7946/P22K7V</a><br>
 <i>A training dataset for developing methods for extracting new maize (corn) phenotypic measurements from different types of image data, testing the heritability of these measurements (the proportion of total variation explained by genetic differences), and searching for correlations between these measurements and agronomically relevant traits collected from the same genotypes in field trials across many states.</i><br>
 <br>
