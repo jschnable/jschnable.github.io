@@ -4,7 +4,9 @@ title: Schnable Lab Papers
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<span class="__dimensions_badge_embed__" data-doi="10.1093/gigascience/gix117" data-style="small_circle"></span>
+
+
+<span class="__dimensions_badge_embed__" data-doi="10.1038/nature08747" data-style="small_circle"></span>
 
 **Preprints**
 
