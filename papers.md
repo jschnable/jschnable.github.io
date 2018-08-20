@@ -3,6 +3,7 @@ layout: page
 title: Schnable Lab Papers
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 **Preprints**
 
@@ -15,6 +16,8 @@ title: Schnable Lab Papers
 
 
 **2018**
+
+* Ott A, **Schnable JC**, Yeh CT, Wu L, Liu C, Hu HC, Dolgard CL, Sarkar S, Schnable PS. (2018) "Linked read technology for assembling large complex and polyploid genomes." *BMC Genomics* *(Accepted)*
 
 <div data-badge-type="2" data-doi="10.1016/j.plantsci.2018.08.002" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Raju SKK**, Barnes A, **Schnable JC**, Roston RL. (2018) "[Low-temperature tolerance in land plants: Are transcript and membrane responses conserved?](https://doi.org/10.1016/j.plantsci.2018.08.002)" *Plant Science* doi: 10.1016/j.plantsci.2018.08.002
@@ -118,68 +121,93 @@ title: Schnable Lab Papers
 
 **2015**
 
+<span class="__dimensions_badge_embed__" data-doi="10.1093/gbe/evv206" data-style="large_rectangle" style="float:right;"></span>
 * Chao S, Wu J, <b>Schnable JC</b>, Yang W, Cheng F, Wang X. (2015) "<a href="http://dx.doi.org/10.1093/gbe/evv206">Impacts of Whole Genome Triplication on MIRNA Evolution in Brassica rapa.</a>" <i>Genome Biology and Evolution</i> doi: 10.1093/gbe/evv206
 
+<span class="__dimensions_badge_embed__" data-doi="10.1093/gbe/evv219" data-style="large_rectangle" style="float:right;"></span>
 * Tang H, Bamhoff MD, Briones E, <b>Schnable JC</b>, Lyons E. (2015) "<a href="http://dx.doi.org/10.1093/gbe/evv219">SynFind: compiling syntenic regions across any set of genomes on demand.</a>" <i>Genome Biology and Evolution</i> doi: 10.1093/gbe/evv219
 
+<span class="__dimensions_badge_embed__" data-doi="10.3732/ajb.1500222" data-style="large_rectangle" style="float:right;"></span>
 * Washburn JD, <b>Schnable JC</b>, Davidse G, Pires JC. (2015) "<a href="http://dx.doi.org/10.3732/ajb.1500222">Phylogeny and photosynthesis of the grass tribe Paniceae.</a>" <i>American Journal of Botany</i> doi: 10.3732/ajb.1500222
 
-* Jia G, Liu X, <b>Schnable JC</b>, Niu Z, Wang C, Li Y, Wang Sh, Wang Su, Liu J, Gou E, Diao X. (2015) "<a href="http://dx.doi.org/10.1371/journal.pone.0125688">Microsatellite Variations of Elite Setaria Varieties Released during Last Six Decades in China.</a>" <i>PLoS One</i> doi:10.1371/journal.pone.0125688
+<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0125688" data-style="large_rectangle" style="float:right;"></span>
+* Jia G, Liu X, <b>Schnable JC</b>, Niu Z, Wang C, Li Y, Wang Sh, Wang Su, Liu J, Gou E, Diao X. (2015) "<a href="http://dx.doi.org/10.1371/journal.pone.0125688">Microsatellite Variations of Elite Setaria Varieties Released during Last Six Decades in China.</a>" <i>PLoS One</i> doi: 10.1371/journal.pone.0125688
 
-* Tang H, Zhang X, <b>Miao C</b>, Zhang J, Ming R, <b>Schnable JC</b>, Schnable PS, Lyons E, Lu Jianguo. (2015) "<a href="http://dx.doi.org/10.1186/s13059-014-0573-1">ALLMAPS: robust scaffold ordering based on multiple maps.</a>" <i>Genome Biology</i> doi:10.1186/s13059-014-0573-1
+<span class="__dimensions_badge_embed__" data-doi="10.1186/s13059-014-0573-1" data-style="large_rectangle" style="float:right;"></span>
+* Tang H, Zhang X, <b>Miao C</b>, Zhang J, Ming R, <b>Schnable JC</b>, Schnable PS, Lyons E, Lu Jianguo. (2015) "<a href="http://dx.doi.org/10.1186/s13059-014-0573-1">ALLMAPS: robust scaffold ordering based on multiple maps.</a>" <i>Genome Biology</i> doi: 10.1186/s13059-014-0573-1
 
-* <b>Schnable JC</b>. (2015) "<a href="http://dx.doi.org/10.1146/annurev-arplant-043014-115604">Genome evolution in maize: from genomes back to genes.</a>" <i>Annual Review of Plant Biology</i> doi:10.1146/annurev-arplant-043014-115604
+<span class="__dimensions_badge_embed__" data-doi="10.1146/annurev-arplant-043014-115604" data-style="large_rectangle" style="float:right;"></span>
+* <b>Schnable JC</b>. (2015) "<a href="http://dx.doi.org/10.1146/annurev-arplant-043014-115604">Genome evolution in maize: from genomes back to genes.</a>" <i>Annual Review of Plant Biology</i> doi: 10.1146/annurev-arplant-043014-115604
 
 **2014**
 
+<span class="__dimensions_badge_embed__" data-doi="10.1105/tpc.114.130948" data-style="large_rectangle" style="float:right;"></span>
 * Paschold A, Larson NB, Marcon C, <b>Schnable JC</b>, Yeh C, Lanz C, Nettleton D, Piepho H, Schnable PS, Hochholdinger F. (2014) "<a href="http://dx.doi.org/10.1105/tpc.114.130948">Nonsyntenic Genes Drive Highly Dynamic Complementation of Gene Expression in Maize Hybrids</a>" <i>Plant Cell</i> doi:10.1105/tpc.114.130948
 
+<span class="__dimensions_badge_embed__" data-doi="10.1038/srep06194" data-style="large_rectangle" style="float:right;"></span>
 * Almeida AMR, Yockteng R, <b>Schnable JC</b>, Alvarez-Buylla ER, Freeling M, Specht CD. (2014) "<a href="http://dx.doi.org/10.1038/srep06194">Co-option of the polarity gene network shapes filament morphology in angiosperms</a>" <i>Scientific Reports</i> doi: 10.1038/srep06194
 
+<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.010186" data-style="large_rectangle" style="float:right;"></span>
 * Qie L, Jia G, Zhang W, <b>Schnable JC</b>, Shang Z, Li W, Liu B, Li M, Chai, Y, Zhi H, Diao X. (2014) "<a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0101868">Mapping of Quantitative Trait Locus (QTLs) that Contribute to Germination and Early Seedling Drought Tolerance in the Interspecific Cross <i>Setaria italica</i> x <i>Setaria viridis</i>.</a>" <i>PLoS One</i> doi: 10.1371/journal.pone.0101868
 
+<span class="__dimensions_badge_embed__" data-doi="10.15302/J-FASE-2014011" data-style="large_rectangle" style="float:right;"></span>
 * Diao X, <b>Schnable JC</b>, Bennetzen JL, Li J. (2014) "<a href="http://engineering.cae.cn/fase/EN/10.15302/J-FASE-2014011">Initiation of Setaria as a model plant.</a>" <i>Frontiers of Agricultural Science and Engineering</i> doi: 10.15302/J-FASE-2014011
 
+<span class="__dimensions_badge_embed__" data-doi="10.1038/srep04519" data-style="large_rectangle" style="float:right;"></span>
 * Martin JA, Johnson NV, Gross SM, <b>Schnable JC</b>, Meng X, Wang M, Coleman-Derr D, Lindquist E, Wei C, Kaeppler S, Chen F, Wang Z. (2014) "<a href="http://www.nature.com/srep/2014/140331/srep04519/full/srep04519.html">A near complete snapshot of the Zea mays seedling transcriptome revealed from ultra-deep sequencing.</a>" <i>Scientific Reports</i> doi: 10.1038/srep04519
 
 **2013**
 
+<span class="__dimensions_badge_embed__" data-doi="10.1093/molbev/mst230" data-style="large_rectangle" style="float:right;"></span>
 * Garsmeur O,* <b>Schnable JC,*</b> Almeida A, Jourda C, D'Hont A, Freeling M (2013) "<a href="http://dx.doi.org/10.1093/molbev/mst230">Two Evolutionarily Distinct Classes of Paleopolyploidy.</a>" <i>Molecular Biology and Evolution</i> doi: 10.1093/molbev/mst230
 
+<span class="__dimensions_badge_embed__" data-doi="10.3389/fpls.2013.00170" data-style="large_rectangle" style="float:right;"></span>
 * Turco G, <b>Schnable JC</b>, Bedersen B, Freeling M. (2013) "<a href="http://dx.doi.org/10.3389/fpls.2013.00170">Automated conserved noncoding sequence (CNS) discovery reveals differences in gene content and promoter evolution among the grasses.</a>" <i>Frontiers in Plant Sciences</i> doi: 10.3389/fpls.2013.00170
 
 **2012**
 
+<span class="__dimensions_badge_embed__" data-doi="10.3389/fpls.2012.00094" data-style="large_rectangle" style="float:right;"></span>
 * <b>Schnable JC</b>, Wang X, Pires JC, Freeling M. (2012) "<a href="http://dx.doi.org/10.3389/fpls.2012.00094">Escape from preferential retention following repeated whole genome duplication in plants.</a>" <i>Frontiers in Plant Science</i> doi: 10.3389/fpls.2012.00094
 
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.pbi.2012.01.015" data-style="large_rectangle" style="float:right;"></span>
 * Freeling M, Woodhouse MR, Subramaniam S, Turco G, Lisch D, <b>Schnable JC</b>. (2012) "<a href="http://dx.doi.org/10.1016/j.pbi.2012.01.015">Fractionation mutagenesis and similar consequences of mechanisms removing dispensable or less-expressed DNA in plants</a>" <i>Current Opinion in Plant Biology</i> doi: 10.1016/j.pbi.2012.01.015
 
+<span class="__dimensions_badge_embed__" data-doi="10.1534/genetics.111.137349" data-style="large_rectangle" style="float:right;"></span>
 * Tang H, Woodhouse MR, Cheng F, <b>Schnable JC</b>, Pedersen BS, Conant GC, Wang X, Freeling M, Pires JC. (2012) "<a href="http://dx.doi.org/10.1534/genetics.111.137349">Altered patterns of fractionation and exon deletions in Brassica rapa support a two-step model of paleohexaploidy.</a>" <i>Genetics</i> doi: 10.1534/genetics.111.137349
 
+<span class="__dimensions_badge_embed__" data-doi="10.1093/gbe/evs009" data-style="large_rectangle" style="float:right;"></span>
 * <b>Schnable JC</b>, Freeling M, Lyons E. (2012) "<a href="http://dx.doi.org/10.1093/gbe/evs009">Genome-wide analysis of syntenic gene deletion in the grasses</a>" <i>Genome Biology and Evolution</i> doi: 10.1093/gbe/evs009
 
+<span class="__dimensions_badge_embed__" data-doi="10.1101/gr.131342.111" data-style="large_rectangle" style="float:right;"></span>
 * Zhang W, Wu Y, <b>Schnable JC,</b> Zeng Z, Freeling M, Crawford GE, and Jiang J. (2012) "<a href="http://dx.doi.org/10.1101/gr.131342.111">High-resolution mapping of open chromatin in the rice genome.</a>" <i>Genome Research</i> doi: 10.1101/gr.131342.111
 
 **2011**
 
+<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pgen.1002372" data-style="large_rectangle" style="float:right;"></span>
 * Eichten SR,* Swanson-Wagner RA,* <b>Schnable JC,</b> Waters AJ, Hermanson PJ, Liu S, Yeh C, Jia Y, Gendler K, Freeling M, Schnable PS, Vaughn MW, Springer NM. (2011) "<a href="http://dx.doi.org/10.1371/journal.pgen.1002372">Heritable epigenetic variation among maize inbreds.</a>" <i>PLoS Genetics</i> doi: 10.1371/journal.pgen.1002372
 
 * <b>Schnable JC</b>, Lyons E. (2011) "<a href="http://www.schnablelab.org/Pubs/56_183.pdf">Comparative genomics with maize and other grasses: from genes to genomes</a>" <i>Maydica</i> (Link is directly to PDF)
 
+<span class="__dimensions_badge_embed__" data-doi="10.1186/1471-2105-12-102" data-style="large_rectangle" style="float:right;"></span>
 * Tang H, Lyons E, Pedersen B, <b>Schnable JC</b>, Paterson AH, Freeling M. (2011) "<a href="http://www.biomedcentral.com/1471-2105/12/102/abstract">Screening synteny blocks in pairwise genome comparisons through integer programming.</a>" <i>BMC Bioinformatics</i> doi: 10.1186/1471-2105-12-102
 
+<span class="__dimensions_badge_embed__" data-doi="10.3389/fpls.2011.00002" data-style="large_rectangle" style="float:right;"></span>
 * <b>Schnable JC</b>, Pedersen BS, Subramaniam S, Freeling M. (2011) "<a href="http://www.frontiersin.org/plant_genetics_and_genomics/10.3389/fpls.2011.00002/abstract">Dose-sensitivity, conserved noncoding sequences and duplicate gene retention through multiple tetraploidies in the grasses.</a>" <i>Frontiers in Plant Science</i> doi: 10.3389/fpls.2011.00002
 <br><i>(<a href="http://www.frontiersin.org/plant%20genetics%20and%20genomics/10.3389/fpls.2011.00064/full">Commentary on this article</a> by Birchler and Veitia, also published in Frontiers in Plant Science)</i>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0017855" data-style="large_rectangle" style="float:right;"></span>
 * <b>Schnable JC</b>, Freeling M. (2011) "<a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0017855">Genes identifed by visible mutant phenotypes show increased bias towards one of two maize subgenomes.</a>" <i>PLoS One</i> doi: 10.1371/journal.pone.0017855
 
+<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1101368108" data-style="large_rectangle" style="float:right;"></span>
 * <b>Schnable JC</b>, Springer NM, Freeling M. (2011) "<a href="http://www.pnas.org/content/108/10/4069.abstract">Differentiation of the maize subgenomes by genome dominance and both ancient and ongoing gene loss.</a>" <i>PNAS</i> doi: 10.1073/pnas.1101368108 <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3053962/">Read for free at PubMed Central</a>
             <br><i>(Selected as an Editor's Choice by MaizeGDB May 2011)</i>
 
 **2010**
 
-* Woodhouse MR,* <b>Schnable JC,*</b> Pedersen BS, Lyons E, Lisch D, Subramaniam S, Freeling M. (2010) "<a href="http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000409">Following tetraploidy in maize, a short deletion mechanism removed genes preferentially from one of the two homeologs.</a>" <i>PLoS Biology</i> doi:10.1371/journal.pbio.1000409
+<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pbio.1000409" data-style="large_rectangle" style="float:right;"></span>
+* Woodhouse MR,* <b>Schnable JC,*</b> Pedersen BS, Lyons E, Lisch D, Subramaniam S, Freeling M. (2010) "<a href="http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000409">Following tetraploidy in maize, a short deletion mechanism removed genes preferentially from one of the two homeologs.</a>" <i>PLoS Biology</i> doi: 10.1371/journal.pbio.1000409
             <br><i>(Selected as an <a href="http://maizeresearch.org/2010/08/tetraploidy-in-maize/">Editor's Choice by MaizeGDB August 2010</a>; an image related to this manuscript was used for <a href="http://www.plosbiology.org/article/browseIssue.action?issue=info%3Adoi%2F10.1371%2Fissue.pbio.v08.i06#top">the journal cover</a>; "recommended" by Faculty of 1000)</i>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1038/nature08747" data-style="large_rectangle" style="float:right;"></span>
 * The International Brachypodium Initiative. (2010) "<a href="http://dx.doi.org/10.1038/nature08747">Genome sequencing and analysis of the model grass Brachypodium distachyon.</a>" <i>Nature</i> doi: 10.1038/nature08747 _*Authors Contributed Equally_
 
