@@ -7,7 +7,7 @@ googlefonts: ["Monoton", "Lobster"]
 
 | | **Name** | **Title**| **CV** |
 |![James Schnable](/images/People_Images/jamesschnable.jpg){:width="120" align="middle"}|[James Schnable](/peoplepages/jschnable/)<a href="https://twitter.com/szintri"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Assistant Professor|[CV](/CVs/JSchnable.pdf)|
-|![Guangchao Sun](/images/People_Images/Guangchao.JPG){:width="120" align="middle"}|Guangchao Sun<a href="https://twitter.com/xiaoguanghuan"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Postdoctoral Scholar||
+|![Guangchao Sun](/images/People_Images/Guangchao.JPG){:width="120" align="middle"}|Guangchao Sun<a href="https://twitter.com/xiaoguanghuan"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Postdoctoral Scholar|[CV](/CVs/CV-GS.pdf)|
 |![Christine Smith](/images/People_Images/Christine.jpg){:width="120"}|Christine Smith|Technician||
 |![Zhikai Liang](/images/People_Images/Zhikai_Liang_small.jpg){:width="120"}|[Zhikai Liang](/peoplepages/zliang/)<a href="https://twitter.com/shanwai1234"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|PhD Student|[CV](/CVs/ZLiang.pdf)|
 |![Daniel Carvalho](/images/People_Images/Daniel_Carvalho.jpg){:width="120"}|[Daniel Carvalho](/peoplepages/Daniel_Carvalho/)<a href="https://twitter.com/deCarvalhoD90"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|PhD Student|[CV](/CVs/DCarvalho.pdf)|
