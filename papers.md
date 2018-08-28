@@ -16,7 +16,7 @@ title: Schnable Lab Papers
 
 **2018**
 
-* Liu S, Schnable JC, Ott A, Yeh CT, Springer NM, Yu J, Meuhbauer G, Timmermans MCP, ScanlonMJ, Schnable PS. (2018) "Intragenic Meiotic Crossovers Generate Novel Alleles with Transgressive Expression Levels." *Molecular Biology and Evolution* *(Accepted)*
+* Liu S, **Schnable JC**, Ott A, Yeh CT, Springer NM, Yu J, Meuhbauer G, Timmermans MCP, Scanlon MJ, Schnable PS. (2018) "Intragenic Meiotic Crossovers Generate Novel Alleles with Transgressive Expression Levels." *Molecular Biology and Evolution* *(Accepted)*
 
 * Ott A, **Schnable JC**, Yeh CT, Wu L, Liu C, Hu HC, Dolgard CL, Sarkar S, Schnable PS. (2018) "Linked read technology for assembling large complex and polyploid genomes." *BMC Genomics* *(Accepted)*
 
