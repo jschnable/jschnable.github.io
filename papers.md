@@ -16,9 +16,10 @@ title: Schnable Lab Papers
 
 **2018**
 
-* Liu S, **Schnable JC**, Ott A, Yeh CT, Springer NM, Yu J, Meuhbauer G, Timmermans MCP, Scanlon MJ, Schnable PS. (2018) "Intragenic Meiotic Crossovers Generate Novel Alleles with Transgressive Expression Levels." *Molecular Biology and Evolution* *(Accepted)*
-
 * Ott A, **Schnable JC**, Yeh CT, Wu L, Liu C, Hu HC, Dolgard CL, Sarkar S, Schnable PS. (2018) "Linked read technology for assembling large complex and polyploid genomes." *BMC Genomics* *(Accepted)*
+
+<div data-badge-type="2" data-doi="10.1093/molbev/msy174" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* Liu S, **Schnable JC**, Ott A, Yeh CT, Springer NM, Yu J, Meuhbauer G, Timmermans MCP, Scanlon MJ, Schnable PS. (2018) "[Intragenic Meiotic Crossovers Generate Novel Alleles with Transgressive Expression Levels.](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msy174/5090457?guestAccessKey=0823f03f-550f-40ac-9f4b-1c3670490e94)" *Molecular Biology and Evolution* doi: 10.1093/molbev/msy174 
 
 <div data-badge-type="2" data-doi="10.1016/j.plantsci.2018.08.002" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Raju SKK**, Barnes A, **Schnable JC**, Roston RL. (2018) "[Low-temperature tolerance in land plants: Are transcript and membrane responses conserved?](https://doi.org/10.1016/j.plantsci.2018.08.002)" *Plant Science* doi: 10.1016/j.plantsci.2018.08.002
