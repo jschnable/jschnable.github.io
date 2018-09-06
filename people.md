@@ -8,6 +8,7 @@ googlefonts: ["Monoton", "Lobster"]
 | | **Name** | **Title**| **CV** |
 |![James Schnable](/images/People_Images/jamesschnable.jpg){:width="120" align="middle"}|[James Schnable](/peoplepages/jschnable/)<a href="https://twitter.com/szintri"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Assistant Professor|[CV](/CVs/JSchnable.pdf)|
 |![Guangchao Sun](/images/People_Images/Guangchao.JPG){:width="120" align="middle"}|Guangchao Sun<a href="https://twitter.com/xiaoguanghuan"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Postdoctoral Scholar|[CV](/CVs/CV-GS.pdf)|
+|![Xiaoxi Meng](/images/People_Images/Xiaoxi.jpg){:width="120" align="middle"}|Xiaoxi Meng|Postdoctoral Scholar||
 |![Christine Smith](/images/People_Images/Christine.jpg){:width="120"}|Christine Smith|Technician||
 |![Zhikai Liang](/images/People_Images/Zhikai_Liang_small.jpg){:width="120"}|[Zhikai Liang](/peoplepages/zliang/)<a href="https://twitter.com/shanwai1234"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|PhD Student|[CV](/CVs/ZLiang.pdf)|
 |![Daniel Carvalho](/images/People_Images/Daniel_Carvalho.jpg){:width="120"}|[Daniel Carvalho](/peoplepages/Daniel_Carvalho/)<a href="https://twitter.com/deCarvalhoD90"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|PhD Student|[CV](/CVs/DCarvalho.pdf)|
@@ -15,14 +16,10 @@ googlefonts: ["Monoton", "Lobster"]
 |![Preston Hurst](/images/People_Images/Preston.jpg){:width="120"}|Preston Hurst|MS Student||
 |![Xiuru Dai](/images/People_Images/Xiuru_small.jpg){:width="120"}|Xiuru Dai<a href="https://twitter.com/Xiuru_Dai"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Visiting PhD Student<br>Shandong Agricultural Universty||
 |![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|PhD Student<br>_(co-advised)_||
-|![Connor Pedersen](/images/People_Images/Connor.JPG){:width="120"}|Connor Pedersen<a href="https://twitter.com/Connor_1695"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Research Assistant|[CV](CVs/cpedersen.pdf)|
 |![Thomas Hoban](/images/People_Images/thoban.jpg){:width="120"}|Thomas Hoban|Bachelors Student|
 |![Alex Enersen](/images/People_Images/AlexE.jpg){:width="120"}|Alex Enersen|Bachelors Student||
 |![Ally](/images/People_Images/Ally.jpg){:width="120"}|Alexandra Bradley|Bachelors Student||
 |![Alejandro Pages](/images/People_Images/AlexP.jpg){:width="120"}|Alejandro Pages| UCARE Bachelors Student||
-|![Christian Butera](/images/People_Images/CButera.png){:width="120"}|Christian Butera|REU Student||
-|![Ashley Foltz](/images/People_Images/Ashley18.jpg){:width="120"}|Ashley Foltz|REU Student||
-|![Isabel Sigmon](/images/People_Images/isabel.jpg){:width="120"}|Isabel Sigmon|High School Intern||
 {:.table100.ver1}
 
 **Lab Alumni**
@@ -41,8 +38,12 @@ googlefonts: ["Monoton", "Lobster"]
 |![Logan Olson](/images/People_Images/logan.JPG){:width="120"}|Logan Olson|Bachelors Student|2016-2017|
 |![Xiaoyang (Chloe) Ye](/images/People_Images/Chloe.jpg){:width="120"}|Xiaoyang (Chloe) Ye|Bachelors Student|2016-2017|
 |![Holly Podliska](/images/People_Images/Holly.jpg){:width="120"}|Holly Podliska|UCARE Bachelors Student|2016-2017|
+|![Connor Pedersen](/images/People_Images/Connor.JPG){:width="120"}|Connor Pedersen<a href="https://twitter.com/Connor_1695"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Research Assistant|2017-2018|
 |![Kyle Johnson](/images/People_Images/Johnson_small.JPG){:width="120"}|Kyle Johnson|REU Student|Summer 2016|
 |![Taylor Horn](/images/People_Images/Horn_small.JPG){:width="120"}|Taylor Horn|REU Student|Summer 2016|
 |![Nicole Hollander](/images/People_Images/NicoleH.jpg){:width="120"}|Nicole Hollander|YNS High School Intern|Summer 2017|
+|![Christian Butera](/images/People_Images/CButera.png){:width="120"}|Christian Butera|REU Student|Summer 2018|
+|![Ashley Foltz](/images/People_Images/Ashley18.jpg){:width="120"}|Ashley Foltz|REU Student|Summer 2018|
+|![Isabel Sigmon](/images/People_Images/isabel.jpg){:width="120"}|Isabel Sigmon|High School Intern|Summer 2018|
 {:.table100.ver1}
 
