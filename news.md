@@ -4,6 +4,25 @@ title: Schnable Lab News
 
 ---
 
+### 2018, September
+
+* NSF awards a new grant to study [the nitrogen responsive gene regulatory networks in sorghum](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1826781&HistoricalAwards=false) to us, collaborators here at UNL, and collaborators at HudsonAlpha in Huntsville, Alabama. Check out the great work happening in lead PI [Jeremy Schmutz's group](https://hudsonalpha.org/faculty/jeremy-schmutz/), [Kankshita Swaminathan's lab](https://hudsonalpha.org/faculty/kankshita-swaminathan/lab/), [Tom Clemente's Lab](https://www.unl.edu/clementelab/index.html), [Jinliang Yang's Lab](http://jyanglab.com/) (a Schnable lab alum!), and [Yufeng Ge's lab](https://engineering.unl.edu/bse/faculty/yufeng-ge-1/)
+
+* Welcome to the lab Xiaoxi Meng! Xiaoxi is coming to the lab having finished a PhD in biochemistry working on rice at Mississippi State. [Follow her on twitter.](https://twitter.com/xiaoxi_meng)
+
+### 2018, August
+
+* Last day in the lab for many of the undergraduates who joined us for the summer. Going away celebrations includes both a nice dinner and intramural soccer game. 
+
+![Undergrad Dinner](/images/News_Images/Undergrads18.jpg){:width="500" align="middle" }
+![Undergrad Dinner](/images/News_Images/Soccer18.jpg){:width="500" align="middle" }
+
+* NSF decides to fund "[Genetic Constraints on the Increase of Organismal Complexity Over Time](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1838307&HistoricalAwards=false)." This is the Schnable Lab's very first grant with James Schnable as a solo PI. 
+
+* Daniel Carvalho, Chenyong Miao, and James Schnable attend the 3rd Annual Broomcorn Millet conference organized by lab collaborator Dipak Santra in Ft. Collins, Co.
+
+![Proso Millet Meeting](/images/News_Images/ProsoMeetingMerge.jpg){:width="500" align="middle" }
+
 ### 2018, July
 
 * Connor Pedersen's last day. After graduating this spring he stuck around to help with one last field season before heading off for his new job at Los Alamos. 
