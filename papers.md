@@ -35,7 +35,7 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="https://doi.org/10.1186/s13104-018-3508-1" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Alkhalifah N, Campbell DA, Falcon CM, ... **Schnable JC** (31 of 44 authors) ... Spalding EP, Edwards J, Lawrence-Dill CJ. (2018) "[Maize Genomes to Fields: 2014 and 2015 field season genotype, phenotype, environment, and inbred ear image datasets.](https://doi.org/10.1186/s13104-018-3508-1)" <i>BMC Research Notes</i> doi: https://doi.org/10.1186/s13104-018-3508-1
 
-<div data-badge-type="2" data-doi="10.2135/tppj2017.09.0007" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+<div data-badge-type="2" data-doi="10.1101/190967" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Xu Y, Qiu Y, **Schnable JC**. (2018) "[Functional Modeling of Plant Growth Dynamics.](https://dl.sciencesocieties.org/publications/tppj/abstracts/1/1/170007)" <i>The Plant Phenome</i> doi: 10.2135/tppj2017.09.0007 <i>bioRxiv</i> doi: <a href="https://doi.org/10.1101/190967">10.1101/190967</a>
 <i>An [invited webinar](https://www.youtube.com/watch?v=lw_WsWV6ox0) organized by the The Plant Phenome Journal where James Schnable describes the key advances from this paper for a wider audience.</i>
 
