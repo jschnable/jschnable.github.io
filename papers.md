@@ -8,13 +8,13 @@ title: Schnable Lab Papers
 **Preprints**
 
 <div data-badge-type="2" data-doi="10.1101/187575" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Yan L**, **Raju SK**, **Lai X**, **Zhang Y**, **Dai X**, Rodriguez O, Mahboub S, Roston RL, <b>Schnable JC</b>. "<a href="https://doi.org/10.1101/187575">Parallels between artificial selection in temperate maize and natural selection in the cold-adapted crop-wild relative Tripsacum.</a>" <i>bioRxiv</i> doi: 10.1101/187575 
+* **Yan L**, **Raju SK**, **Lai X**, **Zhang Y**, **Dai X**, Rodriguez O, Mahboub S, Roston RL, **Schnable JC** (2018) "[Parallel natural selection in the cold-adapted crop-wild relative Tripsacum dactyloides and artificial selection in temperate adapted maize.](https://doi.org/10.1101/187575)" *bioRxiv* doi: 10.1101/187575 
 
 
 **2018**
 
 <div data-badge-type="2" data-doi="10.1101/310391" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Miao C**, **Yang J**, **Schnable JC**. "Optimizing the identification of causal variants across varying genetic architectures in crops." *Plant Biotechnology Journal* (Accepted) <i>bioRxiv</i> doi: [10.1101/310391](https://doi.org/10.1101/310391))
+* **Miao C**, **Yang J**, **Schnable JC** (2018) "Optimizing the identification of causal variants across varying genetic architectures in crops." *Plant Biotechnology Journal* (Accepted) <i>bioRxiv</i> doi: [10.1101/310391](https://doi.org/10.1101/310391))
 
 <div data-badge-type="2" data-doi="10.1186/s12864-018-5040-z" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Ott A, **Schnable JC**, Yeh CT, Wu L, Liu C, Hu HC, Dolgard CL, Sarkar S, Schnable PS. (2018) "[Linked read technology for assembling large complex and polyploid genomes.](https://doi.org/10.1186/s12864-018-5040-z)" *BMC Genomics* doi: 10.1186/s12864-018-5040-z
