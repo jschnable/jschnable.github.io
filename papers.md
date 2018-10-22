@@ -56,7 +56,7 @@ title: Schnable Lab Papers
 
 <div data-badge-type="2" data-doi="10.1093/gigascience/gix117" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 *  <b>Liang Z</b>, Pandey P, Stoerger V, Xu Y, Qiu Y, Ge Y, <b>Schnable JC</b>. (2017) "<a href="https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix117/4656251?guestAccessKey=71c1c32f-78fd-42c0-99a3-38e6c4fd8100">Conventional and hyperspectral time-series imaging of maize lines widely used in field trials.</a>" <i>GigaScience</i> doi: 10.1093/gigascience/gix117 <i>bioRxiv</i> doi: <a href="https://doi.org/10.1101/169045">10.1101/169045</a>
-Image data, ground truth measurements, and plant pot weights using in this study are shared on Cyverse: 10.7946/P22K7V.
+<br>Image data, ground truth measurements, and plant pot weights using in this study are shared on Cyverse: <a href="https://doi.org/10.7946/P22K7V">10.7946/P22K7V</a>.
 
 <div data-badge-type="2" data-doi="10.1038/s41467-017-01450-2" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 *  Gage J, Jarquin D, Romay M, ... <b>Schnable JC</b> (29th of 40 authors) .. Yu J, de Leon N. (2017) "<a href="https://doi.org/10.1038/s41467-017-01450-2">The effect of artificial selection on phenotypic plasticity in maize.</a>" <i>Nature Communications</i> doi: 10.1038/s41467-017-01450-2  
