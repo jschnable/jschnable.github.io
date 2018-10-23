@@ -13,7 +13,7 @@ title: Schnable Lab Papers
 
 **2018**
 
-<div data-badge-type="2" data-doi="10.1101/310391" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+<div data-badge-type="2" data-doi="10.1111/pbi.13023" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Yang J**, **Schnable JC** (2018) "[Optimizing the identification of causal variants across varying genetic architectures in crops.](https://doi.org/10.1111/pbi.13023)" *Plant Biotechnology Journal* doi: 10.1111/pbi.13023 <i>bioRxiv</i> doi: [10.1101/310391](https://doi.org/10.1101/310391)
 
 <div data-badge-type="2" data-doi="10.1186/s12864-018-5040-z" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
