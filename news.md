@@ -4,6 +4,29 @@ title: Schnable Lab News
 
 ---
 
+### 2018, December
+
+* James Schnable submits his promotion and tenure package. 
+
+### 2018, November
+
+* Daniel Carvalho is awarded the Henry M. Beachell Fellowship. [Article here.](https://agronomy.unl.edu/news/carvalho-awarded-henry-m-beachell-fellowship)
+
+* Brandi Sigmon an assistant professor of practice and an expert on evolutionary development in maize and sorghum joins the lab. 
+
+### 2018, October
+
+* Chenyong Miao's [first paper as a first author](https://doi.org/10.1111/pbi.13023) in the Schnable Lab (a collaborative effort with the Yang Lab) comes out in Plant Biotechnology Journal. 
+
+* Multiple lab members present their research at the University of Nebraska Plant Science Retreat.
+
+![PSR2018](/images/News_Images/PSR2018.jpg){:width="500" align="middle" }
+
+* We take possession of our new office space, now with even more desks and with a window. 
+
+![NewDesks](/images/News_Images/NewDesks.jpg){:width="500" align="middle" }
+
+
 ### 2018, September
 
 * NSF awards a new grant to study [the nitrogen responsive gene regulatory networks in sorghum](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1826781&HistoricalAwards=false) to us, collaborators here at UNL, and collaborators at HudsonAlpha in Huntsville, Alabama. Check out the great work happening in lead PI [Jeremy Schmutz's group](https://hudsonalpha.org/faculty/jeremy-schmutz/), [Kankshita Swaminathan's lab](https://hudsonalpha.org/faculty/kankshita-swaminathan/lab/), [Tom Clemente's Lab](https://www.unl.edu/clementelab/index.html), [Jinliang Yang's Lab](http://jyanglab.com/) (a Schnable lab alum!), and [Yufeng Ge's lab](https://engineering.unl.edu/bse/faculty/yufeng-ge-1/)
