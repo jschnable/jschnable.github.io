@@ -12,7 +12,7 @@ title: Schnable Lab News
 
 * Daniel Carvalho is awarded the Henry M. Beachell Fellowship. [Article here.](https://agronomy.unl.edu/news/carvalho-awarded-henry-m-beachell-fellowship)
 
-* Brandi Sigmon an assistant professor of practice and an expert on evolutionary development in maize and sorghum joins the lab. 
+* [Brandi Sigmon](http://schnablelab.org/peoplepages/Brandi_Sigmon/) an assistant professor of practice and an expert on evolutionary development in maize and sorghum joins the lab. 
 
 ### 2018, October
 
