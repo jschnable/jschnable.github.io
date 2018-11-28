@@ -2,6 +2,10 @@
 layout: page
 title: Media Coverage of Schnable Lab Projects
 ---
+<p>Coverage of new Track II EPSCoR grant with HudsonAlpha: <a href="https://news.unl.edu/newsrooms/today/article/researchers-aim-to-reduce-nitrogen-fertilizer-use/">Nebraska Today feature article</a>.</p>
+
+<p>Coverage of new Rules of Life Grant: <a href="https://news.unl.edu/newsrooms/today/article/wholesale-or-piecemeal-nsf-funded-study-seeks-genetic-insights/">Pocket Science</a> article by Scott Schrage for Nebraska Today. <a href="https://ianrnews.unl.edu/husker-research-explore-emergence-specialized-body-parts-plants">IANR News article</a>.</p>
+
 <p>Listen to James Schnable interviewed on the Peggy Smedley show on <a href="https://peggysmedleyshow.com/portfolio-items/05-22-18-episode-564-segment-2-iot-measures-and-manages-plants/">how the Internet of Things is changing agriculture</a>. </p>
 
 <p>Prof. Schnable presents an our precently published paper with the Qiu and Xu statistics labs on using functional data analysis to analyze time series trait data, one of the big new challenges presented by HTP datasets.<br>
