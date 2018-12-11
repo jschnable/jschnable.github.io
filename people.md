@@ -22,6 +22,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Ally](/images/People_Images/Ally.jpg){:width="120"}|Alexandra Bradley|Bachelors Student||
 |![Alejandro Pages](/images/People_Images/AlexP.jpg){:width="120"}|Alejandro Pages| UCARE Bachelors Student||
 |![Aime Nishimwe](/images/People_Images/Aime.jpg){:width="120"}|Aime Nishimwe|CUSP Bachelors Student|| 
+|![Nate Pester](/images/People_Images/NateP.jpg){:witdth="120"}|Nate Pester|Bachelors Student<br>Sigmon Group||
 {:.table100.ver1}
 
 **Lab Alumni**
