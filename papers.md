@@ -29,6 +29,7 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1534/g3.118.200242" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * <b>Liang Z</b>, Gupta SK, Yeh CT, <b>Zhang Y</b>, <b>Ngu DW</b>, Kumar R, Patil HT, Mungra KD, Yadav DV, Rathore A, Srivastava RK, Gupkta R, <b>Yang J</b>, Varshney RK, Schnable PS, <b>Schnable JC</b>. (2018) "[Phenotypic data from inbred parents can improve genomic prediction in pearl millet hybrids.](https://doi.org/10.1534/g3.118.200242)" <i>G3: Genes Genomes Genetics</i> doi: 10.1534/g3.118.200242
 [Chinese Language Summary](https://mp.weixin.qq.com/s/8mGpB0Uel0omoC5QFGjKmA)
+<i>Selected as the outstanding scientific article of 2018 by ICRISAT's research program in Asia.</i>
 
 <div data-badge-type="2" data-doi="10.1038/s41598-018-28294-0" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, Fang J, Li D, Liang P, Zhang X, **Yang J**, **Schnable JC**, Tang H. (2018) "[Genotype-Corrector: improved genotype calls for genetic mapping.](https://doi.org/10.1038/s41598-018-28294-0)" <i>Scientific Reports</i> doi: 10.1038/s41598-018-28294-0
