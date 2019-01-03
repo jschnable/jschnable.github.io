@@ -3,6 +3,11 @@ layout: page
 title: Schnable Lab News
 
 ---
+### 2019, January
+
+* Nate Korth receives the NFHC award for his initial doctoral dissertation research studying the interaction of crop plant genetics and the human gut microbiome.
+
+* Zhikai Liang's paper on genomic prediction in pearl millet, funded by a USAID Linkages grant with ICRISAT receives the "Best Research Article of 2018" award from their Asia research division. 
 
 ### 2018, December
 
