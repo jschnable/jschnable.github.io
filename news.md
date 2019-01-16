@@ -19,7 +19,7 @@ title: Schnable Lab News
 
 * And that's a wrap for 2018, folks. Happy new year from all of us. 
 
-![NewYear18](/images/News_Images/NewYear18.jgg){:width="500" align="middle" }
+![NewYear18](/images/News_Images/NewYear18.jpg){:width="500" align="middle" }
 
 * James Schnable submits his promotion and tenure package. 
 
