@@ -5,11 +5,21 @@ title: Schnable Lab News
 ---
 ### 2019, January
 
+* ARPA-E Open annouces a new grant to the Schnable Lab and collaborators in Computer Science and Engineering at the University of Utah to develop field deployable early warning sensors to detect volatile compounds released by plants. Special thanks to the [Hanseup Kim Research Group](http://www.ece.utah.edu/~hanseup/) for leading this effort. 
+
+* Zhikai and Chenyong attend the 27th Annual Plant and Animal Genome Conference in San Diego each presenting posters on their work resolving different quantitative genetics challenges presented by high throughput phenotyping data.
+
+![PAG19](/images/News_Images/PAG19.jpg){:width="500" align="middle" }
+
 * Nate Korth receives the NFHC award for his initial doctoral dissertation research studying the interaction of crop plant genetics and the human gut microbiome.
 
 * Zhikai Liang's paper on genomic prediction in pearl millet, funded by a USAID Linkages grant with ICRISAT receives the "Best Research Article of 2018" award from their Asia research division. 
 
 ### 2018, December
+
+* And that's a wrap for 2018, folks. Happy new year from all of us. 
+
+[NewYear18](/images/News_Images/NewYear18.jgg){:width="500" align="middle" }
 
 * James Schnable submits his promotion and tenure package. 
 
