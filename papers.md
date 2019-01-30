@@ -14,8 +14,11 @@ title: Schnable Lab Papers
 * **Yan L**, **Raju SKK**, **Lai X**, **Zhang Y**, **Dai X**, Rodriguez O, Mahboub S, Roston RL, **Schnable JC** "[Parallel natural selection in the cold-adapted crop-wild relative Tripsacum dactyloides and artificial selection in temperate adapted maize.](https://doi.org/10.1101/187575)" *bioRxiv* doi: 10.1101/187575 
 
 
+**2019**
+<div data-badge-type="2" data-doi="10.1038/s41467-019-08409-5" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* Zou C, Miki D, Li D, Tang Q, Xiao L, Rajput S, Deng P, Peng L, Huang R, Zhang M, Sun Y, Hu J, Fu X, Schnable P, Li F, Zhang H, Feng B, Zhu X, Liu R, **Schnable JC**, Zhu JK, Zhang H. (2019) "[The genome of broomcorn millet.](https://doi.org/10.1038/s41467-019-08409-5)" *Nature Communications* doi: 10.1038/s41467-019-08409-5
+
 **2018**
-* Zou C, Miki D, Li D, Tang Q, Xiao L, Rajput S, Deng P, Peng L, Huang R, Zhang M, Sun Y, Hu J, Fu X, Schnable P, Li F, Zhang H, Feng B, Zhu X, Liu R, **Schnable JC**, Zhu JK, Zhang H. (2018) "The genome of broomcorn millet *Panicum miliaceum* L." *Nature Communications* (Accepted)
 
 <div data-badge-type="2" data-doi="10.1111/pbi.13023" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Yang J**, **Schnable JC** (2018) "[Optimizing the identification of causal variants across varying genetic architectures in crops.](https://doi.org/10.1111/pbi.13023)" *Plant Biotechnology Journal* doi: 10.1111/pbi.13023 <i>bioRxiv</i> doi: [10.1101/310391](https://doi.org/10.1101/310391)
