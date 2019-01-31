@@ -11,7 +11,7 @@ James grew in in Ames, Iowa before leaving for New York and later California to 
 <br><br>
 His research is currently supported by the National Science Foundation, The United States Department of Agriculture, the Department of Energy, the Nebraska Corn Growers Association, and private industry.
 <br><br>
-His work has lead to him founding three startups: [Data2Bio](https://www.data2bio.com/) (focused on genotyping and breeding decision support), Dryland Genetics (breeding naturally water use efficient crops), and [EnGeniousAg](https://www.engeniousag.com/) (low cost nondestructive nutrient and water sensors for farmers.
+His work has lead to him founding three startups: [Data2Bio](https://www.data2bio.com/) (focused on genotyping and breeding decision support), [Dryland Genetics](http://www.drylandgenetics.com/) (breeding naturally water use efficient crops), and [EnGeniousAg](https://www.engeniousag.com/) (low cost nondestructive nutrient and water sensors for farmers.
 <br><br>
 **ORCID ID:** 0000-0001-6739-5527
 <br><br>
