@@ -8,10 +8,12 @@ title: Schnable Lab Papers
 **Preprints**
 
 <div data-badge-type="2" data-doi="10.1101/534503" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Liang Z**, Qiu Y, **Schnable JC** (2018) "[Distinct characteristics of genes associated with phenome-wide variation in maize (*Zea mays*)](https://doi.org/10.1101/534503)" *bioRxiv* doi: 10.1101/534503 
+* **Liang Z**, Qiu Y, **Schnable JC** (2018) "[Distinct characteristics of genes associated with phenome-wide variation in maize (*Zea mays*)](https://doi.org/10.1101/534503)" *bioRxiv* doi: 10.1101/534503
 
 <div data-badge-type="2" data-doi="10.1101/187575" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Yan L**, **Raju SKK**, **Lai X**, **Zhang Y**, **Dai X**, Rodriguez O, Mahboub S, Roston RL, **Schnable JC** "[Parallel natural selection in the cold-adapted crop-wild relative Tripsacum dactyloides and artificial selection in temperate adapted maize.](https://doi.org/10.1101/187575)" *bioRxiv* doi: 10.1101/187575 
+* **Yan L**, **Raju SKK**, **Lai X**, **Zhang Y**, **Dai X**, Rodriguez O, Mahboub S, Roston RL, **Schnable JC** "[Parallel natural selection in the cold-adapted crop-wild relative Tripsacum dactyloides and artificial selection in temperate adapted maize.](https://doi.org/10.1101/187575)" *bioRxiv* doi: 10.1101/187575
+
+* **Hurst P**, **Liang Z**, **Smith C**, Yerka M, **Sigmon B**, Rodriguez O, **Schnable JC.** [Genome wide analysis of Ga1-s modifiers in maize](https://doi.org/10.1101/543264). *bioRxiv* doi: 10.1101/543264
 
 
 **2019**
@@ -27,7 +29,7 @@ title: Schnable Lab Papers
 * Ott A, **Schnable JC**, Yeh CT, Wu L, Liu C, Hu HC, Dolgard CL, Sarkar S, Schnable PS. (2018) "[Linked read technology for assembling large complex and polyploid genomes.](https://doi.org/10.1186/s12864-018-5040-z)" *BMC Genomics* doi: 10.1186/s12864-018-5040-z
 
 <div data-badge-type="2" data-doi="10.1093/molbev/msy174" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Liu S, **Schnable JC**, Ott A, Yeh CT, Springer NM, Yu J, Meuhbauer G, Timmermans MCP, Scanlon MJ, Schnable PS. (2018) "[Intragenic Meiotic Crossovers Generate Novel Alleles with Transgressive Expression Levels.](https://academic.oup.com/mbe/article/35/11/2762/5090457?guestAccessKey=c8f71ef2-4f29-4078-9c73-b62a8874d62a)" *Molecular Biology and Evolution* doi: 10.1093/molbev/msy174 
+* Liu S, **Schnable JC**, Ott A, Yeh CT, Springer NM, Yu J, Meuhbauer G, Timmermans MCP, Scanlon MJ, Schnable PS. (2018) "[Intragenic Meiotic Crossovers Generate Novel Alleles with Transgressive Expression Levels.](https://academic.oup.com/mbe/article/35/11/2762/5090457?guestAccessKey=c8f71ef2-4f29-4078-9c73-b62a8874d62a)" *Molecular Biology and Evolution* doi: 10.1093/molbev/msy174
 
 <div data-badge-type="2" data-doi="10.1016/j.plantsci.2018.08.002" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Raju SKK**, Barnes A, **Schnable JC**, Roston RL. (2018) "[Low-temperature tolerance in land plants: Are transcript and membrane responses conserved?](https://doi.org/10.1016/j.plantsci.2018.08.002)" *Plant Science* doi: 10.1016/j.plantsci.2018.08.002
@@ -222,4 +224,3 @@ title: Schnable Lab Papers
 
 <span class="__dimensions_badge_embed__" data-doi="10.1038/nature08747" data-style="large_rectangle" style="float:right;"></span>
 * The International Brachypodium Initiative. (2010) "<a href="http://dx.doi.org/10.1038/nature08747">Genome sequencing and analysis of the model grass Brachypodium distachyon.</a>" <i>Nature</i> doi: 10.1038/nature08747 _*Authors Contributed Equally_
-
