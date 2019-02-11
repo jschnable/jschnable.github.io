@@ -20,6 +20,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Thomas Hoban](/images/People_Images/thoban.jpg){:width="120"}|Thomas Hoban|Bachelors Student|
 |![Alex Enersen](/images/People_Images/AlexE.jpg){:width="120"}|Alex Enersen|Bachelors Student||
 |![Ally](/images/People_Images/Ally.jpg){:width="120"}|Alexandra Bradley|Bachelors Student||
+|![Mackenzie](/images/People_Images/Mackenzie.jpeg){:width="120"}|Mackenzie Zwiener|Bachelors Student||
 |![Alejandro Pages](/images/People_Images/AlexP.jpg){:width="120"}|Alejandro Pages| UCARE Bachelors Student||
 |![Aime Nishimwe](/images/People_Images/Aime.jpg){:width="120"}|Aime Nishimwe|CUSP Bachelors Student||
 |![Nate Pester](/images/People_Images/NateP.jpg){:width="120"}|Nate Pester|Bachelors Student<br>Sigmon Group||
