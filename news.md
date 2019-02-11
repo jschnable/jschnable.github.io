@@ -3,9 +3,15 @@ layout: page
 title: Schnable Lab News
 
 ---
+### 2019, February
+
+* James Schnable, Brandi Sigmon, and Daniel Carvalho all attended Phenome in Tucson Arizona. Brandi was awarded an all expenses paid travel award by the Phenome organizing committee. James received the NAPPN Plant Phenotyping Early Career Award during the conference.
+
+![James Schnable Receiving the NAPPN early career award](/images/News_Images/JamesNAPPNaward.jpg){:width="500" align="middle" }
+
 ### 2019, January
 
-* ARPA-E Open annouces a new grant to the Schnable Lab and collaborators in Computer Science and Engineering at the University of Utah to develop field deployable early warning sensors to detect volatile compounds released by plants. Special thanks to the [Hanseup Kim Research Group](http://www.ece.utah.edu/~hanseup/) for leading this effort. 
+* ARPA-E Open announces a new grant to the Schnable Lab and collaborators in Computer Science and Engineering at the University of Utah to develop field deployable early warning sensors to detect volatile compounds released by plants. Special thanks to the [Hanseup Kim Research Group](http://www.ece.utah.edu/~hanseup/) for leading this effort.
 
 * Zhikai and Chenyong attend the 27th Annual Plant and Animal Genome Conference in San Diego each presenting posters on their work resolving different quantitative genetics challenges presented by high throughput phenotyping data.
 
@@ -13,31 +19,31 @@ title: Schnable Lab News
 
 * Nate Korth receives the NFHC award for his initial doctoral dissertation research studying the interaction of crop plant genetics and the human gut microbiome.
 
-* Zhikai Liang's paper on genomic prediction in pearl millet, funded by a USAID Linkages grant with ICRISAT receives the "Best Research Article of 2018" award from their Asia research division. 
+* Zhikai Liang's paper on genomic prediction in pearl millet, funded by a USAID Linkages grant with ICRISAT receives the "Best Research Article of 2018" award from their Asia research division.
 
 ### 2018, December
 
-* And that's a wrap for 2018, folks. Happy new year from all of us. 
+* And that's a wrap for 2018, folks. Happy new year from all of us.
 
 ![NewYear18](/images/News_Images/NewYear18.jpg){:width="500" align="middle" }
 
-* James Schnable submits his promotion and tenure package. 
+* James Schnable submits his promotion and tenure package.
 
 ### 2018, November
 
 * Daniel Carvalho is awarded the Henry M. Beachell Fellowship. [Article here.](https://agronomy.unl.edu/news/carvalho-awarded-henry-m-beachell-fellowship)
 
-* [Brandi Sigmon](http://schnablelab.org/peoplepages/Brandi_Sigmon/) an assistant professor of practice and an expert on evolutionary development in maize and sorghum joins the lab. 
+* [Brandi Sigmon](http://schnablelab.org/peoplepages/Brandi_Sigmon/) an assistant professor of practice and an expert on evolutionary development in maize and sorghum joins the lab.
 
 ### 2018, October
 
-* Chenyong Miao's [first paper as a first author](https://doi.org/10.1111/pbi.13023) in the Schnable Lab (a collaborative effort with the Yang Lab) comes out in Plant Biotechnology Journal. 
+* Chenyong Miao's [first paper as a first author](https://doi.org/10.1111/pbi.13023) in the Schnable Lab (a collaborative effort with the Yang Lab) comes out in Plant Biotechnology Journal.
 
 * Multiple lab members present their research at the University of Nebraska Plant Science Retreat.
 
 ![PSR2018](/images/News_Images/PSR2018.jpg){:width="500" align="middle" }
 
-* We take possession of our new office space, now with even more desks and with a window. 
+* We take possession of our new office space, now with even more desks and with a window.
 
 ![NewDesks](/images/News_Images/NewDesks.jpg){:width="500" align="middle" }
 
@@ -50,12 +56,12 @@ title: Schnable Lab News
 
 ### 2018, August
 
-* Last day in the lab for many of the undergraduates who joined us for the summer. Going away celebrations includes both a nice dinner and intramural soccer game. 
+* Last day in the lab for many of the undergraduates who joined us for the summer. Going away celebrations includes both a nice dinner and intramural soccer game.
 
 ![Undergrad Dinner](/images/News_Images/Undergrads18.jpg){:width="500" align="middle" }
 ![Undergrad Dinner](/images/News_Images/Soccer18.jpg){:width="500" align="middle" }
 
-* NSF decides to fund "[Genetic Constraints on the Increase of Organismal Complexity Over Time](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1838307&HistoricalAwards=false)." This is the Schnable Lab's very first grant with James Schnable as a solo PI. 
+* NSF decides to fund "[Genetic Constraints on the Increase of Organismal Complexity Over Time](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1838307&HistoricalAwards=false)." This is the Schnable Lab's very first grant with James Schnable as a solo PI.
 
 * Daniel Carvalho, Chenyong Miao, and James Schnable attend the 3rd Annual Broomcorn Millet conference organized by lab collaborator Dipak Santra in Ft. Collins, Co.
 
@@ -63,9 +69,9 @@ title: Schnable Lab News
 
 ### 2018, July
 
-* Connor Pedersen's last day. After graduating this spring he stuck around to help with one last field season before heading off for his new job at Los Alamos. 
+* Connor Pedersen's last day. After graduating this spring he stuck around to help with one last field season before heading off for his new job at Los Alamos.
 
-* Working with the Yang, Sigmon, and Alfano labs we dug up 1000 maize root samples for the CRRI project. By the end (almost) everyone was really happy that we're a heavily computational lab. 
+* Working with the Yang, Sigmon, and Alfano labs we dug up 1000 maize root samples for the CRRI project. By the end (almost) everyone was really happy that we're a heavily computational lab.
 
 ![CRRI Root Sampling](/images/News_Images/CRRI_Field.jpg){:width="500" align="middle" }
 
@@ -75,12 +81,12 @@ title: Schnable Lab News
 
 ### 2018, May
 
-* A successful planting in at UNL's Havelock farm. 80,000 total kernels put into the ground over two days. Fortunate to have Schnable Lab alumni as a professor here at UNL to make this happen. 
+* A successful planting in at UNL's Havelock farm. 80,000 total kernels put into the ground over two days. Fortunate to have Schnable Lab alumni as a professor here at UNL to make this happen.
 
 ![Havelock Planting1](/images/News_Images/Field18A.jpg){:width="500" align="middle" }
 ![Havelock Planting2](/images/News_Images/Field18B.jpg){:width="500" align="middle" }
 
-R->L Christine (Schnable Lab), Connor (Schnable Lab), Sam (Yang Lab), Jinliang Yang, Josh (Ag & Hort Field team). 
+R->L Christine (Schnable Lab), Connor (Schnable Lab), Sam (Yang Lab), Jinliang Yang, Josh (Ag & Hort Field team).
 *Photo Credit: Raghu (Yang Lab)*
 
 * Our lab becomes a victim our our own success and is evicted from our office space over the summer while renovations take place to double the number of student desks.
@@ -89,7 +95,7 @@ R->L Christine (Schnable Lab), Connor (Schnable Lab), Sam (Yang Lab), Jinliang Y
 
 ### 2018, April
 
-* With help and guidance from Jinliang Yang, his lab, and the Alfano lab, we're preparing for our first real field season since the Schnable Lab at UNL was founded. 
+* With help and guidance from Jinliang Yang, his lab, and the Alfano lab, we're preparing for our first real field season since the Schnable Lab at UNL was founded.
 
 ![Field Preparations](/images/News_Images/FieldPrep.jpg){:width="500" align="middle" }
 
@@ -97,7 +103,7 @@ R->L Christine (Schnable Lab), Connor (Schnable Lab), Sam (Yang Lab), Jinliang Y
 
 ![Holly's Poster](/images/News_Images/Holly_Poster.jpg){:width="500" align="middle" }
 
-* Connor Pedersen wins **another** prize at the UNL spring research fair for his own poster on linking greenhouse and field phenotypes. 
+* Connor Pedersen wins **another** prize at the UNL spring research fair for his own poster on linking greenhouse and field phenotypes.
 
 ![Connor's SRF Poster](/images/News_Images/ConnorPoster.jpg){:width="500" align="middle" }
 
@@ -154,7 +160,7 @@ _Thanks to Elizabeth Lee for the Photo_
 - The Schnable lab welcomes two new members, Preston Hurst, a masters student who comes from a private sector plant breeding background and will be working on nitrogen use efficiency phenotyping in corn, and Holly Podliska a UNL UCARE student and World Food Prize Alumn who will work on reconstructing the evolution cold and freezing tolerance across panicoid grasses.
 
 ### 2017 July
-- The lab's very first venture into root microbiome research, a collaboration with IndigoAgriculture organized through Genomes2Fields. 
+- The lab's very first venture into root microbiome research, a collaboration with IndigoAgriculture organized through Genomes2Fields.
 
 ![Microbiome Collection](/images/News_Images/Microbiome17.jpg){:width="500" align="middle" }
 
@@ -199,7 +205,7 @@ _Thanks to Elizabeth Lee for the Photo_
 
 - First annual progress report on our collaborative cold stress project with the Roston Lab.
 
-### 2016 December 
+### 2016 December
 - ARPA-E annouces tentative funding for our collaboration with the Dong Lab at Iowa State to develop a new generation of nitrogen sensors to look at both nitrogen uptake and remobilization of corn plants in the field. Here's the annoucement (as a PDF).
 
 - Greetings from the IPPN phenotyping meeting held at CIMMYT in Mexico City, home of the third largest ancient pyramid in the world at Teotihuacan.
@@ -210,7 +216,7 @@ _Thanks to Elizabeth Lee for the Photo_
 ### 2016 October
 - The lab is happen to welcome Logan Olson and Thomas Hoban as new undergraduate research assistants. Thomas is conducting a screen for new sorghum roothairless mutants in a sorghum deletion population generated by the Holding lab, and Logan is working with the maize diversity panel being phenotyped and sequenced as part of the UNL Center for Root and Rhizobiome Innovation.
 
-### 2016 September 
+### 2016 September
 - Great write up in UNL today by the always excellent Scott Schrage about our collaborative work with the Ge Lab on maize phenotyping.
 
 - Gifts from the Gates Foundation and Raikes Foundation create the new Food for Health Center at the University of Nebraska. Lead by Andy Benson, the center will seek to understand the interactions between human health and the gut microbiome by using natural biochemical phenotypic diversity in crop plants to purturb the gut micriobiome.
@@ -246,10 +252,10 @@ And that's it for 2015 folks!
 
 ![17 Months](/images/News_Images/17Months.jpg){:width="500" align="middle" }
 
-### 2015 September 
+### 2015 September
 - Xianjun Lai arrives in the lab, supported by a CSC scholarship from the Chinese government to spend two years of his PhD in Lincoln.
 
-### 2015 August 
+### 2015 August
 - Daniel Carvalho is awarded a PhD fellowship by the Brazilian government to join the lab.
 
 ### 2015 July
@@ -258,12 +264,12 @@ And that's it for 2015 folks!
 
 ![Farm Tour](/images/News_Images/Farm_Tour.jpg){:width="500" align="middle" }
 
-- Our first attempt to grow corn plants at the new UNL automated phenotyping greenhouse. ... it does not go well. 
+- Our first attempt to grow corn plants at the new UNL automated phenotyping greenhouse. ... it does not go well.
 
 ![Phenotyping Attempt](/images/News_Images/PhenotypingAttempt.jpg){:width="500" align="middle" }
 
-### 2015 May 
-- First attempt at a field season, working with David Holding's lab to plant several hundred rows of maize RILs. 
+### 2015 May
+- First attempt at a field season, working with David Holding's lab to plant several hundred rows of maize RILs.
 
 ![First Field Season](/images/News_Images/1stFieldSeason.jpg){:width="500" align="middle" }
 
@@ -273,4 +279,4 @@ And that's it for 2015 folks!
 - Yang Zhang becomes the very first memeber of the Schnable research group. She comes from Pinghua Li's research group at CATAS (Chinese Academy of Tropical Agricultural Sciences).
 
 ### 2014 May
-- James Schnable's first day in the lab. He initially has no lab space, no office, no desk, and no idea what he's doing. Year's later, he's worked his way up to 2/4. 
+- James Schnable's first day in the lab. He initially has no lab space, no office, no desk, and no idea what he's doing. Year's later, he's worked his way up to 2/4.
