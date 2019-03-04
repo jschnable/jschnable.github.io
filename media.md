@@ -2,7 +2,10 @@
 layout: page
 title: Media Coverage of Schnable Lab Projects
 ---
-<p>UNL <a href="https://agronomy.unl.edu/news/schnable-receives-nappn-early-career-scientist-award">internal story</a> about the NAPPN early career award to James Schnable.</p>
+
+<p>UNL <a href="https://news.unl.edu/newsrooms/today/article/schnable-receives-early-career-scientist-award/">today story</a> about the NAPPN early career award to James Schnable. (Thank you Lana Johnson!)</p>
+<br>
+<p><a href="https://news.unl.edu/newsrooms/today/article/sequenced-genome-of-ancient-crop-could-raise-yields/">What the publication of the proso millet genome means to Nebraska</a>. A great UNL Today feature story by Scott Schrage.</p>
 <br>
 <p>Publication of the Proso Millet Genome covered in the High Plains Journal: <a href="https://www.hpj.com/crops/genetic-mapping-offers-new-promise-for-proso-millet/article_fb00ccb9-7dda-5958-bc94-5c917f1d1db2.html">Genetic mapping offers new promise for proso millet</a>. Non pay walled version at Farm Progress: https://www.farmprogress.com/crops/genetic-mapping-offers-promise-proso-millet</p>
 <br>
