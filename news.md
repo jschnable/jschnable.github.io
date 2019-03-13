@@ -3,6 +3,13 @@ layout: page
 title: Schnable Lab News
 
 ---
+
+### 2019, March
+
+Daniel Carvalho and James Schnable both gave invited talks at the Nebraska Plant Science Symposium, and Chenyong Miao recieved a prize in the poster competition at the same event. Thank you to the amazing organizing committee (including Preston Hurst) and all of the symposium sponsers. 
+
+![Nebraska Plant Science Symposium 2019](/images/News_Images/NPSS19.jpg){:width="500" align="middle" }
+
 ### 2019, February
 
 * James Schnable, Brandi Sigmon, and Daniel Carvalho all attended Phenome in Tucson Arizona. Brandi was awarded an all expenses paid travel award by the Phenome organizing committee. James received the NAPPN Plant Phenotyping Early Career Award during the conference.

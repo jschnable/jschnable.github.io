@@ -10,13 +10,13 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/534503" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Liang Z**, Qiu Y, **Schnable JC** (2018) "[Distinct characteristics of genes associated with phenome-wide variation in maize (*Zea mays*)](https://doi.org/10.1101/534503)" *bioRxiv* doi: 10.1101/534503
 
-<div data-badge-type="2" data-doi="10.1101/187575" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Yan L**, **Raju SKK**, **Lai X**, **Zhang Y**, **Dai X**, Rodriguez O, Mahboub S, Roston RL, **Schnable JC** "[Parallel natural selection in the cold-adapted crop-wild relative Tripsacum dactyloides and artificial selection in temperate adapted maize.](https://doi.org/10.1101/187575)" *bioRxiv* doi: 10.1101/187575
-
 * **Hurst P**, **Liang Z**, **Smith C**, Yerka M, **Sigmon B**, Rodriguez O, **Schnable JC.** [Genome wide analysis of Ga1-s modifiers in maize](https://doi.org/10.1101/543264). *bioRxiv* doi: 10.1101/543264
 
 
 **2019**
+<div data-badge-type="2" data-doi="10.1101/187575" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* **Yan L**, **Raju SKK**, **Lai X**, **Zhang Y**, **Dai X**, Rodriguez O, Mahboub S, Roston RL, **Schnable JC** (2019)"[Parallel natural selection in the cold-adapted crop-wild relative Tripsacum dactyloides and artificial selection in temperate adapted maize.](https://doi.org/10.1101/187575)" *The Plant Journal* (accepted pending minor revisions) *bioRxiv* doi: 10.1101/187575
+
 <div data-badge-type="2" data-doi="10.1038/s41467-019-08409-5" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Zou C, Miki D, Li D, Tang Q, Xiao L, Rajput S, Deng P, Peng L, Huang R, Zhang M, Sun Y, Hu J, Fu X, Schnable P, Li F, Zhang H, Feng B, Zhu X, Liu R, **Schnable JC**, Zhu JK, Zhang H. (2019) "[The genome of broomcorn millet.](https://doi.org/10.1038/s41467-019-08409-5)" *Nature Communications* doi: 10.1038/s41467-019-08409-5
 
