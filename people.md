@@ -42,12 +42,12 @@ googlefonts: ["Monoton", "Lobster"]
 |![Daniel Ngu](/images/People_Images/Danielngu_small.jpg){:width="120"}|Daniel Ngu|Bachelors Student|2014-2017|
 |![Logan Olson](/images/People_Images/logan.JPG){:width="120"}|Logan Olson|Bachelors Student|2016-2017|
 |![Xiaoyang (Chloe) Ye](/images/People_Images/Chloe.jpg){:width="120"}|Xiaoyang (Chloe) Ye|Bachelors Student|2016-2017|
-|![Holly Podliska](/images/People_Images/Holly.jpg){:width="120"}|Holly Podliska|UCARE Bachelors Student|2016-2017|
+|![Holly Podliska](/images/People_Images/Holly.jpg){:width="120"}|Holly Podliska|UCARE Bachelors Student|2016-2017|PostBac Student at Los Alamos National Lab|
 |![Connor Pedersen](/images/People_Images/Connor.JPG){:width="120"}|Connor Pedersen<a href="https://twitter.com/Connor_1695"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Research Assistant|2017-2018|
-|![Kyle Johnson](/images/People_Images/Johnson_small.JPG){:width="120"}|Kyle Johnson|REU Student|Summer 2016|
+|![Kyle Johnson](/images/People_Images/Johnson_small.JPG){:width="120"}|Kyle Johnson|REU Student|Summer 2016|PhD student studying bioinformatics at BYU|
 |![Taylor Horn](/images/People_Images/Horn_small.JPG){:width="120"}|Taylor Horn|REU Student|Summer 2016|
 |![Nicole Hollander](/images/People_Images/NicoleH.jpg){:width="120"}|Nicole Hollander|YNS High School Intern|Summer 2017|
-|![Christian Butera](/images/People_Images/CButera.png){:width="120"}|Christian Butera|REU Student|Summer 2018|
+|![Christian Butera](/images/People_Images/CButera.png){:width="120"}|Christian Butera|REU Student|Summer 2018|Clinical Scientist at PerkinElmer Genomics|
 |![Ashley Foltz](/images/People_Images/Ashley18.jpg){:width="120"}|Ashley Foltz|REU Student|Summer 2018|
 |![Isabel Sigmon](/images/People_Images/isabel.jpg){:width="120"}|Isabel Sigmon|High School Intern|Summer 2018|
 {:.table100.ver1}
