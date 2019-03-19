@@ -6,7 +6,13 @@ title: Schnable Lab News
 
 ### 2019, March
 
-Daniel Carvalho and James Schnable both gave invited talks at the Nebraska Plant Science Symposium, and Chenyong Miao recieved a prize in the poster competition at the same event. Thank you to the amazing organizing committee (including Preston Hurst) and all of the symposium sponsers. 
+* Almost the entire lab attended the Maize Genetics Conference in St. Louis, MO, where Zhikai Liang's abstract on GPWAS was selected for a short talk and Guangchao Sun, Xiaoxi Meng, Chenyong Miao, Preston Hurst, Xiuru Dai, and Tom Hoban all presented posters.
+
+![Maize Meeting 2019](/images/News_Images/MGC19.jpg){:width="800" align="middle"}
+
+Top row L-> R: Tom Hoban, Xiuru Dai, Chenyong Miao, Preston Hurst. Bottom row L-> R Xiaoxi Meng, Zhikai Liang, Brandi Sigmon. Not pictured: Guangchao Sun, Nate Korth, James Schnable. 
+
+* Daniel Carvalho and James Schnable both gave invited talks at the Nebraska Plant Science Symposium, and Chenyong Miao recieved a prize in the poster competition at the same event. Thank you to the amazing organizing committee (including Preston Hurst) and all of the symposium sponsers. 
 
 ![Nebraska Plant Science Symposium 2019](/images/News_Images/NPSS19.jpg){:width="500" align="middle" }
 
