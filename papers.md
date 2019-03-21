@@ -10,8 +10,6 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/534503" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Liang Z**, Qiu Y, **Schnable JC** (2018) "[Distinct characteristics of genes associated with phenome-wide variation in maize (*Zea mays*)](https://doi.org/10.1101/534503)" *bioRxiv* doi: 10.1101/534503
 
-* **Hurst P**, **Liang Z**, **Smith C**, Yerka M, **Sigmon B**, Rodriguez O, **Schnable JC.** [Genome wide analysis of Ga1-s modifiers in maize](https://doi.org/10.1101/543264). *bioRxiv* doi: 10.1101/543264
-
 
 **2019**
 
