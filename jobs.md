@@ -8,12 +8,13 @@ bigimg:
   - "/images/Front_Page_Images/header.png" : ""
 ---
 
-![The Whole Schnable Lab](/images/Whole_Lab.jpg){:width="900" align="middle" }
-
-While individuals specialize, each member of the lab gets at least some experience writing computer code, employing molecular biology techniques, working with living plants in the greenhouse, and conducting fieldwork. As a result of the diverse set of collaborators we work with -- applied plant breeders, biochemists, engineers, computer scientists, food scientists, and statisticians -- each member of the lab also gains experience communicating both within and across scientific disciplines, as well as to diverse non-scientific audiences. This cross training produces scientists who are equipped to both understand and address the complex and far-reaching problems our world will face in coming decades.
-
 **Come work with us!**
 <br><br>
+**Why this lab:** Trainees in the Schnable Lab gain domain expertise in plant genetics, comparative genomics, quantiative genetics, and/or high throughput phenotyping. But critically they also learn other things. They learn how to effectively work and collaborate across disciplines (engineering, statistics, applied plant breeding, food science). Many lab members work closely with at least one faculty member a department outside of the biological sciences (statistics, computer science, or engineering). Trainees -- from undergrads to postdocs -- leave the lab with a combination of deep knowledge in plant genetics and broad knowledge of "data science" relevant fields. 
+<br><br>
+This combination of skillsets should make researchers competitive for future roles in academia, industry or entrepreneurship.
+<br><br>
+
 **Postdocs**: Openings for postdocs without their own funding fluctuate based on the avaliability of grant funds. Interested scientists should e-mail Prof. Schnable. As a signal that you have done your homework investigating the lab before inquiring, please include the phrase "Codeword Pineapple" in the subject line of your e-mail.
 <br><br>
 **Graduate Students**: PhDs in the Schnable Lab generally take between 4-6 years to complete depending on a number of factors. This includes 1) how much research can be conducted using existing datasets and how much must be generated from scratch 2) breaks in research including industry internships, maternity/paternity leave 3) student effort 4) luck, whether good or bad.
