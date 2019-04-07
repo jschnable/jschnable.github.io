@@ -2,7 +2,8 @@
 layout: page
 title: Media Coverage of Schnable Lab Projects
 ---
-
+<p>Watch the video recording of <a href="https://go.unl.edu/6m06">James Schnable's talk at the 2019 Nebraska Plant Science Symposium here</a>.</p>
+<br>
 <p>UNL <a href="https://news.unl.edu/newsrooms/today/article/schnable-receives-early-career-scientist-award/">today story</a> about the NAPPN early career award to James Schnable. (Thank you Lana Johnson!)</p>
 <br>
 <p><a href="https://news.unl.edu/newsrooms/today/article/sequenced-genome-of-ancient-crop-could-raise-yields/">What the publication of the proso millet genome means to Nebraska</a>. A great UNL Today feature story by Scott Schrage.</p>
