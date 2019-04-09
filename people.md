@@ -48,6 +48,6 @@ googlefonts: ["Monoton", "Lobster"]
 |![Taylor Horn](/images/People_Images/Horn_small.JPG){:width="120"}|Taylor Horn|REU Student|Summer 2016|
 |![Nicole Hollander](/images/People_Images/NicoleH.jpg){:width="120"}|Nicole Hollander|YNS High School Intern|Summer 2017|
 |![Christian Butera](/images/People_Images/CButera.png){:width="120"}|Christian Butera|REU Student|Summer 2018|Clinical Scientist at PerkinElmer Genomics|
-|![Ashley Foltz](/images/People_Images/Ashley18.jpg){:width="120"}|Ashley Foltz|REU Student|Summer 2018|
+|![Ashley Foltz](/images/People_Images/Ashley18.jpg){:width="120"}|Ashley Foltz|REU Student|Summer 2018|Graduate Student in the School of Biological Sciences at UNL|
 |![Isabel Sigmon](/images/People_Images/isabel.jpg){:width="120"}|Isabel Sigmon|High School Intern|Summer 2018|
 {:.table100.ver1}
