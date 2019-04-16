@@ -20,9 +20,9 @@ Top row L-> R: Tom Hoban, Xiuru Dai, Chenyong Miao, Preston Hurst. Bottom row L-
 
 * On February 28- March 2, 2019,  [Aime Nishimwe attended AFA Technology Institute in Orlando Florida.](http://www.agfuture.org/s/1342/rd16/index3.aspx?sid=1342&gid=1&pgid=1366)
 
-![Students Group Interacting with Helena](/images/News_Images/Helena.jpeg){:width="800" align="middle"}
+![Students Group Interacting with Helena](/images/News_Images/Helena.jpeg){:width="500" align="middle"}
 
-* Daniel Carvalho and James Schnable both gave invited talks at the Nebraska Plant Science Symposium, and Chenyong Miao recieved a prize in the poster competition at the same event. Thank you to the amazing organizing committee (including Preston Hurst) and all of the symposium sponsers. 
+* At the conference, he had the opportunity to learn a lot about current trends in agritechnology, and he also networked with different agri-tech companies like [Winfield United](https://twitter.com/AgFutureAmerica/status/1101542904949026821), [Helena](https://www.linkedin.com/feed/update/urn:li:activity:6509186526608445440), and [Bayer CropScience](https://www.facebook.com/photo.php?fbid=1184462881723149&set=a.584170425085734&type=3&theater). 
 
 
 ### 2019, February
