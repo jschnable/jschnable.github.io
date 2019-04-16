@@ -16,6 +16,15 @@ Top row L-> R: Tom Hoban, Xiuru Dai, Chenyong Miao, Preston Hurst. Bottom row L-
 
 ![Nebraska Plant Science Symposium 2019](/images/News_Images/NPSS19.jpg){:width="500" align="middle" }
 
+### 2019, February - March
+
+* On February 28- March 2, 2019,  [Aime Nishimwe attended AFA Technology Institute in Orlando Florida.](http://www.agfuture.org/s/1342/rd16/index3.aspx?sid=1342&gid=1&pgid=1366)
+
+![Students Group Interacting with Helena](/images/News_Images/Helena.jpeg){:width="800" align="middle"}
+
+* Daniel Carvalho and James Schnable both gave invited talks at the Nebraska Plant Science Symposium, and Chenyong Miao recieved a prize in the poster competition at the same event. Thank you to the amazing organizing committee (including Preston Hurst) and all of the symposium sponsers. 
+
+
 ### 2019, February
 
 * James Schnable, Brandi Sigmon, and Daniel Carvalho all attended Phenome in Tucson Arizona. Brandi was awarded an all expenses paid travel award by the Phenome organizing committee. James received the NAPPN Plant Phenotyping Early Career Award during the conference.
