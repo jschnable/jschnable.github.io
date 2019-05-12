@@ -13,12 +13,11 @@ title: Schnable Lab Papers
 
 **2019**
 
+<div data-badge-type="2" data-doi="10.1111/tpj.14376" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* **Yan L**, **Raju SKK**, **Lai X**, **Zhang Y**, **Dai X**, Rodriguez O, Mahboub S, Roston RL, **Schnable JC** (2019)"[Parallel natural selection in the cold-adapted crop-wild relative *Tripsacum dactyloides* and artificial selection in temperate adapted maize.](https://doi.org/10.1111/tpj.14376)" *The Plant Journal* doi: 10.1111/tpj.14376 *bioRxiv* doi: 10.1101/187575
+
 <div data-badge-type="2" data-doi="10.1016/j.compag.2019.03.009" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Bai G, Ge Y, Scoby D, Leavit B, Irmak S, Graef G, **Schnable JC**, Awada T. (2019) "[NU-Spidercam: A large-scale, cable-driven, integrated sensing and robotic system for precision phenotyping, remote sensing, and agronomic research.](https://authors.elsevier.com/sd/article/S0168169918314170)" *Computers and Electronics in Agriculture* doi: 10.1016/j.compag.2019.03.009
-
-
-<div data-badge-type="2" data-doi="10.1101/187575" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Yan L**, **Raju SKK**, **Lai X**, **Zhang Y**, **Dai X**, Rodriguez O, Mahboub S, Roston RL, **Schnable JC** (2019)"[Parallel natural selection in the cold-adapted crop-wild relative Tripsacum dactyloides and artificial selection in temperate adapted maize.](https://doi.org/10.1101/187575)" *The Plant Journal* (accepted pending minor revisions) *bioRxiv* doi: 10.1101/187575
 
 <div data-badge-type="2" data-doi="10.1038/s41467-019-08409-5" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Zou C, Miki D, Li D, Tang Q, Xiao L, Rajput S, Deng P, Peng L, Huang R, Zhang M, Sun Y, Hu J, Fu X, Schnable P, Li F, Zhang H, Feng B, Zhu X, Liu R, **Schnable JC**, Zhu JK, Zhang H. (2019) "[The genome of broomcorn millet.](https://doi.org/10.1038/s41467-019-08409-5)" *Nature Communications* doi: 10.1038/s41467-019-08409-5
