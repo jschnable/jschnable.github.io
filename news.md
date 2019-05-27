@@ -15,7 +15,7 @@ title: Schnable Lab News
 
 * Ashley Foltz, an alum of the REU program in the Schnable Lab is admitted back to UNL to work on her masters in the School of Biological Sciences.
 
-* James Schnable is notified that the university has officially recommended him for promotion to Associate Professor and tenure.
+* James Schnable is notified that the university has officially recommended him for promotion to Associate Professor and tenure. In the same month, he was selected as (https://blog.aspb.org/aspb-names-2019-award-recipients/)[the 2019 winner of the American Society of Plant Biologists Early Career award]. 
 
 ### 2019, March
 
