@@ -3,6 +3,19 @@ layout: page
 title: Schnable Lab News
 
 ---
+### 2019, May
+
+* Most of the lab is extremely busy prepping seed for our field season if it ever stops raining long enough to plant.
+
+* James Schnable presents at the Crops in Silico meeting at UIUC. No video but you can download the slide deck (http://cropsinsilico.org/2019-annual-meeting/)[here].
+
+### 2019, April
+
+* Preston Hurst graduates! Preston spent his last two years in the lab earning an MS. He's now moving upstairs to David Holding's group to work on genome editing in maize and sorghum.
+
+* Ashley Foltz, an alum of the REU program in the Schnable Lab is admitted back to UNL to work on her masters in the School of Biological Sciences.
+
+* James Schnable is notified that the university has officially recommended him for promotion to Associate Professor and tenure.
 
 ### 2019, March
 
@@ -10,11 +23,13 @@ title: Schnable Lab News
 
 ![Maize Meeting 2019](/images/News_Images/MGC19.jpg){:width="800" align="middle"}
 
-Top row L-> R: Tom Hoban, Xiuru Dai, Chenyong Miao, Preston Hurst. Bottom row L-> R Xiaoxi Meng, Zhikai Liang, Brandi Sigmon. Not pictured: Guangchao Sun, Nate Korth, James Schnable. 
+Top row L-> R: Tom Hoban, Xiuru Dai, Chenyong Miao, Preston Hurst. Bottom row L-> R Xiaoxi Meng, Zhikai Liang, Brandi Sigmon. Not pictured: Guangchao Sun, Nate Korth, James Schnable.
 
-* Daniel Carvalho and James Schnable both gave invited talks at the Nebraska Plant Science Symposium, and Chenyong Miao recieved a prize in the poster competition at the same event. Thank you to the amazing organizing committee (including Preston Hurst) and all of the symposium sponsers. 
+* Daniel Carvalho and James Schnable both gave invited talks at the Nebraska Plant Science Symposium, and Chenyong Miao recieved a prize in the poster competition at the same event. Thank you to the amazing organizing committee (including Preston Hurst) and all of the symposium sponsors. You can watch the video of Prof. Schnable's talk (https://go.unl.edu/6m06)[here].
 
 ![Nebraska Plant Science Symposium 2019](/images/News_Images/NPSS19.jpg){:width="500" align="middle" }
+
+* James Schnable returned to his old alma mater for (https://events.cornell.edu/event/SPRING_2019_PBG_SCHNABLE)[a seminar]. Thanks for the invite Cornell!
 
 ### 2019, February - March
 
@@ -22,7 +37,7 @@ Top row L-> R: Tom Hoban, Xiuru Dai, Chenyong Miao, Preston Hurst. Bottom row L-
 
 ![Students Group Interacting with Helena](/images/News_Images/Helena.jpeg){:width="500" align="middle"}
 
-* At the conference, he had the opportunity to learn a lot about current trends in agritechnology, and he also networked with different agri-tech companies like [Winfield United](https://twitter.com/AgFutureAmerica/status/1101542904949026821), [Helena](https://www.linkedin.com/feed/update/urn:li:activity:6509186526608445440), and [Bayer CropScience](https://www.facebook.com/photo.php?fbid=1184462881723149&set=a.584170425085734&type=3&theater). 
+* At the conference, he had the opportunity to learn a lot about current trends in agritechnology, and he also networked with different agri-tech companies like [Winfield United](https://twitter.com/AgFutureAmerica/status/1101542904949026821), [Helena](https://www.linkedin.com/feed/update/urn:li:activity:6509186526608445440), and [Bayer CropScience](https://www.facebook.com/photo.php?fbid=1184462881723149&set=a.584170425085734&type=3&theater).
 
 
 ### 2019, February
