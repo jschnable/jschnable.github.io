@@ -3,11 +3,22 @@ layout: page
 title: Schnable Lab News
 
 ---
+### 2019, June
+
+* Welcome to the Schnable Lab Natalie Belz (Scripps College, CA) and Bryce Askey (University of Florida). Natialie and Bryce are both NSF supported undergrad students who will spend the summer here as part of the Research Experience for Undergraduates program.
+
+![Summer Lab Meeting](/images/News_Images/SummerLabMeeting19.jpg){:width="800" align="middle"}
+Our first lab meeting to include this summer's REU students.
+
 ### 2019, May
+
+* In the midst of the rainiest planting season across the corn belt in 40+ years, the whole lab pulled together to prep seeds and get seed in the ground on the rare days when fields were dry enough for our planter. Read more about just how bad this year has already been for corn in [this Washington Post article](https://www.washingtonpost.com/local/2019/06/04/after-biblical-spring-this-is-week-that-could-break-corn-belt/?utm_term=.7f035f899700). 
+
+![Planting 2019](/images/News_Images/Planting19.jpg){:width="800" align="middle"}
 
 * Most of the lab is extremely busy prepping seed for our field season if it ever stops raining long enough to plant.
 
-* James Schnable presents at the Crops in Silico meeting at UIUC. No video but you can download the slide deck (http://cropsinsilico.org/2019-annual-meeting/)[here].
+* James Schnable presents at the Crops in Silico meeting at UIUC. No video but you can download the slide deck [here](http://cropsinsilico.org/2019-annual-meeting/).
 
 ### 2019, April
 
@@ -15,7 +26,7 @@ title: Schnable Lab News
 
 * Ashley Foltz, an alum of the REU program in the Schnable Lab is admitted back to UNL to work on her masters in the School of Biological Sciences.
 
-* James Schnable is notified that the university has officially recommended him for promotion to Associate Professor and tenure. In the same month, he was selected as (https://blog.aspb.org/aspb-names-2019-award-recipients/)[the 2019 winner of the American Society of Plant Biologists Early Career award]. 
+* James Schnable is notified that the university has officially recommended him for promotion to Associate Professor and tenure. In the same month, he was selected as [the 2019 winner of the American Society of Plant Biologists Early Career award](https://blog.aspb.org/aspb-names-2019-award-recipients/). 
 
 ### 2019, March
 
@@ -29,7 +40,7 @@ Top row L-> R: Tom Hoban, Xiuru Dai, Chenyong Miao, Preston Hurst. Bottom row L-
 
 ![Nebraska Plant Science Symposium 2019](/images/News_Images/NPSS19.jpg){:width="500" align="middle" }
 
-* James Schnable returned to his old alma mater for (https://events.cornell.edu/event/SPRING_2019_PBG_SCHNABLE)[a seminar]. Thanks for the invite Cornell!
+* James Schnable returned to his old alma mater for [a seminar](https://events.cornell.edu/event/SPRING_2019_PBG_SCHNABLE). Thanks for the invite Cornell, and thank you for hosting me [Buckler Lab](https://www.maizegenetics.net/)!
 
 ### 2019, February - March
 
