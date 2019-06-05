@@ -26,8 +26,8 @@ googlefonts: ["Monoton", "Lobster"]
 |![Aime Nishimwe](/images/People_Images/Aime.jpg){:width="120"}|Aime Nishimwe|CUSP Bachelors Student|[CV](/CVs/Aime Valentin Nishimwe.pdf)|
 |![Nate Pester](/images/People_Images/NateP.jpg){:width="120"}|Nate Pester|Bachelors Student<br>Sigmon Group||
 |![Brian Liu](/images/People_Images/BrianL.jpg){:width="120"}|Xiangdong "Brian" Liu|Bachelors Student<br>Sigmon Group||
-|![Natalie Belz]|Natalie Belz|REU Student||
-|![Bryce Askey](/images/People_Images/BryceA.jpg)|Bryce Askey|REU Student||
+|![Natalie Belz](/images/People_Images/placeholder.jpg){:width="120"}|Natalie Belz|REU Student||
+|![Bryce Askey](/images/People_Images/BryceA.jpg){:width="120"}|Bryce Askey|REU Student||
 {:.table100.ver1}
 
 **Lab Alumni**
