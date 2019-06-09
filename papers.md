@@ -13,8 +13,13 @@ title: Schnable Lab Papers
 
 **2019**
 
+* **Schnable JC** (2019) "Genes and Gene Models, an Important Distinction. *New Phytologist* *(Accepted)*
+
 <div data-badge-type="2" data-doi="10.1111/tpj.14376" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Yan L**, **Raju SKK**, **Lai X**, **Zhang Y**, **Dai X**, Rodriguez O, Mahboub S, Roston RL, **Schnable JC** (2019)"[Parallel natural selection in the cold-adapted crop-wild relative *Tripsacum dactyloides* and artificial selection in temperate adapted maize.](https://doi.org/10.1111/tpj.14376)" *The Plant Journal* doi: 10.1111/tpj.14376 *bioRxiv* doi: 10.1101/187575
+* **Yan L**, **Raju SKK**, **Lai X**, **Zhang Y**, **Dai X**, Rodriguez O, Mahboub S, Roston RL, **Schnable JC** (2019) "[Parallel natural selection in the cold-adapted crop-wild relative *Tripsacum dactyloides* and artificial selection in temperate adapted maize.](https://doi.org/10.1111/tpj.14376)" *The Plant Journal* doi: 10.1111/tpj.14376 *bioRxiv* doi: 10.1101/187575
+
+<div data-badge-type="2" data-doi="10.1007/s11032-019-0981-8" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* Li L, Li X, Li L, **Schnable JC**, Gu R, J Wang (2019) "[QTL identification and epistatic effect analysis of seed size- and weight-related traits in *Zea mays* L.](https://doi.org/10.1007/s11032-019-0981-8)" *Molecular Breeding* doi: 10.1007/s11032-019-0981-8
 
 <div data-badge-type="2" data-doi="10.1016/j.compag.2019.03.009" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Bai G, Ge Y, Scoby D, Leavit B, Irmak S, Graef G, **Schnable JC**, Awada T. (2019) "[NU-Spidercam: A large-scale, cable-driven, integrated sensing and robotic system for precision phenotyping, remote sensing, and agronomic research.](https://authors.elsevier.com/sd/article/S0168169918314170)" *Computers and Electronics in Agriculture* doi: 10.1016/j.compag.2019.03.009
