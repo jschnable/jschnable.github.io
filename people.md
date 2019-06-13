@@ -18,10 +18,9 @@ googlefonts: ["Monoton", "Lobster"]
 |![Preston Hurst](/images/People_Images/Preston.jpg){:width="120"}|Preston Hurst|MS Student||
 |![Xiuru Dai](/images/People_Images/Xiuru_small.jpg){:width="120"}|Xiuru Dai<a href="https://twitter.com/Xiuru_Dai"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Visiting PhD Student<br>Shandong Agricultural Universty||
 |![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|PhD Student<br>_(co-advised)_||
+|![Ally](/images/People_Images/Ally.jpg){:width="120"}|Alexandra Bradley|Summer Field Tech||
+|![Mackenzie](/images/People_Images/Mackenzie.jpeg){:width="120"}|Mackenzie Zwiener|Summer Field Tech||
 |![Thomas Hoban](/images/People_Images/thoban.jpg){:width="120"}|Thomas Hoban|Bachelors Student|
-|![Alex Enersen](/images/People_Images/AlexE.jpg){:width="120"}|Alex Enersen|Bachelors Student||
-|![Ally](/images/People_Images/Ally.jpg){:width="120"}|Alexandra Bradley|Bachelors Student||
-|![Mackenzie](/images/People_Images/Mackenzie.jpeg){:width="120"}|Mackenzie Zwiener|Bachelors Student||
 |![Alejandro Pages](/images/People_Images/AlexP.jpg){:width="120"}|Alejandro Pages| UCARE Bachelors Student||
 |![Aime Nishimwe](/images/People_Images/Aime.jpg){:width="120"}|Aime Nishimwe|CUSP Bachelors Student|[CV](/CVs/Aime Valentin Nishimwe.pdf)|
 |![Nate Pester](/images/People_Images/NateP.jpg){:width="120"}|Nate Pester|Bachelors Student<br>Sigmon Group||
@@ -51,10 +50,11 @@ googlefonts: ["Monoton", "Lobster"]
 |![Xiaoyang (Chloe) Ye](/images/People_Images/Chloe.jpg){:width="120"}|Xiaoyang (Chloe) Ye|Bachelors Student|2016-2017|
 |![Holly Podliska](/images/People_Images/Holly.jpg){:width="120"}|Holly Podliska|UCARE Bachelors Student|2016-2017|PostBac Student at Los Alamos National Lab|
 |![Connor Pedersen](/images/People_Images/Connor.JPG){:width="120"}|Connor Pedersen<a href="https://twitter.com/Connor_1695"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Research Assistant|2017-2018|
-|![Kyle Johnson](/images/People_Images/Johnson_small.JPG){:width="120"}|Kyle Johnson|REU Student|Summer 2016|PhD student studying bioinformatics at BYU|
+|![Kyle Johnson](/images/People_Images/Johnson_small.JPG){:width="120"}|Kyle Johnson|REU Student|Summer 2016|Phd Student; Biomedical Engineering; Georgia Tech|
 |![Taylor Horn](/images/People_Images/Horn_small.JPG){:width="120"}|Taylor Horn|REU Student|Summer 2016|
 |![Nicole Hollander](/images/People_Images/NicoleH.jpg){:width="120"}|Nicole Hollander|YNS High School Intern|Summer 2017|
 |![Christian Butera](/images/People_Images/CButera.png){:width="120"}|Christian Butera|REU Student|Summer 2018|Clinical Scientist at PerkinElmer Genomics|
 |![Ashley Foltz](/images/People_Images/Ashley18.jpg){:width="120"}|Ashley Foltz|REU Student|Summer 2018|Graduate Student in the School of Biological Sciences at UNL|
+|![Alex Enersen](/images/People_Images/AlexE.jpg){:width="120"}|Alex Enersen|Bachelors Student|2017-2019||
 |![Isabel Sigmon](/images/People_Images/isabel.jpg){:width="120"}|Isabel Sigmon|High School Intern|Summer 2018|
 {:.table100.ver1}
