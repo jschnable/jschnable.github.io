@@ -45,11 +45,11 @@ googlefonts: ["Monoton", "Lobster"]
 |![Srinidhi Bashyam](/images/People_Images/Srinidhi.jpg){:width="120"}|Srinidhi Bashyam|Comp. Sci. MS Student<br>_(co-advised)_|2015-2016|Systems Software Developer, University of Nebraska-Lincoln|
 |![Sarah Johnson](/images/People_Images/Sarah.jpg){:width="120"}|Sarah Johnson|Rotating PhD Student<br>Complex Biosystems|Spring 2017|Graduate Student, Clemente & Hyten Labs|
 |![Lei Tian](/images/People_Images/Lei_Tian_Small.JPG){:width="120" align="middle"}|Lei Tian|Visiting PhD Student<br>Henan Agricultural University|Summer 2014|PhD Student|
-|![Daniel Ngu](/images/People_Images/Danielngu_small.jpg){:width="120"}|Daniel Ngu|Bachelors Student|2014-2017|
-|![Logan Olson](/images/People_Images/logan.JPG){:width="120"}|Logan Olson|Bachelors Student|2016-2017|
-|![Xiaoyang (Chloe) Ye](/images/People_Images/Chloe.jpg){:width="120"}|Xiaoyang (Chloe) Ye|Bachelors Student|2016-2017|
-|![Holly Podliska](/images/People_Images/Holly.jpg){:width="120"}|Holly Podliska|UCARE Bachelors Student|2016-2017|PostBac Student at Los Alamos National Lab|
-|![Connor Pedersen](/images/People_Images/Connor.JPG){:width="120"}|Connor Pedersen<a href="https://twitter.com/Connor_1695"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Research Assistant|2017-2018|
+|![Daniel Ngu](/images/People_Images/Danielngu_small.jpg){:width="120"}|Daniel Ngu|Bachelors Student|2014-2017||
+|![Logan Olson](/images/People_Images/logan.JPG){:width="120"}|Logan Olson|Bachelors Student|2016-2017||
+|![Xiaoyang (Chloe) Ye](/images/People_Images/Chloe.jpg){:width="120"}|Xiaoyang (Chloe) Ye|Bachelors Student|2016-2017||
+|![Holly Podliska](/images/People_Images/Holly.jpg){:width="120"}|Holly Podliska|UCARE Bachelors Student|2016-2017|Student Teacher|
+|![Connor Pedersen](/images/People_Images/Connor.JPG){:width="120"}|Connor Pedersen<a href="https://twitter.com/Connor_1695"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Research Assistant|2017-2018|	PostBac Student at Los Alamos National Lab|
 |![Kyle Johnson](/images/People_Images/Johnson_small.JPG){:width="120"}|Kyle Johnson|REU Student|Summer 2016|Phd Student; Biomedical Engineering; Georgia Tech|
 |![Taylor Horn](/images/People_Images/Horn_small.JPG){:width="120"}|Taylor Horn|REU Student|Summer 2016|
 |![Nicole Hollander](/images/People_Images/NicoleH.jpg){:width="120"}|Nicole Hollander|YNS High School Intern|Summer 2017|
