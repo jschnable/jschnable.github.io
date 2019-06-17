@@ -29,7 +29,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Bryce Askey](/images/People_Images/BryceA.jpg){:width="120"}|Bryce Askey|REU Student||
 |![Lou Townsend](/images/People_Images/Lou.jpg){:width="120"}|Lou Townsend|Bachelors Student||
 |![Alex Molnar](/images/People_Images/AlexMo.jpg){:width="120"}|Alex Molnar|Bachelors Student||
-|![Nate Andreasen](/images/People_Images/placeholder.jpg){:width="120"}|Nate Andreasen|Bachelors Student||
+|![Nate Andreasen](/images/People_Images/NateA.jpg){:width="120"}|Nate Andreasen|Bachelors Student||
 |![Seth Snell](/images/People_Images/Seth.jpg){:width="120"}|Seth Snell|Bachelors Student||
 {:.table100.ver1}
 
