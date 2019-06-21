@@ -13,7 +13,11 @@ title: Schnable Lab Papers
 
 **2019**
 
-* **Schnable JC** (2019) "Genes and Gene Models, an Important Distinction. *New Phytologist* *(Accepted)*
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* Ge Y, Atefi A, Zhang H, **Miao C**, Ramamurthy RK, **Sigmon B**, Yang J, **Schnable JC** (2019) "High-throughput analysis of leaf physiological and chemical traits with VIS-NIR-SWIR spectroscopy: A case study with a maize diversity panel." *Plant Methods* *(Accepted)*
+
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* **Schnable JC** (2019) "Genes and Gene Models, an Important Distinction." *New Phytologist* *(In Press)*
 
 <div data-badge-type="2" data-doi="10.1016/j.compag.2019.104854" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Atefi A, Ge Y,  Pitla S, **Schnable JC** (2019) [*In vivo* human-like robotic phenotyping of leaf traits in maize and sorghum.](https://doi.org/10.1016/j.compag.2019.104854) *Computers and Electronics in Agriculture* doi: 10.1016/j.compag.2019.104854
