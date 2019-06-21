@@ -83,9 +83,8 @@ At its most basic, this area ensures that graduates of the Schnable lab are fami
 
 **Funding Supporting Efforts in This Cluster**
 
-NSF [RII Track-2 FEC: Functional analysis of nitrogen responsive networks in Sorghum.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1826781&HistoricalAwards=false)
-FFAR [Crops in silico: Increasing crop production by connecting models from the microscale to the
-macroscale.](http://www.ncsa.illinois.edu/news/story/crops_in_silico_project_awarded_5_million)
-NSF [Center for Root and Rhizobiome Innovation.](https://nsf.gov/awardsearch/showAward?AWD_ID=1557417)
-ICRISAT: Application of tGBS And Genomic Selection to a Hybrid Pearl Millet Breeding Program.
+* NSF [RII Track-2 FEC: Functional analysis of nitrogen responsive networks in Sorghum.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1826781&HistoricalAwards=false)
+* FFAR [Crops in silico: Increasing crop production by connecting models from the microscale to the macroscale.](http://www.ncsa.illinois.edu/news/story/crops_in_silico_project_awarded_5_million)
+* NSF [Center for Root and Rhizobiome Innovation.](https://nsf.gov/awardsearch/showAward?AWD_ID=1557417)
+* ICRISAT: Application of tGBS And Genomic Selection to a Hybrid Pearl Millet Breeding Program.
 
