@@ -13,14 +13,14 @@ Research in the Schnable Lab@UNL in an interdisciplinary business. Here are thre
 
 <a id="Comparative">
 
-Comparative Functional Genomics
-------
+## Comparative Functional Genomics
+
 
 Research in this area focuses on utilizing cross species comparisons to separate out the functional and functionless portions of plant genomes and then prediction the functions of the apparently functional bits. 
 
-![CompGen](/images/Science_Images/CompGenMerged.jpg){:width="800" align="middle"}
+![CompGen](/images/Science_Images/CompGenMerged.jpg)
 
-**Recent Lab Publications on Comparative Genomics
+### Recent Lab Publications on Comparative Genomics
 
 * **Schnable JC** (2019) "Genes and Gene Models, an Important Distinction." *New Phytologist* *(In Press)*
 * **Yan L**, **Raju SKK**, **Lai X**, **Zhang Y**, **Dai X**, Rodriguez O, Mahboub S, Roston RL, **Schnable JC** (2019) "[Parallel natural selection in the cold-adapted crop-wild relative *Tripsacum dactyloides* and artificial selection in temperate adapted maize.](https://doi.org/10.1111/tpj.14376)" *The Plant Journal* doi: 10.1111/tpj.14376 *bioRxiv* doi: 10.1101/187575
@@ -33,20 +33,22 @@ Research in this area focuses on utilizing cross species comparisons to separate
 * Walley JW,* Sartor RC,* Shen Z, Schmitz RJ, Wu KJ, Urich MA, Nery JR, Smith LG, <b>Schnable JC</b>, Ecker JR, Briggs SP. (2016) "<a href="http://dx.doi.org/10.1126/science.aag1125">Integration of omic networks in a developmental atlas of maize.</a>" <i>Science</i> doi: 10.1126/science.aag1125
 * <b>Schnable JC</b>. (2015) "<a href="http://dx.doi.org/10.1146/annurev-arplant-043014-115604">Genome evolution in maize: from genomes back to genes.</a>" <i>Annual Review of Plant Biology</i> doi: 10.1146/annurev-arplant-043014-115604
 
-**Funding Supporting Efforts in Comparative Genomics**
+### Funding Supporting Efforts in Comparative Genomics
 
 * NSF [RoL: FELS: EAGER: Genetic Constraints on the Increase of Organismal Complexity Over Time.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1838307)
 * USDA-NIFA [Identifying mechanisms conferring low temperature tolerance in maize, sorghum, and frost tolerant relatives.](https://portal.nifa.usda.gov/web/crisprojectpages/1008702-identifying-mechanisms-conferring-low-temperature-tolerance-in-maize-sorghum-and-frost-tolerant-relatives.html)
 
 <a id="Phenotying"></a>
-High Throughoupt  Phenotyping
-------
+
+## High Throughoupt  Phenotyping
+
 
 This area focuses on developing and deploying new algorithms, tools, and datasets for high throughput plant phenotyping. On the development side we collaborate closely with engineers and statisticians both here at UNL and at other univerisities around the world.
 
-![CompGen](/images/Science_Images/HTPMerged.jpg){:width="800" align="middle"}
+![CompGen](/images/Science_Images/HTPMerged.jpg)
 
-**Recent Lab Publications on High Throughput Phenotyping**
+### Recent Lab Publications on High Throughput Phenotyping
+
 * Ge Y, Atefi A, Zhang H, **Miao C**, Ramamurthy RK, **Sigmon B**, Yang J, **Schnable JC** (2019) "High-throughput analysis of leaf physiological and chemical traits with VIS-NIR-SWIR spectroscopy: A case study with a maize diversity panel." *Plant Methods* *(Accepted)*
 * Atefi A, Ge Y,  Pitla S, **Schnable JC** (2019) [*In vivo* human-like robotic phenotyping of leaf traits in maize and sorghum.](https://doi.org/10.1016/j.compag.2019.104854) *Computers and Electronics in Agriculture* doi: 10.1016/j.compag.2019.104854
 * Bai G, Ge Y, Scoby D, Leavit B, Irmak S, Graef G, **Schnable JC**, Awada T. (2019) "[NU-Spidercam: A large-scale, cable-driven, integrated sensing and robotic system for precision phenotyping, remote sensing, and agronomic research.](https://authors.elsevier.com/sd/article/S0168169918314170)" *Computers and Electronics in Agriculture* doi: 10.1016/j.compag.2019.03.009
@@ -57,7 +59,7 @@ This area focuses on developing and deploying new algorithms, tools, and dataset
 *  Pandey P, Ge Y, Stoerger V, <b>Schnable JC</b>. (2017) "<a href="http://dx.doi.org/10.3389/fpls.2017.01348">High throughput in vivo analysis of plant leaf chemical properties using hyperspectral imaging</a>" <i>Frontiers in Plant Science</i> doi: 10.3389/fpls.2017.01348  
 * Ge Y, Bai G, Stoerger V, <b>Schnable JC</b>. (2016) "<a href="http://dx.doi.org/10.1016/j.compag.2016.07.028">Temporal dynamics of maize plant growth, water use, and plant water content using automated high throughput RGB and hyperspectral imaging.</a>" <i>Computers and Electronics in Agriculture</i> doi: 10.1016/j.compag.2016.07.028 
 
-**Funding Supporting Efforts in High Throughput Phenotyping**
+### Funding Supporting Efforts in High Throughput Phenotyping
 
 * NSF [BTT EAGER: A wearable plant sensor for real-time monitoring of sap flow and stem diameter to accelerate breeding for water use efficiency.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1844563) 
 * ARPA-E: In-plant and in-soil microsensors enabled high-throughput phenotyping of root nitrogen uptake and nitrogen use efficiency."
@@ -70,14 +72,14 @@ This area focuses on developing and deploying new algorithms, tools, and dataset
 
 <a id="QuantGen" />
 
-Quantitative Genetics
-------
+## Quantitative Genetics
+
 
 At its most basic, this area ensures that graduates of the Schnable lab are familiar with modern algorithms to perform basic quantitative genetic tasks including GWAS and genomic selection. However, more advanced work in this area involves developing and applying new statistical approaches that either leverage either the unique features of new phenotypic datasets (for example time-series data from whole mapping populations collected using HTP technologies) or sharing data across related species. 
 
-![CompGen](/images/Science_Images/QGMerged.jpg){:width="800" align="middle"}
+![CompGen](/images/Science_Images/QGMerged.jpg)
 
-**Recent Lab Publications on Quantitative Genetics**
+### Recent Lab Publications on Quantitative Genetics
 
 * **Liang Z**, Qiu Y, **Schnable JC** (2018) "[Distinct characteristics of genes associated with phenome-wide variation in maize (*Zea mays*)](https://doi.org/10.1101/534503)" *bioRxiv* doi: 10.1101/534503
 * **Miao C**, **Yang J**, **Schnable JC** (2018) "[Optimizing the identification of causal variants across varying genetic architectures in crops.](https://doi.org/10.1111/pbi.13023)" *Plant Biotechnology Journal* doi: 10.1111/pbi.13023 <i>bioRxiv</i> doi: [10.1101/310391](https://doi.org/10.1101/310391)
@@ -88,7 +90,7 @@ At its most basic, this area ensures that graduates of the Schnable lab are fami
 * <b>Liang Z</b>, <b>Schnable JC</b>. "<a href="http://dx.doi.org/10.1371/journal.pone.0157942">RNA-seq based analysis of population structure within the maize inbred B73.</a>" <i>PLoS One</i> doi: 10.1371/journal.pone.0157942 <i>bioRxiv</i> preprint doi: <a href="http://dx.doi.org/10.1101/043513">10.1101/043513</a>
 *  Rajput SG, Santra DK, <b>Schnable JC</b>. (2016) "<a href="http://dx.doi.org/10.1007/s11032-016-0460-4">Mapping QTLs for morpho-agronomic traits in proso millet (<i>Panicum miliaceum L.</i>).</a>" <i>Molecular Breeding</i> doi: 10.1007/s11032-016-0460-4
 
-**Funding Supporting Efforts in This Cluster**
+### Funding Supporting Efforts in Quantitative Genetics
 
 * NSF [RII Track-2 FEC: Functional analysis of nitrogen responsive networks in Sorghum.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1826781&HistoricalAwards=false)
 * FFAR [Crops in silico: Increasing crop production by connecting models from the microscale to the macroscale.](http://www.ncsa.illinois.edu/news/story/crops_in_silico_project_awarded_5_million)
