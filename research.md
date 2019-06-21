@@ -13,34 +13,38 @@ Research in the Schnable Lab@UNL in an interdisciplinary business. Here are thre
 
 <a id="Comparative">
 
-**Comparative Functional Genomics**
+Comparative Functional Genomics
+------
 
 Research in this area focuses on utilizing cross species comparisons to separate out the functional and functionless portions of plant genomes and then prediction the functions of the apparently functional bits. 
 
+![CompGen](/images/Science_Images/CompGenMerged.jpg){:width="800" align="middle"}
 
-**Recent Lab Publications on Plant Comparative Omics**
+**Recent Lab Publications on Comparative Genomics
 
 * **Schnable JC** (2019) "Genes and Gene Models, an Important Distinction." *New Phytologist* *(In Press)*
 * **Yan L**, **Raju SKK**, **Lai X**, **Zhang Y**, **Dai X**, Rodriguez O, Mahboub S, Roston RL, **Schnable JC** (2019) "[Parallel natural selection in the cold-adapted crop-wild relative *Tripsacum dactyloides* and artificial selection in temperate adapted maize.](https://doi.org/10.1111/tpj.14376)" *The Plant Journal* doi: 10.1111/tpj.14376 *bioRxiv* doi: 10.1101/187575
 * **Raju SKK**, Barnes A, **Schnable JC**, Roston RL. (2018) "[Low-temperature tolerance in land plants: Are transcript and membrane responses conserved?](https://doi.org/10.1016/j.plantsci.2018.08.002)" *Plant Science* doi: 10.1016/j.plantsci.2018.08.002
 * **Liang Z**, **Schnable JC**. (2018) "<a href="https://doi.org/10.1016/j.molp.2017.12.010">Functional Divergence Between Subgenomes and Gene Pairs After Whole Genome Duplications.</a>" <i>Molecular Plant</i> doi: 10.1016/j.molp.2017.12.010
 * <b>Lai X</b>, <b>Yan L</b>, Lu Y, <b>Schnable JC</b>. (2018) "<a href="https://doi.org/10.1111/tpj.13806">Largely unlinked gene sets targeted by selection for domestication syndrome phenotypes in maize and sorghum.</a>" <i>The Plant Journal</i> doi: 10.1111/tpj.13806  <i>bioRxiv</i> doi: <a href="https://doi.org/10.1101/184424">10.1101/184424</a>
-*  Mei W, Boatwright L, Feng G, <b>Schnable JC</b>, Barbazuk WB. (2017) "<a href="https://doi.org/10.1534/genetics.117.300189">Evolutionarily conserved alternative splicing across monocots</a>." <i>Genetics</i> doi: 10.1534/genetics.117.300189 <i>bioRxiv</i> preprint doi: <a href="http://dx.doi.org/10.1101/120469">10.1101/120469</a><br>(Cover Article <a href="http://www.genetics.org/content/207/2">October 2017</a>)   
 *  <b>Zhang Y</b>, <b>Ngu DW</b>, <b>Carvalho D</b>, <b>Liang Z</b>, Qiu Y, Roston RL, <b>Schnable JC</b>. (2017) "<a href="http://dx.doi.org/10.1105/tpc.17.00354">Differentially regulated orthologs in sorghum and the subgenomes of maize.</a>" <i>The Plant Cell</i> doi: 10.1105/tpc.17.00354 <i>bioRxiv</i> preprint doi: <a href="http://dx.doi.org/10.1101/120303">10.1101/120303</a>  
+*  Mei W, Boatwright L, Feng G, <b>Schnable JC</b>, Barbazuk WB. (2017) "<a href="https://doi.org/10.1534/genetics.117.300189">Evolutionarily conserved alternative splicing across monocots</a>." <i>Genetics</i> doi: 10.1534/genetics.117.300189 <i>bioRxiv</i> preprint doi: <a href="http://dx.doi.org/10.1101/120469">10.1101/120469</a><br>(Cover Article <a href="http://www.genetics.org/content/207/2">October 2017</a>)   
 *  <b>Lai X</b>,* Behera S,* <b>Liang Z</b>, Lu Y, Deogun JS, <b>Schnable JC</b>. (2017) "<a href="http://dx.doi.org/10.1016/j.molp.2017.05.010">STAG-CNS: An order-aware conserved noncoding sequence discovery tool for arbitrary numbers of species.</a>" <i>Molecular Plant</i> doi: 10.1016/j.molp.2017.05.010 <i>bioRxiv</i> preprint doi: <a href="http://dx.doi.org/10.1101/120428">10.1101/120428</a>  
 * Walley JW,* Sartor RC,* Shen Z, Schmitz RJ, Wu KJ, Urich MA, Nery JR, Smith LG, <b>Schnable JC</b>, Ecker JR, Briggs SP. (2016) "<a href="http://dx.doi.org/10.1126/science.aag1125">Integration of omic networks in a developmental atlas of maize.</a>" <i>Science</i> doi: 10.1126/science.aag1125
 * <b>Schnable JC</b>. (2015) "<a href="http://dx.doi.org/10.1146/annurev-arplant-043014-115604">Genome evolution in maize: from genomes back to genes.</a>" <i>Annual Review of Plant Biology</i> doi: 10.1146/annurev-arplant-043014-115604
 
-**Funding Supporting Efforts in This Cluster**
+**Funding Supporting Efforts in Comparative Genomics**
 
 * NSF [RoL: FELS: EAGER: Genetic Constraints on the Increase of Organismal Complexity Over Time.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1838307)
 * USDA-NIFA [Identifying mechanisms conferring low temperature tolerance in maize, sorghum, and frost tolerant relatives.](https://portal.nifa.usda.gov/web/crisprojectpages/1008702-identifying-mechanisms-conferring-low-temperature-tolerance-in-maize-sorghum-and-frost-tolerant-relatives.html)
 
 <a id="Phenotying"></a>
-<br>
-**High Throughoupt  Phenotyping**
-<br>
+High Throughoupt  Phenotyping
+------
+
 This area focuses on developing and deploying new algorithms, tools, and datasets for high throughput plant phenotyping. On the development side we collaborate closely with engineers and statisticians both here at UNL and at other univerisities around the world.
+
+![CompGen](/images/Science_Images/HTPMerged.jpg){:width="800" align="middle"}
 
 **Recent Lab Publications on High Throughput Phenotyping**
 * Ge Y, Atefi A, Zhang H, **Miao C**, Ramamurthy RK, **Sigmon B**, Yang J, **Schnable JC** (2019) "High-throughput analysis of leaf physiological and chemical traits with VIS-NIR-SWIR spectroscopy: A case study with a maize diversity panel." *Plant Methods* *(Accepted)*
@@ -53,7 +57,7 @@ This area focuses on developing and deploying new algorithms, tools, and dataset
 *  Pandey P, Ge Y, Stoerger V, <b>Schnable JC</b>. (2017) "<a href="http://dx.doi.org/10.3389/fpls.2017.01348">High throughput in vivo analysis of plant leaf chemical properties using hyperspectral imaging</a>" <i>Frontiers in Plant Science</i> doi: 10.3389/fpls.2017.01348  
 * Ge Y, Bai G, Stoerger V, <b>Schnable JC</b>. (2016) "<a href="http://dx.doi.org/10.1016/j.compag.2016.07.028">Temporal dynamics of maize plant growth, water use, and plant water content using automated high throughput RGB and hyperspectral imaging.</a>" <i>Computers and Electronics in Agriculture</i> doi: 10.1016/j.compag.2016.07.028 
 
-**Funding Supporting Efforts in This Cluster**
+**Funding Supporting Efforts in High Throughput Phenotyping**
 
 * NSF [BTT EAGER: A wearable plant sensor for real-time monitoring of sap flow and stem diameter to accelerate breeding for water use efficiency.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1844563) 
 * ARPA-E: In-plant and in-soil microsensors enabled high-throughput phenotyping of root nitrogen uptake and nitrogen use efficiency."
@@ -66,9 +70,12 @@ This area focuses on developing and deploying new algorithms, tools, and dataset
 
 <a id="QuantGen" />
 
-**Quantitative Genetics**
+Quantitative Genetics
+------
 
 At its most basic, this area ensures that graduates of the Schnable lab are familiar with modern algorithms to perform basic quantitative genetic tasks including GWAS and genomic selection. However, more advanced work in this area involves developing and applying new statistical approaches that either leverage either the unique features of new phenotypic datasets (for example time-series data from whole mapping populations collected using HTP technologies) or sharing data across related species. 
+
+![CompGen](/images/Science_Images/QGMerged.jpg){:width="800" align="middle"}
 
 **Recent Lab Publications on Quantitative Genetics**
 
