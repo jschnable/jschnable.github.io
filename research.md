@@ -3,7 +3,7 @@ layout: page
 title: Schnable Lab Research Interests
 ---
 
-Research in the Schnable Lab@UNL in an interdisciplinary business. Our projects involving collaborations with engineers, computer scientists, statisticians, and food scientists. Here are three main clusters:
+Research in the Schnable Lab@UNL in an interdisciplinary business. Here are three main clusters:
 <ul>
 <li><a href="#Comparative">Comparative functional genomics</a></li>
 <li><a href="#Phenotyping">High throughput phenotyping</a></li>
