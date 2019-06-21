@@ -81,7 +81,7 @@ At its most basic, this area ensures that graduates of the Schnable lab are fami
 * <b>Liang Z</b>, <b>Schnable JC</b>. "<a href="http://dx.doi.org/10.1371/journal.pone.0157942">RNA-seq based analysis of population structure within the maize inbred B73.</a>" <i>PLoS One</i> doi: 10.1371/journal.pone.0157942 <i>bioRxiv</i> preprint doi: <a href="http://dx.doi.org/10.1101/043513">10.1101/043513</a>
 *  Rajput SG, Santra DK, <b>Schnable JC</b>. (2016) "<a href="http://dx.doi.org/10.1007/s11032-016-0460-4">Mapping QTLs for morpho-agronomic traits in proso millet (<i>Panicum miliaceum L.</i>).</a>" <i>Molecular Breeding</i> doi: 10.1007/s11032-016-0460-4
 
-** Funding Supporting Efforts in This Cluster **
+**Funding Supporting Efforts in This Cluster**
 
 NSF [RII Track-2 FEC: Functional analysis of nitrogen responsive networks in Sorghum.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1826781&HistoricalAwards=false)
 FFAR [Crops in silico: Increasing crop production by connecting models from the microscale to the
