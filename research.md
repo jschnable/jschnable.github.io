@@ -31,7 +31,7 @@ Research in this area focuses on utilizing cross species comparisons to separate
 * Walley JW,* Sartor RC,* Shen Z, Schmitz RJ, Wu KJ, Urich MA, Nery JR, Smith LG, <b>Schnable JC</b>, Ecker JR, Briggs SP. (2016) "<a href="http://dx.doi.org/10.1126/science.aag1125">Integration of omic networks in a developmental atlas of maize.</a>" <i>Science</i> doi: 10.1126/science.aag1125
 * <b>Schnable JC</b>. (2015) "<a href="http://dx.doi.org/10.1146/annurev-arplant-043014-115604">Genome evolution in maize: from genomes back to genes.</a>" <i>Annual Review of Plant Biology</i> doi: 10.1146/annurev-arplant-043014-115604
 
-** Funding Supporting Efforts in This Cluster **
+**Funding Supporting Efforts in This Cluster**
 
 * NSF [RoL: FELS: EAGER: Genetic Constraints on the Increase of Organismal Complexity Over Time.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1838307)
 * USDA-NIFA [Identifying mechanisms conferring low temperature tolerance in maize, sorghum, and frost tolerant relatives.](https://portal.nifa.usda.gov/web/crisprojectpages/1008702-identifying-mechanisms-conferring-low-temperature-tolerance-in-maize-sorghum-and-frost-tolerant-relatives.html)
@@ -53,7 +53,7 @@ This area focuses on developing and deploying new algorithms, tools, and dataset
 *  Pandey P, Ge Y, Stoerger V, <b>Schnable JC</b>. (2017) "<a href="http://dx.doi.org/10.3389/fpls.2017.01348">High throughput in vivo analysis of plant leaf chemical properties using hyperspectral imaging</a>" <i>Frontiers in Plant Science</i> doi: 10.3389/fpls.2017.01348  
 * Ge Y, Bai G, Stoerger V, <b>Schnable JC</b>. (2016) "<a href="http://dx.doi.org/10.1016/j.compag.2016.07.028">Temporal dynamics of maize plant growth, water use, and plant water content using automated high throughput RGB and hyperspectral imaging.</a>" <i>Computers and Electronics in Agriculture</i> doi: 10.1016/j.compag.2016.07.028 
 
-** Funding Supporting Efforts in This Cluster **
+**Funding Supporting Efforts in This Cluster**
 
 * NSF [BTT EAGER: A wearable plant sensor for real-time monitoring of sap flow and stem diameter to accelerate breeding for water use efficiency.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1844563) 
 * ARPA-E: In-plant and in-soil microsensors enabled high-throughput phenotyping of root nitrogen uptake and nitrogen use efficiency."
@@ -64,11 +64,14 @@ This area focuses on developing and deploying new algorithms, tools, and dataset
 * Wheat Innovation Foundation: A Low-Cost, High-Throughput Cold Stress Perception Assay for Sorghum Breeding.
 
 
-<a id="QuantGen" />**Quantitative Genetics*
+<a id="QuantGen" />
+
+**Quantitative Genetics**
 
 At its most basic, this area ensures that graduates of the Schnable lab are familiar with modern algorithms to perform basic quantitative genetic tasks including GWAS and genomic selection. However, more advanced work in this area involves developing and applying new statistical approaches that either leverage either the unique features of new phenotypic datasets (for example time-series data from whole mapping populations collected using HTP technologies) or sharing data across related species. 
 
 **Recent Lab Publications on Quantitative Genetics**
+
 * **Liang Z**, Qiu Y, **Schnable JC** (2018) "[Distinct characteristics of genes associated with phenome-wide variation in maize (*Zea mays*)](https://doi.org/10.1101/534503)" *bioRxiv* doi: 10.1101/534503
 * **Miao C**, **Yang J**, **Schnable JC** (2018) "[Optimizing the identification of causal variants across varying genetic architectures in crops.](https://doi.org/10.1111/pbi.13023)" *Plant Biotechnology Journal* doi: 10.1111/pbi.13023 <i>bioRxiv</i> doi: [10.1101/310391](https://doi.org/10.1101/310391)
 * <b>Liang Z</b>, Gupta SK, Yeh CT, <b>Zhang Y</b>, <b>Ngu DW</b>, Kumar R, Patil HT, Mungra KD, Yadav DV, Rathore A, Srivastava RK, Gupkta R, <b>Yang J</b>, Varshney RK, Schnable PS, <b>Schnable JC</b>. (2018) "[Phenotypic data from inbred parents can improve genomic prediction in pearl millet hybrids.](https://doi.org/10.1534/g3.118.200242)" <i>G3: Genes Genomes Genetics</i> doi: 10.1534/g3.118.200242
