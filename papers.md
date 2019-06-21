@@ -13,9 +13,11 @@ title: Schnable Lab Papers
 
 **2019**
 
-* **Schnable JC** (2019) "Genes and Gene Models, an Important Distinction. *New Phytologist* *(Accepted)*
+* Ge Y, Atefi A, Zhang H, **Miao C**, Ramamurthy RK, **Sigmon B**, Yang J, **Schnable JC** (2019) High-throughput analysis of leaf physiological and chemical traits with VIS-NIR-SWIR spectroscopy: A case study with a maize diversity panel. *Plant Methods* *(Accepted)*
 
-* Atefi A, Ge Y,  Pitla S, **Schnable JC** (2019) *In vivo* human-like robotic phenotyping of leaf traits in maize and sorghum. *Computers and Electronics in Agriculture* *(In Press)*
+* **Schnable JC** (2019) "Genes and Gene Models, an Important Distinction."" *New Phytologist* *(Accepted)*
+
+* Atefi A, Ge Y,  Pitla S, **Schnable JC** (2019) ""*In vivo* human-like robotic phenotyping of leaf traits in maize and sorghum."" *Computers and Electronics in Agriculture* *(In Press)*
 
 <div data-badge-type="2" data-doi="10.1111/tpj.14376" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Yan L**, **Raju SKK**, **Lai X**, **Zhang Y**, **Dai X**, Rodriguez O, Mahboub S, Roston RL, **Schnable JC** (2019) "[Parallel natural selection in the cold-adapted crop-wild relative *Tripsacum dactyloides* and artificial selection in temperate adapted maize.](https://doi.org/10.1111/tpj.14376)" *The Plant Journal* doi: 10.1111/tpj.14376 *bioRxiv* doi: 10.1101/187575
