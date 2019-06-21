@@ -6,7 +6,7 @@ googlefonts: ["Monoton", "Lobster"]
 ---
 
 | | **Name** | **Title**| **CV** |
-|![James Schnable](/images/People_Images/jamesschnable.jpg){:width="120" align="middle"}|[James Schnable](/peoplepages/jschnable/)<a href="https://twitter.com/szintri"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Assistant Professor|[CV](/CVs/JSchnable.pdf)|
+|![James Schnable](/images/People_Images/jamesschnable.jpg){:width="120" align="middle"}|[James Schnable](/peoplepages/jschnable/)<a href="https://twitter.com/szintri"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Associate Professor|[CV](/CVs/JSchnable.pdf)|
 |![Brandi Sigmon](/images/People_Images/BSigmon.jpg){:width="120" align="middle"}|[Brandi Sigmon](/peoplepages/Brandi_Sigmon/)|Assistant Professor of Practice||
 |![Guangchao Sun](/images/People_Images/Guangchao.JPG){:width="120" align="middle"}|Guangchao Sun<a href="https://twitter.com/xiaoguanghuan"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Postdoctoral Scholar|[CV](/CVs/Guangchao_Sun_CV_2019.pdf)|
 |![Xiaoxi Meng](/images/People_Images/Xiaoxi.jpg){:width="120" align="middle"}|Xiaoxi "Peggy" Meng|Postdoctoral Scholar||
