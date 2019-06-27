@@ -14,13 +14,13 @@ title: Schnable Lab Papers
 **2019**
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Ge Y, Atefi A, Zhang H, **Miao C**, Ramamurthy RK, **Sigmon B**, Yang J, **Schnable JC** (2019) "High-throughput analysis of leaf physiological and chemical traits with VIS-NIR-SWIR spectroscopy: A case study with a maize diversity panel." *Plant Methods* *(Accepted)*
+* Ge Y, Atefi A, Zhang H, **Miao C**, Ramamurthy RK, **Sigmon B**, Yang J, **Schnable JC** (2019) "[High-throughput analysis of leaf physiological and chemical traits with VIS-NIR-SWIR spectroscopy: A case study with a maize diversity panel.](https://doi.org/10.1186/s13007-019-0450-8)" *Plant Methods* doi: 10.1186/s13007-019-0450-8
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Schnable JC** (2019) "Genes and Gene Models, an Important Distinction." *New Phytologist* *(In Press)*
+* **Schnable JC** (2019) "[Genes and Gene Models, an Important Distinction.](https://doi.org/10.1111/nph.16011)" *New Phytologist* doi: 10.1111/nph.16011
 
 <div data-badge-type="2" data-doi="10.1016/j.compag.2019.104854" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Atefi A, Ge Y,  Pitla S, **Schnable JC** (2019) [*In vivo* human-like robotic phenotyping of leaf traits in maize and sorghum.](https://doi.org/10.1016/j.compag.2019.104854) *Computers and Electronics in Agriculture* doi: 10.1016/j.compag.2019.104854
+* Atefi A, Ge Y,  Pitla S, **Schnable JC** (2019) "[*In vivo* human-like robotic phenotyping of leaf traits in maize and sorghum.](https://doi.org/10.1016/j.compag.2019.104854)"" *Computers and Electronics in Agriculture* doi: 10.1016/j.compag.2019.104854
 
 <div data-badge-type="2" data-doi="10.1111/tpj.14376" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Yan L**, **Raju SKK**, **Lai X**, **Zhang Y**, **Dai X**, Rodriguez O, Mahboub S, Roston RL, **Schnable JC** (2019) "[Parallel natural selection in the cold-adapted crop-wild relative *Tripsacum dactyloides* and artificial selection in temperate adapted maize.](https://doi.org/10.1111/tpj.14376)" *The Plant Journal* doi: 10.1111/tpj.14376 *bioRxiv* doi: 10.1101/187575
