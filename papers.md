@@ -8,11 +8,10 @@ title: Schnable Lab Papers
 **Preprints**
 
 <div data-badge-type="2" data-doi="10.1101/534503" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Liang Z**, Qiu Y, **Schnable JC** "[Distinct characteristics of genes associated with phenome-wide variation in maize (*Zea mays*)](https://doi.org/10.1101/534503)" *bioRxiv* doi: 10.1101/534503
+* **Liang Z**, Qiu Y, **Schnable JC** "[Distinct characteristics of genes associated with phenome-wide variation in maize (*Zea mays*).](https://doi.org/10.1101/534503)" *bioRxiv* doi: 10.1101/534503
 
 <div data-badge-type="2" data-doi="10.1101/689356" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Carvalho DS,** **Schnable JC** "[IsoSeq transcriptome assembly of C3 panicoid grasses provides tools to study evolutionary change in the Panicoideae](https://doi.org/10.1101/689356)" *bioRxiv doi: 10.1101/689356
-
+* **Carvalho DS,** **Schnable JC** "[IsoSeq transcriptome assembly of C3 panicoid grasses provides tools to study evolutionary change in the Panicoideae.](https://doi.org/10.1101/689356)" *bioRxiv* doi: 10.1101/689356
 
 **2019**
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
