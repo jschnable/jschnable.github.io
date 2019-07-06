@@ -14,8 +14,8 @@ title: Schnable Lab Papers
 * **Carvalho DS,** **Schnable JC** "[IsoSeq transcriptome assembly of C3 panicoid grasses provides tools to study evolutionary change in the Panicoideae.](https://doi.org/10.1101/689356)" *bioRxiv* doi: 10.1101/689356
 
 **2019**
-<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Li Y, Li D, Jiao Y, **Schnable JC**, Li Y, Li H, Chen H, Hong H, Zhang T, Liu B, Liu Z, You Q, Tian Y, Gou Y, Guan R, Zhang L, Chang R, Zhang Z, Reif J, Zhou X, Schnable PS, Qiu L (2019) "Identification of Loci Controlling Adaptation in Chinese Soybean Landraces via a Combination of Conventional and Bioclimatic GWAS." *Plant Biotechnology Journal* *(Accepted)*
+<div data-badge-type="2" data-doi="10.1111/pbi.13206" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* Li Y, **Li D**, Jiao Y, **Schnable JC**, Li Y, Li H, Chen H, Hong H, Zhang T, Liu B, Liu Z, You Q, Tian Y, Gou Y, Guan R, Zhang L, Chang R, Zhang Z, Reif J, Zhou X, Schnable PS, Qiu L (2019) "[Identification of Loci Controlling Adaptation in Chinese Soybean Landraces via a Combination of Conventional and Bioclimatic GWAS.](https://doi.org/10.1111/pbi.13206)" *Plant Biotechnology Journal* doi: 10.1111/pbi.13206
 
 <div data-badge-type="2" data-doi="10.1186/s13007-019-0450-8" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Ge Y, Atefi A, Zhang H, **Miao C**, Ramamurthy RK, **Sigmon B**, Yang J, **Schnable JC** (2019) "[High-throughput analysis of leaf physiological and chemical traits with VIS-NIR-SWIR spectroscopy: A case study with a maize diversity panel.](https://doi.org/10.1186/s13007-019-0450-8)" *Plant Methods* doi: 10.1186/s13007-019-0450-8
@@ -36,7 +36,7 @@ title: Schnable Lab Papers
 * Bai G, Ge Y, Scoby D, Leavit B, Irmak S, Graef G, **Schnable JC**, Awada T. (2019) "[NU-Spidercam: A large-scale, cable-driven, integrated sensing and robotic system for precision phenotyping, remote sensing, and agronomic research.](https://authors.elsevier.com/sd/article/S0168169918314170)" *Computers and Electronics in Agriculture* doi: 10.1016/j.compag.2019.03.009
 
 <div data-badge-type="2" data-doi="10.1038/s41467-019-08409-5" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Zou C, Miki D, Li D, Tang Q, Xiao L, Rajput S, Deng P, Peng L, Huang R, Zhang M, Sun Y, Hu J, Fu X, Schnable P, Li F, Zhang H, Feng B, Zhu X, Liu R, **Schnable JC**, Zhu JK, Zhang H. (2019) "[The genome of broomcorn millet.](https://doi.org/10.1038/s41467-019-08409-5)" *Nature Communications* doi: 10.1038/s41467-019-08409-5
+* Zou C, Miki D, **Li D**, Tang Q, Xiao L, **Rajput S**, Deng P, Peng L, Huang R, Zhang M, Sun Y, Hu J, Fu X, Schnable P, Li F, Zhang H, Feng B, Zhu X, Liu R, **Schnable JC**, Zhu JK, Zhang H. (2019) "[The genome of broomcorn millet.](https://doi.org/10.1038/s41467-019-08409-5)" *Nature Communications* doi: 10.1038/s41467-019-08409-5
 
 **2018**
 
@@ -58,7 +58,7 @@ title: Schnable Lab Papers
 <i>Selected as the outstanding scientific article of 2018 by ICRISAT's research program in Asia.</i>
 
 <div data-badge-type="2" data-doi="10.1038/s41598-018-28294-0" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Miao C**, Fang J, Li D, Liang P, Zhang X, **Yang J**, **Schnable JC**, Tang H. (2018) "[Genotype-Corrector: improved genotype calls for genetic mapping.](https://doi.org/10.1038/s41598-018-28294-0)" <i>Scientific Reports</i> doi: 10.1038/s41598-018-28294-0
+* **Miao C**, Fang J, **Li D**, Liang P, Zhang X, **Yang J**, **Schnable JC**, Tang H. (2018) "[Genotype-Corrector: improved genotype calls for genetic mapping.](https://doi.org/10.1038/s41598-018-28294-0)" <i>Scientific Reports</i> doi: 10.1038/s41598-018-28294-0
 
 <div data-badge-type="2" data-doi="https://doi.org/10.1186/s13104-018-3508-1" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Alkhalifah N, Campbell DA, Falcon CM, ... **Schnable JC** (31 of 44 authors) ... Spalding EP, Edwards J, Lawrence-Dill CJ. (2018) "[Maize Genomes to Fields: 2014 and 2015 field season genotype, phenotype, environment, and inbred ear image datasets.](https://doi.org/10.1186/s13104-018-3508-1)" <i>BMC Research Notes</i> doi: https://doi.org/10.1186/s13104-018-3508-1
