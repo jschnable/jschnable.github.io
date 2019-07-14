@@ -3,9 +3,7 @@ layout: page
 title: Conflict of Interest Disclosure
 ---
 
-![James Schnable](/images/People_Images/jamesschnable.jpg){:align="middle"}|
-
-<b>James Schnable Conflict of Interest Disclosure:</b>
+<b>James Schnable's Conflict of Interest Disclosure:</b>
 <br><br>
 I have equity interests in three startup companies: Data2Bio (provides genotyping services and breeding decision support), Dryland Genetics (using genomic selection to breed higher yielding varieties of naturally water use efficient crops), and EnGeniousAg (sells sensors to help farmers measure nitrogen and other nutrients in plant stalks, soil, and water). An immediate family member also owns an equity stake in a company called DecisionPx which helps companies analyze phenomic datasets and design phenomic experiments.<br><br>
 
@@ -19,4 +17,4 @@ Through index funds I own stock in essentially every publicly listed major agric
 
 -James C. Schnable
 <br><br>
-Conflict of interest disclosure up to date as of 4/2/18
+Conflict of interest disclosure up to date as of 7/6/19
