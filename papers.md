@@ -14,6 +14,9 @@ title: Schnable Lab Papers
 * **Carvalho DS,** **Schnable JC** "[IsoSeq transcriptome assembly of C3 panicoid grasses provides tools to study evolutionary change in the Panicoideae.](https://doi.org/10.1101/689356)" *bioRxiv* doi: 10.1101/689356
 
 **2019**
+
+* Ali MA, Wang X, Chen Y, Jiao Y, Mahal NK, Satyanarayana M, Castellano MJ, **Schnable JC**, Schnable PS, Dong L (2019) Continuous Monitoring of Nitrate Variation Using Miniature Soil Sensor with Poly(3-octyl-thiophene) and Molybdenum Disulfide Nanocomposite. *ACS Applied Materials & Interfaces* *(Accepted)*
+
 <div data-badge-type="2" data-doi="10.1111/pbi.13206" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Li Y, **Li D**, Jiao Y, **Schnable JC**, Li Y, Li H, Chen H, Hong H, Zhang T, Liu B, Liu Z, You Q, Tian Y, Gou Y, Guan R, Zhang L, Chang R, Zhang Z, Reif J, Zhou X, Schnable PS, Qiu L (2019) "[Identification of Loci Controlling Adaptation in Chinese Soybean Landraces via a Combination of Conventional and Bioclimatic GWAS.](https://doi.org/10.1111/pbi.13206)" *Plant Biotechnology Journal* doi: 10.1111/pbi.13206
 
