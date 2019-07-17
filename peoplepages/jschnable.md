@@ -3,6 +3,47 @@ layout: page
 title: James Schnable
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "type": "Person",
+  "Description": "Scientist",
+  "alternateName": "James C. Schnable",
+  "alumniOf": {
+    "type": "CollegeOrUniversity",
+    "name": "University of California-Berkeley",
+    "sameAs": "https://en.wikipedia.org/wiki/University_of_California,_Berkeley"
+  },
+  "award": [
+    "NAPPN Early Career Award (2019)",
+    "ASPB Early Career Award (2019)",
+    "Marcus Rhoades Early Career Award in maize genetics (2018)"
+  ],
+  "disambiguatingDescription": "Plant Biologist",
+  "familyName": "Schnable",
+  "gender": "Male",
+  "givenName": "James",
+  "honorificPrefix": "Dr.",
+  "honorificSuffix": "PhD",
+  "image": "https://agronomy.unl.edu/images/faculty/SchnableJames_809x1010_0.jpg",
+  "jobTitle": "Associate Professor",
+  "name": "James Schnable",
+  "nationality": "American",
+  "sameAs": [
+    "https://twitter.com/szintri",
+    "https://scholar.google.com/citations?user=cik4JVYAAAAJ&hl=en"
+  ],
+  "worksFor": {
+    "type": "Organization",
+    "name": "University of Nebraska-Lincoln",
+    "sameAs": [
+      "https://twitter.com/UNLincoln",
+      "https://en.wikipedia.org/wiki/University_of_Nebraska%E2%80%93Lincoln"
+    ]
+  }
+}
+</script>
+
 ![James Schnable](/images/People_Images/jamesschnable.jpg){:align="middle"}|
 
 **ORCID ID:** 0000-0001-6739-5527
