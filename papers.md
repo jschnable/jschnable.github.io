@@ -13,6 +13,9 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/689356" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Carvalho DS,** **Schnable JC** "[IsoSeq transcriptome assembly of C3 panicoid grasses provides tools to study evolutionary change in the Panicoideae.](https://doi.org/10.1101/689356)" *bioRxiv* doi: 10.1101/689356
 
+<div data-badge-type="2" data-doi="10.1101/706994" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* **Miao C**, **Hoban TP**, **Pages A**, Xu Z, Rodene E, Ubbens J, Stavness I, Yang J,**Schnable JC** "[Simulated plant images improve maize leaf counting accuracy.](https://doi.org/10.1101/706994) *bioRxiv* doi: 10.1101/706994
+
 **2019**
 
 * Ali MA, Wang X, Chen Y, Jiao Y, Mahal NK, Satyanarayana M, Castellano MJ, **Schnable JC**, Schnable PS, Dong L (2019) Continuous Monitoring of Nitrate Variation Using Miniature Soil Sensor with Poly(3-octyl-thiophene) and Molybdenum Disulfide Nanocomposite. *ACS Applied Materials & Interfaces* *(Accepted)*
