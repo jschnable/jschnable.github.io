@@ -14,7 +14,7 @@ title: Schnable Lab Papers
 * **Carvalho DS,** **Schnable JC** "[IsoSeq transcriptome assembly of C3 panicoid grasses provides tools to study evolutionary change in the Panicoideae.](https://doi.org/10.1101/689356)" *bioRxiv* doi: 10.1101/689356
 
 <div data-badge-type="2" data-doi="10.1101/706994" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Miao C**, **Hoban TP**, **Pages A**, Xu Z, Rodene E, Ubbens J, Stavness I, Yang J, **Schnable JC** "[Simulated plant images improve maize leaf counting accuracy.]"(https://doi.org/10.1101/706994) *bioRxiv* doi: 10.1101/706994
+* **Miao C**, **Hoban TP**, **Pages A**, Xu Z, Rodene E, Ubbens J, Stavness I, Yang J, **Schnable JC** "[Simulated plant images improve maize leaf counting accuracy.](https://doi.org/10.1101/706994)" *bioRxiv* doi: 10.1101/706994
 
 **2019**
 
