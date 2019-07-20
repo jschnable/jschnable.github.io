@@ -8,6 +8,57 @@ bigimg:
   - "/images/Front_Page_Images/header.png" : ""
 ---
 
+<script type="application/ld+json">
+{ "@context": "https://schema.org",
+ "@type": "Organization",
+ "name": "Schnable Lab",
+ "url": "http://schnablelab.org/",
+ "logo": "http://schnablelab.org/images/lab_logo.jpg",
+ "foundingDate": "2014",
+ "founders": [
+ {
+ "@type": "Person",
+ "name": "James Schnable",
+  "Description": "Scientist",
+ "alternateName": "James C. Schnable",
+ "alumniOf": {
+   "type": "CollegeOrUniversity",
+   "name": "University of California-Berkeley",
+   "sameAs": "https://en.wikipedia.org/wiki/University_of_California,_Berkeley"
+ },
+ "award": [
+   "NAPPN Early Career Award (2019)",
+   "ASPB Early Career Award (2019)",
+   "Marcus Rhoades Early Career Award in maize genetics (2018)"
+ ],
+ "disambiguatingDescription": "Plant Biologist",
+ "familyName": "Schnable",
+ "gender": "Male",
+ "givenName": "James",
+ "honorificPrefix": "Dr.",
+ "honorificSuffix": "PhD",
+ "image": "https://agronomy.unl.edu/images/faculty/SchnableJames_809x1010_0.jpg",
+ "jobTitle": "Associate Professor",
+ "name": "James Schnable",
+ "nationality": "American",
+ "sameAs": [
+   "https://twitter.com/szintri",
+   "https://scholar.google.com/citations?user=cik4JVYAAAAJ&hl=en"
+ ]
+ }],
+ "address": {
+ "@type": "PostalAddress",
+ "streetAddress": "1900 Vine Street",
+ "addressLocality": "Lincoln",
+ "addressRegion": "NE",
+ "postalCode": "68588",
+ "addressCountry": "USA"
+ },
+ "sameAs": [
+ "https://twitter.com/schnablelab"
+ ]}
+</script>
+
 ![The Whole Schnable Lab](/images/Whole_Lab.jpg){:width="900" align="middle" }
 
 While individuals specialize, each member of the lab gets at least some experience writing computer code, employing molecular biology techniques, working with living plants in the greenhouse, and conducting fieldwork. As a result of the diverse set of collaborators we work with -- applied plant breeders, biochemists, engineers, computer scientists, food scientists, and statisticians -- each member of the lab also gains experience communicating both within and across scientific disciplines, as well as to diverse non-scientific audiences. This cross training produces scientists who are equipped to both understand and address the complex and far-reaching problems our world will face in coming decades.
