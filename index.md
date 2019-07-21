@@ -32,14 +32,11 @@ bigimg:
    "Marcus Rhoades Early Career Award in maize genetics (2018)"
  ],
  "disambiguatingDescription": "Plant Biologist",
- "familyName": "Schnable",
  "gender": "Male",
- "givenName": "James",
  "honorificPrefix": "Dr.",
  "honorificSuffix": "PhD",
  "image": "https://agronomy.unl.edu/images/faculty/SchnableJames_809x1010_0.jpg",
  "jobTitle": "Associate Professor",
- "name": "James Schnable",
  "nationality": "American",
  "sameAs": [
    "https://twitter.com/szintri",
