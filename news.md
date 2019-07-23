@@ -3,16 +3,32 @@ layout: page
 title: Schnable Lab News
 
 ---
+### 2019, July
+
+* On July 22nd, Zhikai Liang passed his final defense becoming the first PhD student to successfully graduate from the Schnable Lab. Congrats!  
+
+![Summer Lab Meeting](/images/News_Images/ZhikaiPassed.jpeg){:width="800" align="middle"}
+
+* The paper on our robotic phenotyping collaboration with the Ge lab is both published and picks up media attention. A story on the robot for the Lincoln Journal Star is picked up nationally and runs in papers from [San Francisco](https://www.sfchronicle.com/news/article/University-of-Nebraska-team-creates-cornfield-14093257.php) to [Miami](https://www.miamiherald.com/news/article232444512.html). 
+
+![Robot News](/images/News_Images/RobotNewspaper.jpg){:width="800" align="middle"}
+
+
 ### 2019, June
 
-* Welcome to the Schnable Lab Natalie Belz (Scripps College, CA) and Bryce Askey (University of Florida). Natialie and Bryce are both NSF supported undergrad students who will spend the summer here as part of the Research Experience for Undergraduates program.
+* Congratulations to Christine and Guangchao who each welcomed healthy baby girls into the world.
+
+![New Babies](/images/News_Images/F1s.jpg){:width="800" align="middle"}
+
+* Welcome to the Schnable Lab Natalie Belz (Scripps College, CA) and Bryce Askey (University of Florida). Natalie and Bryce are both NSF supported undergrad students who will spend the summer here as part of the Research Experience for Undergraduates program.
 
 ![Summer Lab Meeting](/images/News_Images/SummerLabMeeting19.jpg){:width="800" align="middle"}
+
 Our first lab meeting to include this summer's REU students.
 
 ### 2019, May
 
-* In the midst of the rainiest planting season across the corn belt in 40+ years, the whole lab pulled together to prep seeds and get seed in the ground on the rare days when fields were dry enough for our planter. Read more about just how bad this year has already been for corn in [this Washington Post article](https://www.washingtonpost.com/local/2019/06/04/after-biblical-spring-this-is-week-that-could-break-corn-belt/?utm_term=.7f035f899700). 
+* In the midst of the rainiest planting season across the corn belt in 40+ years, the whole lab pulled together to prep seeds and get seed in the ground on the rare days when fields were dry enough for our planter. Read more about just how bad this year has already been for corn in [this Washington Post article](https://www.washingtonpost.com/local/2019/06/04/after-biblical-spring-this-is-week-that-could-break-corn-belt/?utm_term=.7f035f899700).
 
 ![Planting 2019](/images/News_Images/Planting19.jpg){:width="800" align="middle"}
 
@@ -26,7 +42,7 @@ Our first lab meeting to include this summer's REU students.
 
 * Ashley Foltz, an alum of the REU program in the Schnable Lab is admitted back to UNL to work on her masters in the School of Biological Sciences.
 
-* James Schnable is notified that the university has officially recommended him for promotion to Associate Professor and tenure. In the same month, he was selected as [the 2019 winner of the American Society of Plant Biologists Early Career award](https://blog.aspb.org/aspb-names-2019-award-recipients/). 
+* James Schnable is notified that the university has officially recommended him for promotion to Associate Professor and tenure. In the same month, he was selected as [the 2019 winner of the American Society of Plant Biologists Early Career award](https://blog.aspb.org/aspb-names-2019-award-recipients/).
 
 ### 2019, March
 
