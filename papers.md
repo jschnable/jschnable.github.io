@@ -18,6 +18,7 @@ title: Schnable Lab Papers
 
 **2019**
 
+<div data-badge-type="2" data-doi="10.1021/acsami.9b07120" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Ali MA, Wang X, Chen Y, Jiao Y, Mahal NK, Satyanarayana M, Castellano MJ, **Schnable JC**, Schnable PS, Dong L (2019) "[Continuous Monitoring of Soil Nitrate Using a Miniature Sensor with Poly(3-octyl-thiophene) and Molybdenum Disulfide Nanocomposite.](https://doi.org/10.1021/acsami.9b07120)" *ACS Applied Materials & Interfaces* doi: 10.1021/acsami.9b07120
 
 <div data-badge-type="2" data-doi="10.1111/pbi.13206" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
