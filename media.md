@@ -2,6 +2,10 @@
 layout: page
 title: Media Coverage of Schnable Lab Projects
 ---
+<p><a href="https://news.unl.edu/newsrooms/today/article/stalk-worn-sensor-to-measure-crops-water-use/">Nebraska Today</a> article on Breakthrough Technology water flow sensors with Liang Dong at ISU</p>
+<br>
+<p>Multiple Schnable Lab members featured in <a href="https://www.1011now.com/content/news/Researchers-aim-to-bring-FitBit-technology-to-corn-fields-513519911.html">a short clip on the local 10/11 news</a> in a story about water flow sensors.</p>
+<br>
 <p><a href="https://journalstar.com/news/local/education/robots-in-the-cornfield-unl-team-believes-it-s-the/article_9a9b6659-bc36-53b4-9c20-34d879b2809e.html">Lincoln Journal Star article</a> on the the leaf clamp phenotyping robot supported by a grant to the Ge, Pitla and Schnable labs.</p>
 <br>
 <p>Watch the video recording of <a href="https://go.unl.edu/6m06">James Schnable's talk at the 2019 Nebraska Plant Science Symposium here</a>.</p>
