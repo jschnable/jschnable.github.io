@@ -3,13 +3,26 @@ layout: page
 title: Schnable Lab News
 
 ---
+
+### 2019, August
+
+* James Schnable was in San Jose and [received the ASPB Early Career Award at the annual american society of plant biologists meeting](https://twitter.com/Rebecca_Roston/status/1157807962305380352).
+
+![ASPB Award Ceremony](/images/News_Images/ASPBAward19.jpeg){:width="800" align="middle"}
+
+*Thank you to Bryce Askey for the photo*
+
 ### 2019, July
+
+* Coming together with the Alfano, Yang and Sigmon labs, we dug up 3,000 maize roots in three days. It was exhausting but time in the cornfield at least makes me appreciate computational biology more. 
+
+* Daniel Carvalho [passed his final defense](https://twitter.com/SciOfCarvalho/status/1154522911182508032) (July 25th)! Way to go!
 
 * On July 22nd, Zhikai Liang passed his final defense becoming the first PhD student to successfully graduate from the Schnable Lab. Congrats!  
 
 ![Summer Lab Meeting](/images/News_Images/ZhikaiPassed.jpeg){:width="800" align="middle"}
 
-* The paper on our robotic phenotyping collaboration with the Ge lab is both published and picks up media attention. A story on the robot for the Lincoln Journal Star is picked up nationally and runs in papers from [San Francisco](https://www.sfchronicle.com/news/article/University-of-Nebraska-team-creates-cornfield-14093257.php) to [Miami](https://www.miamiherald.com/news/article232444512.html). 
+* The paper on our robotic phenotyping collaboration with the Ge lab is both published and picks up media attention. A story on the robot for the Lincoln Journal Star is picked up nationally and runs in papers from [San Francisco](https://www.sfchronicle.com/news/article/University-of-Nebraska-team-creates-cornfield-14093257.php) to [Miami](https://www.miamiherald.com/news/article232444512.html).
 
 ![Robot News](/images/News_Images/RobotNewspaper.jpg){:width="800" align="middle"}
 
