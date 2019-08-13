@@ -17,7 +17,10 @@ title: Schnable Lab Papers
 * **Miao C**, **Hoban TP**, **Pages A**, Xu Z, Rodene E, Ubbens J, Stavness I, Yang J, **Schnable JC** "[Simulated plant images improve maize leaf counting accuracy.](https://doi.org/10.1101/706994)" *bioRxiv* doi: 10.1101/706994
 
 <div data-badge-type="2" data-doi="10.1101/730473" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Dai X**, Xu Z, **Liang Z**, Tu X, Zhong S, **Schnable JC**, Li P. "[Non-homology-based prediction of gene functions.](https://doi.org/10.1101/730473)" *bioRxiv* doi: 10.1101/730473 
+* **Dai X**, Xu Z, **Liang Z**, Tu X, Zhong S, **Schnable JC**, Li P. "[Non-homology-based prediction of gene functions.](https://doi.org/10.1101/730473)" *bioRxiv* doi: 10.1101/730473
+
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* **Carvalho DS**, **Raju SKK**, **Zhang Y**, **Schnable JC**. "[Reconstructed protein sequence evolution consistent with the evolution of C4 photosynthesis via a C2 ancestor in the Paniceae]()" *bioRxiv* doi:  
 
 **2019**
 
