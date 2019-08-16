@@ -2,6 +2,7 @@
 layout: page
 title: Media Coverage of Schnable Lab Projects
 ---
+<p><a href="https://ianr.unl.edu/global-engagement/news/bioinformatics-journey-brazil-nebraska-and-back-again">Profile of the newly minted Dr. Daniel Carvalho</a> in IANR Global Engagement.</p>
 <p>James Schnable [interviewed on Brownfield Ag News](https://brownfieldagnews.com/news/researchers-develop-fitbit-like-sensor-to-measure-corn-water-use/).</p>
 <br>
 <p>Water flow sensor collaboration with the Dong lab at ISU [featured in the Omaha World Herald](https://www.omaha.com/news/plus/nebraska-iowa-researchers-developing-fitbit-for-corn-to-make-water/article_c4465663-bab3-5c6c-8462-9c2912a1a3e6.html)</p>
