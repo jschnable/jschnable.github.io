@@ -3,9 +3,9 @@ layout: page
 title: Media Coverage of Schnable Lab Projects
 ---
 <p><a href="https://ianr.unl.edu/global-engagement/news/bioinformatics-journey-brazil-nebraska-and-back-again">Profile of the newly minted Dr. Daniel Carvalho</a> in IANR Global Engagement.</p>
-<p>James Schnable [interviewed on Brownfield Ag News](https://brownfieldagnews.com/news/researchers-develop-fitbit-like-sensor-to-measure-corn-water-use/).</p>
+<p>James Schnable <a href="https://brownfieldagnews.com/news/researchers-develop-fitbit-like-sensor-to-measure-corn-water-use/">interviewed on Brownfield Ag News</a>.</p>
 <br>
-<p>Water flow sensor collaboration with the Dong lab at ISU [featured in the Omaha World Herald](https://www.omaha.com/news/plus/nebraska-iowa-researchers-developing-fitbit-for-corn-to-make-water/article_c4465663-bab3-5c6c-8462-9c2912a1a3e6.html)</p>
+<p>Water flow sensor collaboration with the Dong lab at ISU <a href="https://www.omaha.com/news/plus/nebraska-iowa-researchers-developing-fitbit-for-corn-to-make-water/article_c4465663-bab3-5c6c-8462-9c2912a1a3e6.html">featured in the Omaha World Herald</a></p>
 <br>
 <p>Dr. Zhikai Liang <a href="https://www.youtube.com/watch?v=6I1VeP7tiwA">explains GPWAS in Chinese</a> as part of the Chinese Genomics Meetup.
 </p>
@@ -32,7 +32,7 @@ title: Media Coverage of Schnable Lab Projects
 <br>
 <p>Listen to James Schnable interviewed on the Peggy Smedley show on <a href="https://peggysmedleyshow.com/portfolio-items/05-22-18-episode-564-segment-2-iot-measures-and-manages-plants/">how the Internet of Things is changing agriculture</a>. </p>
 <br>
-<p>Prof. Schnable presents an our precently published paper with the Qiu and Xu statistics labs on using functional data analysis to analyze time series trait data, one of the big new challenges presented by HTP datasets.<br>
+<p>Prof. Schnable presents an our recently published paper with the Qiu and Xu statistics labs on using functional data analysis to analyze time series trait data, one of the big new challenges presented by HTP datasets.<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lw_WsWV6ox0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </p>
 <br>
