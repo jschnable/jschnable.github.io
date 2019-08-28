@@ -24,7 +24,14 @@ title: Schnable Lab Papers
 
 **2019**
 
-* Qi P, Eudy D, **Schnable JC**, Schmutz J, Raymer P, Devos KM (2019) "High density genetic maps of seashore paspalum using genotyping-by-sequencing and their relationship to the *Sorghum bicolor* genome." *Scientific Reports* *(Accepted)*
+<div data-badge-type="2" data-doi="10.1109/TRANSDUCERS.2019.8808341" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
+* Jiao Y, Wang X, Chen Y, Castellano MJ, **Schnable JC**, Schnable PS, Dong L (2019) "[In-planta nitrate detection using insertable plant microsensor.](https://doi.org/10.1109/TRANSDUCERS.2019.8808527)" *20th International Conference on Solid-State Sensors, Actuators and Microsystems* Berlin, Germany doi: 10.1109/TRANSDUCERS.2019.8808527
+
+<div data-badge-type="2" data-doi="10.1109/TRANSDUCERS.2019.8808341" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
+* Ali MA, Wang X, Chen Y, Jiao Y, Castellano MJ, **Schnable JC**, Schnable PS, Dong L (2019) "[Novel all-solid-state soil nutrient sensor using nanocomposite of poly(3-octyl-thiophene) and molybdenum sulfate.](https://doi.org/10.1109/TRANSDUCERS.2019.8808341)" *20th International Conference on Solid-State Sensors, Actuators and Microsystems* Berlin, Germany  doi: 10.1109/TRANSDUCERS.2019.8808341
+
+<div data-badge-type="2" data-doi="10.1038/s41598-019-48257-3" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
+* Qi P, Eudy D, **Schnable JC**, Schmutz J, Raymer P, Devos KM (2019) "[High density genetic maps of seashore paspalum using genotyping-by-sequencing and their relationship to the *Sorghum bicolor* genome.](https://doi.org/10.1038/s41598-019-48257-3)" *Scientific Reports* doi: 10.1038/s41598-019-48257-3
 
 <div data-badge-type="2" data-doi="10.1021/acsami.9b07120" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Ali MA, Wang X, Chen Y, Jiao Y, Mahal NK, Satyanarayana M, Castellano MJ, **Schnable JC**, Schnable PS, Dong L (2019) "[Continuous Monitoring of Soil Nitrate Using a Miniature Sensor with Poly(3-octyl-thiophene) and Molybdenum Disulfide Nanocomposite.](https://doi.org/10.1021/acsami.9b07120)" *ACS Applied Materials & Interfaces* doi: 10.1021/acsami.9b07120
