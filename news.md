@@ -6,7 +6,17 @@ title: Schnable Lab News
 
 ### 2019, August
 
-* James Schnable was in San Jose and [received the ASPB Early Career Award at the annual american society of plant biologists meeting](https://twitter.com/Rebecca_Roston/status/1157807962305380352).
+* Zhikai and Daniel both walked at the summer 2019 Commencement.
+
+![Summer Graduation 2019 for the Schnable Lab](/images/News_Images/Summer19Graduation.jpg){:width="600" align="middle"}
+
+* A [new grant from DOE for the lab](https://news.unl.edu/newsrooms/today/article/nebraska-team-merges-machine-learning-plant-genetics-to-maximize-sorghum/): Combining machine learning and crop models to characterize genes in Sorghum.
+
+* Daniel Carvalho presenting on his research at a special symposium recognizing the contributions of Brazilian scientists to research at UNL.
+
+![Daniel Brazil Symposium Talk](/images/News_Images/DanielBrazil.jpeg){:width="800" align="middle"}
+
+* James Schnable was in San Jose and [received the ASPB Early Career Award at the annual American Society of Plant Biologists meeting](https://twitter.com/Rebecca_Roston/status/1157807962305380352).
 
 ![ASPB Award Ceremony](/images/News_Images/ASPBAward19.jpeg){:width="800" align="middle"}
 
@@ -14,7 +24,7 @@ title: Schnable Lab News
 
 ### 2019, July
 
-* Coming together with the Alfano, Yang and Sigmon labs, we dug up 3,000 maize roots in three days. It was exhausting but time in the cornfield at least makes me appreciate computational biology more. 
+* Coming together with the Alfano, Yang and Sigmon labs, we dug up 3,000 maize roots in three days. It was exhausting but time in the cornfield at least makes me appreciate computational biology more.
 
 * Daniel Carvalho [passed his final defense](https://twitter.com/SciOfCarvalho/status/1154522911182508032) (July 25th)! Way to go!
 
