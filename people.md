@@ -10,7 +10,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Brandi Sigmon](/images/People_Images/BSigmon.jpg){:width="120" align="middle"}|[Brandi Sigmon](/peoplepages/Brandi_Sigmon/)|Assistant Professor of Practice||0000-0003-3914-6894|
 |![Guangchao Sun](/images/People_Images/Guangchao.JPG){:width="120" align="middle"}|Guangchao Sun<a href="https://twitter.com/xiaoguanghuan"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Postdoctoral Scholar|[CV](/CVs/Guangchao_Sun_CV_2019.pdf)|0000-0003-3942-6175|
 |![Xiaoxi Meng](/images/People_Images/Xiaoxi.jpg){:width="120" align="middle"}|Xiaoxi "Peggy" Meng|Postdoctoral Scholar||0000-0001-7217-2037|
-|![Ranjita Thapa Headshot](/images/People_Images/Ranjita.jpg){:width="120"|Ranjita Thapa|Postdoctoral Scholar|||
+|![Ranjita Thapa Headshot](/images/People_Images/Ranjita.jpg){:width="120" align="middle"}|Ranjita Thapa|Postdoctoral Scholar|||
 ||Marcin Grzybowski|Postdoctoral Scholar|||
 |![Christine Smith](/images/People_Images/Christine.jpg){:width="120"}|Christine Smith|Technician|||
 |![Jill Hochstein](/images/People_Images/Jill.jpg){:width="120"}|[Jill Hochstein](/peoplepages/Jill_Hochstein/)<a href="https://twitter.com/jara12"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Technical Project Manager|||
