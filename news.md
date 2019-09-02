@@ -25,7 +25,7 @@ title: Schnable Lab News
 
 * On August 23, 2019, Aime Valentin Nishimwe presented his [UCARE](https://ucare.unl.edu/about) summer 2019 research project with the title, "Understanding Rwanda's Soil Quality and Management Practices" with [Dr. Rebecca Young](https://agronomy.unl.edu/young) as his advisor. 
 
-![CUSP Experiential Learning Expo](/images/News_Images/aimeucare.jpeg){:width="800" align="middle"}
+![CUSP Experiential Learning Expo](/images/News_Images/aimeucare.png){:width="800" align="middle"}
 
 *Big thanks to [Justina Clark](https://directory.unl.edu/people/jclark17),Director of Undergraduate Research
 Undergraduate Education & Student Success, for stopping by!*
