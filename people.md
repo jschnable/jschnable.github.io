@@ -27,8 +27,8 @@ googlefonts: ["Monoton", "Lobster"]
 |![Nate Pester](/images/People_Images/NateP.jpg){:width="120"}|Nate Pester|Bachelors Student<br>Sigmon Group|||
 |![Brian Liu](/images/People_Images/BrianL.jpg){:width="120"}|Xiangdong "Brian" Liu|Bachelors Student<br>Sigmon Group|||
 |![Lou Townsend](/images/People_Images/Lou.jpg){:width="120"}|Lou Townsend|Bachelors Student|||
-|![Seth Snell](/images/People_Images/Seth.jpg){:width="120"}|Seth Snell|Bachelors Student|||
 |![Isaac Stevens](/images/People_Images/Isaac.jpg){:width="120"}|Isaac Stevens|Bachelors Student|||
+|![Sierra Conway](/images/People_Images/Sierra.jpg){:width="120"}|Sierra Conway|Bachelors Student|||
 {:.table100.ver1}
 
 **Lab Alumni**
@@ -63,4 +63,5 @@ googlefonts: ["Monoton", "Lobster"]
 |![Nate Andreasen](/images/People_Images/NateA.jpg){:width="120"}|Nate Andreasen|Bachelors Student|Summer 2019||
 |![Natalie Belz](/images/People_Images/Natalie.jpg){:width="120"}|Natalie Belz|REU Student|Summer 2019||
 |![Bryce Askey](/images/People_Images/BryceA.jpg){:width="120"}|Bryce Askey|REU Student|Summer 2019||
+|![Seth Snell](/images/People_Images/Seth.jpg){:width="120"}|Seth Snell|Bachelors Student|Summer 2019||
 {:.table100.ver1}
