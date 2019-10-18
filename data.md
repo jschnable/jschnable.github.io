@@ -25,3 +25,12 @@ Citable datasets (some associated with publications or preprints and some stand 
 <br>
 * Schnable JC. (2015) Sequenced Plant Genomes. <b>CoGePedia</b> <a href="https://genomevolution.org/wiki/index.php/Sequenced_plant_genomes">Wiki Page</a><br>
 <i>Exhaustive list of published plant genomes as of early 2015.</i>
+
+<br><br>
+<a href="https://github.com/alejandropages/SLHTP"> <b>SLHTP</b></a> <i>- A set of software packages for automated image processing based phenotyping </i>
+<br> Created by Alejandro D Pages, undergraduate researcher, 2018-19. 
+<br> The Schnable Lab High Throughput Phenotyping (SLHTP) software package is written in python and houses the various scripts used in the development of three image processing software packages for automated phenotyping tasks. 
+The tools available are:
+* <b>beanpheno</b> A tool that can be used to process images of beans to obtain phenotype information for use in GWAS
+* <b>kernelpheno (incomplete)</b> All the scripts and notebooks that were used in the development of a method to rate popcorn kernels for vitreousness from images taken on a light box. The image data was not collected with the intention of applying automated image processing methods in mind and therefore were too inconsistent for a simple method to be applied with good results. However progress was made towards that goal and perhaps a new data collection effort is warranted for the completion of this project.
+* <b>earpheno</b> A set of tools that are useful for backend data management of a project involving <a href="https://www.biorxiv.org/content/10.1101/384974v1"> PhytoMorph</a>, a tool for extracting phenotype relevant measurements of maize ears. 
