@@ -4,7 +4,27 @@ title: Schnable Lab News
 
 ---
 
+### 2019, October
+
+* James Schnable is the [inaugural Charles O. Gardner Professor of maize quantitative genetics](https://agronomy.unl.edu/news/schnable-appointed-endowed-professorship). Prof. Gardner was a leading researcher at UNL during the university's golden age of maize genetics. He trained countless students who contributed to both private and public sector plant science and breeding. His work combined innovations in molecular biology and statistical genetics and applied this work to the genetics and improvement of both maize and sorghum.
+
+* [A successful end to our harvest season!](https://twitter.com/AimeValentin/status/1189425282610008064)
+
+* Zhikai Liang's last day in the lab. Zhikai leaves us to start a postdoc in [the Springer lab at UMN](https://maizeumn.github.io/projects/).
+
+* [Xiuru Dai's last day in lab](https://twitter.com/szintri/status/1184976690960834560). She's headed back to Shandong Agriculture University to finish up her PhD.
+
+* [James Schnable delivers an annual Brewbaker lecture at the University of Hawaii](https://twitter.com/MaizeZynskiHI/status/1182855186374516736).
+
+### 2019, September
+
+* [A bunch of congressional staff take a tour of our cornfield](https://twitter.com/szintri/status/1178714959187808267), and hear about how #cornhuskercorn provides value to the state of Nebraska and the USA as a whole.
+
+* Chenyong Miao gives his first talk at a national conference! Plant organ semantic segmentation at MLCAS 2019. 
+
 ### 2019, August
+
+* Daniel Carvalho's last day in the lab. He's headed to the Federal University of Minas Gerais in Brazil!
 
 * Zhikai and Daniel both walked at the summer 2019 Commencement.
 
@@ -23,7 +43,7 @@ title: Schnable Lab News
 *Thank you to Bryce Askey for the photo*
 
 
-* On August 23, 2019, Aime Valentin Nishimwe presented his [UCARE](https://ucare.unl.edu/about) summer 2019 research project with the title, ["Understanding Rwanda's Soil Quality and Management Practices"](/images/News_Images/poster.pdf) with [Dr. Rebecca Young](https://agronomy.unl.edu/young) as his advisor. 
+* On August 23, 2019, Aime Valentin Nishimwe presented his [UCARE](https://ucare.unl.edu/about) summer 2019 research project with the title, ["Understanding Rwanda's Soil Quality and Management Practices"](/images/News_Images/poster.pdf) with [Dr. Rebecca Young](https://agronomy.unl.edu/young) as his advisor.
 
 ![CUSP Experiential Learning Expo](/images/News_Images/aimeucare.png){:width="800" align="middle"}
 
