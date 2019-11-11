@@ -24,6 +24,9 @@ title: Schnable Lab Papers
 
 **2019**
 
+<div data-badge-type="2" data-doi="10.2135/tppj2019.04.0007" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
+* Adams J, Qiu Y, Xu Y, **Schnable JC** (2019) "[Plant segmentation by supervised machine learning methods.](https://doi.org/10.2135/tppj2019.04.0007)" *The Plant Phenome Journal* doi: 10.2135/tppj2019.04.0007
+
 <div data-badge-type="2" data-doi="10.1109/TRANSDUCERS.2019.8808341" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
 * Jiao Y, Wang X, Chen Y, Castellano MJ, **Schnable JC**, Schnable PS, Dong L (2019) "[In-planta nitrate detection using insertable plant microsensor.](https://doi.org/10.1109/TRANSDUCERS.2019.8808527)" *20th International Conference on Solid-State Sensors, Actuators and Microsystems* Berlin, Germany doi: 10.1109/TRANSDUCERS.2019.8808527
 
