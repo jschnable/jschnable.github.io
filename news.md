@@ -6,7 +6,7 @@ title: Schnable Lab News
 
 ### 2019, October
 
-* James Schnable is the [inaugural Charles O. Gardner Professor of maize quantitative genetics](https://agronomy.unl.edu/news/schnable-appointed-endowed-professorship). Prof. Gardner was a leading researcher at UNL during the university's golden age of maize genetics. He trained countless students who contributed to both private and public sector plant science and breeding. His work combined innovations in molecular biology and statistical genetics and applied this work to the genetics and improvement of both maize and sorghum.
+* James Schnable is the [inaugural Charles O. Gardner Professor of maize quantitative genetics](https://agronomy.unl.edu/news/schnable-appointed-endowed-professorship). 
 
 * [A successful end to our harvest season!](https://twitter.com/AimeValentin/status/1189425282610008064)
 
@@ -20,7 +20,7 @@ title: Schnable Lab News
 
 * [A bunch of congressional staff take a tour of our cornfield](https://twitter.com/szintri/status/1178714959187808267), and hear about how #cornhuskercorn provides value to the state of Nebraska and the USA as a whole.
 
-* Chenyong Miao gives his first talk at a national conference! Plant organ semantic segmentation at MLCAS 2019. 
+* Chenyong Miao gives his first talk at a national conference! Plant organ semantic segmentation at MLCAS 2019.
 
 ### 2019, August
 
