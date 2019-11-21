@@ -24,6 +24,9 @@ title: Schnable Lab Papers
 
 **2019**
 
+<div data-badge-type="2" data-doi="10.1104/pp.19.00752" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
+* Zheng Z, Hey S, Jubery T, Liu T, Yang Y, Coffey L, **Miao C**, **Sigmon B**, **Schnable JC**, Hochholdinger F, Ganapathysubramanian B, Schnable PS (2019) [Shared genetic control of root system architecture between *Zea mays* and *Sorghum bicolor*.](https://doi.org/10.1104/pp.19.00752) *Plant Physiology* doi: 10.1104/pp.19.00752
+
 <div data-badge-type="2" data-doi="10.2135/tppj2019.04.0007" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
 * Adams J, Qiu Y, Xu Y, **Schnable JC** (2019) "[Plant segmentation by supervised machine learning methods.](https://doi.org/10.2135/tppj2019.04.0007)" *The Plant Phenome Journal* doi: 10.2135/tppj2019.04.0007
 
