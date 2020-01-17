@@ -18,8 +18,10 @@ title: Schnable Lab Papers
 
 **2020**
 
+* **Miao C**, **Pages A**, Xu Z, Rodene E, Yang J, **Schnable JC** (2020) "Semantic segmentation of sorghum using hyperspectral data identifies genetic associations." *Plant Phenomics* (Accepted)
+
 <div data-badge-type="2" data-doi="10.1101/689356" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Carvalho DS,** **Nishimwe A**, **Schnable JC** (2020)"[IsoSeq transcriptome assembly of C3 panicoid grasses provides tools to study evolutionary change in the Panicoideae.](https://doi.org/10.1101/689356)" *Plant Direct* (Accepted) *bioRxiv* doi: 10.1101/689356
+* **Carvalho DS**, **Nishimwe A**, **Schnable JC** (2020) "[IsoSeq transcriptome assembly of C3 panicoid grasses provides tools to study evolutionary change in the Panicoideae.](https://doi.org/10.1101/689356)" *Plant Direct* (Accepted) *bioRxiv* doi: 10.1101/689356
 
 <div data-badge-type="2" data-doi="10.3389/fgene.2019.01294" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
 * Jarquin D, Howard R, **Liang Z**, Gupta SK, **Schnable JC**, Crossa J (2020) [Enhancing hybrid prediction in pearl millet using genomic and/or multi-environment phenotypic information of inbreds.](https://doi.org/10.3389/fgene.2019.01294) *Frontiers in Genetics* doi: 10.3389/fgene.2019.01294 (Accepted)
