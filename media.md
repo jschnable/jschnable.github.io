@@ -2,7 +2,13 @@
 layout: page
 title: Media Coverage of Schnable Lab Projects
 ---
+<p>James Schnable video interview with Market Journal</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zGIMwiND7KY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<p>James Schnable <a href="https://community.plantae.org/article/5393868633501861372/faculty-job-myths-amp-amp-realities-an-interview-with-james-schnable">interviewed in Plantae by Arif Ashraf</a> as part of the "Faculty Job: Myths & Realities" series..</p>
+<br>
 <p><a href="https://ianr.unl.edu/global-engagement/news/bioinformatics-journey-brazil-nebraska-and-back-again">Profile of the newly minted Dr. Daniel Carvalho</a> in IANR Global Engagement.</p>
+<br>
 <p>James Schnable <a href="https://brownfieldagnews.com/news/researchers-develop-fitbit-like-sensor-to-measure-corn-water-use/">interviewed on Brownfield Ag News</a>.</p>
 <br>
 <p>Water flow sensor collaboration with the Dong lab at ISU <a href="https://www.omaha.com/news/plus/nebraska-iowa-researchers-developing-fitbit-for-corn-to-make-water/article_c4465663-bab3-5c6c-8462-9c2912a1a3e6.html">featured in the Omaha World Herald</a></p>

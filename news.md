@@ -4,9 +4,25 @@ title: Schnable Lab News
 
 ---
 
+### 2020, January
+
+* Guangchao Sun, Nate Korth, Chenyong Miao, and James Schnable all attended the 2020 Plant and Animal Genome conference in San Diego, CA. Guangchao [gave his first presentation](https://twitter.com/szintri/status/1217233000468889600) at an international conference as a member of the Schnable Lab in the Crop Genomics for Global Food Security session. [James also spoke](https://twitter.com/NateKorth/status/1216428395845705728) in the Systems Biology and Ontology session. 
+
+### 2019, December
+
+* [Interview with James Schnable on Plantae](https://community.plantae.org/article/5393868633501861372/faculty-job-myths-amp-amp-realities-an-interview-with-james-schnable) as part of the "Faculty Jobs: Myths and Realities" series.
+
+### 2019, November
+
+* Brandi Sigmon [receives the LK Crowe Advising Award](https://twitter.com/margaretkester/status/1195447183845146624)!
+
+* James Schnable [speaks at the University of Guelph Plant Sciences Symposium](https://twitter.com/hjearl1/status/1196868475869904896).
+
+* Bryce Askey, an REU student with the lab this summer, publishes [his first peer reviewed paper EVER](https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/aps3.11301) in Applications in Plant Sciences.
+
 ### 2019, October
 
-* James Schnable is the [inaugural Charles O. Gardner Professor of maize quantitative genetics](https://agronomy.unl.edu/news/schnable-appointed-endowed-professorship). 
+* James Schnable is the [inaugural Charles O. Gardner Professor of maize quantitative genetics](https://agronomy.unl.edu/news/schnable-appointed-endowed-professorship).
 
 * [A successful end to our harvest season!](https://twitter.com/AimeValentin/status/1189425282610008064)
 

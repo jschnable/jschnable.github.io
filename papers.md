@@ -10,25 +10,27 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/534503" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Liang Z**, Qiu Y, **Schnable JC** "[Distinct characteristics of genes associated with phenome-wide variation in maize (*Zea mays*).](https://doi.org/10.1101/534503)" *bioRxiv* doi: 10.1101/534503
 
-<div data-badge-type="2" data-doi="10.1101/689356" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Carvalho DS,** **Schnable JC** "[IsoSeq transcriptome assembly of C3 panicoid grasses provides tools to study evolutionary change in the Panicoideae.](https://doi.org/10.1101/689356)" *bioRxiv* doi: 10.1101/689356
-
 <div data-badge-type="2" data-doi="10.1101/706994" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Hoban TP**, **Pages A**, Xu Z, Rodene E, Ubbens J, Stavness I, Yang J, **Schnable JC** "[Simulated plant images improve maize leaf counting accuracy.](https://doi.org/10.1101/706994)" *bioRxiv* doi: 10.1101/706994
 
 <div data-badge-type="2" data-doi="10.1101/730473" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Dai X**, Xu Z, **Liang Z**, Tu X, Zhong S, **Schnable JC**, Li P. "[Non-homology-based prediction of gene functions.](https://doi.org/10.1101/730473)" *bioRxiv* doi: 10.1101/730473
 
-<div data-badge-type="2" data-doi="10.1101/733493" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Carvalho DS**, **Raju SKK**, **Zhang Y**, **Schnable JC**. "[Reconstructed protein sequence evolution consistent with the evolution of C4 photosynthesis via a C2 ancestor in the Paniceae](https://doi.org/10.1101/733493)" *bioRxiv* doi:  10.1101/733493
+**2020**
 
-**2019**
+<div data-badge-type="2" data-doi="10.1101/689356" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* **Carvalho DS,** **Nishimwe A**, **Schnable JC** (2020)"[IsoSeq transcriptome assembly of C3 panicoid grasses provides tools to study evolutionary change in the Panicoideae.](https://doi.org/10.1101/689356)" *Plant Direct* (Accepted) *bioRxiv* doi: 10.1101/689356
 
-<div data-badge-type="2" data-doi="10.1104/pp.19.00752" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
-* Zheng Z, Hey S, Jubery T, Liu T, Yang Y, Coffey L, **Miao C**, **Sigmon B**, **Schnable JC**, Hochholdinger F, Ganapathysubramanian B, Schnable PS (2019) [Shared genetic control of root system architecture between *Zea mays* and *Sorghum bicolor*.](https://doi.org/10.1104/pp.19.00752) *Plant Physiology* doi: 10.1104/pp.19.00752
+<div data-badge-type="2" data-doi="10.3389/fgene.2019.01294" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
+* Jarquin D, Howard R, **Liang Z**, Gupta SK, **Schnable JC**, Crossa J (2020) [Enhancing hybrid prediction in pearl millet using genomic and/or multi-environment phenotypic information of inbreds.](https://doi.org/10.3389/fgene.2019.01294) *Frontiers in Genetics* doi: 10.3389/fgene.2019.01294 (Accepted)
 
 <div data-badge-type="2" data-doi="10.2135/tppj2019.04.0007" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
-* Adams J, Qiu Y, Xu Y, **Schnable JC** (2019) "[Plant segmentation by supervised machine learning methods.](https://doi.org/10.2135/tppj2019.04.0007)" *The Plant Phenome Journal* doi: 10.2135/tppj2019.04.0007
+* Adams J, Qiu Y, Xu Y, **Schnable JC** (2020) "[Plant segmentation by supervised machine learning methods.](https://doi.org/10.2135/tppj2019.04.0007)" *The Plant Phenome Journal* doi: 10.2135/tppj2019.04.0007 (Accepted)
+
+<div data-badge-type="2" data-doi="10.1104/pp.19.00752" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
+* Zheng Z, Hey S, Jubery T, Liu T, Yang Y, Coffey L, **Miao C**, **Sigmon B**, **Schnable JC**, Hochholdinger F, Ganapathysubramanian B, Schnable PS (2020) [Shared genetic control of root system architecture between *Zea mays* and *Sorghum bicolor*.](https://doi.org/10.1104/pp.19.00752) *Plant Physiology* doi: 10.1104/pp.19.00752
+
+**2019**
 
 <div data-badge-type="2" data-doi="10.1109/TRANSDUCERS.2019.8808341" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
 * Jiao Y, Wang X, Chen Y, Castellano MJ, **Schnable JC**, Schnable PS, Dong L (2019) "[In-planta nitrate detection using insertable plant microsensor.](https://doi.org/10.1109/TRANSDUCERS.2019.8808527)" *20th International Conference on Solid-State Sensors, Actuators and Microsystems* Berlin, Germany doi: 10.1109/TRANSDUCERS.2019.8808527
