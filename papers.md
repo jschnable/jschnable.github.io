@@ -7,266 +7,42 @@ title: Schnable Lab Papers
 
 **Preprints**
 
-<div data-badge-type="2" data-doi="10.1101/534503" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Liang Z**, Qiu Y, **Schnable JC** "[Distinct characteristics of genes associated with phenome-wide variation in maize (*Zea mays*).](https://doi.org/10.1101/534503)" *bioRxiv* doi: 10.1101/534503
+* Yu M, **Thompson AM**, Ramamurthy KN, Yang E, Lazano AC. [Multitask learning using task clustering with applications to predictive modeling and GWAS of plant varieties.](https://arxiv.org/abs/1710.01788) *arXiv* arXiv:1710.01788
 
-<div data-badge-type="2" data-doi="10.1101/689356" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Carvalho DS,** **Schnable JC** "[IsoSeq transcriptome assembly of C3 panicoid grasses provides tools to study evolutionary change in the Panicoideae.](https://doi.org/10.1101/689356)" *bioRxiv* doi: 10.1101/689356
+**Papers**
 
-<div data-badge-type="2" data-doi="10.1101/706994" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Miao C**, **Hoban TP**, **Pages A**, Xu Z, Rodene E, Ubbens J, Stavness I, Yang J, **Schnable JC** "[Simulated plant images improve maize leaf counting accuracy.](https://doi.org/10.1101/706994)" *bioRxiv* doi: 10.1101/706994
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-019-12646-z" data-style="large_rectangle" style="float:right;"></span>
+* do Vale Martins L, Yu F, Zhao H, Dennison T, Lauter N, Wang H, Deng Z, **Thompson AM**, Semrau K, Rouillard JM, Birchler JA, Jiang J (2019) [Meiotic crossovers characterized by haplotype-specific chromosome painting in maize](https://doi.org/10.1038/s41467-019-12646-z) *Nature Communications* doi: 10.1038/s41467-019-12646-z
 
-<div data-badge-type="2" data-doi="10.1101/730473" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Dai X**, Xu Z, **Liang Z**, Tu X, Zhong S, **Schnable JC**, Li P. "[Non-homology-based prediction of gene functions.](https://doi.org/10.1101/730473)" *bioRxiv* doi: 10.1101/730473
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.plantsci.2018.06.018" data-style="large_rectangle" style="float:right;"></span>
+* van Eeuwijk FA, Bustos-Korts D, Millet EJ, Boer MP, Kruijer W, **Thompson AM**, Malosetti M, Iwata H, Quiroz R, Kuppe C, Muller O, Blazakis KN, Yu K, Tardieu F, Chapman SC (2019) [Modelling strategies for assessing and increasing the effectiveness of new phenotyping techniques in plant breeding](https://doi.org/10.1016/j.plantsci.2018.06.018) doi: 10.1016/j.plantsci.2018.06.018
 
-<div data-badge-type="2" data-doi="10.1101/733493" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Carvalho DS**, **Raju SKK**, **Zhang Y**, **Schnable JC**. "[Reconstructed protein sequence evolution consistent with the evolution of C4 photosynthesis via a C2 ancestor in the Paniceae](https://doi.org/10.1101/733493)" *bioRxiv* doi:  10.1101/733493
+<span class="__dimensions_badge_embed__" data-doi="10.3389/fdata.2019.00027" data-style="large_rectangle" style="float:right;"></span>
+* Yu M, Ramamurthy KN, **Thompson AM**, Lozano AC (2019) [Simultaneous parameter learning and bi-clustering for multi-response models](https://doi.org/10.3389/fdata.2019.00027) *Frontiers in Big Data* doi: 10.3389/fdata.2019.00027
 
-**2019**
+<span class="__dimensions_badge_embed__" data-doi="10.1109/DSAA.2018.00052" data-style="large_rectangle" style="float:right;"></span>
+* Olsen PA, Ramamurthy KN, Ribera J, Chen Y, **Thompson AM**, Luss R, Tuinstra M, Abe N (2018) [Detecting and counting panicles in sorghum images](https://doi.org/10.1109/DSAA.2018.00052) *2018 IEEE 5th International Conference on Data Science and Advanced Analytics* doi: 10.1109/DSAA.2018.00052
 
-<div data-badge-type="2" data-doi="10.1104/pp.19.00752" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
-* Zheng Z, Hey S, Jubery T, Liu T, Yang Y, Coffey L, **Miao C**, **Sigmon B**, **Schnable JC**, Hochholdinger F, Ganapathysubramanian B, Schnable PS (2019) [Shared genetic control of root system architecture between *Zea mays* and *Sorghum bicolor*.](https://doi.org/10.1104/pp.19.00752) *Plant Physiology* doi: 10.1104/pp.19.00752
+<span class="__dimensions_badge_embed__" data-doi="10.1109/IGARSS.2018.8519034" data-style="large_rectangle" style="float:right;"></span>
+* Masjedi A, Zhao J, **Thompson AM**, Yang KW, Flatt JE, Crawford MM, Ebert DS, Tuinstra MR, Hammer G, Chapman S (2018) [Sorghum biomass prediction using UAV-based remote sensing data and crop model simulation](https://doi.org/10.1109/IGARSS.2018.8519034) *2018 IEEE International Geoscience and Remote Sensing Symposium* doi: 10.1109/IGARSS.2018.8519034
 
-<div data-badge-type="2" data-doi="10.2135/tppj2019.04.0007" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
-* Adams J, Qiu Y, Xu Y, **Schnable JC** (2019) "[Plant segmentation by supervised machine learning methods.](https://doi.org/10.2135/tppj2019.04.0007)" *The Plant Phenome Journal* doi: 10.2135/tppj2019.04.0007
+<span class="__dimensions_badge_embed__" data-doi="10.2135/cropsci2016.03.0188" data-style="large_rectangle" style="float:right;"></span>
+* Massafaro M, **Thompson AM**, Tuinstra M, Dilkes B, Weil CF (2016) [Mapping the increased protein digestibility trait in the high-lysine sorghum mutant P721Q](https://doi.org/10.2135/cropsci2016.03.0188) *Crop Science* doi: 10.2135/cropsci2016.03.0188
 
-<div data-badge-type="2" data-doi="10.1109/TRANSDUCERS.2019.8808341" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
-* Jiao Y, Wang X, Chen Y, Castellano MJ, **Schnable JC**, Schnable PS, Dong L (2019) "[In-planta nitrate detection using insertable plant microsensor.](https://doi.org/10.1109/TRANSDUCERS.2019.8808527)" *20th International Conference on Solid-State Sensors, Actuators and Microsystems* Berlin, Germany doi: 10.1109/TRANSDUCERS.2019.8808527
+<span class="__dimensions_badge_embed__" data-doi="10.3835/plantgenome2016.03.0028" data-style="large_rectangle" style="float:right;"></span>
+* Bernardo R, **Thompson AM** (2016) [Germplasm architecture revealed through chromosomal effects for quantitative traits in maize](https://doi.org/10.3835/plantgenome2016.03.0028) *The Plant Genome* doi: 10.3835/plantgenome2016.03.0028
 
-<div data-badge-type="2" data-doi="10.1109/TRANSDUCERS.2019.8808341" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
-* Ali MA, Wang X, Chen Y, Jiao Y, Castellano MJ, **Schnable JC**, Schnable PS, Dong L (2019) "[Novel all-solid-state soil nutrient sensor using nanocomposite of poly(3-octyl-thiophene) and molybdenum sulfate.](https://doi.org/10.1109/TRANSDUCERS.2019.8808341)" *20th International Conference on Solid-State Sensors, Actuators and Microsystems* Berlin, Germany  doi: 10.1109/TRANSDUCERS.2019.8808341
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s00138-015-0728-4" data-style="large_rectangle" style="float:right;"></span>
+* Kelly D, Vatsa A, Mayham W, Ngo L, Thompson AM, Kazic T (2016) [An opinion on imaging challenges in phenotyping field crops](https://doi.org/10.1007/s00138-015-0728-4) *Machine Vision and Applications* doi: 10.1007/s00138-015-0728-4
 
-<div data-badge-type="2" data-doi="10.1038/s41598-019-48257-3" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
-* Qi P, Eudy D, **Schnable JC**, Schmutz J, Raymer P, Devos KM (2019) "[High density genetic maps of seashore paspalum using genotyping-by-sequencing and their relationship to the *Sorghum bicolor* genome.](https://doi.org/10.1038/s41598-019-48257-3)" *Scientific Reports* doi: 10.1038/s41598-019-48257-3
+<span class="__dimensions_badge_embed__" data-doi="10.1534/g3.115.017541" data-style="large_rectangle" style="float:right;"></span>
+* **Thompson AM**, Schnable PS, Yu Jianming Timmermans MCP, Schnable PS, Crants JE, Scanlon MJ, Muehlbauer GJ (2015) [Diversity of maize shoot apical meristem architecture and its relationship to plant morphology](https://doi.org/10.1534/g3.115.017541) *G3: Genes, Genomes, Genetics* doi: 10.1534/g3.115.017541
 
-<div data-badge-type="2" data-doi="10.1021/acsami.9b07120" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Ali MA, Wang X, Chen Y, Jiao Y, Mahal NK, Satyanarayana M, Castellano MJ, **Schnable JC**, Schnable PS, Dong L (2019) "[Continuous Monitoring of Soil Nitrate Using a Miniature Sensor with Poly(3-octyl-thiophene) and Molybdenum Disulfide Nanocomposite.](https://doi.org/10.1021/acsami.9b07120)" *ACS Applied Materials & Interfaces* doi: 10.1021/acsami.9b07120
+<span class="__dimensions_badge_embed__" data-doi="10.1534/g3.114.011940" data-style="large_rectangle" style="float:right;"></span>
+* **Thompson AM**, Crants J, Schnable PS, Yu J, Timmermans MCP, Springer NM, Scanlon MJ, Muehlbauer GJ (2014) [Genetic control of maize shoot apical meristem architecture](https://doi.org/10.1534/g3.114.011940) *G3: Genes, Genomes, Genetics* doi: 10.1534/g3.114.011940
 
-<div data-badge-type="2" data-doi="10.1111/pbi.13206" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Li Y, **Li D**, Jiao Y, **Schnable JC**, Li Y, Li H, Chen H, Hong H, Zhang T, Liu B, Liu Z, You Q, Tian Y, Gou Y, Guan R, Zhang L, Chang R, Zhang Z, Reif J, Zhou X, Schnable PS, Qiu L (2019) "[Identification of Loci Controlling Adaptation in Chinese Soybean Landraces via a Combination of Conventional and Bioclimatic GWAS.](https://doi.org/10.1111/pbi.13206)" *Plant Biotechnology Journal* doi: 10.1111/pbi.13206
+<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0030798" data-style="large_rectangle" style="float:right;"></span>
+* Makarevitch I, **Thompson AM**, Muehlbauer GJ, Springer NM (2012) [Brd1 gene in maize encodes a brassinosteroid C-6 oxidase](https://doi.org/10.1371/journal.pone.0030798) *PLoS One* doi: 10.1371/journal.pone.0030798
 
-<div data-badge-type="2" data-doi="10.1186/s13007-019-0450-8" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Ge Y, Atefi A, Zhang H, **Miao C**, Ramamurthy RK, **Sigmon B**, Yang J, **Schnable JC** (2019) "[High-throughput analysis of leaf physiological and chemical traits with VIS-NIR-SWIR spectroscopy: A case study with a maize diversity panel.](https://doi.org/10.1186/s13007-019-0450-8)" *Plant Methods* doi: 10.1186/s13007-019-0450-8
-
-<div data-badge-type="2" data-doi="10.1111/nph.16011" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Schnable JC** (2019) "[Genes and Gene Models, an Important Distinction.](https://doi.org/10.1111/nph.16011)" *New Phytologist* doi: 10.1111/nph.16011
-
-<div data-badge-type="2" data-doi="10.1016/j.compag.2019.104854" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Atefi A, Ge Y,  Pitla S, **Schnable JC** (2019) "[*In vivo* human-like robotic phenotyping of leaf traits in maize and sorghum.](https://doi.org/10.1016/j.compag.2019.104854)" *Computers and Electronics in Agriculture* doi: 10.1016/j.compag.2019.104854
-
-<div data-badge-type="2" data-doi="10.1111/tpj.14376" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Yan L**, **Raju SKK**, **Lai X**, **Zhang Y**, **Dai X**, Rodriguez O, Mahboub S, Roston RL, **Schnable JC** (2019) "[Parallel natural selection in the cold-adapted crop-wild relative *Tripsacum dactyloides* and artificial selection in temperate adapted maize.](https://doi.org/10.1111/tpj.14376)" *The Plant Journal* doi: 10.1111/tpj.14376 *bioRxiv* doi: 10.1101/187575
-
-<div data-badge-type="2" data-doi="10.1007/s11032-019-0981-8" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Li L, Li X, Li L, **Schnable JC**, Gu R, J Wang (2019) "[QTL identification and epistatic effect analysis of seed size- and weight-related traits in *Zea mays* L.](https://doi.org/10.1007/s11032-019-0981-8)" *Molecular Breeding* doi: 10.1007/s11032-019-0981-8
-
-<div data-badge-type="2" data-doi="10.1016/j.compag.2019.03.009" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Bai G, Ge Y, Scoby D, Leavit B, Irmak S, Graef G, **Schnable JC**, Awada T. (2019) "[NU-Spidercam: A large-scale, cable-driven, integrated sensing and robotic system for precision phenotyping, remote sensing, and agronomic research.](https://authors.elsevier.com/sd/article/S0168169918314170)" *Computers and Electronics in Agriculture* doi: 10.1016/j.compag.2019.03.009
-
-<div data-badge-type="2" data-doi="10.1038/s41467-019-08409-5" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Zou C, Miki D, **Li D**, Tang Q, Xiao L, **Rajput S**, Deng P, Peng L, Huang R, Zhang M, Sun Y, Hu J, Fu X, Schnable P, Li F, Zhang H, Feng B, Zhu X, Liu R, **Schnable JC**, Zhu JK, Zhang H. (2019) "[The genome of broomcorn millet.](https://doi.org/10.1038/s41467-019-08409-5)" *Nature Communications* doi: 10.1038/s41467-019-08409-5
-
-**2018**
-
-<div data-badge-type="2" data-doi="10.1111/pbi.13023" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Miao C**, **Yang J**, **Schnable JC** (2018) "[Optimizing the identification of causal variants across varying genetic architectures in crops.](https://doi.org/10.1111/pbi.13023)" *Plant Biotechnology Journal* doi: 10.1111/pbi.13023 <i>bioRxiv</i> doi: [10.1101/310391](https://doi.org/10.1101/310391)
-
-<div data-badge-type="2" data-doi="10.1186/s12864-018-5040-z" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Ott A, **Schnable JC**, Yeh CT, Wu L, Liu C, Hu HC, Dolgard CL, Sarkar S, Schnable PS. (2018) "[Linked read technology for assembling large complex and polyploid genomes.](https://doi.org/10.1186/s12864-018-5040-z)" *BMC Genomics* doi: 10.1186/s12864-018-5040-z
-
-<div data-badge-type="2" data-doi="10.1093/molbev/msy174" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Liu S, **Schnable JC**, Ott A, Yeh CT, Springer NM, Yu J, Meuhbauer G, Timmermans MCP, Scanlon MJ, Schnable PS. (2018) "[Intragenic Meiotic Crossovers Generate Novel Alleles with Transgressive Expression Levels.](https://academic.oup.com/mbe/article/35/11/2762/5090457?guestAccessKey=c8f71ef2-4f29-4078-9c73-b62a8874d62a)" *Molecular Biology and Evolution* doi: 10.1093/molbev/msy174
-
-<div data-badge-type="2" data-doi="10.1016/j.plantsci.2018.08.002" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Raju SKK**, Barnes A, **Schnable JC**, Roston RL. (2018) "[Low-temperature tolerance in land plants: Are transcript and membrane responses conserved?](https://doi.org/10.1016/j.plantsci.2018.08.002)" *Plant Science* doi: 10.1016/j.plantsci.2018.08.002
-
-<div data-badge-type="2" data-doi="10.1534/g3.118.200242" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* <b>Liang Z</b>, Gupta SK, Yeh CT, <b>Zhang Y</b>, <b>Ngu DW</b>, Kumar R, Patil HT, Mungra KD, Yadav DV, Rathore A, Srivastava RK, Gupkta R, <b>Yang J</b>, Varshney RK, Schnable PS, <b>Schnable JC</b>. (2018) "[Phenotypic data from inbred parents can improve genomic prediction in pearl millet hybrids.](https://doi.org/10.1534/g3.118.200242)" <i>G3: Genes Genomes Genetics</i> doi: 10.1534/g3.118.200242
-[Chinese Language Summary](https://mp.weixin.qq.com/s/8mGpB0Uel0omoC5QFGjKmA)
-<i>Selected as the outstanding scientific article of 2018 by ICRISAT's research program in Asia.</i>
-
-<div data-badge-type="2" data-doi="10.1038/s41598-018-28294-0" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Miao C**, Fang J, **Li D**, Liang P, Zhang X, **Yang J**, **Schnable JC**, Tang H. (2018) "[Genotype-Corrector: improved genotype calls for genetic mapping.](https://doi.org/10.1038/s41598-018-28294-0)" <i>Scientific Reports</i> doi: 10.1038/s41598-018-28294-0
-
-<div data-badge-type="2" data-doi="https://doi.org/10.1186/s13104-018-3508-1" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Alkhalifah N, Campbell DA, Falcon CM, ... **Schnable JC** (31 of 44 authors) ... Spalding EP, Edwards J, Lawrence-Dill CJ. (2018) "[Maize Genomes to Fields: 2014 and 2015 field season genotype, phenotype, environment, and inbred ear image datasets.](https://doi.org/10.1186/s13104-018-3508-1)" <i>BMC Research Notes</i> doi: https://doi.org/10.1186/s13104-018-3508-1
-
-<div data-badge-type="2" data-doi="10.1101/190967" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Xu Y, Qiu Y, **Schnable JC**. (2018) "[Functional Modeling of Plant Growth Dynamics.](https://dl.sciencesocieties.org/publications/tppj/abstracts/1/1/170007)" <i>The Plant Phenome</i> doi: 10.2135/tppj2017.09.0007 <i>bioRxiv</i> doi: <a href="https://doi.org/10.1101/190967">10.1101/190967</a>
-<i>An [invited webinar](https://www.youtube.com/watch?v=lw_WsWV6ox0) organized by the The Plant Phenome Journal where James Schnable describes the key advances from this paper for a wider audience.</i>
-
-<div data-badge-type="2" data-doi="10.1177/1176934318764683" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Carvalho DS**, **Schnable JC**, Almeida AMR. (2018) "[Integrating phylogenetic and network approaches to study gene family evolution: the case of the AGAMOUS family of floral genes.](https://doi.org/10.1177/1176934318764683)" <i>Evolutionary Bioinformatics</i> doi: 10.1177/1176934318764683 <i>bioRxiv</i> doi: <a href="https://doi.org/10.1101/195669">10.1101/195669</a>
-
-<div data-badge-type="2" data-doi="10.1016/j.molp.2017.12.010" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Liang Z**, **Schnable JC**. (2018) "<a href="https://doi.org/10.1016/j.molp.2017.12.010">Functional Divergence Between Subgenomes and Gene Pairs After Whole Genome Duplications.</a>" <i>Molecular Plant</i> doi: 10.1016/j.molp.2017.12.010
-
-<div data-badge-type="2" data-doi="10.1007/s11033-018-4144-5" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Nani TF, <b>Schnable JC</b>, Washburn JD, Albert P, Pereira WA, Sobrinho FS, Birchler JA, Techia VH. (2018) "<a href="https://doi.org/10.1007/s11033-018-4144-5">Location of low copy genes in chromosomes of Brachiaria spp.</a>" <i>Molecular Biology Reports</i> doi: 10.1007/s11033-018-4144-5
-
-<div data-badge-type="2" data-doi="10.1111/tpj.13806" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* <b>Lai X</b>, <b>Yan L</b>, Lu Y, <b>Schnable JC</b>. (2018) "<a href="https://doi.org/10.1111/tpj.13806">Largely unlinked gene sets targeted by selection for domestication syndrome phenotypes in maize and sorghum.</a>" <i>The Plant Journal</i> doi: 10.1111/tpj.13806  <i>bioRxiv</i> doi: <a href="https://doi.org/10.1101/184424">10.1101/184424</a>
-
-
-**2017**
-
-<div data-badge-type="2" data-doi="10.1093/gigascience/gix117" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-*  <b>Liang Z</b>, Pandey P, Stoerger V, Xu Y, Qiu Y, Ge Y, <b>Schnable JC</b>. (2017) "<a href="https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix117/4656251?guestAccessKey=71c1c32f-78fd-42c0-99a3-38e6c4fd8100">Conventional and hyperspectral time-series imaging of maize lines widely used in field trials.</a>" <i>GigaScience</i> doi: 10.1093/gigascience/gix117 <i>bioRxiv</i> doi: <a href="https://doi.org/10.1101/169045">10.1101/169045</a>
-<br>Image data, ground truth measurements, and plant pot weights using in this study are shared on Cyverse: <a href="https://doi.org/10.7946/P22K7V">10.7946/P22K7V</a>.
-
-<div data-badge-type="2" data-doi="10.1038/s41467-017-01450-2" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-*  Gage J, Jarquin D, Romay M, ... <b>Schnable JC</b> (29th of 40 authors) .. Yu J, de Leon N. (2017) "<a href="https://doi.org/10.1038/s41467-017-01450-2">The effect of artificial selection on phenotypic plasticity in maize.</a>" <i>Nature Communications</i> doi: 10.1038/s41467-017-01450-2  
-
-<div data-badge-type="2" data-doi="10.1038/s41598-017-13236-z" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-*  Washburn JD, <b>Schnable JC</b>, Brutnell TP, Shao Y, <b>Zhang Y</b>, Ludwig M, Davidse G, Pires JC. (2017) "<a href="https://doi.org/10.1038/s41598-017-13236-z">Genome-Guided Phylo-Transcriptomics.</a>" <i>Scientific Reports</i> doi: 10.1038/s41598-017-13236-z  
-
-<div data-badge-type="2" data-doi="10.1109/BIBM.2017.8217628" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-*  Behera S, Deogun JS, <b>Lai X</b>, <b>Schnable JC</b>. (2017) "<a href="http://doi.org/10.1109/BIBM.2017.8217628">DiCE: Discovery of Conserved Noncoding Sequences Efficiently.</a>" <i>IEEE BIBM</i> Kansas City, MO, USA B529 (Conference Preceedings) doi: 10.1109/BIBM.2017.8217628
-
-<div data-badge-type="2" data-doi="10.1093/nar/gkx853" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-*  Ott A,* Liu S,* <b>Schnable JC</b>, Yeh CT, Wang C, Schnable PS. (2017) "<a href="https://academic.oup.com/nar/article/doi/10.1093/nar/gkx853/4210942/tGBS-genotypingbysequencing-enables-reliable?guestAccessKey=0ba723ae-c6b2-4d7f-841e-cd46b4bf68f9">Tunable Genotyping-By-Sequencing (tGBS) enables reliable genotyping of heterozygous loci.</a>" <i>Nucleic Acids Research</i> doi: 10.1093/nar/gkx853 <i>bioRxiv</i> doi: <a href="http://dx.doi.org/10.1101/100461">10.1101/100461</a>   
-
-<div data-badge-type="2" data-doi="10.1186/s12864-017-4103-x" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-*   <b>Lai X</b>, <b>Schnable JC</b>, Liao Z, Xu J, Zhang G, Li C, Hu E, Rong T, Xu Y, Lu Y. (2017) "<a href="https://doi.org/10.1186/s12864-017-4103-x">Genome-Wide Characterization of Non-Reference Transposable Elements Insertion Polymorphisms Reveals Genetic Diversity in Tropical and Temperate Maize.</a>" <i>BMC Genomics</i> doi: 10.1186/s12864-017-4103-x  
-
-<div data-badge-type="2" data-doi="10.1534/genetics.117.300189" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-*  Mei W, Boatwright L, Feng G, <b>Schnable JC</b>, Barbazuk WB. (2017) "<a href="https://doi.org/10.1534/genetics.117.300189">Evolutionarily conserved alternative splicing across monocots</a>." <i>Genetics</i> doi: 10.1534/genetics.117.300189 <i>bioRxiv</i> preprint doi: <a href="http://dx.doi.org/10.1101/120469">10.1101/120469</a><br>(Cover Article <a href="http://www.genetics.org/content/207/2">October 2017</a>)   
-
-<div data-badge-type="2" data-doi="10.1105/tpc.17.00354" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-*  <b>Zhang Y</b>, <b>Ngu DW</b>, <b>Carvalho D</b>, <b>Liang Z</b>, Qiu Y, Roston RL, <b>Schnable JC</b>. (2017) "<a href="http://dx.doi.org/10.1105/tpc.17.00354">Differentially regulated orthologs in sorghum and the subgenomes of maize.</a>" <i>The Plant Cell</i> doi: 10.1105/tpc.17.00354 <i>bioRxiv</i> preprint doi: <a href="http://dx.doi.org/10.1101/120303">10.1101/120303</a>  
-
-<div data-badge-type="2" data-doi="10.3389/fpls.2017.01348" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-*  Pandey P, Ge Y, Stoerger V, <b>Schnable JC</b>. (2017) "<a href="http://dx.doi.org/10.3389/fpls.2017.01348">High throughput in vivo analysis of plant leaf chemical properties using hyperspectral imaging</a>" <i>Frontiers in Plant Science</i> doi: 10.3389/fpls.2017.01348   
-
-<div data-badge-type="2" data-doi="10.1016/j.molp.2017.05.010" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-*  <b>Lai X</b>,* Behera S,* <b>Liang Z</b>, Lu Y, Deogun JS, <b>Schnable JC</b>. (2017) "<a href="http://dx.doi.org/10.1016/j.molp.2017.05.010">STAG-CNS: An order-aware conserved noncoding sequence discovery tool for arbitrary numbers of species.</a>" <i>Molecular Plant</i> doi: 10.1016/j.molp.2017.05.010 <i>bioRxiv</i> preprint doi: <a href="http://dx.doi.org/10.1101/120428">10.1101/120428</a>  
-
-<div data-badge-type="2" data-doi="10.1016/j.molp.2017.05.009" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-*  <b>Lai X</b>, <b>Schnable JC</b>. (2017) "<a href="https://doi.org/10.1016/j.molp.2017.05.009">Harnessing the potential of the tea tree genome.</a>" <i>Molecular Plant</i> doi: 10.1016/j.molp.2017.05.009  
-
-<div data-badge-type="2" data-doi="10.3389/fpls.2017.00694" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-*  Mei W, Liu S, <b>Schnable JC</b>, Yeh C, Springer NM, Schnable PS, Barbazuk WB. (2017) "<a href="https://doi.org/10.3389/fpls.2017.00694">A comprehensive analysis of alternative splicing in paleopolyploid maize.</a>" <i>Frontiers in Plant Science</i> doi: 10.3389/fpls.2017.00694  
-
-**2016**
-
-<div data-badge-type="2" data-doi="10.1093/bioinformatics/btw666" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Joyce BL, Huag-Baltzell A, Davey S, Bomhoff M, <b>Schnable JC</b>, Lyons E. (2016) "<a href="http://dx.doi.org/10.1093/bioinformatics/btw666">FractBias: a graphical tool for assessing fractionation bias after whole genome duplications.</a>" <i>Bioinformatics</i> doi: 10.1093/bioinformatics/btw666
-
-<div data-badge-type="2" data-doi="10.1186/s13059-016-1080-3" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Studer AJ,* <b>Schnable JC</b>,* Weissmann S, Kolbe AR, McKain MR, Shao Y, Cousins AB, Kellogg EA, Brutnell TP. (2016) "<a href="http://dx.doi.org/10.1186/s13059-016-1080-3">The draft genome of Dichanthelium oligosanthes: A C3 panicoid grass species.</a>" <i>Genome Biology</i> doi: 10.1186/s13059-016-1080-3
-
-<div data-badge-type="2" data-doi="10.1126/science.aag1125" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Walley JW,* Sartor RC,* Shen Z, Schmitz RJ, Wu KJ, Urich MA, Nery JR, Smith LG, <b>Schnable JC</b>, Ecker JR, Briggs SP. (2016) "<a href="http://dx.doi.org/10.1126/science.aag1125">Integration of omic networks in a developmental atlas of maize.</a>" <i>Science</i> doi: 10.1126/science.aag1125
-
-<div data-badge-type="2" data-doi="Pubs/Sruti_KDD_FEWS.pd" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Chaudhury SD, Steorger V, Samal A, <b>Schnable JC</b>, <b>Liang Z</b>, Yu J. (2016) "<a href="Pubs/Sruti_KDD_FEWS.pdf">Automated vegetative stage phenotyping analysis of maize plants using visible light images.</a>" <i>KDD: Data Science for Food, Energy, and Water</i> San Francisco, CA, USA (Conference Proceedings)
-
-<div data-badge-type="2" data-doi="10.1016/j.compag.2016.07.028" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Ge Y, Bai G, Stoerger V, <b>Schnable JC</b>. (2016) "<a href="http://dx.doi.org/10.1016/j.compag.2016.07.028">Temporal dynamics of maize plant growth, water use, and plant water content using automated high throughput RGB and hyperspectral imaging.</a>" <i>Computers and Electronics in Agriculture</i> doi: 10.1016/j.compag.2016.07.028
-
-<div data-badge-type="2" data-doi="10.1093/jxb/erw256" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Huang P, Studer AJ, <b>Schnable JC</b>, Kellog EA, Brutnell TP. (2016) "<a href="http://dx.doi.org/10.1093/jxb/erw256">Cross species selection scans identify components of C4 photosynthesis in the grasses.</a>" <i>Journal of Experimental Botany</i> doi: 10.1093/jxb/erw256  
-
-<div data-badge-type="2" data-doi="10.1371/journal.pone.0157942" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* <b>Liang Z</b>, <b>Schnable JC</b>. "<a href="http://dx.doi.org/10.1371/journal.pone.0157942">RNA-seq based analysis of population structure within the maize inbred B73.</a>" <i>PLoS One</i> doi: 10.1371/journal.pone.0157942 <i>bioRxiv</i> preprint doi: <a href="http://dx.doi.org/10.1101/043513">10.1101/043513</a>
-
-<div data-badge-type="2" data-doi="10.1093/jxb/erw135" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Liu X, Tang S, Jia G, <b>Schnable JC</b>, Su X, Tang C, Zhi H, Diao X. (2016) "<a href="http://dx.doi.org/10.1093/jxb/erw135">The C-terminal motif of SiAGO1b is required for the regulation of growth, development and stress responses in foxtail millet [Setaria italica (L.) P. Beauv]</a>" <i>Journal of Experimental Botany</i> doi: 10.1093/jxb/erw135  
-
-<div data-badge-type="2" data-doi="10.1007/s11032-016-0460-4" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-*  Rajput SG, Santra DK, <b>Schnable JC</b>. (2016) "<a href="http://dx.doi.org/10.1007/s11032-016-0460-4">Mapping QTLs for morpho-agronomic traits in proso millet (<i>Panicum miliaceum L.</i>).</a>" <i>Molecular Breeding</i> doi: 10.1007/s11032-016-0460-4
-
-<div data-badge-type="2" data-doi="10.1111/nph.13884" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Cheng F, Sun C, Wu J, <b>Schnable JC</b>, Woodhouse MR, Liang J, Cai C, Freeling M, Wang X. (2016) "<a href="http://dx.doi.org/10.1111/nph.13884">Epigenetic regulation of subgenome dominance following whole genome triplication in Brassica rapa.</a>" <i>New Phytologist</i> doi: 10.1111/nph.13884
-
-**2015**
-
-<span class="__dimensions_badge_embed__" data-doi="10.1093/gbe/evv206" data-style="large_rectangle" style="float:right;"></span>
-* Chao S, Wu J, <b>Schnable JC</b>, Yang W, Cheng F, Wang X. (2015) "<a href="http://dx.doi.org/10.1093/gbe/evv206">Impacts of Whole Genome Triplication on MIRNA Evolution in Brassica rapa.</a>" <i>Genome Biology and Evolution</i> doi: 10.1093/gbe/evv206
-
-<span class="__dimensions_badge_embed__" data-doi="10.1093/gbe/evv219" data-style="large_rectangle" style="float:right;"></span>
-* Tang H, Bamhoff MD, Briones E, <b>Schnable JC</b>, Lyons E. (2015) "<a href="http://dx.doi.org/10.1093/gbe/evv219">SynFind: compiling syntenic regions across any set of genomes on demand.</a>" <i>Genome Biology and Evolution</i> doi: 10.1093/gbe/evv219
-
-<span class="__dimensions_badge_embed__" data-doi="10.3732/ajb.1500222" data-style="large_rectangle" style="float:right;"></span>
-* Washburn JD, <b>Schnable JC</b>, Davidse G, Pires JC. (2015) "<a href="http://dx.doi.org/10.3732/ajb.1500222">Phylogeny and photosynthesis of the grass tribe Paniceae.</a>" <i>American Journal of Botany</i> doi: 10.3732/ajb.1500222
-
-<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0125688" data-style="large_rectangle" style="float:right;"></span>
-* Jia G, Liu X, <b>Schnable JC</b>, Niu Z, Wang C, Li Y, Wang Sh, Wang Su, Liu J, Gou E, Diao X. (2015) "<a href="http://dx.doi.org/10.1371/journal.pone.0125688">Microsatellite Variations of Elite Setaria Varieties Released during Last Six Decades in China.</a>" <i>PLoS One</i> doi: 10.1371/journal.pone.0125688
-
-<span class="__dimensions_badge_embed__" data-doi="10.1186/s13059-014-0573-1" data-style="large_rectangle" style="float:right;"></span>
-* Tang H, Zhang X, <b>Miao C</b>, Zhang J, Ming R, <b>Schnable JC</b>, Schnable PS, Lyons E, Lu Jianguo. (2015) "<a href="http://dx.doi.org/10.1186/s13059-014-0573-1">ALLMAPS: robust scaffold ordering based on multiple maps.</a>" <i>Genome Biology</i> doi: 10.1186/s13059-014-0573-1
-
-<span class="__dimensions_badge_embed__" data-doi="10.1146/annurev-arplant-043014-115604" data-style="large_rectangle" style="float:right;"></span>
-* <b>Schnable JC</b>. (2015) "<a href="http://dx.doi.org/10.1146/annurev-arplant-043014-115604">Genome evolution in maize: from genomes back to genes.</a>" <i>Annual Review of Plant Biology</i> doi: 10.1146/annurev-arplant-043014-115604
-
-**2014**
-
-<span class="__dimensions_badge_embed__" data-doi="10.1105/tpc.114.130948" data-style="large_rectangle" style="float:right;"></span>
-* Paschold A, Larson NB, Marcon C, <b>Schnable JC</b>, Yeh C, Lanz C, Nettleton D, Piepho H, Schnable PS, Hochholdinger F. (2014) "<a href="http://dx.doi.org/10.1105/tpc.114.130948">Nonsyntenic Genes Drive Highly Dynamic Complementation of Gene Expression in Maize Hybrids</a>" <i>Plant Cell</i> doi:10.1105/tpc.114.130948
-
-<span class="__dimensions_badge_embed__" data-doi="10.1038/srep06194" data-style="large_rectangle" style="float:right;"></span>
-* Almeida AMR, Yockteng R, <b>Schnable JC</b>, Alvarez-Buylla ER, Freeling M, Specht CD. (2014) "<a href="http://dx.doi.org/10.1038/srep06194">Co-option of the polarity gene network shapes filament morphology in angiosperms</a>" <i>Scientific Reports</i> doi: 10.1038/srep06194
-
-<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.010186" data-style="large_rectangle" style="float:right;"></span>
-* Qie L, Jia G, Zhang W, <b>Schnable JC</b>, Shang Z, Li W, Liu B, Li M, Chai, Y, Zhi H, Diao X. (2014) "<a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0101868">Mapping of Quantitative Trait Locus (QTLs) that Contribute to Germination and Early Seedling Drought Tolerance in the Interspecific Cross <i>Setaria italica</i> x <i>Setaria viridis</i>.</a>" <i>PLoS One</i> doi: 10.1371/journal.pone.0101868
-
-<span class="__dimensions_badge_embed__" data-doi="10.15302/J-FASE-2014011" data-style="large_rectangle" style="float:right;"></span>
-* Diao X, <b>Schnable JC</b>, Bennetzen JL, Li J. (2014) "<a href="http://engineering.cae.cn/fase/EN/10.15302/J-FASE-2014011">Initiation of Setaria as a model plant.</a>" <i>Frontiers of Agricultural Science and Engineering</i> doi: 10.15302/J-FASE-2014011
-
-<span class="__dimensions_badge_embed__" data-doi="10.1038/srep04519" data-style="large_rectangle" style="float:right;"></span>
-* Martin JA, Johnson NV, Gross SM, <b>Schnable JC</b>, Meng X, Wang M, Coleman-Derr D, Lindquist E, Wei C, Kaeppler S, Chen F, Wang Z. (2014) "<a href="http://www.nature.com/srep/2014/140331/srep04519/full/srep04519.html">A near complete snapshot of the Zea mays seedling transcriptome revealed from ultra-deep sequencing.</a>" <i>Scientific Reports</i> doi: 10.1038/srep04519
-
-**2013**
-
-<span class="__dimensions_badge_embed__" data-doi="10.1093/molbev/mst230" data-style="large_rectangle" style="float:right;"></span>
-* Garsmeur O,* <b>Schnable JC,*</b> Almeida A, Jourda C, D'Hont A, Freeling M (2013) "<a href="http://dx.doi.org/10.1093/molbev/mst230">Two Evolutionarily Distinct Classes of Paleopolyploidy.</a>" <i>Molecular Biology and Evolution</i> doi: 10.1093/molbev/mst230
-
-<span class="__dimensions_badge_embed__" data-doi="10.3389/fpls.2013.00170" data-style="large_rectangle" style="float:right;"></span>
-* Turco G, <b>Schnable JC</b>, Bedersen B, Freeling M. (2013) "<a href="http://dx.doi.org/10.3389/fpls.2013.00170">Automated conserved noncoding sequence (CNS) discovery reveals differences in gene content and promoter evolution among the grasses.</a>" <i>Frontiers in Plant Sciences</i> doi: 10.3389/fpls.2013.00170
-
-**2012**
-
-<span class="__dimensions_badge_embed__" data-doi="10.3389/fpls.2012.00094" data-style="large_rectangle" style="float:right;"></span>
-* <b>Schnable JC</b>, Wang X, Pires JC, Freeling M. (2012) "<a href="http://dx.doi.org/10.3389/fpls.2012.00094">Escape from preferential retention following repeated whole genome duplication in plants.</a>" <i>Frontiers in Plant Science</i> doi: 10.3389/fpls.2012.00094
-
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.pbi.2012.01.015" data-style="large_rectangle" style="float:right;"></span>
-* Freeling M, Woodhouse MR, Subramaniam S, Turco G, Lisch D, <b>Schnable JC</b>. (2012) "<a href="http://dx.doi.org/10.1016/j.pbi.2012.01.015">Fractionation mutagenesis and similar consequences of mechanisms removing dispensable or less-expressed DNA in plants</a>" <i>Current Opinion in Plant Biology</i> doi: 10.1016/j.pbi.2012.01.015
-
-<span class="__dimensions_badge_embed__" data-doi="10.1534/genetics.111.137349" data-style="large_rectangle" style="float:right;"></span>
-* Tang H, Woodhouse MR, Cheng F, <b>Schnable JC</b>, Pedersen BS, Conant GC, Wang X, Freeling M, Pires JC. (2012) "<a href="http://dx.doi.org/10.1534/genetics.111.137349">Altered patterns of fractionation and exon deletions in Brassica rapa support a two-step model of paleohexaploidy.</a>" <i>Genetics</i> doi: 10.1534/genetics.111.137349
-
-<span class="__dimensions_badge_embed__" data-doi="10.1093/gbe/evs009" data-style="large_rectangle" style="float:right;"></span>
-* <b>Schnable JC</b>, Freeling M, Lyons E. (2012) "<a href="http://dx.doi.org/10.1093/gbe/evs009">Genome-wide analysis of syntenic gene deletion in the grasses</a>" <i>Genome Biology and Evolution</i> doi: 10.1093/gbe/evs009
-
-<span class="__dimensions_badge_embed__" data-doi="10.1101/gr.131342.111" data-style="large_rectangle" style="float:right;"></span>
-* Zhang W, Wu Y, <b>Schnable JC,</b> Zeng Z, Freeling M, Crawford GE, and Jiang J. (2012) "<a href="http://dx.doi.org/10.1101/gr.131342.111">High-resolution mapping of open chromatin in the rice genome.</a>" <i>Genome Research</i> doi: 10.1101/gr.131342.111
-
-**2011**
-
-<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pgen.1002372" data-style="large_rectangle" style="float:right;"></span>
-* Eichten SR,* Swanson-Wagner RA,* <b>Schnable JC,</b> Waters AJ, Hermanson PJ, Liu S, Yeh C, Jia Y, Gendler K, Freeling M, Schnable PS, Vaughn MW, Springer NM. (2011) "<a href="http://dx.doi.org/10.1371/journal.pgen.1002372">Heritable epigenetic variation among maize inbreds.</a>" <i>PLoS Genetics</i> doi: 10.1371/journal.pgen.1002372
-
-* <b>Schnable JC</b>, Lyons E. (2011) "<a href="http://www.schnablelab.org/Pubs/56_183.pdf">Comparative genomics with maize and other grasses: from genes to genomes</a>" <i>Maydica</i> (Link is directly to PDF)
-
-<span class="__dimensions_badge_embed__" data-doi="10.1186/1471-2105-12-102" data-style="large_rectangle" style="float:right;"></span>
-* Tang H, Lyons E, Pedersen B, <b>Schnable JC</b>, Paterson AH, Freeling M. (2011) "<a href="http://www.biomedcentral.com/1471-2105/12/102/abstract">Screening synteny blocks in pairwise genome comparisons through integer programming.</a>" <i>BMC Bioinformatics</i> doi: 10.1186/1471-2105-12-102
-
-<span class="__dimensions_badge_embed__" data-doi="10.3389/fpls.2011.00002" data-style="large_rectangle" style="float:right;"></span>
-* <b>Schnable JC</b>, Pedersen BS, Subramaniam S, Freeling M. (2011) "<a href="http://www.frontiersin.org/plant_genetics_and_genomics/10.3389/fpls.2011.00002/abstract">Dose-sensitivity, conserved noncoding sequences and duplicate gene retention through multiple tetraploidies in the grasses.</a>" <i>Frontiers in Plant Science</i> doi: 10.3389/fpls.2011.00002
-<br><i>(<a href="http://www.frontiersin.org/plant%20genetics%20and%20genomics/10.3389/fpls.2011.00064/full">Commentary on this article</a> by Birchler and Veitia, also published in Frontiers in Plant Science)</i>
-
-<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0017855" data-style="large_rectangle" style="float:right;"></span>
-* <b>Schnable JC</b>, Freeling M. (2011) "<a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0017855">Genes identifed by visible mutant phenotypes show increased bias towards one of two maize subgenomes.</a>" <i>PLoS One</i> doi: 10.1371/journal.pone.0017855
-
-<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1101368108" data-style="large_rectangle" style="float:right;"></span>
-* <b>Schnable JC</b>, Springer NM, Freeling M. (2011) "<a href="http://www.pnas.org/content/108/10/4069.abstract">Differentiation of the maize subgenomes by genome dominance and both ancient and ongoing gene loss.</a>" <i>PNAS</i> doi: 10.1073/pnas.1101368108 <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3053962/">Read for free at PubMed Central</a>
-            <br><i>(Selected as an Editor's Choice by MaizeGDB May 2011)</i>
-
-**2010**
-
-<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pbio.1000409" data-style="large_rectangle" style="float:right;"></span>
-* Woodhouse MR,* <b>Schnable JC,*</b> Pedersen BS, Lyons E, Lisch D, Subramaniam S, Freeling M. (2010) "<a href="http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000409">Following tetraploidy in maize, a short deletion mechanism removed genes preferentially from one of the two homeologs.</a>" <i>PLoS Biology</i> doi: 10.1371/journal.pbio.1000409
-            <br><i>(Selected as an <a href="http://maizeresearch.org/2010/08/tetraploidy-in-maize/">Editor's Choice by MaizeGDB August 2010</a>; an image related to this manuscript was used for <a href="http://www.plosbiology.org/article/browseIssue.action?issue=info%3Adoi%2F10.1371%2Fissue.pbio.v08.i06#top">the journal cover</a>; "recommended" by Faculty of 1000)</i>
-
-<span class="__dimensions_badge_embed__" data-doi="10.1038/nature08747" data-style="large_rectangle" style="float:right;"></span>
-* The International Brachypodium Initiative. (2010) "<a href="http://dx.doi.org/10.1038/nature08747">Genome sequencing and analysis of the model grass Brachypodium distachyon.</a>" <i>Nature</i> doi: 10.1038/nature08747 _*Authors Contributed Equally_
+<span class="__dimensions_badge_embed__" data-doi="10.1111/j.1365-313X.2008.03778.x" data-style="large_rectangle" style="float:right;"></span>
+* Li L. Yu X, **Thompson AM**, Guo M, Yoshida S, Asami T, Chory J, Yin Y (2009) [Arabidopsis MYB30 is a direct target of BES1 and cooperates with BES1 to regulate brassinosteroid‐induced gene expression](https://doi.org/10.1111/j.1365-313X.2008.03778.x) *The Plant Journal* doi: 10.1111/j.1365-313X.2008.03778.x
