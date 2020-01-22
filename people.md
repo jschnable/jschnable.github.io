@@ -7,7 +7,7 @@ googlefonts: ["Monoton", "Lobster"]
 
 | | **Name** | **Title**| **CV** | **ORCID**
 |![James Schnable](/images/People_Images/jamesschnable.jpg){:width="120" align="middle"}|[James Schnable](/peoplepages/jschnable/)<a href="https://twitter.com/szintri"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Associate Professor|[CV](/CVs/JSchnable.pdf)|0000-0001-6739-5527|
-|![Brandi Sigmon](/images/People_Images/BSigmon.jpg){:width="120" align="middle"}|[Brandi Sigmon](/peoplepages/Brandi_Sigmon/)|Assistant Professor of Practice||0000-0003-3914-6894|
+|![Brandi Sigmon](/images/People_Images/BSigmon.jpg){:width="120" align="middle"}|[Brandi Sigmon](/peoplepages/Brandi_Sigmon/)|Assistant Professor of Practice<br>UNL Microbiology Program Acting Director||0000-0003-3914-6894|
 |![Guangchao Sun](/images/People_Images/Guangchao.JPG){:width="120" align="middle"}|Guangchao Sun<a href="https://twitter.com/xiaoguanghuan"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Postdoctoral Scholar|[CV](/CVs/Guangchao_Sun_CV_2019.pdf)|0000-0003-3942-6175|
 |![Ranjita Thapa Headshot](/images/People_Images/Ranjita.jpg){:width="120" align="middle"}|Ranjita Thapa|Postdoctoral Scholar||0000-0001-6116-7611|
 |![Marcin Grzybowski Headshot](/images/People_Images/Marcin.jpg){:width="120" align="middle"}|Marcin Grzybowski|Postdoctoral Scholar||0000-0002-6303-5433|
