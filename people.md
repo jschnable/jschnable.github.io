@@ -19,7 +19,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Fanyi Li](/images/People_Images/Fangyi.jpg){:width="120"}|Fangyi Li|PhD Student<br>_(co-advised)_|||
 |![Hongyu Jin Headshot](/images/People_Images/Hongyu.jpg){:width="120"}|Hongyu Jin|PhD Student<br>_(co-advised)_|||
 |![Sa Headshot](/images/People_Images/Santos.jpg){:width="120"}|Santos Yenandy<br>Barrera Lemus|PhD Student<br>_(co-advised)_|||
-|![Michael Tross Headshot](/images/People_Images/MichaelT.jpg){:width="120"}|Michael Tross|PhD Student<br>_(rotating)_|||
+|![Michael Tross Headshot](/images/People_Images/MichaelT.jpg){:width="120"}|Michael Tross|PhD Student<br>_(rotating)_||0000-0002-4410-9679|
 |![Michael Richter Headshot](/images/People_Images/MichaelR.jpg){:width="120"}|Michael Richter|PhD Student<br>_(rotating)_||0000-0001-9702-4292|
 |![Mackenzie](/images/People_Images/Mackenzie.jpeg){:width="120"}|Mackenzie Zwiener|MS Student||0000-0001-8636-6780|
 |![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|PhD Student<br>_(co-advised)_|||
