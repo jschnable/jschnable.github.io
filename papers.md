@@ -18,7 +18,7 @@ title: Schnable Lab Papers
 
 **2020**
 
-* **Miao C**, **Pages A**, Xu Z, Rodene E, Yang J, **Schnable JC** (2020) "Semantic segmentation of sorghum using hyperspectral data identifies genetic associations." *Plant Phenomics* (Accepted)
+* **Miao C**, **Pages A**, Xu Z, Rodene E, Yang J, **Schnable JC** (2020) "[Semantic segmentation of sorghum using hyperspectral data identifies genetic associations.](https://spj.sciencemag.org/plantphenomics/aip/4216373/)" *Plant Phenomics* (Accepted)
 
 <div data-badge-type="2" data-doi="10.1101/689356" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Carvalho DS**, **Nishimwe A**, **Schnable JC** (2020) "[IsoSeq transcriptome assembly of C3 panicoid grasses provides tools to study evolutionary change in the Panicoideae.](https://doi.org/10.1101/689356)" *Plant Direct* (Accepted) *bioRxiv* doi: 10.1101/689356
