@@ -4,9 +4,15 @@ title: Schnable Lab News
 
 ---
 
+### 2020, February
+
+* Chenyong Miao was the subject of a "First Author Insight" in Plantae for his new paper just out in Plant Phenomics. Check out both [the interview](https://community.plantae.org/article/5447329265999677113/plant-phenomics-first-author-insights-02-04-2020) and [the paper](https://doi.org/10.34133/2020/4216373).
+
 ### 2020, January
 
-* Guangchao Sun, Nate Korth, Chenyong Miao, and James Schnable all attended the 2020 Plant and Animal Genome conference in San Diego, CA. Guangchao [gave his first presentation](https://twitter.com/szintri/status/1217233000468889600) at an international conference as a member of the Schnable Lab in the Crop Genomics for Global Food Security session. [James also spoke](https://twitter.com/NateKorth/status/1216428395845705728) in the Systems Biology and Ontology session. 
+* Xiaoxi Meng's last day in lab. She's headed to Minnesota for a postdoc at the intersection of genomics, machine learning, and potatoes. 
+
+* Guangchao Sun, Nate Korth, Chenyong Miao, and James Schnable all attended the 2020 Plant and Animal Genome conference in San Diego, CA. Guangchao [gave his first presentation](https://twitter.com/szintri/status/1217233000468889600) at an international conference as a member of the Schnable Lab in the Crop Genomics for Global Food Security session. [James also spoke](https://twitter.com/NateKorth/status/1216428395845705728) in the Systems Biology and Ontology session.
 
 ### 2019, December
 
