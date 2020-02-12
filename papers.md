@@ -13,10 +13,15 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/706994" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Hoban TP**, **Pages A**, Xu Z, Rodene E, Ubbens J, Stavness I, Yang J, **Schnable JC** "[Simulated plant images improve maize leaf counting accuracy.](https://doi.org/10.1101/706994)" *bioRxiv* doi: 10.1101/706994
 
-<div data-badge-type="2" data-doi="10.1101/730473" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Dai X**, Xu Z, **Liang Z**, Tu X, Zhong S, **Schnable JC**, Li P. "[Non-homology-based prediction of gene functions.](https://doi.org/10.1101/730473)" *bioRxiv* doi: 10.1101/730473
-
 **2020**
+
+* McFarland BA, AlKhalifah N, Bohn ... **Schnable JC** (34 of 51 authors) .. **Smith C** (39 of 51 authors) .. Xu W, Yeh CT, de Leon N (2020) "Maize Genomes to Fields (G2F): 2014 –2017 field seasons’ genotype, phenotype, climatic, soil and inbred ear image datasets." *BMC Research Notes* (Accepted)
+
+<div data-badge-type="2" data-doi="10.1101/730473" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* **Dai X**, Xu Z, **Liang Z**, Tu X, Zhong S, **Schnable JC**, Li P. "[Non-homology-based prediction of gene functions.](https://doi.org/10.1101/730473)" *The Plant Genome* (Accepted) *bioRxiv* doi: 10.1101/730473
+
+<div data-badge-type="2" data-doi="10.2135/tppj2019.04.0007" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
+* Adams J, Qiu Y, Xu Y, **Schnable JC** (2020) "[Plant segmentation by supervised machine learning methods.](https://doi.org/10.2135/tppj2019.04.0007)" *The Plant Phenome Journal* doi: 10.2135/tppj2019.04.0007 (Accepted)
 
 <div data-badge-type="2" data-doi="10.34133/2020/4216373" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Pages A**, Xu Z, Rodene E, Yang J, **Schnable JC** (2020) "[Semantic segmentation of sorghum using hyperspectral data identifies genetic associations.](https://doi.org/10.34133/2020/4216373)" *Plant Phenomics* doi: 10.34133/2020/4216373
@@ -25,12 +30,7 @@ title: Schnable Lab Papers
 * **Carvalho DS**, **Nishimwe A**, **Schnable JC** (2020) "[IsoSeq transcriptome assembly of C3 panicoid grasses provides tools to study evolutionary change in the Panicoideae.](https://doi.org/10.1101/689356)" *Plant Direct* (Accepted) *bioRxiv* doi: 10.1101/689356
 
 <div data-badge-type="2" data-doi="10.3389/fgene.2019.01294" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
-* Jarquin D, Howard R, **Liang Z**, Gupta SK, **Schnable JC**, Crossa J (2020) [Enhancing hybrid prediction in pearl millet using genomic and/or multi-environment phenotypic information of inbreds.](https://doi.org/10.3389/fgene.2019.01294) *Frontiers in Genetics* doi: 10.3389/fgene.2019.01294 (Accepted)
-
-<div data-badge-type="2" data-doi="10.2135/tppj2019.04.0007" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
-* Adams J, Qiu Y, Xu Y, **Schnable JC** (2020) "[Plant segmentation by supervised machine learning methods.](https://doi.org/10.2135/tppj2019.04.0007)" *The Plant Phenome Journal* doi: 10.2135/tppj2019.04.0007 (Accepted)
-
-* McFarland BA, AlKhalifah N, Bohn ... **Schnable JC** (34 of 51 authors) .. **Smith C** (39 of 51 authors) .. Xu W, Yeh CT, de Leon N (2020) "Maize Genomes to Fields (G2F): 2014 –2017 field seasons’ genotype, phenotype, climatic, soil and inbred ear image datasets." *BMC Research Notes* (Accepted)
+* Jarquin D, Howard R, **Liang Z**, Gupta SK, **Schnable JC**, Crossa J (2020) [Enhancing hybrid prediction in pearl millet using genomic and/or multi-environment phenotypic information of inbreds.](https://doi.org/10.3389/fgene.2019.01294) *Frontiers in Genetics* doi: 10.3389/fgene.2019.01294
 
 <div data-badge-type="2" data-doi="10.1104/pp.19.00752" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
 * Zheng Z, Hey S, Jubery T, Liu T, Yang Y, Coffey L, **Miao C**, **Sigmon B**, **Schnable JC**, Hochholdinger F, Ganapathysubramanian B, Schnable PS (2020) [Shared genetic control of root system architecture between *Zea mays* and *Sorghum bicolor*.](https://doi.org/10.1104/pp.19.00752) *Plant Physiology* doi: 10.1104/pp.19.00752
