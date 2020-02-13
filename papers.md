@@ -15,10 +15,11 @@ title: Schnable Lab Papers
 
 **2020**
 
-* McFarland BA, AlKhalifah N, Bohn ... **Schnable JC** (34 of 51 authors) .. **Smith C** (39 of 51 authors) .. Xu W, Yeh CT, de Leon N (2020) "Maize Genomes to Fields (G2F): 2014 –2017 field seasons’ genotype, phenotype, climatic, soil and inbred ear image datasets." *BMC Research Notes* (Accepted)
-
 <div data-badge-type="2" data-doi="10.1101/730473" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Dai X**, Xu Z, **Liang Z**, Tu X, Zhong S, **Schnable JC**, Li P. "[Non-homology-based prediction of gene functions.](https://doi.org/10.1101/730473)" *The Plant Genome* (Accepted) *bioRxiv* doi: 10.1101/730473
+
+<div data-badge-type="2" data-doi="10.1186/s13104-020-4922-8" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* McFarland BA, AlKhalifah N, Bohn ... **Schnable JC** (34 of 51 authors) .. Xu W, Yeh CT, de Leon N (2020) "[Maize Genomes to Fields (G2F): 2014 –2017 field seasons’ genotype, phenotype, climatic, soil and inbred ear image datasets.](https://doi.org/10.1186/s13104-020-4922-8)" *BMC Research Notes* doi: 10.1186/s13104-020-4922-8
 
 <div data-badge-type="2" data-doi="10.2135/tppj2019.04.0007" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
 * Adams J, Qiu Y, Xu Y, **Schnable JC** (2020) "[Plant segmentation by supervised machine learning methods.](https://doi.org/10.2135/tppj2019.04.0007)" *The Plant Phenome Journal* doi: 10.2135/tppj2019.04.0007 (Accepted)
