@@ -18,14 +18,17 @@ title: Schnable Lab Papers
 
 **2020**
 
+<div data-badge-type="2" data-doi="10.2135/tppj2019.04.0007" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
+* Adams J, Qiu Y, Xu Y, **Schnable JC** (2020) "[Plant segmentation by supervised machine learning methods.](https://doi.org/10.2135/tppj2019.04.0007)" *The Plant Phenome Journal* doi: 10.2135/tppj2019.04.0007 (Accepted)
+
+<div data-badge-type="2" data-doi="10.1111/tpj.14722" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
+* Benes B, Guan K, Lang M, Long S, Lynch J, Marshall-Colon A, Peng B, **Schnable JC**, Sweetlove L, Turk M (2020) "[Multiscale computational models can guide experimentation and targeted measurements for crop improvement.](https://doi.org/10.1111/tpj.14722)" *The Plant Journal* doi: 10.1111/tpj.14722
+
 <div data-badge-type="2" data-doi="10.1101/730473" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Dai X**, Xu Z, **Liang Z**, Tu X, Zhong S, **Schnable JC**, Li P. "[Non-homology-based prediction of gene functions.](https://doi.org/10.1101/730473)" *The Plant Genome* (Accepted) *bioRxiv* doi: 10.1101/730473
 
 <div data-badge-type="2" data-doi="10.1186/s13104-020-4922-8" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * McFarland BA, AlKhalifah N, Bohn ... **Schnable JC** (34 of 51 authors) .. Xu W, Yeh CT, de Leon N (2020) "[Maize Genomes to Fields (G2F): 2014 –2017 field seasons’ genotype, phenotype, climatic, soil and inbred ear image datasets.](https://doi.org/10.1186/s13104-020-4922-8)" *BMC Research Notes* doi: 10.1186/s13104-020-4922-8
-
-<div data-badge-type="2" data-doi="10.2135/tppj2019.04.0007" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
-* Adams J, Qiu Y, Xu Y, **Schnable JC** (2020) "[Plant segmentation by supervised machine learning methods.](https://doi.org/10.2135/tppj2019.04.0007)" *The Plant Phenome Journal* doi: 10.2135/tppj2019.04.0007 (Accepted)
 
 <div data-badge-type="2" data-doi="10.34133/2020/4216373" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Pages A**, Xu Z, Rodene E, Yang J, **Schnable JC** (2020) "[Semantic segmentation of sorghum using hyperspectral data identifies genetic associations.](https://doi.org/10.34133/2020/4216373)" *Plant Phenomics* doi: 10.34133/2020/4216373
