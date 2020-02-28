@@ -13,6 +13,9 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/706994" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Hoban TP**, **Pages A**, Xu Z, Rodene E, Ubbens J, Stavness I, Yang J, **Schnable JC** "[Simulated plant images improve maize leaf counting accuracy.](https://doi.org/10.1101/706994)" *bioRxiv* doi: 10.1101/706994
 
+<div data-badge-type="2" data-doi="10.1101/2020.02.16.951467" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* **Miao C**, Xu Y, Liu S, Schnable PS, **Schnable JC** "[Functional principal component based time-series genome-wide association in sorghum](https://doi.org/10.1101/2020.02.16.951467) *bioRxiv* doi: 10.1101/2020.02.16.951467
+
 **2020**
 
 <div data-badge-type="2" data-doi="10.2135/tppj2019.04.0007" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
