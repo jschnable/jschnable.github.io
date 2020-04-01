@@ -18,22 +18,22 @@ googlefonts: ["Monoton", "Lobster"]
 |![Chenyong Miao](/images/People_Images/Miao_Small.jpg){:width="120"}|[Chenyong Miao](/peoplepages/Chenyong_Miao/)<a href="https://twitter.com/Valiancy_miao"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|PhD Student|[CV](/CVs/CMiao.pdf)| 0000-0002-0904-3707|
 |![Fanyi Li](/images/People_Images/Fangyi.jpg){:width="120"}|Fangyi Li|PhD Student<br>_(co-advised)_|||
 |![Hongyu Jin Headshot](/images/People_Images/Hongyu.jpg){:width="120"}|Hongyu Jin|PhD Student<br>_(co-advised)_|||
-|![Mackenzie](/images/People_Images/Mackenzie.jpeg){:width="120"}|Mackenzie Zwiener|MS Student||0000-0001-8636-6780|
+|![Mackenzie](/images/People_Images/Mackenzie.jpeg){:width="120"}|Mackenzie Zwiener<a href="https://twitter.com/MackenzieZwien1"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|MS Student||0000-0001-8636-6780|
 |![Kahheetah Barnoskie](/images/People_Images/Kahheetah.jpg){:width="120"}|Kahheetah Barnoskie|MS Student|||
 |![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|PhD Student<br>_(co-advised)_|||
 |![Sa Headshot](/images/People_Images/Santos.jpg){:width="120"}|Santos Yenandy<br>Barrera Lemus|PhD Student<br>_(co-advised)_|||
 |![Michael Tross Headshot](/images/People_Images/MichaelT.jpg){:width="120"}|Michael Tross|PhD Student<br>_(rotating)_||0000-0002-4410-9679|
 |![Michael Richter Headshot](/images/People_Images/MichaelR.jpg){:width="120"}|Michael Richter|PhD Student<br>_(rotating)_||0000-0001-9702-4292|
 |![Thomas Hoban](/images/People_Images/thoban.jpg){:width="120"}|Thomas Hoban|Bachelors Student||0000-0001-7607-1903|
-|![Aime Nishimwe](/images/People_Images/Aime.jpg){:width="120"}|Aime Nishimwe|CUSP Bachelors Student|[CV](/CVs/Aime Valentin Nishimwe.pdf)|0000-0003-0074-9364|
-|![Nate Pester](/images/People_Images/NateP.jpg){:width="120"}|Nate Pester|Bachelors Student<br>Sigmon Group|||
+|![Aime Nishimwe](/images/People_Images/Aime.jpg){:width="120"}|Aime Nishimwe|CUSP Bachelors Student<a href="https://twitter.com/AimeValentin"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|[CV](/CVs/Aime Valentin Nishimwe.pdf)|0000-0003-0074-9364|
+|![Nate Pester](/images/People_Images/NateP.jpg){:width="120"}|Nate Pester<a href="https://twitter.com/NatePester"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Bachelors Student<br>Sigmon Group|||
 |![Isaac Stevens](/images/People_Images/Isaac.jpg){:width="120"}|Isaac Stevens|Bachelors Student|||
 |![Sierra Conway](/images/People_Images/Sierra.jpg){:width="120"}|Sierra Conway|Bachelors Student|||
 |![Lou Townsend](/images/People_Images/Lou.jpg){:width="120"}|Lou Townsend|Bachelors Student|||
 |![Leighton Wheeler](/images/People_Images/Leighton.jpg){:width="120"}|Leighton Wheeler|Bachelors Student|||
 |![Elijah Frost](/images/People_Images/NA.jpg){:width="120"}|Elijah Frost|Bachelors Student|||
 |![Alice Guo](/images/People_Images/AliceG.jpg){:width="120"}|Alice Guo|Bachelors Student|||
-|![Logan Duryee](/images/People_Images/NA.jpg){:width="120"}|Logan Duryee|Bachelors Student|||
+|![Logan Duryee](/images/People_Images/NA.jpg){:width="120"}|Logan Duryee<a href="https://twitter.com/DuryeeLogan"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Bachelors Student|||
 
 {:.table100.ver1}
 
@@ -49,7 +49,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Xianjun Lai](/images/People_Images/xlai.jpg){:width="120"}|Xianjun Lai<a href="https://twitter.com/xianjunlai"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|CSC PhD Student|2015-2017|Associate Professor, XiChang College|
 |![Bhushit Agarwal](/images/People_Images/Bhushit.jpg){:width="120"}|Bhushit Agarwal|Comp. Sci. MS Student<br>_(co-advised)_|2015-2016|Software Engineer, Mode.ai|
 |![Srinidhi Bashyam](/images/People_Images/Srinidhi.jpg){:width="120"}|Srinidhi Bashyam|Comp. Sci. MS Student<br>_(co-advised)_|2015-2016|Systems Software Developer, University of Nebraska-Lincoln|
-|![Xiaoxi Meng](/images/People_Images/Xiaoxi.jpg){:width="120" align="middle"}|Xiaoxi "Peggy" Meng<br>0000-0001-7217-2037|Postdoctoral Scholar|2018-2020|Postdoc University of Minnesota|
+|![Xiaoxi Meng](/images/People_Images/Xiaoxi.jpg){:width="120" align="middle"}|Xiaoxi "Peggy" Meng<a href="https://twitter.com/xiaoxi_meng"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a><br>0000-0001-7217-2037|Postdoctoral Scholar|2018-2020|Postdoc University of Minnesota|
 |![Zhikai Liang](/images/People_Images/Zhikai_Liang_small.jpg){:width="120"}|[Zhikai Liang](/peoplepages/zliang/)<a href="https://twitter.com/shanwai1234"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a><br>0000-0002-9963-8631|PhD Student|2015-2019[CV](/CVs/ZLiang.pdf)|Postdoc <a href="https://cbs.umn.edu/springer-lab/home">Springer Lab UMN</a>|
 |![Xiuru Dai](/images/People_Images/Xiuru_small.jpg){:width="120"}|Xiuru Dai<a href="https://twitter.com/Xiuru_Dai"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a><br>0000-0002-2516-1068|Visiting PhD Student<br>Shandong Agricultural University|2018-2019|PhD Student<br>Shandong Agricultural University|
 |![Taity Changa Headshot](/images/People_Images/Taity.jpg){:width="120"}|Taity Changa|Volunteer|2019|Postdoc University of Florida|
