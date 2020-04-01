@@ -9,7 +9,6 @@ googlefonts: ["Monoton", "Lobster"]
 |![James Schnable](/images/People_Images/jamesschnable.jpg){:width="120" align="middle"}|[James Schnable](/peoplepages/jschnable/)<a href="https://twitter.com/szintri"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Associate Professor|[CV](/CVs/JSchnable.pdf)|0000-0001-6739-5527|
 |![Brandi Sigmon](/images/People_Images/BSigmon.jpg){:width="120" align="middle"}|[Brandi Sigmon](/peoplepages/Brandi_Sigmon/)|Assistant Professor of Practice<br>UNL Microbiology Program<br>Acting Director||0000-0003-3914-6894|
 |![Guangchao Sun](/images/People_Images/Guangchao.JPG){:width="120" align="middle"}|Guangchao Sun<a href="https://twitter.com/xiaoguanghuan"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Postdoctoral Scholar|[CV](/CVs/Guangchao_Sun_CV_2019.pdf)|0000-0003-3942-6175|
-|![Ranjita Thapa Headshot](/images/People_Images/Ranjita.jpg){:width="120" align="middle"}|Ranjita Thapa|Postdoctoral Scholar||0000-0001-6116-7611|
 |![Marcin Grzybowski Headshot](/images/People_Images/Marcin.jpg){:width="120" align="middle"}|Marcin Grzybowski|Postdoctoral Scholar||0000-0002-6303-5433|
 |![Ravi Mural Headshot](/images/People_Images/Ravi.jpg){:width="120" align="middle"}|Ravi Mural |Postdoctoral Scholar||0000-0002-5489-9918|
 |![Xiangjun Li](/images/People_Images/Xiangjun.jpg){:width="120" align="middle"}|Xiangjun Li|Research Associate|||
@@ -19,16 +18,23 @@ googlefonts: ["Monoton", "Lobster"]
 |![Chenyong Miao](/images/People_Images/Miao_Small.jpg){:width="120"}|[Chenyong Miao](/peoplepages/Chenyong_Miao/)<a href="https://twitter.com/Valiancy_miao"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|PhD Student|[CV](/CVs/CMiao.pdf)| 0000-0002-0904-3707|
 |![Fanyi Li](/images/People_Images/Fangyi.jpg){:width="120"}|Fangyi Li|PhD Student<br>_(co-advised)_|||
 |![Hongyu Jin Headshot](/images/People_Images/Hongyu.jpg){:width="120"}|Hongyu Jin|PhD Student<br>_(co-advised)_|||
+|![Mackenzie](/images/People_Images/Mackenzie.jpeg){:width="120"}|Mackenzie Zwiener|MS Student||0000-0001-8636-6780|
+|![Kahheetah Barnoskie](/images/People_Images/Kahheetah.jpg){:width="120"}|Kahheetah Barnoskie|MS Student|||
+|![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|PhD Student<br>_(co-advised)_|||
 |![Sa Headshot](/images/People_Images/Santos.jpg){:width="120"}|Santos Yenandy<br>Barrera Lemus|PhD Student<br>_(co-advised)_|||
 |![Michael Tross Headshot](/images/People_Images/MichaelT.jpg){:width="120"}|Michael Tross|PhD Student<br>_(rotating)_||0000-0002-4410-9679|
 |![Michael Richter Headshot](/images/People_Images/MichaelR.jpg){:width="120"}|Michael Richter|PhD Student<br>_(rotating)_||0000-0001-9702-4292|
-|![Mackenzie](/images/People_Images/Mackenzie.jpeg){:width="120"}|Mackenzie Zwiener|MS Student||0000-0001-8636-6780|
-|![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|PhD Student<br>_(co-advised)_|||
 |![Thomas Hoban](/images/People_Images/thoban.jpg){:width="120"}|Thomas Hoban|Bachelors Student||0000-0001-7607-1903|
 |![Aime Nishimwe](/images/People_Images/Aime.jpg){:width="120"}|Aime Nishimwe|CUSP Bachelors Student|[CV](/CVs/Aime Valentin Nishimwe.pdf)|0000-0003-0074-9364|
 |![Nate Pester](/images/People_Images/NateP.jpg){:width="120"}|Nate Pester|Bachelors Student<br>Sigmon Group|||
 |![Isaac Stevens](/images/People_Images/Isaac.jpg){:width="120"}|Isaac Stevens|Bachelors Student|||
 |![Sierra Conway](/images/People_Images/Sierra.jpg){:width="120"}|Sierra Conway|Bachelors Student|||
+|![Lou Townsend](/images/People_Images/Lou.jpg){:width="120"}|Lou Townsend|Bachelors Student|||
+|![Leighton Wheeler](/images/People_Images/Leighton.jpg){:width="120"}|Leighton Wheeler|Bachelors Student|||
+|![Elijah Frost](/images/People_Images/NA.jpg){:width="120"}|Elijah Frost|Bachelors Student|||
+|![Alice Guo](/images/People_Images/AliceG.jpg){:width="120"}|Alice Guo|Bachelors Student|||
+|![Logan Duryee](/images/People_Images/NA.jpg){:width="120"}|Logan Duryee|Bachelors Student|||
+
 {:.table100.ver1}
 
 **Lab Alumni**
@@ -37,7 +43,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Yang Zhang](/images/People_Images/yzhang_small.jpg){:width="120" align="middle"}|Yang Zhang<a href="https://twitter.com/zymaize"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Postdoctoral Scholar|2014-2017| Research Scientist, St. Jude Children's Research Hospital|
 |![Jinliang Yang](/images/People_Images/jinliang.JPG){:width="120"}|Jinliang Yang<a href="https://twitter.com/JinliangYang"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Postdoctoral Scholar|2016-2017|[Assistant Professor](http://jyanglab.com/), University of Nebraska-Lincoln|
 |![Sunil KK Raju](/images/People_Images/Sunil.jpg){:width="120"}|Sunil KK Raju<a href="https://twitter.com/Sunil_KumarKR"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Postdoctoral Scholar|2017-2018|Postdoc, [Niederhuth Lab](http://niederhuthlab.com/people/), Michigan State|
-|![Daniel Carvalho](/images/People_Images/Daniel_Carvalho.jpg){:width="120"}|[Daniel Carvalho](/peoplepages/Daniel_Carvalho/)<a href="https://twitter.com/deCarvalhoD90"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|PhD Student, [CV](/CVs/DCarvalho.pdf)|2015-2019|Postdoc, Federal University of Minas Gerais|
+|![Daniel Carvalho](/images/People_Images/Daniel_Carvalho.jpg){:width="120"}|[Daniel Carvalho](/peoplepages/Daniel_Carvalho/)<a href="https://twitter.com/SciOfCarvalho"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|PhD Student, [CV](/CVs/DCarvalho.pdf)|2015-2019|Postdoc, Federal University of Minas Gerais|
 |![Preston Hurst](/images/People_Images/Preston.jpg){:width="120"}|Preston Hurst|MS Student|2017-2019|PhD Student with David Holding, UNL|
 |![Lang Yan](/images/People_Images/Lang_Small.jpg){:width="120"}|Lang Yan<a href="https://twitter.com/langyan87"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Visiting Scholar|2016-2017|Deputy Director, Potato Functional Genomics, XiChang College|
 |![Xianjun Lai](/images/People_Images/xlai.jpg){:width="120"}|Xianjun Lai<a href="https://twitter.com/xianjunlai"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|CSC PhD Student|2015-2017|Associate Professor, XiChang College|
@@ -47,6 +53,8 @@ googlefonts: ["Monoton", "Lobster"]
 |![Zhikai Liang](/images/People_Images/Zhikai_Liang_small.jpg){:width="120"}|[Zhikai Liang](/peoplepages/zliang/)<a href="https://twitter.com/shanwai1234"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a><br>0000-0002-9963-8631|PhD Student|2015-2019[CV](/CVs/ZLiang.pdf)|Postdoc <a href="https://cbs.umn.edu/springer-lab/home">Springer Lab UMN</a>|
 |![Xiuru Dai](/images/People_Images/Xiuru_small.jpg){:width="120"}|Xiuru Dai<a href="https://twitter.com/Xiuru_Dai"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a><br>0000-0002-2516-1068|Visiting PhD Student<br>Shandong Agricultural University|2018-2019|PhD Student<br>Shandong Agricultural University|
 |![Taity Changa Headshot](/images/People_Images/Taity.jpg){:width="120"}|Taity Changa|Volunteer|2019|Postdoc University of Florida|
+|![Shuying Zhang](/images/People_Images/Shuying.jpg){:width="120"}|Shuying Zhang|Technician|2019-2020|Technician, UNL Virology Center|
+|![Ranjita Thapa Headshot](/images/People_Images/Ranjita.jpg){:width="120" align="middle"}|Ranjita Thapa|Postdoctoral Scholar|2019-2020|Postdoc Cornell University|
 |![Sarah Johnson](/images/People_Images/Sarah.jpg){:width="120"}|Sarah Johnson|Rotating PhD Student<br>Complex Biosystems|Spring 2017|Graduate Student, Clemente & Hyten Labs|
 |![Lei Tian](/images/People_Images/Lei_Tian_Small.JPG){:width="120" align="middle"}|Lei Tian|Visiting PhD Student<br>Henan Agricultural University|Summer 2014|PhD Student|
 |![Daniel Ngu](/images/People_Images/Danielngu_small.jpg){:width="120"}|Daniel Ngu|Bachelors Student|2014-2017||
@@ -69,5 +77,4 @@ googlefonts: ["Monoton", "Lobster"]
 |![Bryce Askey](/images/People_Images/BryceA.jpg){:width="120"}|Bryce Askey|REU Student|Summer 2019||
 |![Seth Snell](/images/People_Images/Seth.jpg){:width="120"}|Seth Snell|Bachelors Student|Summer 2019||
 |![Brian Liu](/images/People_Images/BrianL.jpg){:width="120"}|Xiangdong "Brian" Liu|Bachelors Student<br>Sigmon Group|2018-2019||
-|![Lou Townsend](/images/People_Images/Lou.jpg){:width="120"}|Lou Townsend|Bachelors Student|2019||
 {:.table100.ver1}
