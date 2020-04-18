@@ -7,8 +7,8 @@ title: Schnable Lab Papers
 
 **Preprints**
 
-<div data-badge-type="2" data-doi="10.1101/2020.04.06.028605v1" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Gaillard M, **Miao C**, **Schnable JC**, Benes B "[Voxel carving based 3D reconstruction of sorghum identifies genetic determinants of radiation interception efficiency.](https://doi.org/10.1101/2020.04.06.028605)" *bioRxiv* doi: 10.1101/2020.04.06.028605v1
+<div data-badge-type="2" data-doi="10.1101/2020.04.06.028605" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* Gaillard M, **Miao C**, **Schnable JC**, Benes B "[Voxel carving based 3D reconstruction of sorghum identifies genetic determinants of radiation interception efficiency.](https://doi.org/10.1101/2020.04.06.028605)" *bioRxiv* doi: 10.1101/2020.04.06.028605
 
 <div data-badge-type="2" data-doi="10.1101/706994" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Hoban TP**, **Pages A**, Xu Z, Rodene E, Ubbens J, Stavness I, Yang J, **Schnable JC** "[Simulated plant images improve maize leaf counting accuracy.](https://doi.org/10.1101/706994)" *bioRxiv* doi: 10.1101/706994
@@ -18,14 +18,17 @@ title: Schnable Lab Papers
 
 **2020**
 
-<div data-badge-type="2" data-doi="10.1101/534503" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Liang Z**, Qiu Y, **Schnable JC** "[Genome-phenome wide association in maize and arabidopsis identifies a common molecular and evolutionary signature](https://doi.org/10.1016/j.molp.2020.03.003)" *Molecular Plant* doi: 10.1016/j.molp.2020.03.003 *bioRxiv* doi: 10.1101/534503
-
 <div data-badge-type="2" data-doi="10.2135/tppj2019.04.0007" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
 * Adams J, Qiu Y, Xu Y, **Schnable JC** (2020) "[Plant segmentation by supervised machine learning methods.](https://doi.org/10.2135/tppj2019.04.0007)" *The Plant Phenome Journal* doi: 10.2135/tppj2019.04.0007 (Accepted)
 
 <div data-badge-type="2" data-doi="10.1101/730473" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Dai X**, Xu Z, **Liang Z**, Tu X, Zhong S, **Schnable JC**, Li P. "[Non-homology-based prediction of gene functions.](https://doi.org/10.1101/730473)" *The Plant Genome* (Accepted) *bioRxiv* doi: 10.1101/730473
+
+<div data-badge-type="2" data-doi="10.1101/534503" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* **Liang Z**, Qiu Y, **Schnable JC** "[Genome-phenome wide association in maize and arabidopsis identifies a common molecular and evolutionary signature](https://doi.org/10.1016/j.molp.2020.03.003)" *Molecular Plant* doi: 10.1016/j.molp.2020.03.003 *bioRxiv* doi: 10.1101/534503
+
+<div data-badge-type="2" data-doi="10.1038/s41477-020-0625-3" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
+Peng B, Guan K, Ainsworth EA, Asseng S, Bernacchi CJ, Cooper M, Delucia EH, Elliot JW, Ewert F, Grant RF, Gustafson DI, Hammer GL, Jin Z, Jones JW, Kimm H, Lawrence DM, Li Y, Lombardozzi DL, Marshall-Colon A, Messina CD, Ort DR, **Schnable JC**, Tang J, Vallejos CE, Wu A, Yin X, Zhou W (2020) [Advancing multi-scale crop modeling for agricultural climate change adaptation assessment](https://t.co/rl4ywzzDhy?amp=1) *Nature Plants* doi: 10.1038/s41477-020-0625-3
 
 <div data-badge-type="2" data-doi="10.1111/tpj.14722" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
 * Benes B, Guan K, Lang M, Long S, Lynch J, Marshall-Colon A, Peng B, **Schnable JC**, Sweetlove L, Turk M (2020) "[Multiscale computational models can guide experimentation and targeted measurements for crop improvement.](https://doi.org/10.1111/tpj.14722)" *The Plant Journal* doi: 10.1111/tpj.14722

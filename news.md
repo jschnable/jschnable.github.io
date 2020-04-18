@@ -4,13 +4,33 @@ title: Schnable Lab News
 
 ---
 
+### 2020, April
+
+* Mackenzie Zweiner is [the photo of the week for Nebraska Today](https://news.unl.edu/newsrooms/today/article/research-continues-photo-of-the-week/), continuing to prep seeds for her field this summer in her parent's sun room after everyone was kicked off campus.  
+
+* The other shoe we've been waiting for drops and UNL goes to complete on campus shutdown. Christine is essential personnel and still able to access the building. Many of the undergrads who worked so hard to make this field season possible go on (thankfully paid!) leave.
+
+* Chenyong completes his qualifying exam and advances to PhD candidacy.
+
+### 2020, March
+
+* James Schnable is elected to to the Maize Genetics Cooperation Board of Directors.
+
+* University moves to mandatory work from home for those able to work from home. Fortunately many of us are able to work from home. Unfortunately, some of us cannot. Undergraduates log long hours in separate rooms all through spring break preparing seed for field season knowing a shutdown order could come at any time.
+
+* The lab was going to attend the maize genetics conference in Hawaii. But COVID-19 had other plans. Conference cancelled.
+
 ### 2020, February
+
+* Daniel Carvalho publishes the second chapter of his PhD. Aime Valetin is a co-author and this is his very first time publishing a scientific paper. Congrats, Aime!
 
 * Chenyong Miao was the subject of a "First Author Insight" in Plantae for his new paper just out in Plant Phenomics. Check out both [the interview](https://community.plantae.org/article/5447329265999677113/plant-phenomics-first-author-insights-02-04-2020) and [the paper](https://doi.org/10.34133/2020/4216373).
 
 ### 2020, January
 
-* Xiaoxi Meng's last day in lab. She's headed to Minnesota for a postdoc at the intersection of genomics, machine learning, and potatoes. 
+* Ravi Mural joins the lab as a postdoc, fresh off a PhD in soybean breeding.
+
+* Xiaoxi Meng's last day in lab. She's headed to Minnesota for a postdoc at the intersection of genomics, machine learning, and potatoes.
 
 * Guangchao Sun, Nate Korth, Chenyong Miao, and James Schnable all attended the 2020 Plant and Animal Genome conference in San Diego, CA. Guangchao [gave his first presentation](https://twitter.com/szintri/status/1217233000468889600) at an international conference as a member of the Schnable Lab in the Crop Genomics for Global Food Security session. [James also spoke](https://twitter.com/NateKorth/status/1216428395845705728) in the Systems Biology and Ontology session.
 
