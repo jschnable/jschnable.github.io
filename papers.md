@@ -18,11 +18,11 @@ title: Schnable Lab Papers
 
 **2020**
 
-<div data-badge-type="2" data-doi="10.2135/tppj2019.04.0007" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
-* Adams J, Qiu Y, Xu Y, **Schnable JC** (2020) "[Plant segmentation by supervised machine learning methods.](https://doi.org/10.2135/tppj2019.04.0007)" *The Plant Phenome Journal* doi: 10.2135/tppj2019.04.0007 (Accepted)
-
 <div data-badge-type="2" data-doi="10.1101/730473" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Dai X**, Xu Z, **Liang Z**, Tu X, Zhong S, **Schnable JC**, Li P. "[Non-homology-based prediction of gene functions.](https://doi.org/10.1101/730473)" *The Plant Genome* (Accepted) *bioRxiv* doi: 10.1101/730473
+
+<div data-badge-type="2" data-doi="10.1002/ppj2.20001" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
+* Adams J, Qiu Y, Xu Y, **Schnable JC** (2020) "[Plant segmentation by supervised machine learning methods.](http://dx.doi.org/10.1002/ppj2.20001)" *The Plant Phenome Journal* doi: 10.1002/ppj2.20001
 
 <div data-badge-type="2" data-doi="10.1101/534503" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Liang Z**, Qiu Y, **Schnable JC** "[Genome-phenome wide association in maize and arabidopsis identifies a common molecular and evolutionary signature](https://doi.org/10.1016/j.molp.2020.03.003)" *Molecular Plant* doi: 10.1016/j.molp.2020.03.003 *bioRxiv* doi: 10.1101/534503
