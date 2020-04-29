@@ -19,7 +19,7 @@ title: Schnable Lab Papers
 **2020**
 
 <div data-badge-type="2" data-doi="10.1101/730473" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Dai X**, Xu Z, **Liang Z**, Tu X, Zhong S, **Schnable JC**, Li P. "[Non-homology-based prediction of gene functions.](https://doi.org/10.1101/730473)" *The Plant Genome* (Accepted) *bioRxiv* doi: 10.1101/730473
+* **Dai X**, Xu Z, **Liang Z**, Tu X, Zhong S, **Schnable JC**, Li P. "[Non-homology-based prediction of gene functions.](https://doi.org/10.1002/tpg2.20015)" *The Plant Genome* doi: 10.1002/tpg2.20015  *bioRxiv* doi: 10.1101/730473
 
 <div data-badge-type="2" data-doi="10.1117/12.2558729" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
 * Sankaran S, Zhang C, **Hurst JP**, Marzougui A, Sivakumar ANV, Li J, **Schnable JC**, Shi Y (2020) [Investigating the potential of satellite imagery for high-throughput field phenotyping applications.](https://doi.org/10.1117/12.2558729) *SPIE Defense + Commercial Sensing* (Conference Preceedings) doi: 10.1117/12.2558729
