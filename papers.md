@@ -16,7 +16,7 @@ title: Schnable Lab Papers
 **2020**
 
 <div data-badge-type="2" data-doi="10.1101/2020.02.16.951467" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Miao C**, Xu Y, Liu S, Schnable PS, **Schnable JC** "[Functional principal component based time-series genome-wide association in sorghum](https://doi.org/10.1101/2020.02.16.951467) *Plant Physiology* (Accepted) *bioRxiv* doi: 10.1101/2020.02.16.951467
+* **Miao C**, Xu Y, Liu S, Schnable PS, **Schnable JC** "[Functional principal component based time-series genome-wide association in sorghum](https://doi.org/10.1101/2020.02.16.951467)" *Plant Physiology* (Accepted) *bioRxiv* doi: 10.1101/2020.02.16.951467
 
 * **Raju SKK**, Atkins M, **Enerson A**, **Carvalho DS**, Studer AJ, Ganapathysubramanian B, Schnable PS, **Schnable JC** (2020) "Leaf Angle eXtractor - A high throughput image processing framework for leaf angle measurement in maize and sorghum." *Applications in Plant Sciences* (Accepted)
 
