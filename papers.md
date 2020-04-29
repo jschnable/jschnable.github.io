@@ -13,19 +13,21 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/706994" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Hoban TP**, **Pages A**, Xu Z, Rodene E, Ubbens J, Stavness I, Yang J, **Schnable JC** "[Simulated plant images improve maize leaf counting accuracy.](https://doi.org/10.1101/706994)" *bioRxiv* doi: 10.1101/706994
 
-<div data-badge-type="2" data-doi="10.1101/2020.02.16.951467" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Miao C**, Xu Y, Liu S, Schnable PS, **Schnable JC** "[Functional principal component based time-series genome-wide association in sorghum](https://doi.org/10.1101/2020.02.16.951467) *bioRxiv* doi: 10.1101/2020.02.16.951467
-
 **2020**
+
+<div data-badge-type="2" data-doi="10.1101/2020.02.16.951467" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* **Miao C**, Xu Y, Liu S, Schnable PS, **Schnable JC** "[Functional principal component based time-series genome-wide association in sorghum](https://doi.org/10.1101/2020.02.16.951467) *Plant Physiology* (Accepted) *bioRxiv* doi: 10.1101/2020.02.16.951467
+
+* **Raju SKK**, Atkins M, **Enerson A**, **Carvalho DS**, Studer AJ, Ganapathysubramanian B, Schnable PS, **Schnable JC** (2020) "Leaf Angle eXtractor - A high throughput image processing framework for leaf angle measurement in maize and sorghum." *Applications in Plant Sciences* (Accepted)
 
 <div data-badge-type="2" data-doi="10.1101/730473" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Dai X**, Xu Z, **Liang Z**, Tu X, Zhong S, **Schnable JC**, Li P. "[Non-homology-based prediction of gene functions.](https://doi.org/10.1002/tpg2.20015)" *The Plant Genome* doi: 10.1002/tpg2.20015  *bioRxiv* doi: 10.1101/730473
 
 <div data-badge-type="2" data-doi="10.1117/12.2558729" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
-* Sankaran S, Zhang C, **Hurst JP**, Marzougui A, Sivakumar ANV, Li J, **Schnable JC**, Shi Y (2020) [Investigating the potential of satellite imagery for high-throughput field phenotyping applications.](https://doi.org/10.1117/12.2558729) *SPIE Defense + Commercial Sensing* (Conference Preceedings) doi: 10.1117/12.2558729
+* Sankaran S, Zhang C, **Hurst JP**, Marzougui A, Sivakumar ANV, Li J, **Schnable JC**, Shi Y (2020) "[Investigating the potential of satellite imagery for high-throughput field phenotyping applications.](https://doi.org/10.1117/12.2558729)" *SPIE Defense + Commercial Sensing* (Conference Preceedings) doi: 10.1117/12.2558729
 
 <div data-badge-type="2" data-doi="10.1117/12.2560596" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
-* Al-Zadjali A, Shi Y, Scott S, Deogun JS, *Schnable JC* (2020) [Faster-R-CNN based deep learning for locating corn tassels in UAV imagery.](https://doi.org/10.1117/12.2560596) *SPIE Defense + Commercial Sensing* (Conference Preceedings) doi: 10.1117/12.2560596
+* Al-Zadjali A, Shi Y, Scott S, Deogun JS, *Schnable JC* (2020) "[Faster-R-CNN based deep learning for locating corn tassels in UAV imagery.](https://doi.org/10.1117/12.2560596)" *SPIE Defense + Commercial Sensing* (Conference Preceedings) doi: 10.1117/12.2560596
 
 <div data-badge-type="2" data-doi="10.1002/ppj2.20001" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
 * Adams J, Qiu Y, Xu Y, **Schnable JC** (2020) "[Plant segmentation by supervised machine learning methods.](http://dx.doi.org/10.1002/ppj2.20001)" *The Plant Phenome Journal* doi: 10.1002/ppj2.20001
@@ -34,7 +36,7 @@ title: Schnable Lab Papers
 * **Liang Z**, Qiu Y, **Schnable JC** "[Genome-phenome wide association in maize and arabidopsis identifies a common molecular and evolutionary signature](https://doi.org/10.1016/j.molp.2020.03.003)" *Molecular Plant* doi: 10.1016/j.molp.2020.03.003 *bioRxiv* doi: 10.1101/534503
 
 <div data-badge-type="2" data-doi="10.1038/s41477-020-0625-3" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
-* Peng B, Guan K, Ainsworth EA, Asseng S, Bernacchi CJ, Cooper M, Delucia EH, Elliot JW, Ewert F, Grant RF, Gustafson DI, Hammer GL, Jin Z, Jones JW, Kimm H, Lawrence DM, Li Y, Lombardozzi DL, Marshall-Colon A, Messina CD, Ort DR, **Schnable JC**, Tang J, Vallejos CE, Wu A, Yin X, Zhou W (2020) [Advancing multi-scale crop modeling for agricultural climate change adaptation assessment](https://t.co/rl4ywzzDhy?amp=1) *Nature Plants* doi: 10.1038/s41477-020-0625-3
+* Peng B, Guan K, Ainsworth EA, Asseng S, Bernacchi CJ, Cooper M, Delucia EH, Elliot JW, Ewert F, Grant RF, Gustafson DI, Hammer GL, Jin Z, Jones JW, Kimm H, Lawrence DM, Li Y, Lombardozzi DL, Marshall-Colon A, Messina CD, Ort DR, **Schnable JC**, Tang J, Vallejos CE, Wu A, Yin X, Zhou W (2020) "[Advancing multi-scale crop modeling for agricultural climate change adaptation assessment](https://t.co/rl4ywzzDhy?amp=1)" *Nature Plants* doi: 10.1038/s41477-020-0625-3
 
 <div data-badge-type="2" data-doi="10.1111/tpj.14722" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
 * Benes B, Guan K, Lang M, Long S, Lynch J, Marshall-Colon A, Peng B, **Schnable JC**, Sweetlove L, Turk M (2020) "[Multiscale computational models can guide experimentation and targeted measurements for crop improvement.](https://doi.org/10.1111/tpj.14722)" *The Plant Journal* doi: 10.1111/tpj.14722
