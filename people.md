@@ -34,6 +34,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Elijah Frost](/images/People_Images/Elijah.jpg){:width="120"}|Elijah Frost|Bachelors Student|||
 |![Alice Guo](/images/People_Images/AliceG.jpg){:width="120"}|Alice Guo|Bachelors Student|||
 |![Logan Duryee](/images/People_Images/LoganD.jpg){:width="120"}|Logan Duryee<a href="https://twitter.com/DuryeeLogan"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Bachelors Student|||
+|![Madison Tunnell](/images/People_Images/Madison.jpg){:width="120"}|Madison Tunnell|REU Student|||
 
 {:.table100.ver1}
 
