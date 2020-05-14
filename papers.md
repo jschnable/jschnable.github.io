@@ -21,20 +21,20 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
 * **Raju SKK**, Atkins M, **Enerson A**, **Carvalho DS**, Studer AJ, Ganapathysubramanian B, Schnable PS, **Schnable JC** (2020) "Leaf Angle eXtractor - A high throughput image processing framework for leaf angle measurement in maize and sorghum." *Applications in Plant Sciences* (Accepted)
 
-<div data-badge-type="2" data-doi="10.1101/730473" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Dai X**, Xu Z, **Liang Z**, Tu X, Zhong S, **Schnable JC**, Li P. "[Non-homology-based prediction of gene functions.](https://doi.org/10.1002/tpg2.20015)" *The Plant Genome* doi: 10.1002/tpg2.20015  *bioRxiv* doi: 10.1101/730473
+<div data-badge-type="2" data-doi="10.1002/tpg2.20015" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* **Dai X**, Xu Z, **Liang Z**, Tu X, Zhong S, **Schnable JC**, Li P (2020) "[Non-homology-based prediction of gene functions.](https://doi.org/10.1002/tpg2.20015)" *The Plant Genome* doi: 10.1002/tpg2.20015  *bioRxiv* doi: 10.1101/730473
 
 <div data-badge-type="2" data-doi="10.1117/12.2558729" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
 * Sankaran S, Zhang C, **Hurst JP**, Marzougui A, Sivakumar ANV, Li J, **Schnable JC**, Shi Y (2020) "[Investigating the potential of satellite imagery for high-throughput field phenotyping applications.](https://doi.org/10.1117/12.2558729)" *SPIE Defense + Commercial Sensing* (Conference Preceedings) doi: 10.1117/12.2558729
 
 <div data-badge-type="2" data-doi="10.1117/12.2560596" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
-* Al-Zadjali A, Shi Y, Scott S, Deogun JS, *Schnable JC* (2020) "[Faster-R-CNN based deep learning for locating corn tassels in UAV imagery.](https://doi.org/10.1117/12.2560596)" *SPIE Defense + Commercial Sensing* (Conference Preceedings) doi: 10.1117/12.2560596
+* Al-Zadjali A, Shi Y, Scott S, Deogun JS, **Schnable JC** (2020) "[Faster-R-CNN based deep learning for locating corn tassels in UAV imagery.](https://doi.org/10.1117/12.2560596)" *SPIE Defense + Commercial Sensing* (Conference Preceedings) doi: 10.1117/12.2560596
 
 <div data-badge-type="2" data-doi="10.1002/ppj2.20001" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
 * Adams J, Qiu Y, Xu Y, **Schnable JC** (2020) "[Plant segmentation by supervised machine learning methods.](http://dx.doi.org/10.1002/ppj2.20001)" *The Plant Phenome Journal* doi: 10.1002/ppj2.20001
 
 <div data-badge-type="2" data-doi="10.1101/534503" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Liang Z**, Qiu Y, **Schnable JC** "[Genome-phenome wide association in maize and arabidopsis identifies a common molecular and evolutionary signature](https://doi.org/10.1016/j.molp.2020.03.003)" *Molecular Plant* doi: 10.1016/j.molp.2020.03.003 *bioRxiv* doi: 10.1101/534503
+* **Liang Z**, Qiu Y, **Schnable JC** (2020) "[Genome-phenome wide association in maize and arabidopsis identifies a common molecular and evolutionary signature](https://doi.org/10.1016/j.molp.2020.03.003)" *Molecular Plant* doi: 10.1016/j.molp.2020.03.003 *bioRxiv* doi: 10.1101/534503
 
 <div data-badge-type="2" data-doi="10.1038/s41477-020-0625-3" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
 * Peng B, Guan K, Ainsworth EA, Asseng S, Bernacchi CJ, Cooper M, Delucia EH, Elliot JW, Ewert F, Grant RF, Gustafson DI, Hammer GL, Jin Z, Jones JW, Kimm H, Lawrence DM, Li Y, Lombardozzi DL, Marshall-Colon A, Messina CD, Ort DR, **Schnable JC**, Tang J, Vallejos CE, Wu A, Yin X, Zhou W (2020) "[Advancing multi-scale crop modeling for agricultural climate change adaptation assessment](https://t.co/rl4ywzzDhy?amp=1)" *Nature Plants* doi: 10.1038/s41477-020-0625-3
@@ -48,7 +48,7 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.34133/2020/4216373" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Pages A**, Xu Z, Rodene E, Yang J, **Schnable JC** (2020) "[Semantic segmentation of sorghum using hyperspectral data identifies genetic associations.](https://doi.org/10.34133/2020/4216373)" *Plant Phenomics* doi: 10.34133/2020/4216373
 
-<div data-badge-type="2" data-doi="10.1101/689356" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+<div data-badge-type="2" data-doi="10.1002/pld3.203" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Carvalho DS**, **Nishimwe A**, **Schnable JC** (2020) "[IsoSeq transcriptome assembly of C3 panicoid grasses provides tools to study evolutionary change in the Panicoideae.](https://doi.org/10.1002/pld3.203)" *Plant Direct* doi: 10.1002/pld3.203 *bioRxiv* doi: 10.1101/689356
 
 <div data-badge-type="2" data-doi="10.3389/fgene.2019.01294" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
