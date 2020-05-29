@@ -15,11 +15,11 @@ title: Schnable Lab Papers
 
 **2020**
 
-<div data-badge-type="2" data-doi="Placeholder" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Han J, Wang P, Wang Q, Lin Q, Yu G, **Miao C**, Dao Y, Wu R, **Schnable JC**, Tang H, Wang K (2020) "Genome-wide characterization of DNase I-hypersensitive sites and cold response regulatory landscapes in grasses." *The Plant Cell* (Accepted)
+<div data-badge-type="2" data-doi="10.1105/tpc.19.00716" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* Han J, Wang P, Wang Q, Lin Q, Yu G, **Miao C**, Dao Y, Wu R, **Schnable JC**, Tang H, Wang K (2020) "[Genome-wide characterization of DNase I-hypersensitive sites and cold response regulatory landscapes in grasses.](https://doi.org/10.1105/tpc.19.00716)" *The Plant Cell* doi: 10.1105/tpc.19.00716
 
 <div data-badge-type="2" data-doi="Placeholder" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Wang R, Qiu Y, Zhou Y, **Schnable JC** (2020) "A high-throughput phenotyping pipeline for image processing and functional growth curve analysis." *Plant Phenomics* (Accepted)
+* Wang R, Qiu Y, Zhou Y, **Liang Z**, **Schnable JC** (2020) "A high-throughput phenotyping pipeline for image processing and functional growth curve analysis." *Plant Phenomics* (Accepted)
 
 <div data-badge-type="2" data-doi="10.1104/pp.20.00277" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, Xu Y, Liu S, Schnable PS, **Schnable JC** (2020) "[Functional principal component based time-series genome-wide association in sorghum.](https://doi.org/10.1104/pp.20.00277)" *Plant Physiology* doi: 10.1104/pp.20.00277 *bioRxiv* doi: 10.1101/2020.02.16.951467
