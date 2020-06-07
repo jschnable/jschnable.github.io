@@ -15,6 +15,9 @@ title: Schnable Lab Papers
 
 **2020**
 
+<div data-badge-type="2" data-doi="10.1093/database/baaa038" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* Moisseyev G, Park K, Cui X, Freitas D, Rajagopa D, Konda A, Martin-Olenski M, Mcham M, Liu K, Du Q, **Schnable JC**, Moriyama E, Cahoon E, Chi Z (2020) "[RGPDB: Database of root-associated genes and promoters in maize, soybean, and sorghum.](https://doi.org/10.1093/database/baaa038)" *Database* doi: 10.1093/database/baaa038
+
 <div data-badge-type="2" data-doi="10.1105/tpc.19.00716" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Han J, Wang P, Wang Q, Lin Q, Yu G, **Miao C**, Dao Y, Wu R, **Schnable JC**, Tang H, Wang K (2020) "[Genome-wide characterization of DNase I-hypersensitive sites and cold response regulatory landscapes in grasses.](https://doi.org/10.1105/tpc.19.00716)" *The Plant Cell* doi: 10.1105/tpc.19.00716
 
