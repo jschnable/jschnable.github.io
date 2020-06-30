@@ -15,7 +15,7 @@ title: Schnable Lab Papers
 
 **2020**
 
-* **Lai X**, Bendix C, **Yan L**, **Zhang Y**, **Schnable JC**, Harmon F (2020) "Interspecific analysis of diurnal gene regulation in panicoid grasses identifies known and novel regulatory motifs." *BMC Genomics* (Accepted)
+* **Lai X**, Bendix C, **Yan L**, **Zhang Y**, **Schnable JC**, Harmon F (2020) "[Interspecific analysis of diurnal gene regulation in panicoid grasses identifies known and novel regulatory motifs.](https://doi.org/10.1186/s12864-020-06824-3)" *BMC Genomics* doi: 10.1186/s12864-020-06824-3
 
 <div data-badge-type="2" data-doi="10.1093/database/baaa038" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Moisseyev G, Park K, Cui X, Freitas D, Rajagopa D, Konda A, Martin-Olenski M, Mcham M, Liu K, Du Q, **Schnable JC**, Moriyama E, Cahoon E, Chi Z (2020) "[RGPDB: Database of root-associated genes and promoters in maize, soybean, and sorghum.](https://doi.org/10.1093/database/baaa038)" *Database* doi: 10.1093/database/baaa038
