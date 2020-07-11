@@ -19,7 +19,7 @@ title: Schnable Lab Papers
 * Wang R, Qiu Y, Zhou Y, **Liang Z**, **Schnable JC** (2020) "A high-throughput phenotyping pipeline for image processing and functional growth curve analysis." *Plant Phenomics* (Accepted) [Temporary Link](https://spj.sciencemag.org/journals/plantphenomics/aip/7481687/)
 
 <div data-badge-type="2" data-doi="10.1101/2020.04.06.028605" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Gaillard M, **Miao C**, **Schnable JC**, Benes B "[Voxel carving based 3D reconstruction of sorghum identifies genetic determinants of radiation interception efficiency.](https://doi.org/10.1101/2020.04.06.028605)" *Plant Direct* (Accepted) *bioRxiv* doi: 10.1101/2020.04.06.028605
+* Gaillard M, **Miao C**, **Schnable JC**, Benes B (2020) "[Voxel carving based 3D reconstruction of sorghum identifies genetic determinants of radiation interception efficiency.](https://doi.org/10.1101/2020.04.06.028605)" *Plant Direct* (Accepted) *bioRxiv* doi: 10.1101/2020.04.06.028605
 
 <div data-badge-type="2" data-doi="10.1186/s12864-020-06824-3" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Lai X**, Bendix C, **Yan L**, **Zhang Y**, **Schnable JC**, Harmon F (2020) "[Interspecific analysis of diurnal gene regulation in panicoid grasses identifies known and novel regulatory motifs.](https://doi.org/10.1186/s12864-020-06824-3)" *BMC Genomics* doi: 10.1186/s12864-020-06824-3
