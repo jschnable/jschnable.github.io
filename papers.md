@@ -7,14 +7,21 @@ title: Schnable Lab Papers
 
 **Preprints**
 
-<div data-badge-type="2" data-doi="10.1101/2020.04.06.028605" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Gaillard M, **Miao C**, **Schnable JC**, Benes B "[Voxel carving based 3D reconstruction of sorghum identifies genetic determinants of radiation interception efficiency.](https://doi.org/10.1101/2020.04.06.028605)" *bioRxiv* doi: 10.1101/2020.04.06.028605
-
 <div data-badge-type="2" data-doi="10.1101/706994" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Hoban TP**, **Pages A**, Xu Z, Rodene E, Ubbens J, Stavness I, Yang J, **Schnable JC** "[Simulated plant images improve maize leaf counting accuracy.](https://doi.org/10.1101/706994)" *bioRxiv* doi: 10.1101/706994
 
 **2020**
 
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
+* **Raju SKK**, Atkins M, **Enerson A**, **Carvalho DS**, Studer AJ, Ganapathysubramanian B, Schnable PS, **Schnable JC** (2020) "Leaf Angle eXtractor - A high throughput image processing framework for leaf angle measurement in maize and sorghum." *Applications in Plant Sciences* (Accepted)
+
+<div data-badge-type="2" data-doi="Placeholder" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* Wang R, Qiu Y, Zhou Y, **Liang Z**, **Schnable JC** (2020) "A high-throughput phenotyping pipeline for image processing and functional growth curve analysis." *Plant Phenomics* (Accepted) [Temporary Link](https://spj.sciencemag.org/journals/plantphenomics/aip/7481687/)
+
+<div data-badge-type="2" data-doi="10.1101/2020.04.06.028605" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* Gaillard M, **Miao C**, **Schnable JC**, Benes B "[Voxel carving based 3D reconstruction of sorghum identifies genetic determinants of radiation interception efficiency.](https://doi.org/10.1101/2020.04.06.028605)" *Plant Direct* (Accepted) *bioRxiv* doi: 10.1101/2020.04.06.028605
+
+<div data-badge-type="2" data-doi="10.1186/s12864-020-06824-3" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Lai X**, Bendix C, **Yan L**, **Zhang Y**, **Schnable JC**, Harmon F (2020) "[Interspecific analysis of diurnal gene regulation in panicoid grasses identifies known and novel regulatory motifs.](https://doi.org/10.1186/s12864-020-06824-3)" *BMC Genomics* doi: 10.1186/s12864-020-06824-3
 
 <div data-badge-type="2" data-doi="10.1093/database/baaa038" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
@@ -23,15 +30,8 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1105/tpc.19.00716" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Han J, Wang P, Wang Q, Lin Q, Yu G, **Miao C**, Dao Y, Wu R, **Schnable JC**, Tang H, Wang K (2020) "[Genome-wide characterization of DNase I-hypersensitive sites and cold response regulatory landscapes in grasses.](https://doi.org/10.1105/tpc.19.00716)" *The Plant Cell* doi: 10.1105/tpc.19.00716
 
-<div data-badge-type="2" data-doi="Placeholder" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Wang R, Qiu Y, Zhou Y, **Liang Z**, **Schnable JC** (2020) "A high-throughput phenotyping pipeline for image processing and functional growth curve analysis." *Plant Phenomics* (Accepted)
-
 <div data-badge-type="2" data-doi="10.1104/pp.20.00277" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Miao C**, Xu Y, Liu S, Schnable PS, **Schnable JC** (2020) "[Increased power and accuracy of causal locus identification in time-series genome-wide association in sorghum.](https://doi.org/10.1104/pp.20.00277)" *Plant Physiology* doi: 10.1104/pp.20.00277 *bioRxiv* doi: 10.1101/2020.02.16.951467
-[First Author Profile for Chenyong Miao](https://plantae.org/recognizing-plant-physiology-authors-chenyong-miao/) [Chinese Language Version](https://mp.weixin.qq.com/s/UC21pn0vwPPkFoi1EL3OZw)
-
-<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
-* **Raju SKK**, Atkins M, **Enerson A**, **Carvalho DS**, Studer AJ, Ganapathysubramanian B, Schnable PS, **Schnable JC** (2020) "Leaf Angle eXtractor - A high throughput image processing framework for leaf angle measurement in maize and sorghum." *Applications in Plant Sciences* (Accepted)
+* **Miao C**, Xu Y, Liu S, Schnable PS, **Schnable JC** (2020) "[Increased power and accuracy of causal locus identification in time-series genome-wide association in sorghum.](https://doi.org/10.1104/pp.20.00277)" *Plant Physiology* doi: 10.1104/pp.20.00277 *bioRxiv* doi: 10.1101/2020.02.16.951467<br>[First Author Profile for Chenyong Miao](https://plantae.org/recognizing-plant-physiology-authors-chenyong-miao/)<br>[Chinese Language Version](https://mp.weixin.qq.com/s/UC21pn0vwPPkFoi1EL3OZw)
 
 <div data-badge-type="2" data-doi="10.1002/tpg2.20015" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Dai X**, Xu Z, **Liang Z**, Tu X, Zhong S, **Schnable JC**, Li P (2020) "[Non-homology-based prediction of gene functions.](https://doi.org/10.1002/tpg2.20015)" *The Plant Genome* doi: 10.1002/tpg2.20015  *bioRxiv* doi: 10.1101/730473
