@@ -15,6 +15,9 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
 * **Raju SKK**, Atkins M, **Enerson A**, **Carvalho DS**, Studer AJ, Ganapathysubramanian B, Schnable PS, **Schnable JC** (2020) "Leaf Angle eXtractor - A high throughput image processing framework for leaf angle measurement in maize and sorghum." *Applications in Plant Sciences* (Accepted)
 
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
+* Atefi A, Ge Y, Pitla S, **Schnable JC** (2020) "Robotic detection and grasp of maize and sorghum: stem measurement with contact." *Robotics* (Accepted)
+
 <div data-badge-type="2" data-doi="10.1101/2020.04.06.028605" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Gaillard M, **Miao C**, **Schnable JC**, Benes B (2020) "[Voxel carving based 3D reconstruction of sorghum identifies genetic determinants of radiation interception efficiency.](https://doi.org/10.1101/2020.04.06.028605)" *Plant Direct* (Accepted) *bioRxiv* doi: 10.1101/2020.04.06.028605
 
