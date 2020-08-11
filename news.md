@@ -4,6 +4,24 @@ title: Schnable Lab News
 
 ---
 
+### 2020 July
+
+* Chenyong is officially [awarded the Widaman Distinguished Graduate Fellowship]((https://agronomy.unl.edu/news/doctoral-students-receive-awards-high-scholastic-merit-and-research-potential)). Well deserved. Congratulations!
+
+* Lodging and greensnap. Planting errors and poor germination. Such is life in field research. This is why field plans should always build in more replication and redundancy than one expects to need. Thankfully our resilience was enough to save the day.
+
+### 2020, June
+
+* Jon Turkus joins the lab from Michigan State!
+
+* Michael Tross, who rotated in the last this spring, decides to stick around and do his thesis research with us. Here's hoping for a fun and productive set of years.
+
+* New funding from the USDA! In a grant lead by our collaborator Liang Dong at Iowa State, we were funded to develop new cyberphysical systems to use water and nitrogen more efficiently. ([Source.](http://nebraskaagconnection.com/story-state.php?Id=809&yr=2020))
+
+### 2020, May
+
+* It was a crazy month. Somehow corn got planted in the midst of a lockdown and pandemic. The fact that we succeeded [was enough to make Nebraska Today](https://news.unl.edu/newsrooms/today/article/planting-innovation-schnable-lab-maintains-research-momentum/).
+
 ### 2020, April
 
 * Mackenzie Zweiner is [the photo of the week for Nebraska Today](https://news.unl.edu/newsrooms/today/article/research-continues-photo-of-the-week/), continuing to prep seeds for her field this summer in her parent's sun room after everyone was kicked off campus.  
