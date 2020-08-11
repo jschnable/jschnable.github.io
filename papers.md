@@ -10,6 +10,10 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/706994" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Hoban TP**, **Pages A**, Xu Z, Rodene E, Ubbens J, Stavness I, Yang J, **Schnable JC** "[Simulated plant images improve maize leaf counting accuracy.](https://doi.org/10.1101/706994)" *bioRxiv* doi: 10.1101/706994
 
+<div data-badge-type="2" data-doi="10.1101/2020.08.10.244384" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
+* Meier MA, Lopenz-Guerrero MG, Guo M, Schmer MR, Herr JR, **Schnable JC**, Alfano JR, Yang J. "[Rhizosphere microbiomes in a historical maize/soybean rotation system respond to host species and nitrogen fertilization at genus and sub-genus levels.](https://doi.org/10.1101/2020.08.10.244384)" *bioRxiv* doi: 10.1101/2020.08.10.244384
+
+
 **2020**
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
