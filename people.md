@@ -11,30 +11,23 @@ googlefonts: ["Monoton", "Lobster"]
 |![Guangchao Sun](/images/People_Images/Guangchao.JPG){:width="120" align="middle"}|Guangchao Sun<a href="https://twitter.com/xiaoguanghuan"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Postdoctoral Scholar|[CV](/CVs/Guangchao_Sun_CV_2019.pdf)|0000-0003-3942-6175|
 |![Marcin Grzybowski Headshot](/images/People_Images/Marcin.jpg){:width="120" align="middle"}|Marcin Grzybowski|Postdoctoral Scholar||0000-0002-6303-5433|
 |![Ravi Mural Headshot](/images/People_Images/Ravi.jpg){:width="120" align="middle"}|Ravi Mural |Postdoctoral Scholar||0000-0002-5489-9918|
-|![Xiangjun Li](/images/People_Images/Xiangjun.jpg){:width="120" align="middle"}|Xiangjun Li|Research Associate|||
 |![Christine Smith](/images/People_Images/Christine.jpg){:width="120"}|Christine Smith|Technician|||
-|![Shuying Zhang](/images/People_Images/Shuying.jpg){:width="120"}|Shuying Zhang|Technician|||
+|![Jon Turkus](/images/People_Images/JonT.jpg){:width="120"}|Jon Turkus|Technician|||
 |![Jill Hochstein](/images/People_Images/Jill.jpg){:width="120"}|[Jill Hochstein](/peoplepages/Jill_Hochstein/)<a href="https://twitter.com/jara12"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Technical Project Manager|||
 |![Chenyong Miao](/images/People_Images/Miao_Small.jpg){:width="120"}|[Chenyong Miao](/peoplepages/Chenyong_Miao/)<a href="https://twitter.com/Valiancy_miao"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|PhD Student|[CV](/CVs/CMiao.pdf)| 0000-0002-0904-3707|
 |![Fanyi Li](/images/People_Images/Fangyi.jpg){:width="120"}|Fangyi Li|PhD Student<br>_(co-advised)_|||
 |![Hongyu Jin Headshot](/images/People_Images/Hongyu.jpg){:width="120"}|Hongyu Jin|PhD Student<br>_(co-advised)_|||
-|![Mackenzie](/images/People_Images/Mackenzie.jpeg){:width="120"}|Mackenzie Zwiener<a href="https://twitter.com/MackenzieZwien1"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|MS Student||0000-0001-8636-6780|
-|![Kahheetah Barnoskie](/images/People_Images/Kahheetah.jpg){:width="120"}|Kahheetah Barnoskie|MS Student|||
+|![Michael Tross Headshot](/images/People_Images/MichaelT.jpg){:width="120"}|Michael Tross|PhD Student||0000-0002-4410-9679|
 |![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|PhD Student<br>_(co-advised)_|||
 |![Sa Headshot](/images/People_Images/Santos.jpg){:width="120"}|Santos Yenandy<br>Barrera Lemus|PhD Student<br>_(co-advised)_|||
-|![Michael Tross Headshot](/images/People_Images/MichaelT.jpg){:width="120"}|Michael Tross|PhD Student<br>_(rotating)_||0000-0002-4410-9679|
-|![Michael Richter Headshot](/images/People_Images/MichaelR.jpg){:width="120"}|Michael Richter|PhD Student<br>_(rotating)_||0000-0001-9702-4292|
+|![Mackenzie](/images/People_Images/Mackenzie.jpeg){:width="120"}|Mackenzie Zwiener<a href="https://twitter.com/MackenzieZwien1"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|MS Student||0000-0001-8636-6780|
+|![Kahheetah Barnoskie](/images/People_Images/Kahheetah.jpg){:width="120"}|Kahheetah Barnoskie|MS Student|||
 |![Thomas Hoban](/images/People_Images/thoban.jpg){:width="120"}|Thomas Hoban|Bachelors Student||0000-0001-7607-1903|
 |![Aime Nishimwe](/images/People_Images/Aime.jpg){:width="120"}|Aime Nishimwe|CUSP Bachelors Student<a href="https://twitter.com/AimeValentin"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|[CV](/CVs/Aime Valentin Nishimwe.pdf)|0000-0003-0074-9364|
-|![Nate Pester](/images/People_Images/NateP.jpg){:width="120"}|Nate Pester<a href="https://twitter.com/NatePester"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Bachelors Student<br>Sigmon Group|||
 |![Isaac Stevens](/images/People_Images/Isaac.jpg){:width="120"}|Isaac Stevens|Bachelors Student|||
-|![Sierra Conway](/images/People_Images/Sierra.jpg){:width="120"}|Sierra Conway|Bachelors Student|||
-|![Lou Townsend](/images/People_Images/Lou.jpg){:width="120"}|Lou Townsend|Bachelors Student|||
-|![Leighton Wheeler](/images/People_Images/Leighton.jpg){:width="120"}|Leighton Wheeler|Bachelors Student|||
 |![Elijah Frost](/images/People_Images/Elijah.jpg){:width="120"}|Elijah Frost|Bachelors Student|||
 |![Alice Guo](/images/People_Images/AliceG.jpg){:width="120"}|Alice Guo|Bachelors Student|||
 |![Logan Duryee](/images/People_Images/LoganD.jpg){:width="120"}|Logan Duryee<a href="https://twitter.com/DuryeeLogan"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Bachelors Student|||
-|![Madison Tunnell](/images/People_Images/Madison.jpg){:width="120"}|Madison Tunnell|REU Student|||
 |![Olivier](/images/People_Images/Olivier.jpg){:width="120"}|Olivier N Mizero|CUSP Bachelors Student|||
 
 
@@ -57,8 +50,10 @@ googlefonts: ["Monoton", "Lobster"]
 |![Xiuru Dai](/images/People_Images/Xiuru_small.jpg){:width="120"}|Xiuru Dai<a href="https://twitter.com/Xiuru_Dai"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a><br>0000-0002-2516-1068|Visiting PhD Student<br>Shandong Agricultural University|2018-2019|PhD Student<br>Shandong Agricultural University|
 |![Taity Changa Headshot](/images/People_Images/Taity.jpg){:width="120"}|Taity Changa|Volunteer|2019|Postdoc University of Florida|
 |![Shuying Zhang](/images/People_Images/Shuying.jpg){:width="120"}|Shuying Zhang|Technician|2019-2020|Technician, UNL Virology Center|
+|![Xiangjun Li](/images/People_Images/Xiangjun.jpg){:width="120" align="middle"}|Xiangjun Li|Research Associate|2020|Lab Manager, Hyten Lab, UNL|
 |![Ranjita Thapa Headshot](/images/People_Images/Ranjita.jpg){:width="120" align="middle"}|Ranjita Thapa|Postdoctoral Scholar|2019-2020|Postdoc Cornell University|
 |![Sarah Johnson](/images/People_Images/Sarah.jpg){:width="120"}|Sarah Johnson|Rotating PhD Student<br>Complex Biosystems|Spring 2017|Graduate Student, Clemente & Hyten Labs|
+|![Michael Richter Headshot](/images/People_Images/MichaelR.jpg){:width="120"}|Michael Richter<br>0000-0001-9702-4292|PhD Student<br>_(rotating)_|Spring 2020|PhD Student, Wilson Lab|
 |![Lei Tian](/images/People_Images/Lei_Tian_Small.JPG){:width="120" align="middle"}|Lei Tian|Visiting PhD Student<br>Henan Agricultural University|Summer 2014|PhD Student|
 |![Daniel Ngu](/images/People_Images/Danielngu_small.jpg){:width="120"}|Daniel Ngu|Bachelors Student|2014-2017||
 |![Logan Olson](/images/People_Images/logan.JPG){:width="120"}|Logan Olson|Bachelors Student|2016-2017||
@@ -80,4 +75,10 @@ googlefonts: ["Monoton", "Lobster"]
 |![Bryce Askey](/images/People_Images/BryceA.jpg){:width="120"}|Bryce Askey|REU Student|Summer 2019||
 |![Seth Snell](/images/People_Images/Seth.jpg){:width="120"}|Seth Snell|Bachelors Student|Summer 2019||
 |![Brian Liu](/images/People_Images/BrianL.jpg){:width="120"}|Xiangdong "Brian" Liu|Bachelors Student<br>Sigmon Group|2018-2019||
+|![Nate Pester](/images/People_Images/NateP.jpg){:width="120"}|Nate Pester<a href="https://twitter.com/NatePester"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Bachelors Student<br>Sigmon Group|2018-2020|Med School, UNMC|
+|![Leighton Wheeler](/images/People_Images/Leighton.jpg){:width="120"}|Leighton Wheeler|Bachelors Student|2019-2020|Med School|
+|![Sierra Conway](/images/People_Images/Sierra.jpg){:width="120"}|Sierra Conway|Bachelors Student|||
+|![Madison Tunnell](/images/People_Images/Madison.jpg){:width="120"}|Madison Tunnell|REU Student|2020||
+|![Lou Townsend](/images/People_Images/Lou.jpg){:width="120"}|Lou Townsend|Bachelors Student|2019-2020||
+
 {:.table100.ver1}
