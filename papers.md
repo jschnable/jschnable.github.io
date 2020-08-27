@@ -7,6 +7,9 @@ title: Schnable Lab Papers
 
 **Preprints**
 
+<div data-badge-type="2" data-doi="10.1101/2020.08.25.266635" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* **Meng X**, **Liang Z**, **Dai X**, **Zhang Y**, Mahboub S, **Ngu DW**, Roston RL, **Schnable JC** "[Predicting transcriptional responses to cold stress across plant species](https://doi.org/10.1101/2020.08.25.266635)" *bioRxiv* doi: 10.1101/2020.08.25.266635
+
 <div data-badge-type="2" data-doi="10.1101/706994" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Hoban TP**, **Pages A**, Xu Z, Rodene E, Ubbens J, Stavness I, Yang J, **Schnable JC** "[Simulated plant images improve maize leaf counting accuracy.](https://doi.org/10.1101/706994)" *bioRxiv* doi: 10.1101/706994
 
