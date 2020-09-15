@@ -19,6 +19,9 @@ title: Schnable Lab Papers
 
 **2020**
 
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* Gaillard M, Benes B, **Schnable JC**, **Miao C** (2020) "[Sorghum Segmentation by Skeleton Extraction.](Pubs/CVPPP2020_Sorghum.pdf)" *CVPPP 2020* ([Conference Proceedings](https://www.plant-phenotyping.org/CVPPP2020-Programme)).
+
 <div data-badge-type="2" data-doi="10.1101/2020.04.06.028605" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Gaillard M, **Miao C**, **Schnable JC**, Benes B (2020) "[Voxel carving based 3D reconstruction of sorghum identifies genetic determinants of radiation interception efficiency.](https://doi.org/10.1101/2020.04.06.028605)" *Plant Direct* (Accepted) *bioRxiv* doi: 10.1101/2020.04.06.028605
 
