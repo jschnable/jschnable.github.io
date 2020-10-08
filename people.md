@@ -31,8 +31,8 @@ googlefonts: ["Monoton", "Lobster"]
 |![Olivier](/images/People_Images/Olivier.jpg){:width="120"}|Olivier N Mizero|CUSP Bachelors Student|||
 |![Alexis](/images/People_Images/AlexisF.jpg){:width="120"}|Alexis Finch|Bachelors Student|||
 |![Alexis](/images/People_Images/AlexisF.jpg){:width="120"}|Alexis Finch|Bachelors Student|||
-|![Luke](/images/People_Images/AldiA.jpg){:width="120"}|Luke Micek|Bachelors Student|||
-|![Aldi](/images/People_Images/LukeM.jpg){:width="120"}|Aldi Airori|Bachelors Student|||
+|![Luke](/images/People_Images/LukeM.jpg){:width="120"}|Luke Micek|Bachelors Student|||
+|![Aldi](/images/People_Images/AldiA.jpg){:width="120"}|Aldi Airori|Bachelors Student|||
 
 {:.table100.ver1}
 
