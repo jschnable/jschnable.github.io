@@ -30,7 +30,6 @@ googlefonts: ["Monoton", "Lobster"]
 |![Logan Duryee](/images/People_Images/LoganD.jpg){:width="120"}|Logan Duryee<a href="https://twitter.com/DuryeeLogan"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Bachelors Student|||
 |![Olivier](/images/People_Images/Olivier.jpg){:width="120"}|Olivier N Mizero|CUSP Bachelors Student|||
 |![Alexis](/images/People_Images/AlexisF.jpg){:width="120"}|Alexis Finch|Bachelors Student|||
-|![Alexis](/images/People_Images/AlexisF.jpg){:width="120"}|Alexis Finch|Bachelors Student|||
 |![Luke](/images/People_Images/LukeM.jpg){:width="120"}|Luke Micek|Bachelors Student|||
 |![Aldi](/images/People_Images/AldiA.jpg){:width="120"}|Aldi Airori|Bachelors Student|||
 
