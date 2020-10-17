@@ -4,6 +4,22 @@ title: Schnable Lab News
 
 ---
 
+### 2020 October
+
+* “Functional Modeling of Plant Growth Dynamics” our paper with statisticians Yumou Qiu and Yuhang Xu was selected by the Editorial Board of The Plant Phenome Journal as their [2020 Paper of the Year](https://twitter.com/plantphenomej/status/1317092933401743360).
+
+* On October 2nd Chenyong Miao taught a Phenome Force sponsored workshop on using scikit learn for semantic segmentation.
+
+### 2020 September
+
+* [Our new paper on leaf angle measurements from video data](https://doi.org/10.1002/aps3.11385) comes out in Applications in Plant Sciences and the story is profiled in Nebraska Today's [Pocket Science](https://news.unl.edu/newsrooms/today/article/all-the-angles-automated-image-processing-could-aid-crop-evals/).
+
+### 2020 August
+
+* Guangchao Sun [wins the CROPS award](https://twitter.com/SchnableLab/status/1295772251720097792) for his talk on the mechanisms of stress tolerance in a crop wild relative during in PSI's regional (remote) seminar series this summer.
+
+* Madison Tunnell a 2020 remote REU student in the lab, [presents at the UNL summer research fair](https://mediahub.unl.edu/media/13774) as she wraps up her project.
+
 ### 2020 July
 
 * Chenyong is officially [awarded the Widaman Distinguished Graduate Fellowship]((https://agronomy.unl.edu/news/doctoral-students-receive-awards-high-scholastic-merit-and-research-potential)). Well deserved. Congratulations!
