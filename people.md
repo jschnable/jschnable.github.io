@@ -32,6 +32,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Alexis](/images/People_Images/AlexisF.jpg){:width="120"}|Alexis Finch|Bachelors Student|||
 |![Luke](/images/People_Images/LukeM.jpg){:width="120"}|Luke Micek|Bachelors Student|||
 |![Aldi](/images/People_Images/AldiA.jpg){:width="120"}|Aldi Airori|Bachelors Student|||
+|![Jocelyne Horanituze](/images/People_Images/Jocelyne.jpg){:width="120"}|Jocelyne Horanituze|CUSP Bachelors Student|||
 
 {:.table100.ver1}
 
