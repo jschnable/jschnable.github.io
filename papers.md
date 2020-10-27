@@ -7,6 +7,9 @@ title: Schnable Lab Papers
 
 **Preprints**
 
+<div data-badge-type="2" data-doi="10.1101/2020.10.27.355495" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Mural RV**, **Grzybowski M**, **Miao C**, **Damke A**, Sapkota S, Boyles RE, Salas Fernandez MG, Schnable PS, **Sigmon B**, Kresovich S, **Schnable JC** "[Meta-analysis identifies pleiotropic loci controlling phenotypic trade-offs in sorghum.](https://doi.org/10.1101/2020.10.27.355495)" *bioRxiv* doi: 10.1101/2020.10.27.355495
+
 <div data-badge-type="2" data-doi="10.1101/2020.08.25.266635" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Meng X**, **Liang Z**, **Dai X**, **Zhang Y**, Mahboub S, **Ngu DW**, Roston RL, **Schnable JC** "[Predicting transcriptional responses to cold stress across plant species](https://doi.org/10.1101/2020.08.25.266635)" *bioRxiv* doi: 10.1101/2020.08.25.266635
 
