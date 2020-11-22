@@ -16,7 +16,7 @@ Research in the Schnable Lab@UNL in an interdisciplinary business. Here are thre
 ## Comparative Functional Genomics
 
 
-Research in this area focuses on utilizing cross species comparisons to separate out the functional and functionless portions of plant genomes and then prediction the functions of the apparently functional bits. 
+Research in this area focuses on utilizing cross species comparisons to separate out the functional and functionless portions of plant genomes and then prediction the functions of the apparently functional bits.
 
 ![CompGen](/images/Science_Images/CompGenMerged.jpg)
 
@@ -40,7 +40,7 @@ Research in this area focuses on utilizing cross species comparisons to separate
 
 <a id="Phenotying"></a>
 
-## High Throughoupt  Phenotyping
+## High Throughput Phenotyping
 
 
 This area focuses on developing and deploying new algorithms, tools, and datasets for high throughput plant phenotyping. On the development side we collaborate closely with engineers and statisticians both here at UNL and at other univerisities around the world.
@@ -57,11 +57,11 @@ This area focuses on developing and deploying new algorithms, tools, and dataset
 *  <b>Liang Z</b>, Pandey P, Stoerger V, Xu Y, Qiu Y, Ge Y, <b>Schnable JC</b>. (2017) "<a href="https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix117/4656251?guestAccessKey=71c1c32f-78fd-42c0-99a3-38e6c4fd8100">Conventional and hyperspectral time-series imaging of maize lines widely used in field trials.</a>" <i>GigaScience</i> doi: 10.1093/gigascience/gix117 <i>bioRxiv</i> doi: <a href="https://doi.org/10.1101/169045">10.1101/169045</a>
 *  Gage J, Jarquin D, Romay M, ... <b>Schnable JC</b> (29th of 40 authors) .. Yu J, de Leon N. (2017) "<a href="https://doi.org/10.1038/s41467-017-01450-2">The effect of artificial selection on phenotypic plasticity in maize.</a>" <i>Nature Communications</i> doi: 10.1038/s41467-017-01450-2  
 *  Pandey P, Ge Y, Stoerger V, <b>Schnable JC</b>. (2017) "<a href="http://dx.doi.org/10.3389/fpls.2017.01348">High throughput in vivo analysis of plant leaf chemical properties using hyperspectral imaging</a>" <i>Frontiers in Plant Science</i> doi: 10.3389/fpls.2017.01348  
-* Ge Y, Bai G, Stoerger V, <b>Schnable JC</b>. (2016) "<a href="http://dx.doi.org/10.1016/j.compag.2016.07.028">Temporal dynamics of maize plant growth, water use, and plant water content using automated high throughput RGB and hyperspectral imaging.</a>" <i>Computers and Electronics in Agriculture</i> doi: 10.1016/j.compag.2016.07.028 
+* Ge Y, Bai G, Stoerger V, <b>Schnable JC</b>. (2016) "<a href="http://dx.doi.org/10.1016/j.compag.2016.07.028">Temporal dynamics of maize plant growth, water use, and plant water content using automated high throughput RGB and hyperspectral imaging.</a>" <i>Computers and Electronics in Agriculture</i> doi: 10.1016/j.compag.2016.07.028
 
 ### Funding Supporting Efforts in High Throughput Phenotyping
 
-* NSF [BTT EAGER: A wearable plant sensor for real-time monitoring of sap flow and stem diameter to accelerate breeding for water use efficiency.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1844563) 
+* NSF [BTT EAGER: A wearable plant sensor for real-time monitoring of sap flow and stem diameter to accelerate breeding for water use efficiency.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1844563)
 * ARPA-E: In-plant and in-soil microsensors enabled high-throughput phenotyping of root nitrogen uptake and nitrogen use efficiency."
 * ARPA-E: Low cost wireless chemical sensor networks."
 * USDA/NSF Joint Program [PAPM EAGER: Transitioning to the next generation plant phenotyping robots.](https://reeis.usda.gov/web/crisprojectpages/1011763-papm-eager-transitioning-to-the-next-generation-plant-phenotyping-robots.html)
@@ -75,7 +75,7 @@ This area focuses on developing and deploying new algorithms, tools, and dataset
 ## Quantitative Genetics
 
 
-At its most basic, this area ensures that graduates of the Schnable lab are familiar with modern algorithms to perform basic quantitative genetic tasks including GWAS and genomic selection. However, more advanced work in this area involves developing and applying new statistical approaches that either leverage either the unique features of new phenotypic datasets (for example time-series data from whole mapping populations collected using HTP technologies) or sharing data across related species. 
+At its most basic, this area ensures that graduates of the Schnable lab are familiar with modern algorithms to perform basic quantitative genetic tasks including GWAS and genomic selection. However, more advanced work in this area involves developing and applying new statistical approaches that either leverage either the unique features of new phenotypic datasets (for example time-series data from whole mapping populations collected using HTP technologies) or sharing data across related species.
 
 ![CompGen](/images/Science_Images/QGMerged.jpg)
 
@@ -96,4 +96,3 @@ At its most basic, this area ensures that graduates of the Schnable lab are fami
 * FFAR [Crops in silico: Increasing crop production by connecting models from the microscale to the macroscale.](http://www.ncsa.illinois.edu/news/story/crops_in_silico_project_awarded_5_million)
 * NSF [Center for Root and Rhizobiome Innovation.](https://nsf.gov/awardsearch/showAward?AWD_ID=1557417)
 * ICRISAT: Application of tGBS And Genomic Selection to a Hybrid Pearl Millet Breeding Program.
-
