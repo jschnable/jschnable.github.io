@@ -5,7 +5,7 @@ title: Applying to Integrated Plant Biology at the University of Nebraska Lincol
 
 ### The Officially Unofficial Guide
 
-The Integrated Plant Biology PhD track and the Complex Biosystems program of which it is part is one of the only interdepartmental graduate programs at the University of Nebraska-Lincoln. Students admitted to the program perform funded rotations with three different professors at UNL in their first year, while taking a core curriculum in biology and statistics with all first year students in the different Complex Biosystems graduate tracks. At the end of the first year, students join a research group sometimes with an individual mentor or more frequently with a primary advisor and a second co-advisor.
+The Integrated Plant Biology PhD track and the Complex Biosystems program of which it is part is one of the only interdepartmental graduate programs at the University of Nebraska-Lincoln. Students admitted to the program get to pick three different professors at UNL to rotate with in their first year **with funding provided by the graduate program.** During that first year they also take a core curriculum in biology and statistics with all first year students in the different Complex Biosystems graduate tracks. At the end of the first year, students join a research group sometimes with an individual mentor or more frequently with a primary advisor and a second co-advisor.
 
 Students can apply to the Integrated Plant Biology track with either a bachelors or a masters degree.  
 
