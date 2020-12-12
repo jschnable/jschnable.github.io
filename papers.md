@@ -19,6 +19,10 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/2020.08.10.244384" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
 * Meier MA, Lopenz-Guerrero MG, Guo M, Schmer MR, Herr JR, **Schnable JC**, Alfano JR, Yang J. "[Rhizosphere microbiomes in a historical maize/soybean rotation system respond to host species and nitrogen fertilization at genus and sub-genus levels.](https://doi.org/10.1101/2020.08.10.244384)" *bioRxiv* doi: 10.1101/2020.08.10.244384
 
+**2021**
+
+<div data-badge-type="2" data-doi="https://doi.org/10.1101/762724" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* Weissmann S, Huang P, Furoyama K, Wiechert M, Taniguchi M, **Schnable JC**, Brutnell TP, Mockler TC (2021) "[DCT4 - a new member of the dicarboxylate transporter family in C4 grasses.](https://doi.org/10.1101/762724)" *Genome Biology and Evolution* (Accepted pending minor revisions) *bioRxiv* doi: 10.1101/762724
 
 **2020**
 
