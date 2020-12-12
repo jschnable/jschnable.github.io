@@ -8,18 +8,18 @@ googlefonts: ["Monoton", "Lobster"]
 | | **Name** | **Title**| **CV** | **ORCID**
 |![James Schnable](/images/People_Images/jamesschnable.jpg){:width="120" align="middle"}|[James Schnable](/peoplepages/jschnable/)<a href="https://twitter.com/szintri"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Associate Professor|[CV](/CVs/JSchnable.pdf)|0000-0001-6739-5527|
 |![Brandi Sigmon](/images/People_Images/BSigmon.jpg){:width="120" align="middle"}|[Brandi Sigmon](/peoplepages/Brandi_Sigmon/)|Assistant Professor of Practice<br>UNL Microbiology Program<br>Acting Director||0000-0003-3914-6894|
-|![Guangchao Sun](/images/People_Images/Guangchao.JPG){:width="120" align="middle"}|Guangchao Sun<a href="https://twitter.com/xiaoguanghuan"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Postdoctoral Scholar|[CV](/CVs/Guangchao_Sun_CV_2019.pdf)|0000-0003-3942-6175|
-|![Marcin Grzybowski Headshot](/images/People_Images/Marcin.jpg){:width="120" align="middle"}|Marcin Grzybowski|Postdoctoral Scholar||0000-0002-6303-5433|
-|![Ravi Mural Headshot](/images/People_Images/Ravi.jpg){:width="120" align="middle"}|Ravi Mural |Postdoctoral Scholar||0000-0002-5489-9918|
+|![Guangchao Sun](/images/People_Images/Guangchao.JPG){:width="120" align="middle"}|[Guangchao Sun](/peoplepages/Guangchao_Sun/)<a href="https://twitter.com/xiaoguanghuan"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Postdoctoral Scholar|[CV](/CVs/Guangchao_Sun_CV_2019.pdf)|0000-0003-3942-6175|
+|![Marcin Grzybowski Headshot](/images/People_Images/Marcin.jpg){:width="120" align="middle"}|[Marcin Grzybowski](/peoplepages/Marcin_Grzybowski/)|Postdoctoral Scholar||0000-0002-6303-5433|
+|![Ravi Mural Headshot](/images/People_Images/Ravi.jpg){:width="120" align="middle"}|[Ravi Mural](/peoplepages/Ravi_Mural/)|Postdoctoral Scholar||0000-0002-5489-9918|
 |![Christine Smith](/images/People_Images/Christine.jpg){:width="120"}|Christine Smith|Technician|||
 |![Jon Turkus](/images/People_Images/JonT.jpg){:width="120"}|Jon Turkus|Technician|||
 |![Jill Hochstein](/images/People_Images/Jill.jpg){:width="120"}|[Jill Hochstein](/peoplepages/Jill_Hochstein/)<a href="https://twitter.com/jara12"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Technical Project Manager|||
 |![Chenyong Miao](/images/People_Images/Miao_Small.jpg){:width="120"}|[Chenyong Miao](/peoplepages/Chenyong_Miao/)<a href="https://twitter.com/Valiancy_miao"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|PhD Student|[CV](/CVs/CMiao.pdf)| 0000-0002-0904-3707|
 |![Fanyi Li](/images/People_Images/Fangyi.jpg){:width="120"}|Fangyi Li|PhD Student<br>_(co-advised)_|||
 |![Hongyu Jin Headshot](/images/People_Images/Hongyu.jpg){:width="120"}|Hongyu Jin|PhD Student<br>_(co-advised)_|||
-|![Michael Tross Headshot](/images/People_Images/MichaelT.jpg){:width="120"}|Michael Tross|PhD Student||0000-0002-4410-9679|
+|![Michael Tross Headshot](/images/People_Images/MichaelT.jpg){:width="120"}|[Michael Tross](/peoplepages/Michael_Tross/)|PhD Student||0000-0002-4410-9679|
 |![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|PhD Student<br>_(co-advised)_|||
-|![Sa Headshot](/images/People_Images/Santos.jpg){:width="120"}|Santos Yenandy<br>Barrera Lemus|PhD Student<br>_(co-advised)_|||
+|![Santos Headshot](/images/People_Images/Santos.jpg){:width="120"}|Santos Yenandy<br>Barrera Lemus|PhD Student<br>_(co-advised)_|||
 |![Mackenzie](/images/People_Images/Mackenzie.jpeg){:width="120"}|Mackenzie Zwiener<a href="https://twitter.com/MackenzieZwien1"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|MS Student||0000-0001-8636-6780|
 |![Kahheetah Barnoskie](/images/People_Images/Kahheetah.jpg){:width="120"}|Kahheetah Barnoskie|MS Student|||
 |![Thomas Hoban](/images/People_Images/thoban.jpg){:width="120"}|Thomas Hoban|Bachelors Student||0000-0001-7607-1903|

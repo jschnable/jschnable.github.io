@@ -1,0 +1,1051 @@
+@article{international2010genome,
+  title={Genome sequencing and analysis of the model grass Brachypodium distachyon},
+  author={International Brachypodium Initiative and others},
+  journal={Nature},
+  volume={463},
+  number={7282},
+  pages={763},
+  year={2010},
+  publisher={Nature Publishing Group}
+}
+
+@article{woodhouse2010following,
+  title={Following tetraploidy in maize, a short deletion mechanism removed genes preferentially from one of the two homeologs},
+  author={Woodhouse, Margaret R and Schnable, James C and Pedersen, Brent S and Lyons, Eric and Lisch, Damon and Subramaniam, Shabarinath and Freeling, Michael},
+  journal={PLoS Biol},
+  volume={8},
+  number={6},
+  pages={e1000409},
+  year={2010},
+  publisher={Public Library of Science}
+}
+
+@article{schnable2011dose,
+  title={Dose--Sensitivity, Conserved Non-Coding Sequences, and Duplicate Gene Retention Through Multiple Tetraploidies in the Grasses},
+  author={Schnable, James C and Pedersen, Brent S and Subramaniam, Shabarinath and Freeling, Michael},
+  journal={Frontiers in Plant Genetics And Genomics},
+  volume={2},
+  year={2011}
+}
+
+@article{tang2011screening,
+  title={Screening synteny blocks in pairwise genome comparisons through integer programming},
+  author={Tang, Haibao and Lyons, Eric and Pedersen, Brent and Schnable, James C and Paterson, Andrew H and Freeling, Michael},
+  journal={BMC bioinformatics},
+  volume={12},
+  number={1},
+  pages={1--11},
+  year={2011},
+  publisher={BioMed Central}
+}
+
+@article{schnable2011differentiation,
+  title={Differentiation of the maize subgenomes by genome dominance and both ancient and ongoing gene loss},
+  author={Schnable, James C and Springer, Nathan M and Freeling, Michael},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={108},
+  number={10},
+  pages={4069--4074},
+  year={2011},
+  publisher={National Academy of Sciences}
+}
+
+@article{schnable2011genes,
+  title={Genes identified by visible mutant phenotypes show increased bias toward one of two subgenomes of maize},
+  author={Schnable, James C and Freeling, Michael},
+  journal={PloS one},
+  volume={6},
+  number={3},
+  pages={e17855},
+  year={2011},
+  publisher={Public Library of Science}
+}
+
+@article{schnable2012comparative,
+  title={Comparative genomics with maize and other grasses: from genes to genomes!},
+  author={Schnable, James C and Lyons, Eric},
+  journal={Maydica},
+  volume={56},
+  number={2},
+  year={2012}
+}
+
+@article{eichten2011heritable,
+  title={Heritable epigenetic variation among maize inbreds},
+  author={Eichten, Steve R and Swanson-Wagner, Ruth A and Schnable, James C and Waters, Amanda J and Hermanson, Peter J and Liu, Sanzhen and Yeh, Cheng-Ting and Jia, Yi and Gendler, Karla and Freeling, Michael and others},
+  journal={PLoS Genet},
+  volume={7},
+  number={11},
+  pages={e1002372},
+  year={2011},
+  publisher={Public Library of Science}
+}
+
+@article{zhang2012high,
+  title={High-resolution mapping of open chromatin in the rice genome},
+  author={Zhang, Wenli and Wu, Yufeng and Schnable, James C and Zeng, Zixian and Freeling, Michael and Crawford, Gregory E and Jiang, Jiming},
+  journal={Genome research},
+  volume={22},
+  number={1},
+  pages={151--162},
+  year={2012},
+  publisher={Cold Spring Harbor Lab}
+}
+
+@article{schnable2012genome,
+  title={Genome-wide analysis of syntenic gene deletion in the grasses},
+  author={Schnable, James C and Freeling, Michael and Lyons, Eric},
+  journal={Genome biology and evolution},
+  volume={4},
+  number={3},
+  pages={265--277},
+  year={2012},
+  publisher={Oxford University Press}
+}
+
+@article{tang2012altered,
+  title={Altered patterns of fractionation and exon deletions in Brassica rapa support a two-step model of paleohexaploidy},
+  author={Tang, Haibao and Woodhouse, Margaret R and Cheng, Feng and Schnable, James C and Pedersen, Brent S and Conant, Gavin and Wang, Xiaowu and Freeling, Michael and Pires, J Chris},
+  journal={Genetics},
+  volume={190},
+  number={4},
+  pages={1563--1574},
+  year={2012},
+  publisher={Genetics}
+}
+
+@article{freeling2012fractionation,
+  title={Fractionation mutagenesis and similar consequences of mechanisms removing dispensable or less-expressed DNA in plants},
+  author={Freeling, Michael and Woodhouse, Margaret R and Subramaniam, Shabarinath and Turco, Gina and Lisch, Damon and Schnable, James C},
+  journal={Current opinion in plant biology},
+  volume={15},
+  number={2},
+  pages={131--139},
+  year={2012},
+  publisher={Elsevier Current Trends}
+}
+
+@article{schnable2012escape,
+  title={Escape from preferential retention following repeated whole genome duplications in plants},
+  author={Schnable, James C and Wang, Xiaowu and Pires, J Chris and Freeling, Michael},
+  journal={Frontiers in plant science},
+  volume={3},
+  pages={94},
+  year={2012},
+  publisher={Frontiers}
+}
+
+@incollection{schnable2012maize,
+  title={Maize (Zea mays) as a model for studying the impact of gene and regulatory sequence loss following whole-genome duplication},
+  author={Schnable, James C and Freeling, Michael},
+  booktitle={Polyploidy and genome evolution},
+  pages={137--145},
+  year={2012},
+  publisher={Springer, Berlin, Heidelberg}
+}
+
+@article{turco2013automated,
+  title={Automated conserved noncoding sequence (CNS) discovery reveals differences in gene content and promoter evolution among grasses},
+  author={Turco, Gina and Schnable, James C and Pedersen, Brent and Freeling, Michael},
+  journal={Frontiers in Plant Science},
+  volume={4},
+  pages={170},
+  year={2013},
+  publisher={Frontiers}
+}
+
+@article{garsmeur2014two,
+  title={Two evolutionarily distinct classes of paleopolyploidy},
+  author={Garsmeur, Olivier and Schnable, James C and Almeida, Ana and Jourda, Cyril and D’Hont, Ang{\'e}lique and Freeling, Michael},
+  journal={Molecular biology and evolution},
+  volume={31},
+  number={2},
+  pages={448--454},
+  year={2014},
+  publisher={Oxford University Press}
+}
+
+@article{martin2014near,
+  title={A near complete snapshot of the Zea mays seedling transcriptome revealed from ultra-deep sequencing},
+  author={Martin, Jeffrey A and Johnson, Nicole V and Gross, Stephen M and Schnable, James and Meng, Xiandong and Wang, Mei and Coleman-Derr, Devin and Lindquist, Erika and Wei, Chia-Lin and Kaeppler, Shawn and others},
+  journal={Scientific reports},
+  volume={4},
+  pages={4519},
+  year={2014},
+  publisher={Nature Publishing Group}
+}
+
+@article{schnable2015genome,
+  title={Genome evolution in maize: from genomes back to genes},
+  author={Schnable, James C},
+  journal={Annual review of plant biology},
+  volume={66},
+  pages={329--343},
+  year={2015},
+  publisher={Annual Reviews}
+}
+
+@article{qie2014mapping,
+  title={Mapping of quantitative trait locus (QTLs) that contribute to germination and early seedling drought tolerance in the interspecific cross Setaria italica$\times$ Setaria viridis},
+  author={Qie, Lufeng and Jia, Guanqing and Zhang, Wenying and Schnable, James and Shang, Zhonglin and Li, Wei and Liu, Binhui and Li, Mingzhe and Chai, Yang and Zhi, Hui and others},
+  journal={PloS one},
+  volume={9},
+  number={7},
+  pages={e101868},
+  year={2014},
+  publisher={Public Library of Science}
+}
+
+@article{de2014co,
+  title={Co-option of the polarity gene network shapes filament morphology in angiosperms},
+  author={De Almeida, Ana Maria Rocha and Yockteng, Roxana and Schnable, James and Alvarez-Buylla, Elena R and Freeling, Michael and Specht, Chelsea D},
+  journal={Scientific Reports},
+  volume={4},
+  number={1},
+  pages={1--9},
+  year={2014},
+  publisher={Nature Publishing Group}
+}
+
+@article{paschold2014nonsyntenic,
+  title={Nonsyntenic genes drive highly dynamic complementation of gene expression in maize hybrids},
+  author={Paschold, Anja and Larson, Nick B and Marcon, Caroline and Schnable, James C and Yeh, Cheng-Ting and Lanz, Christa and Nettleton, Dan and Piepho, Hans-Peter and Schnable, Patrick S and Hochholdinger, Frank},
+  journal={The Plant Cell},
+  volume={26},
+  number={10},
+  pages={3939--3948},
+  year={2014},
+  publisher={American Society of Plant Biologists}
+}
+
+@article{tang2015allmaps,
+  title={ALLMAPS: robust scaffold ordering based on multiple maps},
+  author={Tang, Haibao and Zhang, Xingtan and Miao, Chenyong and Zhang, Jisen and Ming, Ray and Schnable, James C and Schnable, Patrick S and Lyons, Eric and Lu, Jianguo},
+  journal={Genome biology},
+  volume={16},
+  number={1},
+  pages={3},
+  year={2015},
+  publisher={BioMed Central}
+}
+
+@article{xianmin2014initiation,
+  title={Initiation of Setaria as a model plant},
+  author={Xianmin, DIAO and Schnable, James and Bennetzen, Jeffrey L and Jiayang, LI},
+  journal={Frontiers of Agricultural Science and Engineering},
+  volume={1},
+  number={1},
+  pages={16--20},
+  year={2014}
+}
+
+@article{jia2015microsatellite,
+  title={Microsatellite variations of elite Setaria varieties released during last six decades in China},
+  author={Jia, Guanqing and Liu, Xiaotong and Schnable, James C and Niu, Zhengang and Wang, Chunfang and Li, Yuhui and Wang, Shujun and Wang, Suying and Liu, Jinrong and Guo, Erhu and others},
+  journal={PLoS One},
+  volume={10},
+  number={5},
+  pages={e0125688},
+  year={2015},
+  publisher={Public Library of Science}
+}
+
+@article{washburn2015phylogeny,
+  title={Phylogeny and photosynthesis of the grass tribe Paniceae},
+  author={Washburn, Jacob D and Schnable, James C and Davidse, Gerrit and Pires, J Chris},
+  journal={American journal of botany},
+  volume={102},
+  number={9},
+  pages={1493--1505},
+  year={2015},
+  publisher={Botanical Society of America}
+}
+
+@article{sun2015impacts,
+  title={Impacts of whole-genome triplication on MIRNA evolution in Brassica rapa},
+  author={Sun, Chao and Wu, Jian and Liang, Jianli and Schnable, James C and Yang, Wencai and Cheng, Feng and Wang, Xiaowu},
+  journal={Genome biology and evolution},
+  volume={7},
+  number={11},
+  pages={3085--3096},
+  year={2015},
+  publisher={Oxford University Press}
+}
+
+@article{tang2015synfind,
+  title={SynFind: compiling syntenic regions across any set of genomes on demand},
+  author={Tang, Haibao and Bomhoff, Matthew D and Briones, Evan and Zhang, Liangsheng and Schnable, James C and Lyons, Eric},
+  journal={Genome biology and evolution},
+  volume={7},
+  number={12},
+  pages={3286--3298},
+  year={2015},
+  publisher={Oxford University Press}
+}
+
+@article{cheng2016epigenetic,
+  title={Epigenetic regulation of subgenome dominance following whole genome triplication in Brassica rapa},
+  author={Cheng, Feng and Sun, Chao and Wu, Jian and Schnable, James and Woodhouse, Margaret R and Liang, Jianli and Cai, Chengcheng and Freeling, Michael and Wang, Xiaowu},
+  journal={New Phytologist},
+  volume={211},
+  number={1},
+  pages={288--299},
+  year={2016}
+}
+
+@article{liang2016rna,
+  title={RNA-seq based analysis of population structure within the maize inbred B73},
+  author={Liang, Zhikai and Schnable, James C},
+  journal={PloS one},
+  volume={11},
+  number={6},
+  pages={e0157942},
+  year={2016},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+@article{rajput2016mapping,
+  title={Mapping QTLs for morpho-agronomic traits in proso millet (Panicum miliaceum L.)},
+  author={Rajput, Santosh G and Santra, Dipak K and Schnable, James},
+  journal={Molecular Breeding},
+  volume={36},
+  number={4},
+  pages={37},
+  year={2016},
+  publisher={Springer Netherlands}
+}
+
+@article{liu2016c,
+  title={The C-terminal motif of SiAGO1b is required for the regulation of growth, development and stress responses in foxtail millet (Setaria italica (L.) P. Beauv)},
+  author={Liu, Xiaotong and Tang, Sha and Jia, Guanqing and Schnable, James C and Su, Haixia and Tang, Chanjuan and Zhi, Hui and Diao, Xianmin},
+  journal={Journal of experimental botany},
+  volume={67},
+  number={11},
+  pages={3237--3249},
+  year={2016},
+  publisher={Oxford University Press UK}
+}
+
+@article{huang2017cross,
+  title={Cross species selection scans identify components of C4 photosynthesis in the grasses},
+  author={Huang, Pu and Studer, Anthony J and Schnable, James C and Kellogg, Elizabeth A and Brutnell, Thomas P},
+  journal={Journal of Experimental Botany},
+  volume={68},
+  number={2},
+  pages={127--135},
+  year={2017},
+  publisher={Oxford University Press UK}
+}
+
+@article{ge2016temporal,
+  title={Temporal dynamics of maize plant growth, water use, and leaf water content using automated high throughput RGB and hyperspectral imaging},
+  author={Ge, Yufeng and Bai, Geng and Stoerger, Vincent and Schnable, James C},
+  journal={Computers and Electronics in Agriculture},
+  volume={127},
+  pages={625--632},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{walley2016integration,
+  title={Integration of omic networks in a developmental atlas of maize},
+  author={Walley, Justin W and Sartor, Ryan C and Shen, Zhouxin and Schmitz, Robert J and Wu, Kevin J and Urich, Mark A and Nery, Joseph R and Smith, Laurie G and Schnable, James C and Ecker, Joseph R and others},
+  journal={Science},
+  volume={353},
+  number={6301},
+  pages={814--818},
+  year={2016},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{studer2016draft,
+  title={The draft genome of the c 3 panicoid grass species dichanthelium oligosanthes},
+  author={Studer, Anthony J and Schnable, James C and Weissmann, Sarit and Kolbe, Allison R and McKain, Michael R and Shao, Ying and Cousins, Asaph B and Kellogg, Elizabeth A and Brutnell, Thomas P},
+  journal={Genome biology},
+  volume={17},
+  number={1},
+  pages={223},
+  year={2016},
+  publisher={BioMed Central}
+}
+
+@article{joyce2017fractbias,
+  title={FractBias: a graphical tool for assessing fractionation bias following polyploidy},
+  author={Joyce, Blake L and Haug-Baltzell, Asher and Davey, Sean and Bomhoff, Matthew and Schnable, James C and Lyons, Eric},
+  journal={Bioinformatics},
+  volume={33},
+  number={4},
+  pages={552--554},
+  year={2017},
+  publisher={Oxford University Press}
+}
+
+@article{lai2017stag,
+  title={Stag-cns: An order-aware conserved noncoding sequences discovery tool for arbitrary numbers of species},
+  author={Lai, Xianjun and Behera, Sairam and Liang, Zhikai and Lu, Yanli and Deogun, Jitender S and Schnable, James C},
+  journal={Molecular plant},
+  volume={10},
+  number={7},
+  pages={990--999},
+  year={2017},
+  publisher={Cell Press}
+}
+
+@article{mei2017evolutionarily,
+  title={Evolutionarily conserved alternative splicing across monocots},
+  author={Mei, Wenbin and Boatwright, Lucas and Feng, Guanqiao and Schnable, James C and Barbazuk, W Brad},
+  journal={Genetics},
+  volume={207},
+  number={2},
+  pages={465--480},
+  year={2017},
+  publisher={Genetics}
+}
+
+@article{pandey2017high,
+  title={High throughput in vivo analysis of plant leaf chemical properties using hyperspectral imaging},
+  author={Pandey, Piyush and Ge, Yufeng and Stoerger, Vincent and Schnable, James C},
+  journal={Frontiers in plant science},
+  volume={8},
+  pages={1348},
+  year={2017},
+  publisher={Frontiers}
+}
+
+@article{mei2017comprehensive,
+  title={A comprehensive analysis of alternative splicing in paleopolyploid maize},
+  author={Mei, Wenbin and Liu, Sanzhen and Schnable, James C and Yeh, Cheng-Ting and Springer, Nathan M and Schnable, Patrick S and Barbazuk, William B},
+  journal={Frontiers in plant science},
+  volume={8},
+  pages={694},
+  year={2017},
+  publisher={Frontiers}
+}
+
+@article{lai2017harnessing,
+  title={Harnessing the Potential of the Tea Tree Genome},
+  author={Lai, Xianjun and Schnable, James C},
+  journal={Molecular Plant},
+  volume={10},
+  number={6},
+  pages={788--790},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@inproceedings{choudhury2016automated,
+  title={Automated vegetative stage phenotyping analysis of maize plants using visible light images},
+  author={Choudhury, Sruti Das and Stoerger, Vincent and Samal, Ashok and Schnable, James C and Liang, Zhikai and Yu, Jin-Gang},
+  booktitle={KDD workshop on data science for food, energy and water, San Francisco, California, USA},
+  year={2016}
+}
+
+@article{zhang2017differentially,
+  title={Differentially regulated orthologs in sorghum and the subgenomes of maize},
+  author={Zhang, Yang and Ngu, Daniel W and Carvalho, Daniel and Liang, Zhikai and Qiu, Yumou and Roston, Rebecca L and Schnable, James C},
+  journal={The Plant Cell},
+  volume={29},
+  number={8},
+  pages={1938--1951},
+  year={2017},
+  publisher={American Society of Plant Biologists}
+}
+
+@article{liang2018conventional,
+  title={Conventional and hyperspectral time-series imaging of maize lines widely used in field trials},
+  author={Liang, Zhikai and Pandey, Piyush and Stoerger, Vincent and Xu, Yuhang and Qiu, Yumou and Ge, Yufeng and Schnable, James C},
+  journal={Gigascience},
+  volume={7},
+  number={2},
+  pages={gix117},
+  year={2018},
+  publisher={Oxford University Press}
+}
+
+@article{lai2018largely,
+  title={Largely unlinked gene sets targeted by selection for domestication syndrome phenotypes in maize and sorghum},
+  author={Lai, Xianjun and Yan, Lang and Lu, Yanli and Schnable, James C},
+  journal={The Plant Journal},
+  volume={93},
+  number={5},
+  pages={843--855},
+  year={2018}
+}
+
+@article{lai2017genome,
+  title={Genome-wide characterization of non-reference transposable element insertion polymorphisms reveals genetic diversity in tropical and temperate maize},
+  author={Lai, Xianjun and Schnable, James C and Liao, Zhengqiao and Xu, Jie and Zhang, Gengyun and Li, Chuan and Hu, Erliang and Rong, Tingzhao and Xu, Yunbi and Lu, Yanli},
+  journal={BMC genomics},
+  volume={18},
+  number={1},
+  pages={702},
+  year={2017},
+  publisher={BioMed Central}
+}
+
+@article{xu2018functional,
+  title={Functional modeling of plant growth dynamics},
+  author={Xu, Yuhang and Qiu, Yumou and Schnable, James C},
+  journal={The Plant Phenome Journal},
+  volume={1},
+  number={1},
+  pages={1--10},
+  year={2018},
+  publisher={American Society of Agronomy and Crop Science Society of America}
+}
+
+@article{ott2017tgbs,
+  title={tGBS{\textregistered} genotyping-by-sequencing enables reliable genotyping of heterozygous loci},
+  author={Ott, Alina and Liu, Sanzhen and Schnable, James C and Yeh, Cheng-Ting ‘Eddy’ and Wang, Kai-Sin and Schnable, Patrick S},
+  journal={Nucleic acids research},
+  volume={45},
+  number={21},
+  pages={e178--e178},
+  year={2017},
+  publisher={Oxford University Press}
+}
+
+@article{carvalho2018integrating,
+  title={Integrating phylogenetic and network approaches to study gene family evolution: The case of the AGAMOUS family of floral genes},
+  author={Carvalho, Daniel S and Schnable, James C and Almeida, Ana Maria R},
+  journal={Evolutionary Bioinformatics},
+  volume={14},
+  pages={1176934318764683},
+  year={2018},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{washburn2017genome,
+  title={Genome-guided phylo-transcriptomic methods and the nuclear phylogenetic tree of the paniceae grasses},
+  author={Washburn, Jacob D and Schnable, James C and Conant, Gavin C and Brutnell, Thomas P and Shao, Ying and Zhang, Yang and Ludwig, Martha and Davidse, Gerrit and Pires, J Chris},
+  journal={Scientific reports},
+  volume={7},
+  number={1},
+  pages={1--12},
+  year={2017},
+  publisher={Nature Publishing Group}
+}
+
+@article{gage2017effect,
+  title={The effect of artificial selection on phenotypic plasticity in maize},
+  author={Gage, Joseph L and Jarquin, Diego and Romay, Cinta and Lorenz, Aaron and Buckler, Edward S and Kaeppler, Shawn and Alkhalifah, Naser and Bohn, Martin and Campbell, Darwin A and Edwards, Jode and others},
+  journal={Nature communications},
+  volume={8},
+  number={1},
+  pages={1--11},
+  year={2017},
+  publisher={Nature Publishing Group}
+}
+
+@inproceedings{behera2017dice,
+  title={DiCE: Discovery of conserved noncoding sequences efficiently},
+  author={Behera, Sairam and Li, Xianjun and Schnable, James and Deogun, Jitender S},
+  booktitle={2017 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+  pages={79--82},
+  year={2017},
+  organization={IEEE}
+}
+
+@article{liang2018functional,
+  title={Functional divergence between subgenomes and gene pairs after whole genome duplications},
+  author={Liang, Zhikai and Schnable, James C},
+  journal={Molecular plant},
+  volume={11},
+  number={3},
+  pages={388--397},
+  year={2018},
+  publisher={Cell Press}
+}
+
+@article{nani2018location,
+  title={Location of low copy genes in chromosomes of Brachiaria spp.},
+  author={Nani, Tha{\'\i}s Furtado and Schnable, James C and Washburn, Jacob D and Albert, Patrice and Pereira, Welison Andrade and Sobrinho, Fausto Souza and Birchler, James A and Techio, V{\^a}nia Helena},
+  journal={Molecular biology reports},
+  volume={45},
+  number={2},
+  pages={109--118},
+  year={2018},
+  publisher={Springer Netherlands}
+}
+
+@incollection{tang2014early,
+  title={Early history of the angiosperms},
+  author={Tang, Haibao and Lyons, Eric and Schnable, James C},
+  booktitle={Advances in botanical research},
+  volume={69},
+  pages={195--222},
+  year={2014},
+  publisher={Academic Press}
+}
+
+@article{miao2019optimising,
+  title={Optimising the identification of causal variants across varying genetic architectures in crops},
+  author={Miao, Chenyong and Yang, Jinliang and Schnable, James C},
+  journal={Plant biotechnology journal},
+  volume={17},
+  number={5},
+  pages={893--905},
+  year={2019}
+}
+
+@article{liang2018phenotypic,
+  title={Phenotypic data from inbred parents can improve genomic prediction in pearl millet hybrids},
+  author={Liang, Zhikai and Gupta, Shashi K and Yeh, Cheng-Ting and Zhang, Yang and Ngu, Daniel W and Kumar, Ramesh and Patil, Hemant T and Mungra, Kanulal D and Yadav, Dev Vart and Rathore, Abhishek and others},
+  journal={G3: Genes, Genomes, Genetics},
+  volume={8},
+  number={7},
+  pages={2513--2522},
+  year={2018},
+  publisher={G3: Genes, Genomes, Genetics}
+}
+
+@article{miao2018genotype,
+  title={Genotype-Corrector: improved genotype calls for genetic mapping in F 2 and RIL populations},
+  author={Miao, Chenyong and Fang, Jingping and Li, Delin and Liang, Pingping and Zhang, Xingtan and Yang, Jinliang and Schnable, James C and Tang, Haibao},
+  journal={Scientific reports},
+  volume={8},
+  number={1},
+  pages={1--11},
+  year={2018},
+  publisher={Nature Publishing Group}
+}
+
+@article{alkhalifah2018maize,
+  title={Maize Genomes to Fields: 2014 and 2015 field season genotype, phenotype, environment, and inbred ear image datasets},
+  author={AlKhalifah, Naser and Campbell, Darwin A and Falcon, Celeste M and Gardiner, Jack M and Miller, Nathan D and Romay, Maria Cinta and Walls, Ramona and Walton, Renee and Yeh, Cheng-Ting and Bohn, Martin and others},
+  journal={BMC research notes},
+  volume={11},
+  number={1},
+  pages={452},
+  year={2018},
+  publisher={BioMed Central}
+}
+
+@article{raju2018low,
+  title={Low-temperature tolerance in land plants: Are transcript and membrane responses conserved?},
+  author={Raju, Sunil Kumar Kenchanmane and Barnes, Allison C and Schnable, James C and Roston, Rebecca L},
+  journal={Plant Science},
+  volume={276},
+  pages={73--86},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@article{ott2018linked,
+  title={Linked read technology for assembling large complex and polyploid genomes},
+  author={Ott, Alina and Schnable, James C and Yeh, Cheng-Ting and Wu, Linjiang and Liu, Chao and Hu, Heng-Cheng and Dalgard, Clifton L and Sarkar, Soumik and Schnable, Patrick S},
+  journal={BMC genomics},
+  volume={19},
+  number={1},
+  pages={651},
+  year={2018},
+  publisher={BioMed Central}
+}
+
+@article{liu2018intragenic,
+  title={Intragenic meiotic crossovers generate novel alleles with transgressive expression levels},
+  author={Liu, Sanzhen and Schnable, James C and Ott, Alina and Yeh, Cheng-Ting “Eddy” and Springer, Nathan M and Yu, Jianming and Muehlbauer, Gary and Timmermans, Marja CP and Scanlon, Michael J and Schnable, Patrick S},
+  journal={Molecular biology and evolution},
+  volume={35},
+  number={11},
+  pages={2762--2772},
+  year={2018},
+  publisher={Oxford University Press}
+}
+
+@article{zou2019genome,
+  title={The genome of broomcorn millet},
+  author={Zou, Changsong and Li, Leiting and Miki, Daisuke and Li, Delin and Tang, Qiming and Xiao, Lihong and Rajput, Santosh and Deng, Ping and Peng, Li and Jia, Wei and others},
+  journal={Nature communications},
+  volume={10},
+  number={1},
+  pages={1--11},
+  year={2019},
+  publisher={Nature Publishing Group}
+}
+
+@article{bai2019nu,
+  title={NU-Spidercam: A large-scale, cable-driven, integrated sensing and robotic system for advanced phenotyping, remote sensing, and agronomic research},
+  author={Bai, Geng and Ge, Yufeng and Scoby, David and Leavitt, Bryan and Stoerger, Vincent and Kirchgessner, Norbert and Irmak, Suat and Graef, George and Schnable, James and Awada, Tala},
+  journal={Computers and Electronics in Agriculture},
+  volume={160},
+  pages={71--81},
+  year={2019},
+  publisher={Elsevier}
+}
+
+@misc{schnable2015plant,
+  title={Plant paleopolyploidy},
+  author={Schnable, J and Lyons, Eric},
+  year={2015}
+}
+
+@article{li2019qtl,
+  title={QTL identification and epistatic effect analysis of seed size-and weight-related traits in Zea mays L},
+  author={Li, Li and Li, Xuhui and Li, Lulu and Schnable, James and Gu, Riliang and Wang, Jianhua},
+  journal={Molecular Breeding},
+  volume={39},
+  number={5},
+  pages={67},
+  year={2019},
+  publisher={Springer Netherlands}
+}
+
+@article{yan2019parallels,
+  title={Parallels between natural selection in the cold-adapted crop-wild relative tripsacum dactyloides and artificial selection in temperate adapted maize},
+  author={Yan, Lang and Kenchanmane Raju, Sunil K and Lai, Xianjun and Zhang, Yang and Dai, Xiuru and Rodriguez, Oscar and Mahboub, Samira and Roston, Rebecca L and Schnable, James C},
+  journal={The Plant Journal},
+  volume={99},
+  number={5},
+  pages={965--977},
+  year={2019}
+}
+
+@article{atefi2019vivo,
+  title={In vivo human-like robotic phenotyping of leaf traits in maize and sorghum in greenhouse},
+  author={Atefi, Abbas and Ge, Yufeng and Pitla, Santosh and Schnable, James},
+  journal={Computers and Electronics in Agriculture},
+  volume={163},
+  pages={104854},
+  year={2019},
+  publisher={Elsevier}
+}
+
+@article{schnable2020genes,
+  title={Genes and gene models, an important distinction},
+  author={Schnable, James C},
+  journal={New Phytologist},
+  volume={228},
+  number={1},
+  pages={50--55},
+  year={2020}
+}
+
+@article{ge2019high,
+  title={High-throughput analysis of leaf physiological and chemical traits with VIS--NIR--SWIR spectroscopy: a case study with a maize diversity panel},
+  author={Ge, Yufeng and Atefi, Abbas and Zhang, Huichun and Miao, Chenyong and Ramamurthy, Raghuprakash Kastoori and Sigmon, Brandi and Yang, Jinliang and Schnable, James C},
+  journal={Plant methods},
+  volume={15},
+  number={1},
+  pages={66},
+  year={2019},
+  publisher={BioMed Central}
+}
+
+@article{carvalho2020isoseq,
+  title={IsoSeq transcriptome assembly of C3 panicoid grasses provides tools to study evolutionary change in the Panicoideae},
+  author={Carvalho, Daniel S and Nishimwe, Aime V and Schnable, James C},
+  journal={Plant direct},
+  volume={4},
+  number={2},
+  pages={e00203},
+  year={2020}
+}
+
+@article{li2020identification,
+  title={Identification of loci controlling adaptation in Chinese soya bean landraces via a combination of conventional and bioclimatic GWAS},
+  author={Li, Ying-hui and Li, Delin and Jiao, Yong-qing and Schnable, James C and Li, Yan-fei and Li, Hui-hui and Chen, Huai-zhu and Hong, Hui-long and Zhang, Ting and Liu, Bin and others},
+  journal={Plant biotechnology journal},
+  volume={18},
+  number={2},
+  pages={389--401},
+  year={2020}
+}
+
+@article{miao2019simulated,
+  title={Simulated plant images improve maize leaf counting accuracy},
+  author={Miao, Chenyong and Hoban, Thomas P and Pages, Alejandro and Xu, Zheng and Rodene, Eric and Ubbens, Jordan and Stavness, Ian and Yang, Jinliang and Schnable, James C},
+  journal={bioRxiv},
+  pages={706994},
+  year={2019},
+  publisher={Cold Spring Harbor Laboratory}
+}
+
+@article{ali2019continuous,
+  title={Continuous Monitoring of Soil Nitrate Using a Miniature Sensor with Poly (3-octyl-thiophene) and Molybdenum Disulfide Nanocomposite},
+  author={Ali, Md Azahar and Wang, Xinran and Chen, Yuncong and Jiao, Yueyi and Mahal, Navreet K and Moru, Satyanarayana and Castellano, Michael J and Schnable, James C and Schnable, Patrick S and Dong, Liang},
+  journal={ACS applied materials \& interfaces},
+  volume={11},
+  number={32},
+  pages={29195--29206},
+  year={2019},
+  publisher={American Chemical Society}
+}
+
+@article{qi2019high,
+  title={High Density Genetic Maps of Seashore Paspalum Using Genotyping-By-Sequencing and Their Relationship to The Sorghum Bicolor Genome},
+  author={Qi, Peng and Eudy, Douglas and Schnable, James C and Schmutz, Jeremy and Raymer, Paul L and Devos, Katrien M},
+  journal={Scientific reports},
+  volume={9},
+  number={1},
+  pages={1--10},
+  year={2019},
+  publisher={Nature Publishing Group}
+}
+
+@inproceedings{ali2019novel,
+  title={Novel All-Solid-State Soil Nutrient Sensor Using Nanocomposite of Poly (3-Octyl-Thiophene) and Molybdenum Sulfate},
+  author={Ali, Md Azahar and Wang, Xinran and Chen, Yuncong and Jiao, Yueyi and Castellano, Michael J and Schnable, James C and Schnable, Patrick S and Dong, Liang},
+  booktitle={2019 20th International Conference on Solid-State Sensors, Actuators and Microsystems \& Eurosensors XXXIII (TRANSDUCERS \& EUROSENSORS XXXIII)},
+  pages={170--173},
+  year={2019},
+  organization={IEEE}
+}
+
+@inproceedings{jiao2019planta,
+  title={In-Planta Nitrate Detection Using Insertable Plant Microsensor},
+  author={Jiao, Yueyi and Wang, Xinran and Chen, Yuncong and Castellano, Michael J and Schnable, James C and Schnable, Patrick S and Dong, Liang},
+  booktitle={2019 20th International Conference on Solid-State Sensors, Actuators and Microsystems \& Eurosensors XXXIII (TRANSDUCERS \& EUROSENSORS XXXIII)},
+  pages={37--40},
+  year={2019},
+  organization={IEEE}
+}
+
+@article{weissmann2019dct4,
+  title={DCT4-a new member of the dicarboxylate transporter family in C4 grasses.},
+  author={Weissmann, Sarit and Huang, Pu and Furuyama, Koki and Wiechert, Madeline and Taniguchi, Mitsutaka and Schnable, James and Brutnell, Thomas and Mockler, Todd C},
+  journal={BioRxiv},
+  pages={762724},
+  year={2019},
+  publisher={Cold Spring Harbor Laboratory}
+}
+
+@article{zheng2020shared,
+  title={Shared genetic control of root system architecture between Zea mays and Sorghum bicolor},
+  author={Zheng, Zihao and Hey, Stefan and Jubery, Talukder and Liu, Huyu and Yang, Yu and Coffey, Lisa and Miao, Chenyong and Sigmon, Brandi and Schnable, James C and Hochholdinger, Frank and others},
+  journal={Plant Physiology},
+  volume={182},
+  number={2},
+  pages={977--991},
+  year={2020},
+  publisher={American Society of Plant Biologists}
+}
+
+@article{jarquin2019enhancing,
+  title={Enhancing hybrid prediction in pearl millet using genomic and/or multi-environment phenotypic information of inbreds},
+  author={Jarquin, Diego and Howard, Reka and Liang, Zhikai and Gupta, Shashi K and Schnable, James C and Crossa, Jose},
+  journal={Frontiers in Genetics},
+  volume={10},
+  year={2019},
+  publisher={Frontiers Media SA}
+}
+
+@article{miao2020semantic,
+  title={Semantic segmentation of sorghum using hyperspectral data identifies genetic associations},
+  author={Miao, Chenyong and Xu, Zheng and Rodene, Eric and Yang, Jinliang and Schnable, James C and others},
+  journal={Plant Phenomics},
+  volume={2020},
+  year={2020},
+  publisher={Science Partner Journal}
+}
+
+@article{mcfarland2020maize,
+  title={Maize genomes to fields (G2F): 2014--2017 field seasons: genotype, phenotype, climatic, soil, and inbred ear image datasets},
+  author={McFarland, Bridget A and AlKhalifah, Naser and Bohn, Martin and Bubert, Jessica and Buckler, Edward S and Ciampitti, Ignacio and Edwards, Jode and Ertl, David and Gage, Joseph L and Falcon, Celeste M and others},
+  journal={BMC Research Notes},
+  volume={13},
+  number={1},
+  pages={1--6},
+  year={2020},
+  publisher={BioMed Central}
+}
+
+@article{benes2020multiscale,
+  title={Multiscale computational models can guide experimentation and targeted measurements for crop improvement},
+  author={Benes, Bedrich and Guan, Kaiyu and Lang, Meagan and Long, Stephen P and Lynch, Jonathan P and Marshall-Col{\'o}n, Amy and Peng, Bin and Schnable, James and Sweetlove, Lee J and Turk, Matthew J},
+  journal={The Plant Journal},
+  year={2020}
+}
+
+@article{liang2020genome,
+  title={Genome-phenome wide association in maize and Arabidopsis identifies a common molecular and evolutionary signature},
+  author={Liang, Zhikai and Qiu, Yumou and Schnable, James C},
+  journal={Molecular Plant},
+  year={2020},
+  publisher={Cell Press}
+}
+
+@article{peng2020towards,
+  title={Towards a multiscale crop modelling framework for climate change adaptation assessment},
+  author={Peng, Bin and Guan, Kaiyu and Tang, Jinyun and Ainsworth, Elizabeth A and Asseng, Senthold and Bernacchi, Carl J and Cooper, Mark and Delucia, Evan H and Elliott, Joshua W and Ewert, Frank and others},
+  journal={Nature plants},
+  volume={6},
+  number={4},
+  pages={338--348},
+  year={2020},
+  publisher={Nature Publishing Group}
+}
+
+@inproceedings{al2020faster,
+  title={Faster-R-CNN based deep learning for locating corn tassels in UAV imagery},
+  author={Al-Zadjali, Aziza and Shi, Yeyin and Scott, Stephen and Deogun, Jitender S and Schnable, James},
+  booktitle={Autonomous Air and Ground Sensing Systems for Agricultural Optimization and Phenotyping V},
+  volume={11414},
+  pages={1141406},
+  year={2020},
+  organization={International Society for Optics and Photonics}
+}
+
+@inproceedings{sankaran2020investigating,
+  title={Investigating the potential of satellite imagery for high-throughput field phenotyping applications (Conference Presentation)},
+  author={Sankaran, Sindhuja and Zhang, Chongyuan and Hurst, Preston and Marzougui, Afef and Sivakumar, Arun Narenthiran Veeranampalayam and Li, Jiating and Schnable, James and Shi, Yeyin},
+  booktitle={Autonomous Air and Ground Sensing Systems for Agricultural Optimization and Phenotyping V},
+  volume={11414},
+  pages={1141402},
+  year={2020},
+  organization={International Society for Optics and Photonics}
+}
+
+@article{adams2020plant,
+  title={Plant segmentation by supervised machine learning methods},
+  author={Adams, Jason and Qiu, Yumou and Xu, Yuhang and Schnable, James C},
+  journal={The Plant Phenome Journal},
+  volume={3},
+  number={1},
+  pages={e20001},
+  year={2020}
+}
+
+@article{dai2020non,
+  title={Non-homology-based prediction of gene functions in maize (Zea mays ssp. mays)},
+  author={Dai, Xiuru and Xu, Zheng and Liang, Zhikai and Tu, Xiaoyu and Zhong, Silin and Schnable, James C and Li, Pinghua},
+  journal={The Plant Genome},
+  volume={13},
+  number={2},
+  pages={e20015},
+  year={2020}
+}
+
+@article{miao2020increased,
+  title={Increased power and accuracy of causal locus identification in time series genome-wide association in sorghum},
+  author={Miao, Chenyong and Xu, Yuhang and Liu, Sanzhen and Schnable, Patrick S and Schnable, James C},
+  journal={Plant Physiology},
+  volume={183},
+  number={4},
+  pages={1898--1909},
+  year={2020},
+  publisher={American Society of Plant Biologists}
+}
+
+@article{han2020genome,
+  title={Genome-wide Characterization of DNase I-hypersensitive Sites and Cold Response Regulatory Landscapes in Grasses},
+  author={Han, Jinlei and Wang, Pengxi and Wang, Qiongli and Lin, Qingfang and Chen, Zhiyong and Yu, Guangrun and Miao, Chenyong and Dao, Yihang and Wu, Ruoxi and Schnable, James C and others},
+  journal={The Plant Cell},
+  volume={32},
+  number={8},
+  pages={2457--2473},
+  year={2020},
+  publisher={American Society of Plant Biologists}
+}
+
+@article{moisseyev2020rgpdb,
+  title={RGPDB: database of root-associated genes and promoters in maize, soybean, and sorghum},
+  author={Moisseyev, Gleb and Park, Kiyoul and Cui, Alix and Freitas, Daniel and Rajagopal, Divith and Konda, Anji Reddy and Martin-Olenski, Madalayne and Mcham, Mackenzie and Liu, Kan and Du, Qian and others},
+  journal={Database},
+  volume={2020},
+  year={2020},
+  publisher={Oxford Academic}
+}
+
+@article{lai2020interspecific,
+  title={Interspecific analysis of diurnal gene regulation in panicoid grasses identifies known and novel regulatory motifs},
+  author={Lai, Xianjun and Bendix, Claire and Yan, Lang and Zhang, Yang and Schnable, James C and Harmon, Frank G},
+  journal={BMC genomics},
+  volume={21},
+  number={1},
+  pages={1--17},
+  year={2020},
+  publisher={BioMed Central}
+}
+
+@article{wang2020high,
+  title={A High-Throughput Phenotyping Pipeline for Image Processing and Functional Growth Curve Analysis},
+  author={Wang, Ronghao and Qiu, Yumou and Zhou, Yuzhen and Liang, Zhikai and Schnable, James C},
+  journal={Plant Phenomics},
+  volume={2020},
+  year={2020},
+  publisher={Science Partner Journal}
+}
+
+@article{atefi2020robotic,
+  title={Robotic Detection and Grasp of Maize and Sorghum: Stem Measurement with Contact},
+  author={Atefi, Abbas and Ge, Yufeng and Pitla, Santosh and Schnable, James},
+  journal={Robotics},
+  volume={9},
+  number={3},
+  pages={58},
+  year={2020},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+
+@article{meier2020rhizosphere,
+  title={Rhizosphere Microbiomes in a Historical Maize/Soybean Rotation System respond to Host Species and Nitrogen Fertilization at Genus and Sub-genus Levels},
+  author={Meier, Michael A and Lopez-Guerrero, Martha G and Guo, Ming and Schmer, Marty R and Herr, Joshua R and Schnable, James C and Alfano, James R and Yang, Jinliang},
+  journal={bioRxiv},
+  year={2020},
+  publisher={Cold Spring Harbor Laboratory}
+}
+
+@misc{ott2017tunable,
+  title={Tunable genotyping-by-sequencing (tGBS{\textregistered}) enables reliable genotyping of heterozygous loci. BioRxiv},
+  author={Ott, A and Liu, S and Schnable, JC and Yeh, CT and Wang, C and Schnable, PS},
+  year={2017}
+}
+
+@article{meng2020predicting,
+  title={Predicting transcriptional responses to cold stress across plant species},
+  author={Meng, Xiaoxi and Liang, Zhikai and Dai, Xiuru and Zhang, Yang and Mahboub, Samira and Ngu, Daniel W and Roston, Rebecca L and Schnable, James},
+  journal={bioRxiv},
+  year={2020},
+  publisher={Cold Spring Harbor Laboratory}
+}
+
+@article{raju2020advances,
+  title={Advances in plant phenomics: From data and algorithms to biological insights},
+  author={Raju, Sunil K Kenchanmane and Thompson, Addie M and Schnable, James C},
+  journal={Applications in Plant Sciences},
+  volume={8},
+  number={8},
+  year={2020},
+  publisher={Wiley-Blackwell}
+}
+
+@article{kenchanmane2020leaf,
+  title={Leaf Angle eXtractor: A high-throughput image processing framework for leaf angle measurements in maize and sorghum},
+  author={Kenchanmane Raju, Sunil K and Adkins, Miles and Enersen, Alex and Santana de Carvalho, Daniel and Studer, Anthony J and Ganapathysubramanian, Baskar and Schnable, Patrick S and Schnable, James C},
+  journal={Applications in plant sciences},
+  volume={8},
+  number={8},
+  pages={e11385},
+  year={2020}
+}
+
+@inproceedings{gaillard2020sorghum,
+  title={Sorghum segmentation by skeleton extraction},
+  author={Gaillard, Mathieu and Miao, Chenyong and Schnable, James and Benes, Bedrich},
+  booktitle={ECCV 2020 Workshops},
+  year={2020}
+}
+
+@article{gaillard2020voxel,
+  title={Voxel carving-based 3D reconstruction of sorghum identifies genetic determinants of light interception efficiency},
+  author={Gaillard, Mathieu and Miao, Chenyong and Schnable, James C and Benes, Bedrich},
+  journal={Plant direct},
+  volume={4},
+  number={10},
+  pages={e00255},
+  year={2020}
+}
+
+@article{wangresearch,
+  title={Research Article A High-Throughput Phenotyping Pipeline for Image Processing and Functional Growth Curve Analysis},
+  author={Wang, Ronghao and Qiu, Yumou and Zhou, Yuzhen and Liang, Zhikai and Schnable, James C}
+}
+
+@article{mural2020meta,
+  title={Meta-Analysis Identifies Pleiotropic Loci Controlling Phenotypic Trade-offs in Sorghum},
+  author={Mural, Ravi V and Grzybowski, Marcin and Miao, Chenyong and Damke, Alyssa and Sapkota, Sirjan and Boyles, Richard E and Fernandez, Maria G Salas and Schnable, Patrick S and Sigmon, Brandi and Kresovich, Stephen and others},
+  journal={bioRxiv},
+  year={2020},
+  publisher={Cold Spring Harbor Laboratory}
+}
