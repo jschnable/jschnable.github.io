@@ -1,0 +1,8 @@
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+    <div data-badge-type="2" data-doi="10.1101/2020.10.27.355495" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Mural RV**, **Grzybowski M**, **Miao C**, **Damke A**, Sapkota S, Boyles RE, Salas Fernandez MG, Schnable PS, **Sigmon B**, Kresovich S, **Schnable JC** "[Meta-analysis identifies pleiotropic loci controlling phenotypic trade-offs in sorghum.](https://doi.org/10.1101/2020.10.27.355495)" *bioRxiv* doi: 10.1101/2020.10.27.355495
+<div data-badge-type="2" data-doi="10.1104/pp.19.00752" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Zheng Z, Hey S, Jubery T, Liu T, Yang Y, Coffey L, **Miao C**, **Sigmon B**, **Schnable JC**, Hochholdinger F, Ganapathysubramanian B, Schnable PS (2020) "[Shared genetic control of root system architecture between *Zea mays* and *Sorghum bicolor*.](https://doi.org/10.1104/pp.19.00752)" *Plant Physiology* doi: 10.1104/pp.19.00752
+<div data-badge-type="2" data-doi="10.1186/s13007-019-0450-8" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Ge Y, Atefi A, Zhang H, **Miao C**, Ramamurthy RK, **Sigmon B**, Yang J, **Schnable JC** (2019) "[High-throughput analysis of leaf physiological and chemical traits with VIS-NIR-SWIR spectroscopy: A case study with a maize diversity panel.](https://doi.org/10.1186/s13007-019-0450-8)" *Plant Methods* doi: 10.1186/s13007-019-0450-8
