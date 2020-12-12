@@ -1,6 +1,4 @@
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-    <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-    <div data-badge-type="2" data-doi="10.1101/689356" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><div data-badge-type="2" data-doi="10.1101/689356" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Carvalho DS**, **Nishimwe A**, **Schnable JC** (2020) "[IsoSeq transcriptome assembly of C3 panicoid grasses provides tools to study evolutionary change in the Panicoideae.](https://doi.org/10.1002/pld3.203)" *Plant Direct* doi: 10.1002/pld3.203 *bioRxiv* doi: 10.1101/689356
 <div data-badge-type="2" data-doi="10.1002/aps3.11385" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Raju SKK**, Atkins M, **Enerson A**, **Carvalho DS**, Studer AJ, Ganapathysubramanian B, Schnable PS, **Schnable JC** (2020) "[Leaf Angle eXtractor - A high throughput image processing framework for leaf angle measurement in maize and sorghum.](https://doi.org/10.1002/aps3.11385)" *Applications in Plant Sciences* doi: 10.1002/aps3.11385

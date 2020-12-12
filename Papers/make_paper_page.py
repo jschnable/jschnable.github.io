@@ -100,10 +100,8 @@ for aauthor in apapers:
     if aauthor == 'James C. Schnable': continue
     apapers[aauthor].sort(key=lambda a:a.year)
     apapers[aauthor].reverse()
-    mypage = open("../peoplepages/pub_lists/" + ainfo[aauthor]["filename"] + ".md",'w')
-    mypage.write("""<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-    <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-    """)
+    mypage = open("../_includes/pub_lists/" + ainfo[aauthor]["filename"] + ".md",'w')
+    mypage.write("<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script><script async src=\"https://badge.dimensions.ai/badge.js\" charset=\"utf-8\"></script>")
     for apaper in apapers[aauthor]:
         mypage.write("<div data-badge-type=\"2\" data-doi=\"{0}\" data-hide-no-mentions=\"true\" data-hide-less-than=\"2\" class=\"altmetric-embed\" style=\"float:right;\"></div>\n".format(apaper.doi))
         mypage.write(apaper.citation + "\n")
