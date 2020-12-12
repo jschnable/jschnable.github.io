@@ -1,0 +1,16 @@
+---
+layout: page
+title: Guangchao Sun
+---
+
+![Guangchao Sun](/images/People_Images/Guangchao.JPG){:align="middle"}|
+
+Guangchao joined the lab in 2017 after completing his PhD in Plant Pathology. Over the past several years he has worked on a range of projects spanning genome annotation, abiotic stress tolerance in crop wild relatives, and GWAS for expression traits. He currently acts as the interface between the lab and the NSF funded CRRI project.
+
+[Google Scholar Profile](https://scholar.google.com/citations?user=gqzFEcIAAAAJ)
+
+**ORCID ID:** 0000-0003-3942-6175
+
+**Papers As A Member Of The Schnable Lab:**<br><br>
+
+{% include pub_lists/gsun.md %}
