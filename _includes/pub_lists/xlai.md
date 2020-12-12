@@ -1,6 +1,4 @@
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-    <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-    <div data-badge-type="2" data-doi="10.1186/s12864-020-06824-3" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><div data-badge-type="2" data-doi="10.1186/s12864-020-06824-3" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Lai X**, Bendix C, **Yan L**, **Zhang Y**, **Schnable JC**, Harmon F (2020) "[Interspecific analysis of diurnal gene regulation in panicoid grasses identifies known and novel regulatory motifs.](https://doi.org/10.1186/s12864-020-06824-3)" *BMC Genomics* doi: 10.1186/s12864-020-06824-3
 <div data-badge-type="2" data-doi="10.1101/187575" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Yan L**, **Raju SKK**, **Lai X**, **Zhang Y**, **Dai X**, Rodriguez O, Mahboub S, Roston RL, **Schnable JC** (2019) "[Parallel natural selection in the cold-adapted crop-wild relative *Tripsacum dactyloides* and artificial selection in temperate adapted maize.](https://doi.org/10.1111/tpj.14376)" *The Plant Journal* doi: 10.1111/tpj.14376 *bioRxiv* doi: 10.1101/187575

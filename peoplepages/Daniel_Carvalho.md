@@ -12,10 +12,6 @@ Daniel was born and raised in Salvador, Bahia, the third-largest city in Brazil.
 
 **ORCID ID:** 0000-0001-6590-4287
 
-**Schnable Lab Papers:**
+**Papers As A Member Of The Schnable Lab:**<br><br>
 
-* <b>Carvalho DS</b>, <b>Schnable JC</b>, Almeida AMR. (2018) "Integrating phylogenetic and network approaches to study gene family evolution: the case of the AGAMOUS family of floral genes." <i>Evolutionary Bioinformatics</i> doi: <a href="https://doi.org/10.1177/1176934318764683">10.1177/1176934318764683</a> <i>bioRxiv</i> doi: <a href="https://doi.org/10.1101/195669">10.1101/195669</a>
-<div data-badge-type="2" data-doi="10.1177/1176934318764683" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
-
-*  <b>Zhang Y</b>, <b>Ngu DW</b>, <b>Carvalho D</b>, <b>Liang Z</b>, Qiu Y, Roston RL, <b>Schnable JC</b>. (2017) "<a href="http://dx.doi.org/10.1105/tpc.17.00354">Differentially regulated orthologs in sorghum and the subgenomes of maize.</a>" <i>The Plant Cell</i> doi: 10.1105/tpc.17.00354 <i>bioRxiv</i> preprint doi: <a href="http://dx.doi.org/10.1101/120303">10.1101/120303</a>  
-<div data-badge-type="2" data-doi="10.1105/tpc.17.00354" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
+{% include pub_lists/dcarvalho.md %}
