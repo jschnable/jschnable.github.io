@@ -11,3 +11,9 @@ Brandi Sigmon is an Assistant Professor of Practice in the Department of Plant P
 
 * BIOS 206 General Genetics
 * SCIL 101 Science and Decision-Making for a Complex World
+
+###  Schnable Lab Related Papers
+
+<br><br>
+
+{% include pub_lists/bsigmon.md %}
