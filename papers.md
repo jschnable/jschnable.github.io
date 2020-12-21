@@ -24,8 +24,11 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="https://doi.org/10.1101/762724" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Weissmann S, Huang P, Furoyama K, Wiechert M, Taniguchi M, **Schnable JC**, Brutnell TP, Mockler TC (2021) "[DCT4 - a new member of the dicarboxylate transporter family in C4 grasses.](https://doi.org/10.1101/762724)" *Genome Biology and Evolution* (Accepted) *bioRxiv* doi: 10.1101/762724
 
-<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* DiMario RJ, Kophs AN, Pathare VS, **Schnable JC**, Cousins AB (2021) "Phospho*enol*pyruvate carboxylase kinetic variation provides opportunity to enhance C4 photosynthetic efficiency." *The Plant Journal* (Accepted)
+<div data-badge-type="2" data-doi="10.1111/tpj.15141" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* DiMario RJ, Kophs AN, Pathare VS, **Schnable JC**, Cousins AB (2021) "[Phospho*enol*pyruvate carboxylase kinetic variation provides opportunity to enhance C4 photosynthetic efficiency.](https://doi.org/10.1111/tpj.15141)" *The Plant Journal* doi: 10.1111/tpj.15141
+
+<div data-badge-type="2" data-doi="10.3389/fgene.2020.592769" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* Jarquin D, de Leon N, Romay C ... **Schnable JC** (24th of 33 authors) ... Wisser RJ, Xu W, Lorenz A (2021) "[Utility of climatic information via combining ability models to improve genomic prediction for yield within the Genomes to Fields maize project.](https://doi.org/10.3389/fgene.2020.592769)" Frontiers in Genetics doi: 10.3389/fgene.2020.592769
 
 <div data-badge-type="2" data-doi="10.1016/j.jplph.2020.153351" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Thudi M, Palakurthi R, **Schnable JC**, Chitikineni A, Dreisigacker S, Mace E, Srivastava RK, Satyavathi CT, Odeny D, Tiwari VK, Lam HM, Hong YB, Singh VK, Li G, Xu Y, Chen X, Nguyen H, Sivasankar S, Close TJ, Stein N, Jackson SA, Shubo W, Varshney RK (2021) "[Genomic resources in plant breeding for sustainable agriculture.](https://doi.org/10.1016/j.jplph.2020.153351)" *Journal of Plant Physiology* doi: 10.1016/j.jplph.2020.153351
