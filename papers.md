@@ -7,6 +7,9 @@ title: Schnable Lab Papers
 
 **Preprints**
 
+<div data-badge-type="2" data-doi="10.1101/2020.12.19.423626" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Miao C**, **Guo A**, Yang J, Ge Y, **Schnable JC** "[Automation of leaf counting in maize and sorghum using deep learning.](https://doi.org/10.1101/2020.12.19.423626)" *bioRxiv* doi: 10.1101/2020.12.19.423626
+
 <div data-badge-type="2" data-doi="10.1101/2020.10.27.355495" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Mural RV**, **Grzybowski M**, **Miao C**, **Damke A**, Sapkota S, Boyles RE, Salas Fernandez MG, Schnable PS, **Sigmon B**, Kresovich S, **Schnable JC** "[Meta-analysis identifies pleiotropic loci controlling phenotypic trade-offs in sorghum.](https://doi.org/10.1101/2020.10.27.355495)" *bioRxiv* doi: 10.1101/2020.10.27.355495
 
