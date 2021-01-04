@@ -25,7 +25,7 @@ title: Schnable Lab Papers
 **2021**
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Zhu Y, Chen Y, Ali Md. A, Dong L, Wang X, Archontoulis SV, **Schnable JC**, Castellano MJ (2021) Continuous *in situ* soil nitrate sensors: a comparison with conventional measurements and the value of high temporal resolution measurements. *Soil Science Society of America Journal* (Accepted)
+* Zhu Y, Chen Y, Ali Md. A, Dong L, Wang X, Archontoulis SV, **Schnable JC**, Castellano MJ (2021) "Continuous *in situ* soil nitrate sensors: a comparison with conventional measurements and the value of high temporal resolution measurements." *Soil Science Society of America Journal* (Accepted)
 
 <div data-badge-type="2" data-doi="https://doi.org/10.1101/762724" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Weissmann S, Huang P, Furoyama K, Wiechert M, Taniguchi M, **Schnable JC**, Brutnell TP, Mockler TC (2021) "[DCT4 - a new member of the dicarboxylate transporter family in C4 grasses.](https://doi.org/10.1101/762724)" *Genome Biology and Evolution* (Accepted) *bioRxiv* doi: 10.1101/762724
