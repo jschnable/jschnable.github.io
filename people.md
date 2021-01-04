@@ -52,7 +52,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Srinidhi Bashyam](/images/People_Images/Srinidhi.jpg){:width="120"}|Srinidhi Bashyam|Comp. Sci. MS Student<br>_(co-advised)_|2015-2016|Systems Software Developer, University of Nebraska-Lincoln|
 |![Xiuru Dai](/images/People_Images/Xiuru_small.jpg){:width="120"}|Xiuru Dai<a href="https://twitter.com/Xiuru_Dai"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a><br>0000-0002-2516-1068|Visiting PhD Student<br>Shandong Agricultural University|2018-2019|PhD Student<br>Shandong Agricultural University|
 |![Taity Changa Headshot](/images/People_Images/Taity.jpg){:width="120"}|Taity Changa|Volunteer|2019|Postdoc University of Florida|
-|![Shuying Zhang](/images/People_Images/Shuying.jpg){:width="120"}|Shuying Zhang|Technician|2019-2020|Technician, UNL Virology Center|
+|![Shuying Zhang](/images/People_Images/Shuying.jpg){:width="120"}|Shuying Zhang|Technician|2019-2020|Technician, UNL Biomedical and Obesity Research Core|
 |![Xiangjun Li](/images/People_Images/Xiangjun.jpg){:width="120" align="middle"}|Xiangjun Li|Research Associate|2020|Lab Manager, Hyten Lab, UNL|
 |![Ranjita Thapa Headshot](/images/People_Images/Ranjita.jpg){:width="120" align="middle"}|Ranjita Thapa|Postdoctoral Scholar|2019-2020|Postdoc Cornell University|
 |![Sarah Johnson](/images/People_Images/Sarah.jpg){:width="120"}|Sarah Johnson|Rotating PhD Student<br>Complex Biosystems|Spring 2017|Graduate Student, Clemente & Hyten Labs|
