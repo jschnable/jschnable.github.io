@@ -33,7 +33,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Luke](/images/People_Images/LukeM.jpg){:width="120"}|Luke Micek|Bachelors Student|||
 |![Aldi](/images/People_Images/AldiA.jpg){:width="120"}|Aldi Airori|Bachelors Student|||
 |![Jocelyne Horanituze](/images/People_Images/Jocelyne.jpg){:width="120"}|Jocelyne Horanituze|CUSP Bachelors Student|||
-|![Clay Christenson](/images/People_Images/Clay.jpg){:width="120"}|Clay Chistenson|Bachelors Student|||
+|![Clay Christenson](/images/People_Images/Clay.jpg){:width="120"}|Clay Christenson|Bachelors Student|||
 {:.table100.ver1}
 
 **Lab Alumni**
