@@ -24,6 +24,9 @@ title: Schnable Lab Papers
 
 **2021**
 
+<div data-badge-type="2" data-doi="10.1186/s13104-020-05431-5" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* Sankaran S, Marzougui A, **Hurst JP**, Zhang C, **Schnable JC**, Shi Y (2021) "Can high resolution satellite imagery be used in high-throughput field phenotyping?" *Transactions of the ASABE* (Accepted)
+
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Zhu Y, Chen Y, Ali Md. A, Dong L, Wang X, Archontoulis SV, **Schnable JC**, Castellano MJ (2021) "Continuous *in situ* soil nitrate sensors: a comparison with conventional measurements and the value of high temporal resolution measurements." *Soil Science Society of America Journal* (Accepted)
 
@@ -32,6 +35,9 @@ title: Schnable Lab Papers
 
 <div data-badge-type="2" data-doi="10.1093/g3journal/jkaa050" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Rogers AR, Dunne JC, Romay C ... **Schnable JC** (24th of 39 authors) ... Kaeppler S, De Leon N, Holland JB (2021) "[The importance of dominance and genotype-by-environment interactions on grain yield variation in a large-scale public cooperative maize experiment.](https://doi.org/10.1093/g3journal/jkaa050)" *G3:Genes\|Genomes\|Genetics* doi: 10.1093/g3journal/jkaa050
+
+<div data-badge-type="2" data-doi="10.1186/s13104-020-05431-5" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* **Lai X**, Bendix C, **Zhang Y**, **Schnable JC**, Harmon FG (2021) "[72-hour diurnal RNA-seq analysis of fully expanded third leaves from maize, sorghum, and foxtail millet at 3-hour resolution.](https://doi.org/10.1186/s13104-020-05431-5)" *BMC Research Notes* doi: 10.1186/s13104-020-05431-5
 
 <div data-badge-type="2" data-doi="10.1111/tpj.15141" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * DiMario RJ, Kophs AN, Pathare VS, **Schnable JC**, Cousins AB (2021) "[Phospho*enol*pyruvate carboxylase kinetic variation provides opportunity to enhance C4 photosynthetic efficiency.](https://doi.org/10.1111/tpj.15141)" *The Plant Journal* doi: 10.1111/tpj.15141
