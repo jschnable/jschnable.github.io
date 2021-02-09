@@ -27,19 +27,11 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1186/s13104-020-05431-5" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Sankaran S, Marzougui A, **Hurst JP**, Zhang C, **Schnable JC**, Shi Y (2021) "Can high resolution satellite imagery be used in high-throughput field phenotyping?" *Transactions of the ASABE* (Accepted)
 
-<<<<<<< HEAD
 <div data-badge-type="2" data-doi="10.1002/saj2.20226s" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Zhu Y, Chen Y, Ali Md. A, Dong L, Wang X, Archontoulis SV, **Schnable JC**, Castellano MJ (2021) "[Continuous *in situ* soil nitrate sensors: a comparison with conventional measurements and the value of high temporal resolution measurements.](https://doi.org/10.1002/saj2.20226)" *Soil Science Society of America Journal* doi: 10.1002/saj2.20226
 
 <div data-badge-type="2" data-doi="10.1093/gbe/evaa251" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Weissmann S, Huang P, Wiechert M, Furoyama, K Brutnell TP, Taniguchi M, **Schnable JC**, Mockler TC (2021) "[DCT4 - a new member of the dicarboxylate transporter family in C4 grasses.](https://doi.org/10.1093/gbe/evaa251)" *Genome Biology and Evolution* doi: 10.1093/gbe/evaa251 *bioRxiv* doi: 10.1101/762724
-=======
-<div data-badge-type="2" data-doi="10.1002/saj2.20226" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Zhu Y, Chen Y, Ali Md. A, Dong L, Wang X, Archontoulis SV, **Schnable JC**, Castellano MJ (2021) "[Continuous *in situ* soil nitrate sensors: a comparison with conventional measurements and the value of high temporal resolution measurements.](https://doi.org/10.1002/saj2.20226)" *Soil Science Society of America Journal* doi: 10.1002/saj2.20226
-
-<div data-badge-type="2" data-doi="https://doi.org/10.1101/762724" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Weissmann S, Huang P, Furoyama K, Wiechert M, Taniguchi M, **Schnable JC**, Brutnell TP, Mockler TC (2021) "[DCT4 - a new member of the dicarboxylate transporter family in C4 grasses.](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evaa251/6126432?guestAccessKey=9406ab21-911f-4196-b176-864a43eee31a)" *Genome Biology and Evolution* doi: 10.1093/gbe/evaa251 *bioRxiv* doi: [10.1101/762724](https://doi.org/10.1101/762724)
->>>>>>> 9c52c39ca576519c798b967cc0ad68a13eea63bd
+* Weissmann S, Huang P, Wiechert M, Furoyama, K Brutnell TP, Taniguchi M, **Schnable JC**, Mockler TC (2021) "[DCT4 - a new member of the dicarboxylate transporter family in C4 grasses.](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evaa251/6126432?guestAccessKey=9406ab21-911f-4196-b176-864a43eee31a)" *Genome Biology and Evolution* doi: 10.1093/gbe/evaa251 *bioRxiv* doi: 10.1101/762724
 
 <div data-badge-type="2" data-doi="10.1093/g3journal/jkaa050" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Rogers AR, Dunne JC, Romay C ... **Schnable JC** (24th of 39 authors) ... Kaeppler S, De Leon N, Holland JB (2021) "[The importance of dominance and genotype-by-environment interactions on grain yield variation in a large-scale public cooperative maize experiment.](https://doi.org/10.1093/g3journal/jkaa050)" *G3:Genes\|Genomes\|Genetics* doi: 10.1093/g3journal/jkaa050
