@@ -13,9 +13,6 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/2020.10.27.355495" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Mural RV**, **Grzybowski M**, **Miao C**, **Damke A**, Sapkota S, Boyles RE, Salas Fernandez MG, Schnable PS, **Sigmon B**, Kresovich S, **Schnable JC** "[Meta-analysis identifies pleiotropic loci controlling phenotypic trade-offs in sorghum.](https://doi.org/10.1101/2020.10.27.355495)" *bioRxiv* doi: 10.1101/2020.10.27.355495
 
-<div data-badge-type="2" data-doi="10.1101/2020.08.25.266635" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Meng X**, **Liang Z**, **Dai X**, **Zhang Y**, Mahboub S, **Ngu DW**, Roston RL, **Schnable JC** "[Predicting transcriptional responses to cold stress across plant species.](https://doi.org/10.1101/2020.08.25.266635)" *bioRxiv* doi: 10.1101/2020.08.25.266635
-
 <div data-badge-type="2" data-doi="10.1101/706994" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Hoban TP**, **Pages A**, Xu Z, Rodene E, Ubbens J, Stavness I, Yang J, **Schnable JC** "[Simulated plant images improve maize leaf counting accuracy.](https://doi.org/10.1101/706994)" *bioRxiv* doi: 10.1101/706994
 
@@ -23,6 +20,9 @@ title: Schnable Lab Papers
 * Meier MA, Lopenz-Guerrero MG, Guo M, Schmer MR, Herr JR, **Schnable JC**, Alfano JR, Yang J. "[Rhizosphere microbiomes in a historical maize/soybean rotation system respond to host species and nitrogen fertilization at genus and sub-genus levels.](https://doi.org/10.1101/2020.08.10.244384)" *bioRxiv* doi: 10.1101/2020.08.10.244384
 
 **2021**
+
+<div data-badge-type="2" data-doi="10.1073/pnas.2026330118" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* **Meng X**, **Liang Z**, **Dai X**, **Zhang Y**, Mahboub S, **Ngu DW**, Roston RL, **Schnable JC** "[Predicting transcriptional responses to cold stress across plant species.](https://doi.org/10.1073/pnas.2026330118)" *Proceedings of the National Academy of Sciences* doi: 10.1073/pnas.2026330118 *bioRxiv* doi: 10.1101/2020.08.25.266635
 
 <div data-badge-type="2" data-doi="10.1186/s13104-020-05431-5" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Sankaran S, Marzougui A, **Hurst JP**, Zhang C, **Schnable JC**, Shi Y (2021) "Can high resolution satellite imagery be used in high-throughput field phenotyping?" *Transactions of the ASABE* (Accepted)
