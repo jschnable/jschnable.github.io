@@ -22,7 +22,7 @@ title: Schnable Lab Papers
 **2021**
 
 <div data-badge-type="2" data-doi="10.1073/pnas.2022982118" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Busta L, Schmitz E, Kosma D, **Schnable JC**, Cahoon EB (2021) "[A co-opted steroid synthesis gene, maintained in sorghum but not maize, seals leaves against water loss.](https://doi.org/10.1073/pnas.2022982118)" *Proceedings of the National Academy of Sciences of the United States of America* doi: 10.1073/pnas.2022982118
+* Busta L, Schmitz E, Kosma D, **Schnable JC**, Cahoon EB (2021) "[A co-opted steroid synthesis gene, maintained in sorghum but not maize, is associated with a divergence in leaf wax chemistry.](https://doi.org/10.1073/pnas.2022982118)" *Proceedings of the National Academy of Sciences of the United States of America* doi: 10.1073/pnas.2022982118
 
 <div data-badge-type="2" data-doi="10.1073/pnas.2026330118" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Meng X**, **Liang Z**, **Dai X**, **Zhang Y**, Mahboub S, **Ngu DW**, Roston RL, **Schnable JC** (2021) "[Predicting transcriptional responses to cold stress across plant species.](https://doi.org/10.1073/pnas.2026330118)" *Proceedings of the National Academy of Sciences* doi: 10.1073/pnas.2026330118 *bioRxiv* doi: 10.1101/2020.08.25.266635
