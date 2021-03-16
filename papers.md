@@ -21,8 +21,11 @@ title: Schnable Lab Papers
 
 **2021**
 
+<div data-badge-type="2" data-doi="10.1073/pnas.2022982118" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* Busta L, Schmitz E, Kosma D, **Schnable JC**, Cahoon EB (2021) "[A co-opted steroid synthesis gene, maintained in sorghum but not maize, seals leaves against water loss.](https://doi.org/10.1073/pnas.2022982118)" *Proceedings of the National Academy of Sciences of the United States of America* doi: 10.1073/pnas.2022982118
+
 <div data-badge-type="2" data-doi="10.1073/pnas.2026330118" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Meng X**, **Liang Z**, **Dai X**, **Zhang Y**, Mahboub S, **Ngu DW**, Roston RL, **Schnable JC** "[Predicting transcriptional responses to cold stress across plant species.](https://doi.org/10.1073/pnas.2026330118)" *Proceedings of the National Academy of Sciences* doi: 10.1073/pnas.2026330118 *bioRxiv* doi: 10.1101/2020.08.25.266635
+* **Meng X**, **Liang Z**, **Dai X**, **Zhang Y**, Mahboub S, **Ngu DW**, Roston RL, **Schnable JC** (2021) "[Predicting transcriptional responses to cold stress across plant species.](https://doi.org/10.1073/pnas.2026330118)" *Proceedings of the National Academy of Sciences* doi: 10.1073/pnas.2026330118 *bioRxiv* doi: 10.1101/2020.08.25.266635
 
 <div data-badge-type="2" data-doi="10.1186/s13104-020-05431-5" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Sankaran S, Marzougui A, **Hurst JP**, Zhang C, **Schnable JC**, Shi Y (2021) "Can high resolution satellite imagery be used in high-throughput field phenotyping?" *Transactions of the ASABE* (Accepted)
@@ -212,7 +215,7 @@ title: Schnable Lab Papers
 *  Behera S, Deogun JS, <b>Lai X</b>, <b>Schnable JC</b>. (2017) "<a href="http://doi.org/10.1109/BIBM.2017.8217628">DiCE: Discovery of Conserved Noncoding Sequences Efficiently.</a>" <i>IEEE BIBM</i> Kansas City, MO, USA B529 (Conference Preceedings) doi: 10.1109/BIBM.2017.8217628
 
 <div data-badge-type="2" data-doi="10.1093/nar/gkx853" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-*  Ott A,* Liu S,* <b>Schnable JC</b>, Yeh CT, Wang C, Schnable PS. (2017) "[Tunable Genotyping-By-Sequencing (tGBS) enables reliable genotyping of heterozygous loci.](https://academic.oup.com/nar/article/doi/10.1093/nar/gkx853/4210942/tGBS-genotypingbysequencing-enables-reliable?guestAccessKey=0ba723ae-c6b2-4d7f-841e-cd46b4bf68f9)" *Nucleic Acids Research* doi: 10.1093/nar/gkx853 *bioRxiv* doi: 10.1101/100461](http://dx.doi.org/10.1101/100461)   
+*  Ott A,* Liu S,* <b>Schnable JC</b>, Yeh CT, Wang C, Schnable PS. (2017) "[Tunable Genotyping-By-Sequencing (tGBS) enables reliable genotyping of heterozygous loci.](https://academic.oup.com/nar/article/doi/10.1093/nar/gkx853/4210942/tGBS-genotypingbysequencing-enables-reliable?guestAccessKey=0ba723ae-c6b2-4d7f-841e-cd46b4bf68f9)" *Nucleic Acids Research* doi: 10.1093/nar/gkx853 *bioRxiv* doi: [10.1101/100461](http://dx.doi.org/10.1101/100461)   
 
 <div data-badge-type="2" data-doi="10.1186/s12864-017-4103-x" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 *   <b>Lai X</b>, <b>Schnable JC</b>, Liao Z, Xu J, Zhang G, Li C, Hu E, Rong T, Xu Y, Lu Y. (2017) "<a href="https://doi.org/10.1186/s12864-017-4103-x">Genome-Wide Characterization of Non-Reference Transposable Elements Insertion Polymorphisms Reveals Genetic Diversity in Tropical and Temperate Maize.</a>" <i>BMC Genomics</i> doi: 10.1186/s12864-017-4103-x  
