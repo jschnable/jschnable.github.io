@@ -7,6 +7,9 @@ title: Schnable Lab Papers
 
 **Preprints**
 
+<div data-badge-type="2" data-doi="10.1101/2021.04.02.438220" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Sun G**, **Mural RV**, **Turkus JD**, **Schnable JC** "[Quantitative resistance loci to southern rust mapped in a temperate maize diversity panel.](https://doi.org/10.1101/2021.04.02.438220)" *bioRxiv* doi: 10.1101/2021.04.02.438220
+
 <div data-badge-type="2" data-doi="10.1101/2020.12.19.423626" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Guo A**, Yang J, Ge Y, **Schnable JC** "[Automation of leaf counting in maize and sorghum using deep learning.](https://doi.org/10.1101/2020.12.19.423626)" *bioRxiv* doi: 10.1101/2020.12.19.423626
 
@@ -24,6 +27,9 @@ title: Schnable Lab Papers
 
 
 **2021**
+
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* Meier MA, Lopenz-Guerrero MG, Guo M, Schmer MR, Herr JR, **Schnable JC**, Alfano JR, Yang J (2021) "[Rhizosphere microbiomes in a historical maize/soybean rotation system respond to host species and nitrogen fertilization at genus and sub-genus levels.](https://doi.org/10.1101/2020.08.10.244384)" *Applied and Environmental Microbiology* *(Accepted)* *bioRxiv* doi: 10.1101/2020.08.10.244384
 
 <div data-badge-type="2" data-doi="10.1073/pnas.2022982118" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Busta L, Schmitz E, Kosma D, **Schnable JC**, Cahoon EB (2021) "[A co-opted steroid synthesis gene, maintained in sorghum but not maize, is associated with a divergence in leaf wax chemistry.](https://doi.org/10.1073/pnas.2022982118)" *Proceedings of the National Academy of Sciences of the United States of America* doi: 10.1073/pnas.2022982118
