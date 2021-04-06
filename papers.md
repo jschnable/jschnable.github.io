@@ -19,17 +19,14 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/706994" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Hoban TP**, **Pages A**, Xu Z, Rodene E, Ubbens J, Stavness I, Yang J, **Schnable JC** "[Simulated plant images improve maize leaf counting accuracy.](https://doi.org/10.1101/706994)" *bioRxiv* doi: 10.1101/706994
 
-<div data-badge-type="2" data-doi="10.1101/2020.08.10.244384" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
-* Meier MA, Lopenz-Guerrero MG, Guo M, Schmer MR, Herr JR, **Schnable JC**, Alfano JR, Yang J. "[Rhizosphere microbiomes in a historical maize/soybean rotation system respond to host species and nitrogen fertilization at genus and sub-genus levels.](https://doi.org/10.1101/2020.08.10.244384)" *bioRxiv* doi: 10.1101/2020.08.10.244384
-
 <div data-badge-type="2" data-doi="10.20944/preprints202103.0519.v1" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
 * Zhang Z, Chen C, Rutkoski J, **Schnable JC**, Murray S, Wang L, Jin X, Stich B, Crossa J, Hayes B. "[Harnessing Agronomics Through Genomics and Phenomics in Plant Breeding: A Review](https://www.preprints.org/manuscript/202103.0519/v1)" *preprints.org* doi: 10.20944/preprints202103.0519.v1
 
 
 **2021**
 
-<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Meier MA, Lopenz-Guerrero MG, Guo M, Schmer MR, Herr JR, **Schnable JC**, Alfano JR, Yang J (2021) "[Rhizosphere microbiomes in a historical maize/soybean rotation system respond to host species and nitrogen fertilization at genus and sub-genus levels.](https://doi.org/10.1101/2020.08.10.244384)" *Applied and Environmental Microbiology* *(Accepted)* *bioRxiv* doi: 10.1101/2020.08.10.244384
+<div data-badge-type="2" data-doi="10.1128/AEM.03132-20" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* Meier MA, Lopenz-Guerrero MG, Guo M, Schmer MR, Herr JR, **Schnable JC**, Alfano JR, Yang J (2021) "[Rhizosphere microbiomes in a historical maize/soybean rotation system respond to host species and nitrogen fertilization at genus and sub-genus levels.](https://doi.org/10.1128/AEM.03132-20)" *Applied and Environmental Microbiology* doi: 10.1128/AEM.03132-20 *bioRxiv* doi: [10.1101/2020.08.10.244384](ttps://doi.org/10.1101/2020.08.10.244384)
 
 <div data-badge-type="2" data-doi="10.1073/pnas.2022982118" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Busta L, Schmitz E, Kosma D, **Schnable JC**, Cahoon EB (2021) "[A co-opted steroid synthesis gene, maintained in sorghum but not maize, is associated with a divergence in leaf wax chemistry.](https://doi.org/10.1073/pnas.2022982118)" *Proceedings of the National Academy of Sciences of the United States of America* doi: 10.1073/pnas.2022982118
