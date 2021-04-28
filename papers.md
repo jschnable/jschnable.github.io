@@ -25,8 +25,14 @@ title: Schnable Lab Papers
 
 **2021**
 
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* Khan SH, Tope S, Dalpati R, Kim KH, Noh S, Bulbul A, **Mural RV**, Banerjee A, **Schnable JC**, Ji M, Mastrangelo C, Zang L, Kim H (2021) “Development of a gas sensor for green leaf volatile detection.” *Transducers 2021* (Accepted)
+
+<div data-badge-type="2" data-doi="10.3389/frobt.2021.600410" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* Alzadjali A, Veeranampalayam-Sivakumar A, Alali MH, Deogun JS, Scott S, **Schnable JC**, Shi Y (2021) "[Maize tassel detection from UAV imagery using deep learning.](https://www.frontiersin.org/articles/10.3389/frobt.2021.600410/abstract)" *Frontiers in Robotics and AI* doi: 10.3389/frobt.2021.600410
+
 <div data-badge-type="2" data-doi="10.1128/AEM.03132-20" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Meier MA, Lopenz-Guerrero MG, Guo M, Schmer MR, Herr JR, **Schnable JC**, Alfano JR, Yang J (2021) "[Rhizosphere microbiomes in a historical maize/soybean rotation system respond to host species and nitrogen fertilization at genus and sub-genus levels.](https://doi.org/10.1128/AEM.03132-20)" *Applied and Environmental Microbiology* doi: 10.1128/AEM.03132-20 *bioRxiv* doi: [10.1101/2020.08.10.244384](ttps://doi.org/10.1101/2020.08.10.244384)
+* Meier MA, Lopenz-Guerrero MG, Guo M, Schmer MR, Herr JR, **Schnable JC**, Alfano JR, Yang J (2021) "[Rhizosphere microbiomes in a historical maize/soybean rotation system respond to host species and nitrogen fertilization at genus and sub-genus levels.](https://doi.org/10.1128/AEM.03132-20)" *Applied and Environmental Microbiology* doi: 10.1128/AEM.03132-20 *bioRxiv* doi: [10.1101/2020.08.10.244384](https://doi.org/10.1101/2020.08.10.244384)
 
 <div data-badge-type="2" data-doi="10.1073/pnas.2022982118" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Busta L, Schmitz E, Kosma D, **Schnable JC**, Cahoon EB (2021) "[A co-opted steroid synthesis gene, maintained in sorghum but not maize, is associated with a divergence in leaf wax chemistry.](https://doi.org/10.1073/pnas.2022982118)" *Proceedings of the National Academy of Sciences of the United States of America* doi: 10.1073/pnas.2022982118
