@@ -14,26 +14,22 @@ googlefonts: ["Monoton", "Lobster"]
 |![Christine Smith](/images/People_Images/Christine.jpg){:width="120"}|Christine Smith|Technician|||
 |![Jon Turkus](/images/People_Images/JonT.jpg){:width="120"}|Jon Turkus|Technician|||
 |![Jill Hochstein](/images/People_Images/Jill.jpg){:width="120"}|[Jill Hochstein](/peoplepages/Jill_Hochstein/)<a href="https://twitter.com/jara12"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Technical Project Manager|||
-|![Chenyong Miao](/images/People_Images/Miao_Small.jpg){:width="120"}|[Chenyong Miao](/peoplepages/Chenyong_Miao/)<a href="https://twitter.com/Valiancy_miao"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|PhD Student|[CV](/CVs/CMiao.pdf)| 0000-0002-0904-3707|
 |![Fanyi Li](/images/People_Images/Fangyi.jpg){:width="120"}|Fangyi Li|PhD Student<br>_(co-advised)_|||
 |![Hongyu Jin Headshot](/images/People_Images/Hongyu.jpg){:width="120"}|[Hongyu Jin](/peoplepages/Hongyu_Jin/)|PhD Student<br>_(co-advised)_|||
 |![Michael Tross Headshot](/images/People_Images/MichaelT.jpg){:width="120"}|[Michael Tross](/peoplepages/Michael_Tross/)|PhD Student||0000-0002-4410-9679|
 |![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|PhD Student<br>_(co-advised)_|||
 |![Santos Headshot](/images/People_Images/Santos.jpg){:width="120"}|Santos Yenandy<br>Barrera Lemus|PhD Student<br>_(co-advised)_|||
-|![Mackenzie](/images/People_Images/Mackenzie.jpeg){:width="120"}|[Mackenzie Zwiener](/peoplepages/Mackenzie_Zwiener/)<a href="https://twitter.com/MackenzieZwien1"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|MS Student||0000-0001-8636-6780|
+|![Mackenzie](/images/People_Images/Mackenzie.jpeg){:width="120"}|[Mackenzie Zwiener](/peoplepages/Mackenzie_Zwiener/)<a href="https://twitter.com/MackenzieZwien1"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|MS Student<br>Technician||0000-0001-8636-6780|
 |![Kahheetah Barnoskie](/images/People_Images/Kahheetah.jpg){:width="120"}|Kahheetah Barnoskie|MS Student|||
-|![Thomas Hoban](/images/People_Images/thoban.jpg){:width="120"}|Thomas Hoban|Bachelors Student||0000-0001-7607-1903|
 |![Aime Nishimwe](/images/People_Images/Aime.jpg){:width="120"}|Aime Nishimwe|CUSP Bachelors Student<a href="https://twitter.com/AimeValentin"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|[CV](/CVs/Aime Valentin Nishimwe.pdf)|0000-0003-0074-9364|
 |![Isaac Stevens](/images/People_Images/Isaac.jpg){:width="120"}|Isaac Stevens|Bachelors Student|||
-|![Elijah Frost](/images/People_Images/Elijah.jpg){:width="120"}|Elijah Frost|Bachelors Student|||
 |![Alice Guo](/images/People_Images/AliceG.jpg){:width="120"}|Alice Guo|Bachelors Student|||
-|![Logan Duryee](/images/People_Images/LoganD.jpg){:width="120"}|Logan Duryee<a href="https://twitter.com/DuryeeLogan"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Bachelors Student|||
 |![Olivier](/images/People_Images/Olivier.jpg){:width="120"}|Olivier N Mizero|CUSP Bachelors Student|||
 |![Alexis](/images/People_Images/AlexisF.jpg){:width="120"}|Alexis Finch|Bachelors Student|||
-|![Luke](/images/People_Images/LukeM.jpg){:width="120"}|Luke Micek|Bachelors Student|||
-|![Aldi](/images/People_Images/AldiA.jpg){:width="120"}|Aldi Airori|Bachelors Student|||
 |![Jocelyne Horanituze](/images/People_Images/Jocelyne.jpg){:width="120"}|Jocelyne Horanituze|CUSP Bachelors Student|||
-|![Clay Christenson](/images/People_Images/Clay.jpg){:width="120"}|Clay Christenson|Bachelors Student|||
+|![Sam Rangira](/images/People_Images/Sam2021.jpg){:width="120"}|Sam Rangira|Bachelors Student|||
+|![Rongqing Zhang](/images/People_Images/Rongqing.jpg){:width="120"}|Rongqing Zhang|Bachelors Student|||
+
 {:.table100.ver1}
 
 **Lab Alumni**
@@ -42,6 +38,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Yang Zhang](/images/People_Images/yzhang_small.jpg){:width="120" align="middle"}|[Yang Zhang](/peoplepages/Yang_Zhang/)<a href="https://twitter.com/zymaize"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Postdoctoral Scholar|2014-2017| Research Scientist, St. Jude Children's Research Hospital|
 |![Zhikai Liang](/images/People_Images/Zhikai_Liang_small.jpg){:width="120"}|[Zhikai Liang](/peoplepages/zliang/)<a href="https://twitter.com/shanwai1234"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a><br>0000-0002-9963-8631|PhD Student<br>[CV](/CVs/ZLiang.pdf)|2015-2019|Postdoc <a href="https://cbs.umn.edu/springer-lab/home">Springer Lab UMN</a>|
 |![Daniel Carvalho](/images/People_Images/Daniel_Carvalho.jpg){:width="120"}|[Daniel Carvalho](/peoplepages/Daniel_Carvalho/)<a href="https://twitter.com/SciOfCarvalho"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|PhD Student, [CV](/CVs/DCarvalho.pdf)|2015-2019|Postdoc, Federal University of Minas Gerais|
+|![Chenyong Miao](/images/People_Images/Miao_Small.jpg){:width="120"}|[Chenyong Miao](/peoplepages/Chenyong_Miao/)<a href="https://twitter.com/Valiancy_miao"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"><br>0000-0002-0904-3707</a>|PhD Student [CV](/CVs/CMiao.pdf)|2016-2020| Phenomics Data Scientist, Bayer Crop Sciences|
 |![Jinliang Yang](/images/People_Images/jinliang.JPG){:width="120"}|Jinliang Yang<a href="https://twitter.com/JinliangYang"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Postdoctoral Scholar|2016-2017|[Assistant Professor](http://jyanglab.com/), University of Nebraska-Lincoln|
 |![Sunil KK Raju](/images/People_Images/Sunil.jpg){:width="120"}|[Sunil KK Raju](/peoplepages/Sunil_Raju/)<a href="https://twitter.com/Sunil_KumarKR"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Postdoctoral Scholar|2017-2018|Postdoc, [Niederhuth Lab](http://niederhuthlab.com/people/), Michigan State|
 |![Xiaoxi Meng](/images/People_Images/Xiaoxi.jpg){:width="120" align="middle"}|[Xiaoxi "Peggy" Meng](/peoplepages/Xiaoxi_Meng/)<a href="https://twitter.com/xiaoxi_meng"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a><br>0000-0001-7217-2037|Postdoctoral Scholar|2018-2020|Postdoc University of Minnesota|
@@ -59,6 +56,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Michael Richter Headshot](/images/People_Images/MichaelR.jpg){:width="120"}|Michael Richter<br>0000-0001-9702-4292|PhD Student<br>_(rotating)_|Spring 2020|PhD Student, Wilson Lab|
 |![Lei Tian](/images/People_Images/Lei_Tian_Small.JPG){:width="120" align="middle"}|Lei Tian|Visiting PhD Student<br>Henan Agricultural University|Summer 2014|PhD Student|
 |![Daniel Ngu](/images/People_Images/Danielngu_small.jpg){:width="120"}|Daniel Ngu|Bachelors Student|2014-2017||
+|![Thomas Hoban](/images/People_Images/thoban.jpg){:width="120"}|Thomas Hoban<br>0000-0001-7607-1903|Bachelors Student|2015-2020||
 |![Logan Olson](/images/People_Images/logan.JPG){:width="120"}|Logan Olson|Bachelors Student|2016-2017||
 |![Xiaoyang (Chloe) Ye](/images/People_Images/Chloe.jpg){:width="120"}|Xiaoyang (Chloe) Ye|Bachelors Student|2016-2017||
 |![Holly Podliska](/images/People_Images/Holly.jpg){:width="120"}|Holly Podliska|UCARE Bachelors Student|2016-2017|Student Teacher|
@@ -83,5 +81,10 @@ googlefonts: ["Monoton", "Lobster"]
 |![Sierra Conway](/images/People_Images/Sierra.jpg){:width="120"}|Sierra Conway|Bachelors Student|||
 |![Madison Tunnell](/images/People_Images/Madison.jpg){:width="120"}|Madison Tunnell|REU Student|2020||
 |![Lou Townsend](/images/People_Images/Lou.jpg){:width="120"}|Lou Townsend|Bachelors Student|2019-2020||
+|![Elijah Frost](/images/People_Images/Elijah.jpg){:width="120"}|Elijah Frost|Bachelors Student|2020||
+|![Logan Duryee](/images/People_Images/LoganD.jpg){:width="120"}|Logan Duryee<a href="https://twitter.com/DuryeeLogan"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Bachelors Student|2020||
+|![Clay Christenson](/images/People_Images/Clay.jpg){:width="120"}|Clay Christenson|Bachelors Student|2020-2021||
+|![Luke](/images/People_Images/LukeM.jpg){:width="120"}|Luke Micek|Bachelors Student|2020-2021||
+|![Aldi](/images/People_Images/AldiA.jpg){:width="120"}|Aldi Airori|Bachelors Student|2020-2021||
 
 {:.table100.ver1}
