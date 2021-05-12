@@ -40,8 +40,8 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1073/pnas.2026330118" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Meng X**, **Liang Z**, **Dai X**, **Zhang Y**, Mahboub S, **Ngu DW**, Roston RL, **Schnable JC** (2021) "[Predicting transcriptional responses to cold stress across plant species.](https://doi.org/10.1073/pnas.2026330118)" *Proceedings of the National Academy of Sciences* doi: 10.1073/pnas.2026330118 *bioRxiv* doi: 10.1101/2020.08.25.266635
 
-<div data-badge-type="2" data-doi="10.1186/s13104-020-05431-5" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Sankaran S, Marzougui A, **Hurst JP**, Zhang C, **Schnable JC**, Shi Y (2021) "Can high resolution satellite imagery be used in high-throughput field phenotyping?" *Transactions of the ASABE* (Accepted)
+<div data-badge-type="2" data-doi="10.13031/trans.14197" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* Sankaran S, Marzougui A, **Hurst JP**, Zhang C, **Schnable JC**, Shi Y (2021) "[Can high resolution satellite imagery be used in high-throughput field phenotyping](https://doi.org/10.13031/trans.14197)?" *Transactions of the ASABE* doi: 10.13031/trans.14197
 
 <div data-badge-type="2" data-doi="10.1002/saj2.20226" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Zhu Y, Chen Y, Ali Md. A, Dong L, Wang X, Archontoulis SV, **Schnable JC**, Castellano MJ (2021) "[Continuous *in situ* soil nitrate sensors: a comparison with conventional measurements and the value of high temporal resolution measurements.](https://doi.org/10.1002/saj2.20226)" *Soil Science Society of America Journal* doi: 10.1002/saj2.20226
