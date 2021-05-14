@@ -26,10 +26,10 @@ title: Schnable Lab Papers
 **2021**
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Grzybowski M*, Wijewardane NK, Atefi A, Ge Y, **Schnable JC** (2021) The potential of hyperspectral reflectance as a tool for quantitative genetics in crops. *Plant Communications* (Accepted)
+* **Grzybowski M**, Wijewardane NK, Atefi A, Ge Y, **Schnable JC** (2021) The potential of hyperspectral reflectance as a tool for quantitative genetics in crops. *Plant Communications* (Accepted)
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Zhou Y, Kusmec A, Mirnezami SV, Srinivasan L, Jubery TZ, **Schnable JC**, Salas-Fernandez MG, Nettleton D, Ganapathysubramanian B, Schnable PS$^\S$ (2021) Identification and exploitation of genetic determinants of trait measurement errors in image-based, high-throughput phenotyping. *The Plant Cell* (Accepted)
+* Zhou Y, Kusmec A, Mirnezami SV, Srinivasan L, Jubery TZ, **Schnable JC**, Salas-Fernandez MG, Nettleton D, Ganapathysubramanian B, Schnable PS (2021) Identification and exploitation of genetic determinants of trait measurement errors in image-based, high-throughput phenotyping. *The Plant Cell* (Accepted)
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Khan SH, Tope S, Dalpati R, Kim KH, Noh S, Bulbul A, **Mural RV**, Banerjee A, **Schnable JC**, Ji M, Mastrangelo C, Zang L, Kim H (2021) “Development of a gas sensor for green leaf volatile detection.” *Transducers 2021* (Accepted)
