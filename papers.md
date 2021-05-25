@@ -7,6 +7,9 @@ title: Schnable Lab Papers
 
 **Preprints**
 
+<div data-badge-type="2" data-doi="10.1101/2021.05.24.445447" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Rodene E, Xu G, Delen SP, **Smith C**, Ge Y, **Schnable JC**, Yang J "[A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify traits associated genetic components in maize.](https://doi.org/10.1101/2021.05.24.445447)" *bioRxiv* doi: 10.1101/2021.05.24.445447
+
 <div data-badge-type="2" data-doi="10.1101/2021.04.02.438220" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Sun G**, **Mural RV**, **Turkus JD**, **Schnable JC** "[Quantitative resistance loci to southern rust mapped in a temperate maize diversity panel.](https://doi.org/10.1101/2021.04.02.438220)" *bioRxiv* doi: 10.1101/2021.04.02.438220
 
