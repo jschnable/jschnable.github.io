@@ -16,9 +16,6 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/2020.12.19.423626" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Guo A**, Yang J, Ge Y, **Schnable JC** "[Automation of leaf counting in maize and sorghum using deep learning.](https://doi.org/10.1101/2020.12.19.423626)" *bioRxiv* doi: 10.1101/2020.12.19.423626
 
-<div data-badge-type="2" data-doi="10.1101/2020.10.27.355495" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Mural RV**, **Grzybowski M**, **Miao C**, **Damke A**, Sapkota S, Boyles RE, Salas Fernandez MG, Schnable PS, **Sigmon B**, Kresovich S, **Schnable JC** "[Meta-analysis identifies pleiotropic loci controlling phenotypic trade-offs in sorghum.](https://doi.org/10.1101/2020.10.27.355495)" *bioRxiv* doi: 10.1101/2020.10.27.355495
-
 <div data-badge-type="2" data-doi="10.1101/706994" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Hoban TP**, **Pages A**, Xu Z, Rodene E, Ubbens J, Stavness I, Yang J, **Schnable JC** "[Simulated plant images improve maize leaf counting accuracy.](https://doi.org/10.1101/706994)" *bioRxiv* doi: 10.1101/706994
 
@@ -28,8 +25,11 @@ title: Schnable Lab Papers
 
 **2021**
 
-<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Grzybowski M**, Wijewardane NK, Atefi A, Ge Y, **Schnable JC** (2021) "The potential of hyperspectral reflectance as a tool for quantitative genetics in crops." *Plant Communications* (Accepted)
+<div data-badge-type="2" data-doi="10.1101/2020.10.27.355495" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Mural RV**, **Grzybowski M**, **Miao C**, **Damke A**, Sapkota S, Boyles RE, Salas Fernandez MG, Schnable PS, **Sigmon B**, Kresovich S, **Schnable JC** "[Meta-analysis identifies pleiotropic loci controlling phenotypic trade-offs in sorghum.](https://doi.org/10.1101/2020.10.27.355495)" *Genetics* (Accepted) *bioRxiv* doi: 10.1101/2020.10.27.355495
+
+<div data-badge-type="2" data-doi="10.1016/j.xplc.2021.100209" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
+* **Grzybowski M**, Wijewardane NK, Atefi A, Ge Y, **Schnable JC** (2021) "[Hyperspectral reflectance-based phenotyping for quantitative genetics in crops: progress and challenges.](https://doi.org/10.1016/j.xplc.2021.100209)" *Plant Communications* doi: 10.1016/j.xplc.2021.100209
 
 <div data-badge-type="2" data-doi="10.1093/plcell/koab134" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Zhou Y, Kusmec A, Mirnezami SV, Srinivasan L, Jubery TZ, **Schnable JC**, Salas-Fernandez MG, Nettleton D, Ganapathysubramanian B, Schnable PS (2021) "[Identification and utilization of genetic determinants of trait measurement errors in image-based, high-throughput phenotyping](https://doi.org/10.1093/plcell/koab134)" *The Plant Cell* doi: 10.1093/plcell/koab134
