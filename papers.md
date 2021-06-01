@@ -20,22 +20,22 @@ title: Schnable Lab Papers
 * **Miao C**, **Hoban TP**, **Pages A**, Xu Z, Rodene E, Ubbens J, Stavness I, Yang J, **Schnable JC** "[Simulated plant images improve maize leaf counting accuracy.](https://doi.org/10.1101/706994)" *bioRxiv* doi: 10.1101/706994
 
 <div data-badge-type="2" data-doi="10.20944/preprints202103.0519.v1" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
-* Zhang Z, Chen C, Rutkoski J, **Schnable JC**, Murray S, Wang L, Jin X, Stich B, Crossa J, Hayes B. "[Harnessing Agronomics Through Genomics and Phenomics in Plant Breeding: A Review](https://www.preprints.org/manuscript/202103.0519/v1)" *preprints.org* doi: 10.20944/preprints202103.0519.v1
+* Zhang Z, Chen C, Rutkoski J, **Schnable JC**, Murray S, Wang L, Jin X, Stich B, Crossa J, Hayes B. "[Harnessing agronomics through genomics and phenomics in plant breeding: a review](https://www.preprints.org/manuscript/202103.0519/v1)" *preprints.org* doi: 10.20944/preprints202103.0519.v1
 
 
 **2021**
 
 <div data-badge-type="2" data-doi="10.1101/2020.10.27.355495" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Mural RV**, **Grzybowski M**, **Miao C**, **Damke A**, Sapkota S, Boyles RE, Salas Fernandez MG, Schnable PS, **Sigmon B**, Kresovich S, **Schnable JC** "[Meta-analysis identifies pleiotropic loci controlling phenotypic trade-offs in sorghum.](https://doi.org/10.1101/2020.10.27.355495)" *Genetics* (Accepted) *bioRxiv* doi: 10.1101/2020.10.27.355495
+* **Mural RV**, **Grzybowski M**, **Miao C**, **Damke A**, Sapkota S, Boyles RE, Salas Fernandez MG, Schnable PS, **Sigmon B**, Kresovich S, **Schnable JC** (2021) "[Meta-analysis identifies pleiotropic loci controlling phenotypic trade-offs in sorghum.](https://doi.org/10.1101/2020.10.27.355495)" *Genetics* (Accepted) *bioRxiv* doi: 10.1101/2020.10.27.355495
 
 <div data-badge-type="2" data-doi="10.1016/j.xplc.2021.100209" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Grzybowski M**, Wijewardane NK, Atefi A, Ge Y, **Schnable JC** (2021) "[Hyperspectral reflectance-based phenotyping for quantitative genetics in crops: progress and challenges.](https://doi.org/10.1016/j.xplc.2021.100209)" *Plant Communications* doi: 10.1016/j.xplc.2021.100209
 
 <div data-badge-type="2" data-doi="10.1093/plcell/koab134" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Zhou Y, Kusmec A, Mirnezami SV, Srinivasan L, Jubery TZ, **Schnable JC**, Salas-Fernandez MG, Nettleton D, Ganapathysubramanian B, Schnable PS (2021) "[Identification and utilization of genetic determinants of trait measurement errors in image-based, high-throughput phenotyping](https://doi.org/10.1093/plcell/koab134)" *The Plant Cell* doi: 10.1093/plcell/koab134
+* Zhou Y, Kusmec A, Mirnezami SV, Srinivasan L, Jubery TZ, **Schnable JC**, Salas-Fernandez MG, Nettleton D, Ganapathysubramanian B, Schnable PS (2021) "[Identification and utilization of genetic determinants of trait measurement errors in image-based, high-throughput phenotyping.](https://doi.org/10.1093/plcell/koab134)" *The Plant Cell* doi: 10.1093/plcell/koab134
 
 <div data-badge-type="2" data-doi="10.3389/fpls.2021.611940" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Atefi A, Ge Y, Pitla S, **Schnable JC** (2021) "[Robotic Technologies for High-Throughput Plant Phenotyping: Reviews and Perspectives.](https://www.frontiersin.org/articles/10.3389/fpls.2021.611940)" *Frontiers in Plant Science* doi: 10.3389/fpls.2021.611940
+* Atefi A, Ge Y, Pitla S, **Schnable JC** (2021) "[Robotic technologies for high-throughput plant phenotyping: reviews and perspectives.](https://www.frontiersin.org/articles/10.3389/fpls.2021.611940)" *Frontiers in Plant Science* doi: 10.3389/fpls.2021.611940
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Khan SH, Tope S, Dalpati R, Kim KH, Noh S, Bulbul A, **Mural RV**, Banerjee A, **Schnable JC**, Ji M, Mastrangelo C, Zang L, Kim H (2021) “Development of a gas sensor for green leaf volatile detection.” *Transducers 2021* (Accepted)
