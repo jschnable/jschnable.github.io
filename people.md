@@ -34,9 +34,11 @@ googlefonts: ["Monoton", "Lobster"]
 |![Henry Medlock](/images/People_Images/HenryM.jpg){:width="120"}|Henry Medlock|Bachelors Student|||
 |![Aleah Miller](/images/People_Images/AleahM.jpg){:width="120"}|Aleah Miller|Bachelors Student|||
 |![Han Tran](/images/People_Images/HanT.jpg){:width="120"}|Han Tran|Bachelors Student|||
+|![Babou Muhoza](/images/People_Images/Babou.jpg){:width="120"}|Babou Muhoza|Bachelors Student|||
+|![Prince Ngiruwonsanga](/images/People_Images/PrinceN.jpg){:width="120"}|Prince Ngiruwonsanga|Bachelors Student|||
 |![Ryleigh](/images/People_Images/Ryleigh.jpg){:width="120"}|Ryleigh Grove|YNS Student|||
 
-
+Babou.jpg
 {:.table100.ver1}
 
 **Lab Alumni**
