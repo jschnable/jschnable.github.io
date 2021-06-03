@@ -29,11 +29,13 @@ googlefonts: ["Monoton", "Lobster"]
 |![Jocelyne Horanituze](/images/People_Images/Jocelyne.jpg){:width="120"}|Jocelyne Horanituze|CUSP Bachelors Student|||
 |![Sam Rangira](/images/People_Images/Sam2021.jpg){:width="120"}|Sam Rangira|Bachelors Student|||
 |![Rongqing Zhang](/images/People_Images/Rongqing.jpg){:width="120"}|Rongqing Zhang|Bachelors Student|||
-|![Mohamed Al Hussaini](/images/People_Images/MohammedAH.jpg){:width="120"}|Mohamed Al Hussaini]|Bachelors Student|||
+|![Mohamed Al Hussaini](/images/People_Images/MohamedAH.jpg){:width="120"}|Mohamed Al Hussaini]|Bachelors Student|||
 |![Grace Carey](/images/People_Images/GraceC.jpg){:width="120"}|Grace Carey|Bachelors Student|||
 |![Henry Medlock](/images/People_Images/HenryM.jpg){:width="120"}|Henry Medlock|Bachelors Student|||
 |![Aleah Miller](/images/People_Images/AleahM.jpg){:width="120"}|Aleah Miller|Bachelors Student|||
 |![Han Tran](/images/People_Images/HanT.jpg){:width="120"}|Han Tran|Bachelors Student|||
+|![Ryleigh](/images/People_Images/Ryleigh.jpg){:width="120"}|Ryleigh Grove|YNS Student|||
+
 
 {:.table100.ver1}
 
