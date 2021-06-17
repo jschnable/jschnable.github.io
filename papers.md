@@ -7,6 +7,9 @@ title: Schnable Lab Papers
 
 **Preprints**
 
+<div data-badge-type="2" data-doi="10.1101/2021.06.15.448566" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Tross MC**, Gaillard M, **Zweiner M**, **Miao C**, Li B, Benes B, **Schnable JC** "[3D reconstruction identifies loci linked to variation in angle of individual sorghum leaves.](https://doi.org/10.1101/2021.06.15.448566)" *bioRxiv* doi: 10.1101/2021.06.15.448566
+
 <div data-badge-type="2" data-doi="10.1101/2021.05.24.445447" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Rodene E, Xu G, Delen SP, **Smith C**, Ge Y, **Schnable JC**, Yang J "[A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify traits associated genetic components in maize.](https://doi.org/10.1101/2021.05.24.445447)" *bioRxiv* doi: 10.1101/2021.05.24.445447
 
@@ -26,7 +29,7 @@ title: Schnable Lab Papers
 **2021**
 
 <div data-badge-type="2" data-doi="10.1101/2020.10.27.355495" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Mural RV**, **Grzybowski M**, **Miao C**, **Damke A**, Sapkota S, Boyles RE, Salas Fernandez MG, Schnable PS, **Sigmon B**, Kresovich S, **Schnable JC** (2021) "[Meta-analysis identifies pleiotropic loci controlling phenotypic trade-offs in sorghum.](https://doi.org/10.1101/2020.10.27.355495)" *Genetics* (Accepted) *bioRxiv* doi: 10.1101/2020.10.27.355495
+* **Mural RV**, **Grzybowski M**, **Miao C**, **Damke A**, Sapkota S, Boyles RE, Salas Fernandez MG, Schnable PS, **Sigmon B**, Kresovich S, **Schnable JC** (2021) "[Meta-analysis identifies pleiotropic loci controlling phenotypic trade-offs in sorghum.](https://doi.org/10.1093/genetics/iyab087)" *Genetics* doi: 10.1093/genetics/iyab087 *bioRxiv* doi: 10.1101/2020.10.27.355495
 
 <div data-badge-type="2" data-doi="10.1016/j.xplc.2021.100209" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Grzybowski M**, Wijewardane NK, Atefi A, Ge Y, **Schnable JC** (2021) "[Hyperspectral reflectance-based phenotyping for quantitative genetics in crops: progress and challenges.](https://doi.org/10.1016/j.xplc.2021.100209)" *Plant Communications* doi: 10.1016/j.xplc.2021.100209
