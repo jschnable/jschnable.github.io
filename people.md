@@ -29,7 +29,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Grace Carey](/images/People_Images/GraceC.jpg){:width="120"}|Grace Carey|Bachelors Student|||
 |![Alliance Igiraneza](/images/People_Images/Alliance.jpg){:width="120"}|Alliance Igiraneza|Bachelors Student|||
 |![Henry Medlock](/images/People_Images/HenryM.jpg){:width="120"}|Henry "Hank" Medlock|Bachelors Student|||
-|![Prince Ngiruwonsanga](/images/People_Images/PrinceN.jpg){:width="120"}|Prince Ngiruwonsanga|Bachelors Student|Bachelors Student|||
+|![Prince Ngiruwonsanga](/images/People_Images/PrinceN.jpg){:width="120"}|Prince Ngiruwonsanga|Bachelors Student|||
 |![Aleah Miller](/images/People_Images/AleahM.jpg){:width="120"}|Aleah Miller|Bachelors Student|||
 |![Daniella Norah Tumisiine](/images/People_Images/Norah.jpg){:width="120"}|Daniella Norah Tumusiine|Bachelors Student|||
 |![Han Tran](/images/People_Images/HanT.jpg){:width="120"}|Han Tran|Bachelors Student|||
