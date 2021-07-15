@@ -49,6 +49,8 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1128/AEM.03132-20" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Meier MA, Lopenz-Guerrero MG, Guo M, Schmer MR, Herr JR, **Schnable JC**, Alfano JR, Yang J (2021) "[Rhizosphere microbiomes in a historical maize/soybean rotation system respond to host species and nitrogen fertilization at genus and sub-genus levels.](https://doi.org/10.1128/AEM.03132-20)" *Applied and Environmental Microbiology* doi: 10.1128/AEM.03132-20 *bioRxiv* doi: [10.1101/2020.08.10.244384](https://doi.org/10.1101/2020.08.10.244384)
 
+* Serb DD, **Meng X*, *Schnable JC**, Bashir E, Michaud JP, Vara Prasad PV, Perumal R (2021) "[Comparative transcriptome analysis reveals genetic mechanisms of sugarcane aphid resistance in grain sorghum](https://doi.org/10.3390/ijms22137129)" **International Journal of Molecular Sciences** doi: 10.3390/ijms22137129
+
 <div data-badge-type="2" data-doi="10.1073/pnas.2022982118" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Busta L, Schmitz E, Kosma D, **Schnable JC**, Cahoon EB (2021) "[A co-opted steroid synthesis gene, maintained in sorghum but not maize, is associated with a divergence in leaf wax chemistry.](https://doi.org/10.1073/pnas.2022982118)" *Proceedings of the National Academy of Sciences of the United States of America* doi: 10.1073/pnas.2022982118
 
