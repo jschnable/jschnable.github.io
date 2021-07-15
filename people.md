@@ -22,23 +22,22 @@ googlefonts: ["Monoton", "Lobster"]
 |![Mackenzie](/images/People_Images/Mackenzie.jpeg){:width="120"}|[Mackenzie Zwiener](/peoplepages/Mackenzie_Zwiener/)<a href="https://twitter.com/MackenzieZwien1"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|MS Student<br>Technician||0000-0001-8636-6780|
 |![Kahheetah Barnoskie](/images/People_Images/Kahheetah.jpg){:width="120"}|Kahheetah Barnoskie|MS Student|||
 |![Aime Nishimwe](/images/People_Images/Aime.jpg){:width="120"}|Aime Nishimwe|CUSP Bachelors Student<a href="https://twitter.com/AimeValentin"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|[CV](/CVs/Aime Valentin Nishimwe.pdf)|0000-0003-0074-9364|
-|![Isaac Stevens](/images/People_Images/Isaac.jpg){:width="120"}|Isaac Stevens|Bachelors Student|||
 |![Alice Guo](/images/People_Images/AliceG.jpg){:width="120"}|Alice Guo|Bachelors Student|||
-|![Olivier](/images/People_Images/Olivier.jpg){:width="120"}|Olivier N Mizero|CUSP Bachelors Student|||
 |![Alexis](/images/People_Images/AlexisF.jpg){:width="120"}|Alexis Finch|Bachelors Student|||
-|![Jocelyne Horanituze](/images/People_Images/Jocelyne.jpg){:width="120"}|Jocelyne Horanituze|CUSP Bachelors Student|||
-|![Sam Rangira](/images/People_Images/Sam2021.jpg){:width="120"}|Sam Rangira|Bachelors Student|||
+|![Jocelyne Horanituze](/images/People_Images/Jocelyne.jpg){:width="120"}|Jocelyne Horanituze|Bachelors Student|||
 |![Rongqing Zhang](/images/People_Images/Rongqing.jpg){:width="120"}|Rongqing Zhang|Bachelors Student|||
-|![Mohamed Al Hussaini](/images/People_Images/MohamedAH.jpg){:width="120"}|Mohamed Al Hussaini]|Bachelors Student|||
 |![Grace Carey](/images/People_Images/GraceC.jpg){:width="120"}|Grace Carey|Bachelors Student|||
-|![Henry Medlock](/images/People_Images/HenryM.jpg){:width="120"}|Henry Medlock|Bachelors Student|||
+|![Alliance Igiraneza](/images/People_Images/Alliance.jpg){:width="120"}|Alliance Igiraneza|Bachelors Student|||
+|![Henry Medlock](/images/People_Images/HenryM.jpg){:width="120"}|Henry "Hank" Medlock|Bachelors Student|||
+|![Prince Ngiruwonsanga](/images/People_Images/PrinceN.jpg){:width="120"}|Prince Ngiruwonsanga|Bachelors Student|Bachelors Student|||
 |![Aleah Miller](/images/People_Images/AleahM.jpg){:width="120"}|Aleah Miller|Bachelors Student|||
+|![Daniella Norah Tumisiine]](/images/People_Images/Norah.jpg){:width="120"}|Daniella Norah Tumusiine|Bachelors Student|||
 |![Han Tran](/images/People_Images/HanT.jpg){:width="120"}|Han Tran|Bachelors Student|||
 |![Babou Muhoza](/images/People_Images/Babou.jpg){:width="120"}|Babou Muhoza|Bachelors Student|||
-|![Prince Ngiruwonsanga](/images/People_Images/PrinceN.jpg){:width="120"}|Prince Ngiruwonsanga|Bachelors Student|||
+|![Remy Hirwa](/images/People_Images/Remy.jpg){:width="120"}|Remy Hirwa|Bachelors Student|||
 |![Ryleigh](/images/People_Images/Ryleigh.jpg){:width="120"}|Ryleigh Grove|YNS Student|||
 
-Babou.jpg
+
 {:.table100.ver1}
 
 **Lab Alumni**
@@ -95,5 +94,11 @@ Babou.jpg
 |![Clay Christenson](/images/People_Images/Clay.jpg){:width="120"}|Clay Christenson|Bachelors Student|2020-2021||
 |![Luke](/images/People_Images/LukeM.jpg){:width="120"}|Luke Micek|Bachelors Student|2020-2021||
 |![Aldi](/images/People_Images/AldiA.jpg){:width="120"}|Aldi Airori|Bachelors Student|2020-2021||
+|![Isaac Stevens](/images/People_Images/Isaac.jpg){:width="120"}|Isaac Stevens|Bachelors Student|2019-2021|Technician, Evonik|
+|![Olivier](/images/People_Images/Olivier.jpg){:width="120"}|Olivier N Mizero|CUSP Bachelors Student|2020-2021||
+|![Sam Rangira](/images/People_Images/Sam2021.jpg){:width="120"}|Sam Rangira|Bachelors Student|2021||
+|![Mohamed Al Hussaini](/images/People_Images/MohamedAH.jpg){:width="120"}|Mohamed Al Hussaini]|Bachelors Student|2021||
+
+
 
 {:.table100.ver1}
