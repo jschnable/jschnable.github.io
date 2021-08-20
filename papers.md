@@ -10,6 +10,9 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/2021.06.15.448566" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Tross MC**, Gaillard M, **Zweiner M**, **Miao C**, Li B, Benes B, **Schnable JC** "[3D reconstruction identifies loci linked to variation in angle of individual sorghum leaves.](https://doi.org/10.1101/2021.06.15.448566)" *bioRxiv* doi: 10.1101/2021.06.15.448566
 
+<div data-badge-type="2" data-doi="10.1101/2021.08.18.456832" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Sun G**, Wase N, Su S ... **Foltz A** (16th of 25 authors) ... **Sigmon B**, Yu B, Obata T, Schmutz J, **Schnable JC** "[The genome of stress tolerant crop wild relative *Paspalum vaginatum* leads to increased biomass productivity in the crop *Zea mays*.](https://doi.org/10.1101/2021.08.18.456832)" *bioRxiv* doi: 10.1101/2021.08.18.456832
+
 <div data-badge-type="2" data-doi="10.1101/2021.05.24.445447" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Rodene E, Xu G, Delen SP, **Smith C**, Ge Y, **Schnable JC**, Yang J "[A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify traits associated genetic components in maize.](https://doi.org/10.1101/2021.05.24.445447)" *bioRxiv* doi: 10.1101/2021.05.24.445447
 
