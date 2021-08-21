@@ -28,8 +28,11 @@ title: Schnable Lab Papers
 
 **2021**
 
+<div data-badge-type="2" data-doi="10.1093/bioinformatics/btab604" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Woodhouse MR, Sen S, Schott D, Portwood JL, Freeling M, JWalley JW,  Andorf CM, **Schnable JC** (2021) "[qTeller: A tool for comparative multi-genomic gene expression analysis.](https://doi.org/10.1093/bioinformatics/btab604)" *Bioinformatics* doi: 10.1093/bioinformatics/btab604
+
 <div data-badge-type="2" data-doi="10.1094/PHYTO-04-21-0160-R" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Sun G**, **Mural RV**, **Turkus JD**, **Schnable JC** "[Quantitative resistance loci to southern rust mapped in a temperate maize diversity panel.](https://doi.org/10.1094/PHYTO-04-21-0160-R)" *Phytopathology* doi: doi.org/10.1094/PHYTO-04-21-0160-R *bioRxiv* doi: 10.1101/2021.04.02.438220
+* **Sun G**, **Mural RV**, **Turkus JD**, **Schnable JC** (2021) "[Quantitative resistance loci to southern rust mapped in a temperate maize diversity panel.](https://doi.org/10.1094/PHYTO-04-21-0160-R)" *Phytopathology* doi: doi.org/10.1094/PHYTO-04-21-0160-R *bioRxiv* doi: 10.1101/2021.04.02.438220
 
 <div data-badge-type="2" data-doi="10.1101/2020.10.27.355495" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Mural RV**, **Grzybowski M**, **Miao C**, **Damke A**, Sapkota S, Boyles RE, Salas Fernandez MG, Schnable PS, **Sigmon B**, Kresovich S, **Schnable JC** (2021) "[Meta-analysis identifies pleiotropic loci controlling phenotypic trade-offs in sorghum.](https://doi.org/10.1093/genetics/iyab087)" *Genetics* doi: 10.1093/genetics/iyab087 *bioRxiv* doi: 10.1101/2020.10.27.355495
