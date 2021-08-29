@@ -16,9 +16,6 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/2021.05.24.445447" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Rodene E, Xu G, Delen SP, **Smith C**, Ge Y, **Schnable JC**, Yang J "[A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify traits associated genetic components in maize.](https://doi.org/10.1101/2021.05.24.445447)" *bioRxiv* doi: 10.1101/2021.05.24.445447
 
-<div data-badge-type="2" data-doi="10.1101/2020.12.19.423626" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Miao C**, **Guo A**, Yang J, Ge Y, **Schnable JC** "[Automation of leaf counting in maize and sorghum using deep learning.](https://doi.org/10.1101/2020.12.19.423626)" *bioRxiv* doi: 10.1101/2020.12.19.423626
-
 <div data-badge-type="2" data-doi="10.1101/706994" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Hoban TP**, **Pages A**, Xu Z, Rodene E, Ubbens J, Stavness I, Yang J, **Schnable JC** "[Simulated plant images improve maize leaf counting accuracy.](https://doi.org/10.1101/706994)" *bioRxiv* doi: 10.1101/706994
 
@@ -27,6 +24,9 @@ title: Schnable Lab Papers
 
 
 **2021**
+
+<div data-badge-type="2" data-doi="10.1101/2020.12.19.423626" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Miao C**, **Guo A**, Thompson AM, Yang J, Ge Y, **Schnable JC** "[Automation of leaf counting in maize and sorghum using deep learning.](https://doi.org/10.1002/ppj2.20022)" *The Plant Phenome Journal* doi: 10.1002/ppj2.20022 *bioRxiv* doi: 10.1101/2020.12.19.423626
 
 <div data-badge-type="2" data-doi="10.1093/bioinformatics/btab604" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Woodhouse MR, Sen S, Schott D, Portwood JL, Freeling M, JWalley JW,  Andorf CM, **Schnable JC** (2021) "[qTeller: A tool for comparative multi-genomic gene expression analysis.](https://doi.org/10.1093/bioinformatics/btab604)" *Bioinformatics* doi: 10.1093/bioinformatics/btab604
