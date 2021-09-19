@@ -10,14 +10,11 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/2021.06.15.448566" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Tross MC**, Gaillard M, **Zweiner M**, **Miao C**, Li B, Benes B, **Schnable JC** "[3D reconstruction identifies loci linked to variation in angle of individual sorghum leaves.](https://doi.org/10.1101/2021.06.15.448566)" *bioRxiv* doi: 10.1101/2021.06.15.448566
 
+<div data-badge-type="2" data-doi="10.1101/2021.08.18.456832" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Sun G**, Wase N, Su S ... **Foltz A** (16th of 25 authors) ... **Sigmon B**, Yu B, Obata T, Schmutz J, **Schnable JC** "[The genome of stress tolerant crop wild relative *Paspalum vaginatum* leads to increased biomass productivity in the crop *Zea mays*.](https://doi.org/10.1101/2021.08.18.456832)" *bioRxiv* doi: 10.1101/2021.08.18.456832
+
 <div data-badge-type="2" data-doi="10.1101/2021.05.24.445447" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Rodene E, Xu G, Delen SP, **Smith C**, Ge Y, **Schnable JC**, Yang J "[A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify traits associated genetic components in maize.](https://doi.org/10.1101/2021.05.24.445447)" *bioRxiv* doi: 10.1101/2021.05.24.445447
-
-<div data-badge-type="2" data-doi="10.1101/2021.04.02.438220" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Sun G**, **Mural RV**, **Turkus JD**, **Schnable JC** "[Quantitative resistance loci to southern rust mapped in a temperate maize diversity panel.](https://doi.org/10.1101/2021.04.02.438220)" *bioRxiv* doi: 10.1101/2021.04.02.438220
-
-<div data-badge-type="2" data-doi="10.1101/2020.12.19.423626" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Miao C**, **Guo A**, Yang J, Ge Y, **Schnable JC** "[Automation of leaf counting in maize and sorghum using deep learning.](https://doi.org/10.1101/2020.12.19.423626)" *bioRxiv* doi: 10.1101/2020.12.19.423626
 
 <div data-badge-type="2" data-doi="10.1101/706994" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Hoban TP**, **Pages A**, Xu Z, Rodene E, Ubbens J, Stavness I, Yang J, **Schnable JC** "[Simulated plant images improve maize leaf counting accuracy.](https://doi.org/10.1101/706994)" *bioRxiv* doi: 10.1101/706994
@@ -27,6 +24,15 @@ title: Schnable Lab Papers
 
 
 **2021**
+
+<div data-badge-type="2" data-doi="10.1002/ppj2.20022" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Miao C**, **Guo A**, Thompson AM, Yang J, Ge Y, **Schnable JC** "[Automation of leaf counting in maize and sorghum using deep learning.](https://doi.org/10.1002/ppj2.20022)" *The Plant Phenome Journal* doi: 10.1002/ppj2.20022 *bioRxiv* doi: 10.1101/2020.12.19.423626
+
+<div data-badge-type="2" data-doi="10.1093/bioinformatics/btab604" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Woodhouse MR, Sen S, Schott D, Portwood JL, Freeling M, JWalley JW,  Andorf CM, **Schnable JC** (2021) "[qTeller: A tool for comparative multi-genomic gene expression analysis.](https://doi.org/10.1093/bioinformatics/btab604)" *Bioinformatics* doi: 10.1093/bioinformatics/btab604
+
+<div data-badge-type="2" data-doi="10.1094/PHYTO-04-21-0160-R" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Sun G**, **Mural RV**, **Turkus JD**, **Schnable JC** (2021) "[Quantitative resistance loci to southern rust mapped in a temperate maize diversity panel.](https://doi.org/10.1094/PHYTO-04-21-0160-R)" *Phytopathology* doi: doi.org/10.1094/PHYTO-04-21-0160-R *bioRxiv* doi: 10.1101/2021.04.02.438220
 
 <div data-badge-type="2" data-doi="10.1101/2020.10.27.355495" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Mural RV**, **Grzybowski M**, **Miao C**, **Damke A**, Sapkota S, Boyles RE, Salas Fernandez MG, Schnable PS, **Sigmon B**, Kresovich S, **Schnable JC** (2021) "[Meta-analysis identifies pleiotropic loci controlling phenotypic trade-offs in sorghum.](https://doi.org/10.1093/genetics/iyab087)" *Genetics* doi: 10.1093/genetics/iyab087 *bioRxiv* doi: 10.1101/2020.10.27.355495
