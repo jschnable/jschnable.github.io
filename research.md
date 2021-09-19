@@ -96,3 +96,5 @@ At its most basic, this area ensures that graduates of the Schnable lab are fami
 * FFAR [Crops in silico: Increasing crop production by connecting models from the microscale to the macroscale.](http://www.ncsa.illinois.edu/news/story/crops_in_silico_project_awarded_5_million)
 * NSF [Center for Root and Rhizobiome Innovation.](https://nsf.gov/awardsearch/showAward?AWD_ID=1557417)
 * ICRISAT: Application of tGBS And Genomic Selection to a Hybrid Pearl Millet Breeding Program.
+
+<a href="Pubs/Sruti_KDD_FEWS.pdf">The University of Nebraska's most recent conflict of interest policy document.</a>
