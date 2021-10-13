@@ -25,6 +25,8 @@ title: Schnable Lab Papers
 
 **2021**
 
+* Diao X, Zhang H, Tang S, **Schnable JC**, He Q, Gao Y, Luo M, Jia G, Feng B, Zhi H (2021) "Genome-wide DNA polymorphism analysis and molecular marker development for the *Setaria italica* variety ‘SSR41’ and positional cloning of the Setaria white leaf sheath gene SiWLS1." *Frontiers in Plant Science* *(Accepted)*
+
 <div data-badge-type="2" data-doi="10.1002/ppj2.20022" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Guo A**, Thompson AM, Yang J, Ge Y, **Schnable JC** "[Automation of leaf counting in maize and sorghum using deep learning.](https://doi.org/10.1002/ppj2.20022)" *The Plant Phenome Journal* doi: 10.1002/ppj2.20022 *bioRxiv* doi: 10.1101/2020.12.19.423626
 
