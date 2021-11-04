@@ -25,7 +25,7 @@ title: Schnable Lab Papers
 
 **2021**
 
-* Diao X, Zhang H, Tang S, **Schnable JC**, He Q, Gao Y, Luo M, Jia G, Feng B, Zhi H (2021) "Genome-wide DNA polymorphism analysis and molecular marker development for the *Setaria italica* variety ‘SSR41’ and positional cloning of the Setaria white leaf sheath gene SiWLS1." *Frontiers in Plant Science* *(Accepted)*
+* Diao X, Zhang H, Tang S, **Schnable JC**, He Q, Gao Y, Luo M, Jia G, Feng B, Zhi H (2021) "[Genome-wide DNA polymorphism analysis and molecular marker development for the *Setaria italica* variety ‘SSR41’ and positional cloning of the Setaria white leaf sheath gene SiWLS1.](https://www.frontiersin.org/articles/10.3389/fpls.2021.743782/abstract)" *Frontiers in Plant Science* *(Accepted)*
 
 <div data-badge-type="2" data-doi="10.1002/ppj2.20022" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Guo A**, Thompson AM, Yang J, Ge Y, **Schnable JC** "[Automation of leaf counting in maize and sorghum using deep learning.](https://doi.org/10.1002/ppj2.20022)" *The Plant Phenome Journal* doi: 10.1002/ppj2.20022 *bioRxiv* doi: 10.1101/2020.12.19.423626
@@ -49,7 +49,7 @@ title: Schnable Lab Papers
 * Atefi A, Ge Y, Pitla S, **Schnable JC** (2021) "[Robotic technologies for high-throughput plant phenotyping: reviews and perspectives.](https://www.frontiersin.org/articles/10.3389/fpls.2021.611940)" *Frontiers in Plant Science* doi: 10.3389/fpls.2021.611940
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* Khan SH, Tope S, Dalpati R, Kim KH, Noh S, Bulbul A, **Mural RV**, Banerjee A, **Schnable JC**, Ji M, Mastrangelo C, Zang L, Kim H (2021) “Development of a gas sensor for green leaf volatile detection.” *Transducers 2021* (Accepted)
+* Khan SH, Tope S, Dalpati R, Kim KH, Noh S, Bulbul A, **Mural RV**, Banerjee A, **Schnable JC**, Ji M, Mastrangelo C, Zang L, Kim H (2021) “[Development of a gas sensor for green leaf volatile detection.](https://doi.org/10.1109/Transducers50396.2021.9495597)” *Transducers 2021* doi: 10.1109/Transducers50396.2021.9495597
 
 <div data-badge-type="2" data-doi="10.3389/frobt.2021.600410" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Alzadjali A, Veeranampalayam-Sivakumar A, Alali MH, Deogun JS, Scott S, **Schnable JC**, Shi Y (2021) "[Maize tassel detection from UAV imagery using deep learning.](https://www.frontiersin.org/articles/10.3389/frobt.2021.600410/abstract)" *Frontiers in Robotics and AI* doi: 10.3389/frobt.2021.600410
