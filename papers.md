@@ -7,6 +7,9 @@ title: Schnable Lab Papers
 
 **Preprints**
 
+<div data-badge-type="2" data-doi="10.1101/2021.11.01.466815" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Meier MA, Xu G, Lopez-Guerrero MG, Li G, **Smith C**, **Sigmon B**, Herr JR, Alfano J, Ge Y, **Schnable JC**, Yang J "[Maize root-associated microbes likely under adaptive selection by the host to enhance phenotypic performance.](https://doi.org/10.1101/2021.11.01.466815)" *bioRxiv* doi: 10.1101/2021.11.01.466815
+
 <div data-badge-type="2" data-doi="10.1101/2021.06.15.448566" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Tross MC**, Gaillard M, **Zweiner M**, **Miao C**, Li B, Benes B, **Schnable JC** "[3D reconstruction identifies loci linked to variation in angle of individual sorghum leaves.](https://doi.org/10.1101/2021.06.15.448566)" *bioRxiv* doi: 10.1101/2021.06.15.448566
 
