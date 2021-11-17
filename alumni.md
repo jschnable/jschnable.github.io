@@ -1,4 +1,4 @@
----
+g---
 layout: page
 title: Schnable Lab Alumni
 
@@ -111,7 +111,7 @@ googlefonts: ["Monoton", "Lobster"]
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
 |![Nicole Hollander](/images/People_Images/NicoleH.jpg){:width="120"}|Nicole Hollander|YNS High School Intern|Summer 2017||
-||![Ryleigh](/images/People_Images/Ryleigh.jpg){:width="120"}|Ryleigh Grove|YNS Student|Summer 2021|UNL class of 2026|
+|![Ryleigh](/images/People_Images/Ryleigh.jpg){:width="120"}|Ryleigh Grove|YNS Student|Summer 2021|UNL class of 2026|
 
 {:.table100.ver1}
 
