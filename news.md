@@ -3,6 +3,75 @@ layout: page
 title: Schnable Lab News
 
 ---
+### 2021 November
+
+* On November 11th the very last plant of our 2021 field season is harvested. Really happy to be out of the field.
+
+* Hongyu, Ravi, and Michael present at MLCAS 2021. Prof. Schnable delivers a keynote presentation at MLCAS2021
+
+### 2021 October
+
+* Vladimir (Jorge Vladimir Torres-Rodriguez) joins our lab as a postdoc!
+
+### 2021 September
+
+* Ryleigh Grove, a Young Nebraska Scientist intern in our lab is featured in the [Ag & Hort newsletter](https://agronomy.unl.edu/news/summer-internship-leads-scientific-publication-high-school-student) ... and [Nebraska Today](https://news.unl.edu/newsrooms/today/article/summer-internship-leads-to-scientific-publication-for-high-school-student/) ... and [Michael Boehm's radio broadcast](https://mediahub.unl.edu/media/17853).
+
+* Prof. Schnable speaks that the West African Plant Science Symposium.
+
+### 2021 August
+
+* Guangchao Sun's last day in our lab. He moves to Mayo Clinic as a bioinformatician.
+
+* Jon Turkus and the Schnable Lab are featured in the [2021 Strategic Discussions for Nebraska](https://sdn.unl.edu/2021-healthy-nebraska).
+
+### 2021 July
+
+* [NSF funds the AI Institute for Resilient Agriculture](https://news.unl.edu/newsrooms/today/article/husker-researcher-part-of-multi-university-effort-to-improve-ag-decision/), a $20M investment lead by ISU with our lab leading UNL's contribution to the center.
+
+* Guangchao Sun's first corresponding author paper, identifying loci associated with southern rust resistance in maize, [is published in Phytopathology](https://doi.org/10.1094/PHYTO-04-21-0160-R).
+
+### 2021 June
+
+* Ravi's first lead author paper as a member of the Schnable Lab, a meta analysis of genes controlling quantitative trait variation across many phenotypes, [is published in Genetics](https://doi.org/10.1093/genetics/iyab087). He also makes the cover of the July issue.
+
+* Wrapping up the last of our planting for the summer. This year we have three corn and three sorghum experiments here in Lincoln, plus G2F corn trials in North Platte, plus HIPS trials in North Platte and Scottsbluff. It's a crazy year.
+
+### 2021 May
+
+* Mackenzie Zwiener graduates. She's headed to a position as a research technologist with UNMC.
+
+* Marcin publishes [his first lead author paper as a member of the Schnable Lab](https://doi.org/10.1016/j.xplc.2021.100209) proposing image now, phenotype forever for hyperspectral phenotyping.
+
+### 2021 April
+
+* Xiaoxi and Zhikai's paper on predicing cold responsive gene expression across species is published in PNAS. [Nebraska Today covers the story](https://news.unl.edu/newsrooms/today/article/model-predicts-gene-responses-to-cold-across-diverse-plant-species/).
+
+### 2021 March
+
+* Marcin presents on mapping genes controlling non-photochemical quenching at the Maize Genetics conference. Nate Korth, Michael Tross, Ravi Mural, Mackenzie Zweiner and Guangchao Sun all present posters.
+
+* Michael Tross speaks at the Corn Breeding Research meeting
+
+* Vaccinations start at UNL allowing more of us to work from the office.
+
+### 2021 February
+
+* Marcin presents on image now phenotype later at NAPPN. Prof. Schnable delivers the early career award winner presentation.
+
+* Tom Hoban, a member of our lab since he was a freshman, has his last day and heads to Illinois and a job at Labcorp.
+
+### 2021 January
+
+* [A new grant from ARPA-E with our collaborators in the Kim lab at Utah](https://www.coe.utah.edu/2021/01/14/engineering-team-receives-doe-grant/) to develop carbon emission sensors for agricultural settings.
+
+### 2020 December
+
+* Chenyong Miao graduates. He heads to St. Louis and his new job as a Phenomics Data Scientist at Bayer.
+
+### 2020 November
+
+* Sairam Behera, one of our first computer science collaborators ever successfully defends his thesis and becomes Dr. Behera.
 
 ### 2020 October
 
