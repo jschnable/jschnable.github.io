@@ -7,11 +7,11 @@ title: Schnable Lab Papers
 
 **Preprints**
 
+<div data-badge-type="2" data-doi="10.1002/essoar.10508826.1" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Tross MC**, **Grzybowski M**, **Nishimwe AV**, **Sun G**, Ge Y, **Schnable JC** "[Data driven trait quantification across a maize diversity panel using hyperspectral leaf reflectance.](https://doi.org/10.1002/essoar.10508826.1)" *ESSOAr* doi: 10.1002/essoar.10508826.1
+
 <div data-badge-type="2" data-doi="10.1101/2021.11.01.466815" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Meier MA, Xu G, Lopez-Guerrero MG, Li G, **Smith C**, **Sigmon B**, Herr JR, Alfano J, Ge Y, **Schnable JC**, Yang J "[Maize root-associated microbes likely under adaptive selection by the host to enhance phenotypic performance.](https://doi.org/10.1101/2021.11.01.466815)" *bioRxiv* doi: 10.1101/2021.11.01.466815
-
-<div data-badge-type="2" data-doi="10.1101/2021.06.15.448566" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Tross MC**, Gaillard M, **Zweiner M**, **Miao C**, Li B, Benes B, **Schnable JC** "[3D reconstruction identifies loci linked to variation in angle of individual sorghum leaves.](https://doi.org/10.1101/2021.06.15.448566)" *bioRxiv* doi: 10.1101/2021.06.15.448566
 
 <div data-badge-type="2" data-doi="10.1101/2021.08.18.456832" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Sun G**, Wase N, Su S ... **Foltz A** (16th of 25 authors) ... **Sigmon B**, Yu B, Obata T, Schmutz J, **Schnable JC** "[The genome of stress tolerant crop wild relative *Paspalum vaginatum* leads to increased biomass productivity in the crop *Zea mays*.](https://doi.org/10.1101/2021.08.18.456832)" *bioRxiv* doi: 10.1101/2021.08.18.456832
@@ -23,6 +23,9 @@ title: Schnable Lab Papers
 * Zhang Z, Chen C, Rutkoski J, **Schnable JC**, Murray S, Wang L, Jin X, Stich B, Crossa J, Hayes B. "[Harnessing agronomics through genomics and phenomics in plant breeding: a review](https://www.preprints.org/manuscript/202103.0519/v1)" *preprints.org* doi: 10.20944/preprints202103.0519.v1
 
 **2022**
+
+<div data-badge-type="2" data-doi="10.1101/2021.06.15.448566" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Tross MC**, Gaillard M, **Zweiner M**, **Miao C**, Li B, Benes B, **Schnable JC** "[3D reconstruction identifies loci linked to variation in angle of individual sorghum leaves.](https://doi.org/10.1101/2021.06.15.448566)" *PeerJ* (Accepted) *bioRxiv* doi: 10.1101/2021.06.15.448566
 
 * Khan SH, Karkhanis M, Hatasaka B, Tope S, Noh S, Dalapati R, Bulbul A, **Mural RV**, Banerjee A, Kim KH, **Schnable JC**, Ji M, Mastrangelo CH, Zang L, Kim H (2022) "Field Deployment of a Nanogap Gas Sensor For Crop Damage Detection." *MEMS 2022* (Accepted)
 
