@@ -24,15 +24,15 @@ title: Schnable Lab Papers
 
 **2022**
 
-<div data-badge-type="2" data-doi="10.1101/2021.06.15.448566" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Tross MC**, Gaillard M, **Zweiner M**, **Miao C**, Li B, Benes B, **Schnable JC** "[3D reconstruction identifies loci linked to variation in angle of individual sorghum leaves.](https://doi.org/10.1101/2021.06.15.448566)" *PeerJ* (Accepted) *bioRxiv* doi: 10.1101/2021.06.15.448566
+<div data-badge-type="2" data-doi="10.1101/2021.05.24.445447" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Rodene E, Xu G, Delen SP, **Smith C**, Ge Y, **Schnable JC**, Yang J (2021) "[A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify traits associated genetic components in maize.](https://doi.org/10.1101/2021.05.24.445447)" *The Plant Phenome Journal* *(Accepted)* *bioRxiv* doi: 10.1101/2021.05.24.445447
 
 * Khan SH, Karkhanis M, Hatasaka B, Tope S, Noh S, Dalapati R, Bulbul A, **Mural RV**, Banerjee A, Kim KH, **Schnable JC**, Ji M, Mastrangelo CH, Zang L, Kim H (2022) "Field Deployment of a Nanogap Gas Sensor For Crop Damage Detection." *MEMS 2022* (Accepted)
 
 **2021**
 
-<div data-badge-type="2" data-doi="10.1101/2021.05.24.445447" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Rodene E, Xu G, Delen SP, **Smith C**, Ge Y, **Schnable JC**, Yang J (2021) "[A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify traits associated genetic components in maize.](https://doi.org/10.1101/2021.05.24.445447)" *The Plant Phenome Journal* *(Accepted)* *bioRxiv* doi: 10.1101/2021.05.24.445447
+<div data-badge-type="2" data-doi="10.1101/2021.06.15.448566" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Tross MC**, Gaillard M, **Zweiner M**, **Miao C**, Li B, Benes B, **Schnable JC** "[3D reconstruction identifies loci linked to variation in angle of individual sorghum leaves.](https://doi.org/10.7717/peerj.12628)" *PeerJ* doi: 10.7717/peerj.12628 *bioRxiv* doi: 10.1101/2021.06.15.448566
 
 * Diao X, Zhang H, Tang S, **Schnable JC**, He Q, Gao Y, Luo M, Jia G, Feng B, Zhi H (2021) "[Genome-wide DNA polymorphism analysis and molecular marker development for the *Setaria italica* variety ‘SSR41’ and positional cloning of the Setaria white leaf sheath gene SiWLS1.](https://doi.org/10.3389/fpls.2021.743782)" *Frontiers in Plant Science* doi: 10.3389/fpls.2021.743782
 
