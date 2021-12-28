@@ -7,6 +7,9 @@ title: Schnable Lab Papers
 
 **Preprints**
 
+<div data-badge-type="2" data-doi="10.1101/2021.12.22.473950" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Boatwright JL, Sapkota S, **Jin H**, **Schnable JC**, Brenton Z, Boyles R, Kresovich S "[Sorghum Association Panel whole-genome sequencing establishes pivotal resource for dissecting genomic diversity.](https://doi.org/10.1101/2021.12.22.473950)" *bioRxiv* doi: 10.1101/2021.12.22.473950
+
 <div data-badge-type="2" data-doi="10.1002/essoar.10508826.1" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Tross MC**, **Grzybowski M**, **Nishimwe AV**, **Sun G**, Ge Y, **Schnable JC** "[Data driven trait quantification across a maize diversity panel using hyperspectral leaf reflectance.](https://doi.org/10.1002/essoar.10508826.1)" *ESSOAr* doi: 10.1002/essoar.10508826.1
 
