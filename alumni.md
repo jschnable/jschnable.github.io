@@ -1,4 +1,4 @@
-g---
+---
 layout: page
 title: Schnable Lab Alumni
 

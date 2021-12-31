@@ -30,13 +30,15 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/2021.05.24.445447" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Rodene E, Xu G, Delen SP, **Smith C**, Ge Y, **Schnable JC**, Yang J (2021) "[A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify traits associated genetic components in maize.](https://doi.org/10.1101/2021.05.24.445447)" *The Plant Phenome Journal* *(Accepted)* *bioRxiv* doi: 10.1101/2021.05.24.445447
 
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Khan SH, Karkhanis M, Hatasaka B, Tope S, Noh S, Dalapati R, Bulbul A, **Mural RV**, Banerjee A, Kim KH, **Schnable JC**, Ji M, Mastrangelo CH, Zang L, Kim H (2022) "Field Deployment of a Nanogap Gas Sensor For Crop Damage Detection." *MEMS 2022* (Accepted)
 
 **2021**
 
-<div data-badge-type="2" data-doi="10.1101/2021.06.15.448566" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+<div data-badge-type="2" data-doi="10.7717/peerj.12628" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Tross MC**, Gaillard M, **Zweiner M**, **Miao C**, Li B, Benes B, **Schnable JC** "[3D reconstruction identifies loci linked to variation in angle of individual sorghum leaves.](https://doi.org/10.7717/peerj.12628)" *PeerJ* doi: 10.7717/peerj.12628 *bioRxiv* doi: 10.1101/2021.06.15.448566
 
+<div data-badge-type="2" data-doi="10.3389/fpls.2021.743782" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Diao X, Zhang H, Tang S, **Schnable JC**, He Q, Gao Y, Luo M, Jia G, Feng B, Zhi H (2021) "[Genome-wide DNA polymorphism analysis and molecular marker development for the *Setaria italica* variety ‘SSR41’ and positional cloning of the Setaria white leaf sheath gene SiWLS1.](https://doi.org/10.3389/fpls.2021.743782)" *Frontiers in Plant Science* doi: 10.3389/fpls.2021.743782
 
 <div data-badge-type="2" data-doi="10.1002/ppj2.20022" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
@@ -48,7 +50,7 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1094/PHYTO-04-21-0160-R" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Sun G**, **Mural RV**, **Turkus JD**, **Schnable JC** (2021) "[Quantitative resistance loci to southern rust mapped in a temperate maize diversity panel.](https://doi.org/10.1094/PHYTO-04-21-0160-R)" *Phytopathology* doi: doi.org/10.1094/PHYTO-04-21-0160-R *bioRxiv* doi: 10.1101/2021.04.02.438220
 
-<div data-badge-type="2" data-doi="10.1101/2020.10.27.355495" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+<div data-badge-type="2" data-doi="10.1093/genetics/iyab087" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Mural RV**, **Grzybowski M**, **Miao C**, **Damke A**, Sapkota S, Boyles RE, Salas Fernandez MG, Schnable PS, **Sigmon B**, Kresovich S, **Schnable JC** (2021) "[Meta-analysis identifies pleiotropic loci controlling phenotypic trade-offs in sorghum.](https://doi.org/10.1093/genetics/iyab087)" *Genetics* doi: 10.1093/genetics/iyab087 *bioRxiv* doi: 10.1101/2020.10.27.355495
 
 <div data-badge-type="2" data-doi="10.1016/j.xplc.2021.100209" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
