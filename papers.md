@@ -7,6 +7,10 @@ title: Schnable Lab Papers
 
 **Preprints**
 
+<div data-badge-type="2" data-doi="10.1101/2022.01.28.478212" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Sun G**, Yu H, Wang P, Lopez-Guerrero MG, **Mural RV**, **Mizero ON**, **Grzybowski M**, Song B, van Dijk K, Schachtman DP, Zhang C, **Schnable JC** [A role for heritable transcriptomic variation in maize adaptation to temperate environments
+](https://doi.org/10.1101/2022.01.28.478212) *bioRxiv* doi: 10.1101/2022.01.28.478212
+
 <div data-badge-type="2" data-doi="10.1101/2021.12.22.473950" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Boatwright JL, Sapkota S, **Jin H**, **Schnable JC**, Brenton Z, Boyles R, Kresovich S "[Sorghum Association Panel whole-genome sequencing establishes pivotal resource for dissecting genomic diversity.](https://doi.org/10.1101/2021.12.22.473950)" *bioRxiv* doi: 10.1101/2021.12.22.473950
 
