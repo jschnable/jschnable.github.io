@@ -7,8 +7,11 @@ title: Schnable Lab Papers
 
 **Preprints**
 
+<div data-badge-type="2" data-doi="10.1101/2022.02.09.479784" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Xu G, Lyu J, Obata T, Liu S, Ge Y, **Schnable JC**, Yang J "[A historically balanced locus under recent directional selection in responding to changed nitrogen conditions during modern maize breeding.](https://doi.org/10.1101/2022.02.09.479784)" **bioRxiv** doi: 10.1101/2022.02.09.479784
+
 <div data-badge-type="2" data-doi="10.1101/2022.01.28.478212" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Sun G**, Yu H, Wang P, Lopez-Guerrero MG, **Mural RV**, **Mizero ON**, **Grzybowski M**, Song B, van Dijk K, Schachtman DP, Zhang C, **Schnable JC** [A role for heritable transcriptomic variation in maize adaptation to temperate environments
+* **Sun G**, Yu H, Wang P, Lopez-Guerrero MG, **Mural RV**, **Mizero ON**, **Grzybowski M**, Song B, van Dijk K, Schachtman DP, Zhang C, **Schnable JC** [A role for heritable transcriptomic variation in maize adaptation to temperate environments.
 ](https://doi.org/10.1101/2022.01.28.478212) *bioRxiv* doi: 10.1101/2022.01.28.478212
 
 <div data-badge-type="2" data-doi="10.1101/2021.12.22.473950" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
@@ -32,7 +35,10 @@ title: Schnable Lab Papers
 **2022**
 
 <div data-badge-type="2" data-doi="10.1101/2021.05.24.445447" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Rodene E, Xu G, Delen SP, **Smith C**, Ge Y, **Schnable JC**, Yang J (2021) "[A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify traits associated genetic components in maize.](https://doi.org/10.1101/2021.05.24.445447)" *The Plant Phenome Journal* *(Accepted)* *bioRxiv* doi: 10.1101/2021.05.24.445447
+* Rodene E, Xu G, Delen SP, **Smith C**, Ge Y, **Schnable JC**, Yang J (2022) "[A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify traits associated genetic components in maize.](https://doi.org/10.1101/2021.05.24.445447)" *The Plant Phenome Journal* *(Accepted)* *bioRxiv* doi: 10.1101/2021.05.24.445447
+
+<div data-badge-type="2" data-doi="10.1038/s41467-022-28449-8" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Yu H, Li M, Sandhu J, **Sun G**, **Schnable JC**, Walia H, Xie W, Yu B, Mower JP, Zhang C (2022)"[Pervasive misannotation of microexons that are evolutionarily conserved and crucial for gene function in plants](https://doi.org/10.1038/s41467-022-28449-8)" *Nature Communications* doi: 10.1038/s41467-022-28449-8
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Khan SH, Karkhanis M, Hatasaka B, Tope S, Noh S, Dalapati R, Bulbul A, **Mural RV**, Banerjee A, Kim KH, **Schnable JC**, Ji M, Mastrangelo CH, Zang L, Kim H (2022) "Field Deployment of a Nanogap Gas Sensor For Crop Damage Detection." *MEMS 2022* (Accepted)
