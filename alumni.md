@@ -121,6 +121,7 @@ googlefonts: ["Monoton", "Lobster"]
 
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
+|![Christine Smith](/images/People_Images/Christine.jpg){:width="120"}|Christine Smith|Technician|2018-2022||
 |![Shuying Zhang](/images/People_Images/Shuying.jpg){:width="120"}|Shuying Zhang|Technician|2019-2020|Technician, UNL Biomedical and Obesity Research Core|
 |![Xiangjun Li](/images/People_Images/Xiangjun.jpg){:width="120" align="middle"}|Xiangjun Li|Research Associate|2020|Lab Manager, Hyten Lab, UNL|
 |![Taity Changa Headshot](/images/People_Images/Taity.jpg){:width="120"}|Taity Changa|Volunteer|2019|Postdoc University of Florida|
