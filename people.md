@@ -32,6 +32,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Abaigeal Aydt](/images/People_Images/Abaigeal.jpg){:width="120"}|Abaigeal Aydt|Bachelors Student|||
 |![Carine Mushimiyimana](/images/People_Images/Carine.jpg){:width="120"}|Carine Mushimiyimana|Bachelors Student|||
 |![Marthe Niyingenera](/images/People_Images/Marthe.jpg){:width="120"}|Marthe Niyingenera|Bachelors Student|||
+|![Esther Ingabiribyishaka](/images/People_Images/Esther.jpg){:width="120"}|Esther Ingabiribyishaka|Bachelors Student|||
 
 
 {:.table100.ver1}
