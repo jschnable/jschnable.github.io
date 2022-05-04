@@ -39,6 +39,7 @@ googlefonts: ["Monoton", "Lobster"]
 **PhD Students**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
+|![Santos Headshot](/images/People_Images/Santos.jpg){:width="120"}|Santos Yenandy<br>Barrera Lemus|PhD Student<br>_(co-advised)_|2021| Biotec Research Manager, Plant Sciences inc|
 |![Chenyong Miao](/images/People_Images/Miao_Small.jpg){:width="120"}|[Chenyong Miao](/peoplepages/Chenyong_Miao/)<a href="https://twitter.com/Valiancy_miao"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"><br>0000-0002-0904-3707</a>|PhD Student [CV](/CVs/CMiao.pdf)|2016-2020| Phenomics Data Scientist, Bayer Crop Sciences|
 |![Xiuru Dai](/images/People_Images/Xiuru_small.jpg){:width="120"}|Xiuru Dai<a href="https://twitter.com/Xiuru_Dai"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a><br>0000-0002-2516-1068|Visiting PhD Student<br>Shandong Agricultural University|2018-2019|PhD Student<br>Shandong Agricultural University|
 |![Daniel Carvalho](/images/People_Images/Daniel_Carvalho.jpg){:width="120"}|[Daniel Carvalho](/peoplepages/Daniel_Carvalho/)<a href="https://twitter.com/SciOfCarvalho"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|PhD Student, [CV](/CVs/DCarvalho.pdf)|2015-2019|Postdoc, Federal University of Minas Gerais|
@@ -63,6 +64,7 @@ googlefonts: ["Monoton", "Lobster"]
 **Bachelors Students**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
+|![Remy Hirwa](/images/People_Images/Remy.jpg){:width="120"}|Remy Hirwa|Bachelors Student|Summer 2021-Fall 2021||
 |![Daniel Ngu](/images/People_Images/Danielngu_small.jpg){:width="120"}|Daniel Ngu|Bachelors Student|2014-2017||
 |![Thomas Hoban](/images/People_Images/thoban.jpg){:width="120"}|Thomas Hoban<br>0000-0001-7607-1903|Bachelors Student|2015-2020||
 |![Logan Olson](/images/People_Images/logan.JPG){:width="120"}|Logan Olson|Bachelors Student|2016-2017||
@@ -84,7 +86,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Brian Liu](/images/People_Images/BrianL.jpg){:width="120"}|Xiangdong "Brian" Liu|Bachelors Student<br>Sigmon Group|2018-2019||
 |![Nate Pester](/images/People_Images/NateP.jpg){:width="120"}|Nate Pester<a href="https://twitter.com/NatePester"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Bachelors Student<br>Sigmon Group|2018-2020|Med School, UNMC|
 |![Leighton Wheeler](/images/People_Images/Leighton.jpg){:width="120"}|Leighton Wheeler|Bachelors Student|2019-2020|Med School|
-|![Sierra Conway](/images/People_Images/Sierra.jpg){:width="120"}|Sierra Conway|Bachelors Student|||
+|![Sierra Conway](/images/People_Images/Sierra.jpg){:width="120"}|Sierra Conway|Bachelors Student|2019-2020||
 |![Madison Tunnell](/images/People_Images/Madison.jpg){:width="120"}|Madison Tunnell|REU Student|2020||
 |![Lou Townsend](/images/People_Images/Lou.jpg){:width="120"}|Lou Townsend|Bachelors Student|2019-2020||
 |![Elijah Frost](/images/People_Images/Elijah.jpg){:width="120"}|Elijah Frost|Bachelors Student|2020||
@@ -101,7 +103,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Prince Ngiruwonsanga](/images/People_Images/PrinceN.jpg){:width="120"}|Prince Ngiruwonsanga|Bachelors Student|Summer 2021||
 |![Alexis](/images/People_Images/AlexisF.jpg){:width="120"}|Alexis Finch|Bachelors Student|2020-2021||
 |![Jocelyne Horanituze](/images/People_Images/Jocelyne.jpg){:width="120"}|Jocelyne Horanituze|Bachelors Student|2020-2021||
-|![Grace Carey](/images/People_Images/GraceC.jpg){:width="120"}|Grace Carey|Bachelors Student|||
+|![Grace Carey](/images/People_Images/GraceC.jpg){:width="120"}|Grace Carey|Bachelors Student|Summer 2021||
 
 {:.table100.ver1}
 
