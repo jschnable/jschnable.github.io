@@ -11,7 +11,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Marcin Grzybowski Headshot](/images/People_Images/Marcin.jpg){:width="120" align="middle"}|[Marcin Grzybowski](/peoplepages/Marcin_Grzybowski/)|Postdoctoral Scholar||0000-0002-6303-5433|
 |![Ravi Mural Headshot](/images/People_Images/Ravi.jpg){:width="120" align="middle"}|[Ravi Mural](/peoplepages/Ravi_Mural/)|Postdoctoral Scholar||0000-0002-5489-9918|
 |![Vladimir Headshot](/images/People_Images/Vlad.jpg){:width="120" align="middle"}|Jorge Vladimir Torres-Rodriguez|Postdoctoral Scholar||0000-0001-6056-3452||
-|![Deniz Headshot](/images/People_Images/Deniz2.jpg){:width="120" align="middle"}|[Deniz Istipliler](/peoplepages/Deniz_Istipiller/)|Postdoctoral Scholar||0000-0002-0887-1121||
+|![Deniz Headshot](/images/People_Images/Deniz2.PNG){:width="120" align="middle"}|[Deniz Istipliler](/peoplepages/Deniz_Istipiller/)|Postdoctoral Scholar||0000-0002-0887-1121||
 |![Jon Turkus](/images/People_Images/JonT.jpg){:width="120"}|Jon Turkus|Technician|||
 |![Jill Hochstein](/images/People_Images/Jill.jpg){:width="120"}|[Jill Hochstein](/peoplepages/Jill_Hochstein/)<a href="https://twitter.com/jara12"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Technical Project Manager|||
 |![Fanyi Li](/images/People_Images/Fangyi.jpg){:width="120"}|Fangyi Li|PhD Student<br>_(co-advised)_|||
