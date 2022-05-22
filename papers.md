@@ -7,6 +7,10 @@ title: Schnable Lab Papers
 
 **Preprints**
 
+* **Mural RV**, **Sun G**, **Grzybowski M**, **Tross MC**, **Jin H**, **Smith C**, Newton L, Andorf CM, Woodhouse MR, Thompson AM, **Sigmon B**, **Schnable JC** "[Association mapping across a multitude of traits collected in diverse environments identifies pleiotropic loci in maize.](https://doi.org/10.1101/2022.02.25.480753)" *bioRxiv* doi: 10.1101/2022.02.25.480753
+
+* Yang Q, Van Haute M, **Korth N**, Sattler S, Toy J, Rose D, **Schnable JC**, Benson A "[Complex trait analysis of human gut microbiome-active traits in Sorghum bicolor: a new category of human health traits in food crops.](https://doi.org/10.21203/rs.3.rs-1490527/v1)" *Research Square* doi: 10.21203/rs.3.rs-1490527/v1
+
 <div data-badge-type="2" data-doi="10.1101/2022.02.09.479784" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Xu G, Lyu J, Obata T, Liu S, Ge Y, **Schnable JC**, Yang J "[A historically balanced locus under recent directional selection in responding to changed nitrogen conditions during modern maize breeding.](https://doi.org/10.1101/2022.02.09.479784)" *bioRxiv* doi: 10.1101/2022.02.09.479784
 
@@ -40,7 +44,7 @@ title: Schnable Lab Papers
 * Yu H, Li M, Sandhu J, **Sun G**, **Schnable JC**, Walia H, Xie W, Yu B, Mower JP, Zhang C (2022) "[Pervasive misannotation of microexons that are evolutionarily conserved and crucial for gene function in plants.](https://doi.org/10.1038/s41467-022-28449-8)" *Nature Communications* doi: 10.1038/s41467-022-28449-8
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Khan SH, Karkhanis M, Hatasaka B, Tope S, Noh S, Dalapati R, Bulbul A, **Mural RV**, Banerjee A, Kim KH, **Schnable JC**, Ji M, Mastrangelo CH, Zang L, Kim H (2022) "Field Deployment of a Nanogap Gas Sensor For Crop Damage Detection." *MEMS 2022* (Accepted)
+* Khan SH, Karkhanis M, Hatasaka B, Tope S, Noh S, Dalapati R, Bulbul A, **Mural RV**, Banerjee A, Kim KH, **Schnable JC**, Ji M, Mastrangelo CH, Zang L, Kim H (2022) "[Field Deployment of a nanogap gas sensor for crop damage detection.](https://doi.org/10.1109/MEMS51670.2022.9699614)" *MEMS 2022* doi: 10.1109/MEMS51670.2022.9699614
 
 **2021**
 
