@@ -7,8 +7,10 @@ title: Schnable Lab Papers
 
 **Preprints**
 
+<div data-badge-type="2" data-doi="10.1101/2022.02.25.480753" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Mural RV**, **Sun G**, **Grzybowski M**, **Tross MC**, **Jin H**, **Smith C**, Newton L, Andorf CM, Woodhouse MR, Thompson AM, **Sigmon B**, **Schnable JC** "[Association mapping across a multitude of traits collected in diverse environments identifies pleiotropic loci in maize.](https://doi.org/10.1101/2022.02.25.480753)" *bioRxiv* doi: 10.1101/2022.02.25.480753
 
+<div data-badge-type="2" data-doi="0.21203/rs.3.rs-1490527/v1" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Yang Q, Van Haute M, **Korth N**, Sattler S, Toy J, Rose D, **Schnable JC**, Benson A "[Complex trait analysis of human gut microbiome-active traits in Sorghum bicolor: a new category of human health traits in food crops.](https://doi.org/10.21203/rs.3.rs-1490527/v1)" *Research Square* doi: 10.21203/rs.3.rs-1490527/v1
 
 <div data-badge-type="2" data-doi="10.1101/2022.02.09.479784" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
@@ -36,6 +38,9 @@ title: Schnable Lab Papers
 * Zhang Z, Chen C, Rutkoski J, **Schnable JC**, Murray S, Wang L, Jin X, Stich B, Crossa J, Hayes B. "[Harnessing agronomics through genomics and phenomics in plant breeding: a review](https://www.preprints.org/manuscript/202103.0519/v1)" *preprints.org* doi: 10.20944/preprints202103.0519.v1
 
 **2022**
+
+<div data-badge-type="2" data-doi="10.1016/j.molp.2022.04.003" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Mural RV**, **Schnable JC** (2022) "[Can the grains offer each other helping hands? Convergent molecular mechanisms associated with domestication and crop improvement in rice and maize.](https://doi.org/10.1016/j.molp.2022.04.003)" *Molecular Plant* doi: 10.1016/j.molp.2022.04.003
 
 <div data-badge-type="2" data-doi="10.1002/ppj2.20030" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Rodene E, Xu G, Delen SP, **Smith C**, Ge Y, **Schnable JC**, Yang J (2022) "[A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify traits associated genetic components in maize.](https://doi.org/10.1002/ppj2.20030)" *The Plant Phenome Journal* doi: 10.1002/ppj2.20030 *bioRxiv* doi: 10.1101/2021.05.24.445447
