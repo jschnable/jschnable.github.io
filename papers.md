@@ -19,9 +19,6 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/2022.01.28.478212" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Sun G**, Yu H, Wang P, Lopez-Guerrero MG, **Mural RV**, **Mizero ON**, **Grzybowski M**, Song B, van Dijk K, Schachtman DP, Zhang C, **Schnable JC** [A role for heritable transcriptomic variation in maize adaptation to temperate environments.](https://doi.org/10.1101/2022.01.28.478212) *bioRxiv* doi: 10.1101/2022.01.28.478212
 
-<div data-badge-type="2" data-doi="10.1101/2021.12.22.473950" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Boatwright JL, Sapkota S, **Jin H**, **Schnable JC**, Brenton Z, Boyles R, Kresovich S "[Sorghum Association Panel whole-genome sequencing establishes pivotal resource for dissecting genomic diversity.](https://doi.org/10.1101/2021.12.22.473950)" *bioRxiv* doi: 10.1101/2021.12.22.473950
-
 <div data-badge-type="2" data-doi="10.1002/essoar.10508826.1" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Tross MC**, **Grzybowski M**, **Nishimwe AV**, **Sun G**, Ge Y, **Schnable JC** "[Data driven trait quantification across a maize diversity panel using hyperspectral leaf reflectance.](https://doi.org/10.1002/essoar.10508826.1)" *ESSOAr* doi: 10.1002/essoar.10508826.1
 
@@ -38,6 +35,9 @@ title: Schnable Lab Papers
 * Zhang Z, Chen C, Rutkoski J, **Schnable JC**, Murray S, Wang L, Jin X, Stich B, Crossa J, Hayes B. "[Harnessing agronomics through genomics and phenomics in plant breeding: a review](https://www.preprints.org/manuscript/202103.0519/v1)" *preprints.org* doi: 10.20944/preprints202103.0519.v1
 
 **2022**
+
+<div data-badge-type="2" data-doi="10.1101/2021.12.22.473950" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Boatwright L, Sapkota S, **Jin H**, **Schnable JC**, Brenton Z, Boyles R, Kresovich S (2022) Sorghum association panel whole-genome sequencing establishes pivotal resource for dissecting genomic diversity. *The Plant Journal* (Accepted) *bioRxiv* doi: [10.1101/2021.12.22.473950](https://doi.org/10.1101/2021.12.22.473950)
 
 <div data-badge-type="2" data-doi="10.1016/j.molp.2022.04.003" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Mural RV**, **Schnable JC** (2022) "[Can the grains offer each other helping hands? Convergent molecular mechanisms associated with domestication and crop improvement in rice and maize.](https://doi.org/10.1016/j.molp.2022.04.003)" *Molecular Plant* doi: 10.1016/j.molp.2022.04.003
