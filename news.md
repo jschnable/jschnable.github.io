@@ -3,6 +3,33 @@ layout: page
 title: Schnable Lab News
 
 ---
+
+### 2022 May
+
+* Successfully wrap up planting. We're growing diversity panels, a Genomes to Fields site, and a nitrogen response study here in Lincoln, with bigger trials through collaborators in North Platte and Scottsbluff.
+
+* Aime Valentin graduates. Ryleigh Grove returns for a second summer in our lab.
+
+* James Schnable flies to Michigan for a [grad student organized symposium on "Beating Big Data Bottlenecks"](https://ggs.natsci.msu.edu/events/symposia/2022-precision-genomics-beating-big-data-bottlenecks/).
+
+### 2022 April
+
+* James Schnable presents at [Nexus Informatics in Kansas City](https://bionexuskc.org/event/nexus-informatics-conference-3/). His first time presenting in person in 27 months.
+
+### 2022 March
+
+* Michael Tross gives a talk at the Maize Genetics Conference.
+
+* Christine Smith's last day in lab. We're heading into our fifth field season and the first without a field manager.
+
+### 2022 February
+
+* Aime Valentin and Michael Tross both present in person at NAPPN in Athens, Georgia. First in person presentations by any member of the lab in 24 months.
+
+### 2022 January
+
+* Nate Korth presents in person at Plant and Animal Genome in San Diego.
+
 ### 2021 November
 
 * On November 11th the very last plant of our 2021 field season is harvested. Really happy to be out of the field.
