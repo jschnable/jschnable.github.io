@@ -3,7 +3,6 @@ layout: page
 title: FAQ About Frontiers Popcorn Paper
 ---
 
-## FAQ About Frontiers Popcorn Paper
 
 ## Can I buy Prof. Holding’s new popcorn?
 
