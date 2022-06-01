@@ -7,9 +7,9 @@ googlefonts: ["Monoton", "Lobster"]
 
 | | **Name** | **Title**| **CV** | **ORCID**
 |![James Schnable](/images/People_Images/jamesschnable.jpg){:width="120" align="middle"}|[James Schnable](/peoplepages/jschnable/)<a href="https://twitter.com/szintri"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Associate Professor|[CV](/CVs/JSchnable.pdf)|0000-0001-6739-5527|
-|![Brandi Sigmon](/images/People_Images/BSigmon.jpg){:width="120" align="middle"}|[Brandi Sigmon](/peoplepages/Brandi_Sigmon/)|Assistant Professor of Practice<br>UNL Microbiology Program<br>Acting Director||0000-0003-3914-6894|
+|![Brandi Sigmon](/images/People_Images/BSigmon.jpg){:width="120" align="middle"}|[Brandi Sigmon](/peoplepages/Brandi_Sigmon/)|Assistant Professor of Practice<br>Dept. Plant Pathology||0000-0003-3914-6894|
+|![Ravi Mural Headshot](/images/People_Images/Ravi.jpg){:width="120" align="middle"}|[Ravi Mural](/peoplepages/Ravi_Mural/)|Research Assistant Professor<br>Center for Plant Science Innovation||0000-0002-5489-9918|
 |![Marcin Grzybowski Headshot](/images/People_Images/Marcin.jpg){:width="120" align="middle"}|[Marcin Grzybowski](/peoplepages/Marcin_Grzybowski/)|Postdoctoral Scholar||0000-0002-6303-5433|
-|![Ravi Mural Headshot](/images/People_Images/Ravi.jpg){:width="120" align="middle"}|[Ravi Mural](/peoplepages/Ravi_Mural/)|Postdoctoral Scholar||0000-0002-5489-9918|
 |![Vladimir Headshot](/images/People_Images/Vlad.jpg){:width="120" align="middle"}|Jorge Vladimir Torres-Rodriguez|Postdoctoral Scholar||0000-0001-6056-3452||
 |![Deniz Headshot](/images/People_Images/Deniz2.PNG){:width="120" align="middle"}|[Deniz Istipliler](/peoplepages/Deniz_Istipiller/)|Postdoctoral Scholar||0000-0002-0887-1121||
 |![Jon Turkus](/images/People_Images/JonT.jpg){:width="120"}|Jon Turkus|Technician|||
