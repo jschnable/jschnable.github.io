@@ -18,19 +18,17 @@ googlefonts: ["Monoton", "Lobster"]
 |![Hongyu Jin Headshot](/images/People_Images/Hongyu.jpg){:width="120"}|[Hongyu Jin](/peoplepages/Hongyu_Jin/)|PhD Student<br>_(co-advised)_|||
 |![Michael Tross Headshot](/images/People_Images/MichaelT.jpg){:width="120"}|[Michael Tross](/peoplepages/Michael_Tross/)|PhD Student||0000-0002-4410-9679|
 |![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|PhD Student<br>_(co-advised)_|||
-|![Kahheetah Barnoskie](/images/People_Images/Kahheetah.jpg){:width="120"}|Kahheetah Barnoskie|MS Student|||
+|![Kyle Linders]|Kyle Linders|MS Student<br>_(co-advised by Prof. Sigmon)_|||
+|![Clay Christenson](/images/People_Images/Clay.jpg){:width="120"}|Clay Christenson|Tech|||
 |![Daniella Norah Tumisiine](/images/People_Images/Norah.jpg){:width="120"}|Daniella Norah Tumusiine|Bachelors Student|||
 |![Isabel Sigmon](/images/People_Images/isabel.jpg){:width="120"}|Isabel Sigmon|Bachelors Student|||
-|![Aime Nishimwe](/images/People_Images/Aime.jpg){:width="120"}|Aime Nishimwe|CUSP Bachelors Student<a href="https://twitter.com/AimeValentin"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|[CV](/CVs/Aime Valentin Nishimwe.pdf)|0000-0003-0074-9364|
-|![Alice Guo](/images/People_Images/AliceG.jpg){:width="120"}|Alice Guo|Bachelors Student|||
 |![Alliance Igiraneza](/images/People_Images/Alliance.jpg){:width="120"}|Alliance Igiraneza|Bachelors Student|||
 |![Han Tran](/images/People_Images/HanT.jpg){:width="120"}|Han Tran|Bachelors Student|||
-|![Clay Christenson](/images/People_Images/Clay.jpg){:width="120"}|Clay Christenson|Bachelors Student|||
-|![Lionel Kagaba](/images/People_Images/Lionel.jpg){:width="120"}|Lionel Kagaba|Bachelors Student|||
-|![Abaigeal Aydt](/images/People_Images/Abaigeal.jpg){:width="120"}|Abaigeal Aydt|Bachelors Student|||
-|![Carine Mushimiyimana](/images/People_Images/Carine.jpg){:width="120"}|Carine Mushimiyimana|Bachelors Student|||
-|![Marthe Niyingenera](/images/People_Images/Marthe.jpg){:width="120"}|Marthe Niyingenera|Bachelors Student|||
-|![Esther Ingabiribyishaka](/images/People_Images/Esther.jpg){:width="120"}|Esther Ingabiribyishaka|Bachelors Student|||
+|![Brooke Bouwens](/images/People_Images/Brooke.jpg){:width="120"}|Brooke Bouwens|REEEU Student|||
+|![Alexa Nolan](/images/People_Images/AlexaN.jpg){:width="120"}|Alexa Nolan|REEEU Student|||
+|![Ryleigh](/images/People_Images/Ryleigh.jpg){:width="120"}|Ryleigh Grove|HS Student|||
+|![Alice Guo](/images/People_Images/AliceG.jpg){:width="120"}|Alice Guo|Bachelors Student|||
+
 
 
 {:.table100.ver1}
