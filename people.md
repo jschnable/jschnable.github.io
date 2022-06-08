@@ -18,7 +18,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Hongyu Jin Headshot](/images/People_Images/Hongyu.jpg){:width="120"}|[Hongyu Jin](/peoplepages/Hongyu_Jin/)|PhD Student<br>_(co-advised)_|||
 |![Michael Tross Headshot](/images/People_Images/MichaelT.jpg){:width="120"}|[Michael Tross](/peoplepages/Michael_Tross/)|PhD Student||0000-0002-4410-9679|
 |![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|PhD Student<br>_(co-advised)_|||
-|![Kyle Linders]|Kyle Linders|MS Student<br>_(co-advised by Prof. Sigmon)_|||
+|![Kyle Linders](/images/People_Images/KyleL.jpg){:width="120"}|Kyle Linders|MS Student<br>_(co-advised by Prof. Sigmon)_|||
 |![Clay Christenson](/images/People_Images/Clay.jpg){:width="120"}|Clay Christenson|Tech|||
 |![Daniella Norah Tumisiine](/images/People_Images/Norah.jpg){:width="120"}|Daniella Norah Tumusiine|Bachelors Student|||
 |![Isabel Sigmon](/images/People_Images/isabel.jpg){:width="120"}|Isabel Sigmon|Bachelors Student|||
