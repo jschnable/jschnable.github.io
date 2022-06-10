@@ -7,7 +7,10 @@ title: Schnable Lab Papers
 
 **Preprints**
 
-<div data-badge-type="2" data-doi="0.21203/rs.3.rs-1490527/v1" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+<div data-badge-type="2" data-doi="10.1101/2022.06.08.495271" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Grzybowski M**, **Zweiner M**, **Jin H**, Wijewardane NK, Atefi A, Naldrett MJ, Alvarez S, Ge Y, **Schnable JC** [Variation in morpho-physiological and metabolic responses to low nitrogen stress across the sorghum association panel.](https://doi.org/10.1101/2022.06.08.495271) *bioRxiv* doi: 10.1101/2022.06.08.495271
+
+<div data-badge-type="2" data-doi="10.21203/rs.3.rs-1490527/v1" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Yang Q, Van Haute M, **Korth N**, Sattler S, Toy J, Rose D, **Schnable JC**, Benson A "[Complex trait analysis of human gut microbiome-active traits in Sorghum bicolor: a new category of human health traits in food crops.](https://doi.org/10.21203/rs.3.rs-1490527/v1)" *Research Square* doi: 10.21203/rs.3.rs-1490527/v1
 
 <div data-badge-type="2" data-doi="10.1101/2022.02.09.479784" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
@@ -35,6 +38,9 @@ title: Schnable Lab Papers
 
 <div data-badge-type="2" data-doi="10.1101/2022.02.25.480753" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Mural RV**, **Sun G**, **Grzybowski M**, **Tross MC**, **Jin H**, **Smith C**, Newton L, Andorf CM, Woodhouse MR, Thompson AM, **Sigmon B**, **Schnable JC** (2022) "[Association mapping across a multitude of traits collected in diverse environments identifies pleiotropic loci in maize.](https://doi.org/10.1101/2022.02.25.480753)" *Gigascience* (Accepted) *bioRxiv* doi: 10.1101/2022.02.25.480753
+
+<div data-badge-type="2" data-doi="10.3389/fmicb.2022.921456" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Korth N**, Parsons L, Van Haute M, Yang Q, Hurst JP, **Schnable JC**, Holding DR, Benson AK (2022) [The unique seed protein composition of quality protein popcorn promotes growth of beneficial bacteria from the human gut microbiome.](https://www.frontiersin.org/articles/10.3389/fmicb.2022.921456/abstract) *Frontiers in Microbiology*  doi: 10.3389/fmicb.2022.921456
 
 <div data-badge-type="2" data-doi="10.1101/2021.12.22.473950" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Boatwright L, Sapkota S, **Jin H**, **Schnable JC**, Brenton Z, Boyles R, Kresovich S (2022) [Sorghum association panel whole-genome sequencing establishes pivotal resource for dissecting genomic diversity.](https://doi.org/10.1111/tpj.15853) *The Plant Journal* doi: 10.1111/tpj.15853 *bioRxiv* doi: [10.1101/2021.12.22.473950](https://doi.org/10.1101/2021.12.22.473950)
