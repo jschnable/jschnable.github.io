@@ -36,6 +36,9 @@ title: Schnable Lab Papers
 
 **2022**
 
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Meier M, Xu G, Lopez-Guerrero, Li G, **Smith C**, **Sigmon B**, Herr J, Alfano J, Ge Y, **Schnable JC**, Yang J (2022) "Maize root-associated microbes likely under adaptive selection by the host to enhance phenotypic performance." *eLife* (Accepted)
+
 <div data-badge-type="2" data-doi="10.1101/2022.02.25.480753" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Mural RV**, **Sun G**, **Grzybowski M**, **Tross MC**, **Jin H**, **Smith C**, Newton L, Andorf CM, Woodhouse MR, Thompson AM, **Sigmon B**, **Schnable JC** (2022) "[Association mapping across a multitude of traits collected in diverse environments identifies pleiotropic loci in maize.](https://doi.org/10.1101/2022.02.25.480753)" *Gigascience* (Accepted) *bioRxiv* doi: 10.1101/2022.02.25.480753
 
