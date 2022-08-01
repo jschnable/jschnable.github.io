@@ -10,6 +10,9 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/2022.06.08.495271" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Grzybowski M**, **Zweiner M**, **Jin H**, Wijewardane NK, Atefi A, Naldrett MJ, Alvarez S, Ge Y, **Schnable JC** [Variation in morpho-physiological and metabolic responses to low nitrogen stress across the sorghum association panel.](https://doi.org/10.1101/2022.06.08.495271) *bioRxiv* doi: 10.1101/2022.06.08.495271
 
+<div data-badge-type="2" data-doi="10.1101/2022.07.29.502051" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Kick D, Wallace J, **Schnable JC**, Kolkman JM, Alaca B, Beissinger TM, Ertl D, Flint-Garcia S, Gage JL, Hirsch CN, Knoll JE, de Leon N, Lima DC, Moreta D, Singh MP, Weldekidan T, Washburn JD [Yield prediction through integration of genetic, environment, and management data through deep learning.](https://doi.org/10.1101/2022.07.29.502051) *bioRxiv* doi: 10.1101/2022.07.29.502051
+
 <div data-badge-type="2" data-doi="10.21203/rs.3.rs-1490527/v1" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Yang Q, Van Haute M, **Korth N**, Sattler S, Toy J, Rose D, **Schnable JC**, Benson A "[Complex trait analysis of human gut microbiome-active traits in Sorghum bicolor: a new category of human health traits in food crops.](https://doi.org/10.21203/rs.3.rs-1490527/v1)" *Research Square* doi: 10.21203/rs.3.rs-1490527/v1
 
