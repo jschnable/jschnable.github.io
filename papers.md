@@ -25,9 +25,6 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1002/essoar.10508826.1" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Tross MC**, **Grzybowski M**, **Nishimwe AV**, **Sun G**, Ge Y, **Schnable JC** "[Data driven trait quantification across a maize diversity panel using hyperspectral leaf reflectance.](https://doi.org/10.1002/essoar.10508826.1)" *ESSOAr* doi: 10.1002/essoar.10508826.1
 
-<div data-badge-type="2" data-doi="10.1101/2021.11.01.466815" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Meier MA, Xu G, Lopez-Guerrero MG, Li G, **Smith C**, **Sigmon B**, Herr JR, Alfano J, Ge Y, **Schnable JC**, Yang J "[Maize root-associated microbes likely under adaptive selection by the host to enhance phenotypic performance.](https://doi.org/10.1101/2021.11.01.466815)" *bioRxiv* doi: 10.1101/2021.11.01.466815
-
 <div data-badge-type="2" data-doi="10.1101/2021.08.18.456832" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Sun G**, Wase N, Su S ... **Foltz A** (16th of 25 authors) ... **Sigmon B**, Yu B, Obata T, Schmutz J, **Schnable JC** "[The genome of stress tolerant crop wild relative *Paspalum vaginatum* leads to increased biomass productivity in the crop *Zea mays*.](https://doi.org/10.1101/2021.08.18.456832)" *bioRxiv* doi: 10.1101/2021.08.18.456832
 
@@ -40,10 +37,16 @@ title: Schnable Lab Papers
 **2022**
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Meier M, Xu G, Lopez-Guerrero, Li G, **Smith C**, **Sigmon B**, Herr J, Alfano J, Ge Y, **Schnable JC**, Yang J (2022) "[Maize root-associated microbes likely under adaptive selection by the host to enhance phenotypic performance.](https://doi.org/10.7554/eLife.75790)" *eLife* doi: 10.7554/eLife.75790
+* Khound R, **Sun G**, **Mural RV**, **Schnable JC**, Santra D (2022) "SNP Discovery in Proso millet (**Panicum miliaceum** L.) using low-pass genome sequencing." *Plant Direct* *(Accepted)*
+
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Zhang K, Yang Y, Zhang X, Zhang L, Fu Y, Guo Z, Chen S, Wu J, **Schnable JC**, Yi K, Wang X, Cheng F (2022) "The genome of *Orychophragmus violaceus* provides genomic insights into the evolution of Brassicaceae polyploidization and its distinct traits." *Plant Communications* *(Accepted)*
+
+<div data-badge-type="2" data-doi="10.7554/eLife.75790" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Meier M, Xu G, Lopez-Guerrero, Li G, **Smith C**, **Sigmon B**, Herr J, Alfano J, Ge Y, **Schnable JC**, Yang J (2022) "[Maize root-associated microbes likely under adaptive selection by the host to enhance phenotypic performance.](https://doi.org/10.7554/eLife.75790)" *eLife* doi: 10.7554/eLife.75790 *bioRxiv* doi: 10.1101/2021.11.01.466815
 
 <div data-badge-type="2" data-doi="10.1101/2022.02.25.480753" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Mural RV**, **Sun G**, **Grzybowski M**, **Tross MC**, **Jin H**, **Smith C**, Newton L, Andorf CM, Woodhouse MR, Thompson AM, **Sigmon B**, **Schnable JC** (2022) "[Association mapping across a multitude of traits collected in diverse environments identifies pleiotropic loci in maize.](https://doi.org/10.1101/2022.02.25.480753)" *Gigascience* (Accepted) *bioRxiv* doi: 10.1101/2022.02.25.480753
+* **Mural RV**, **Sun G**, **Grzybowski M**, **Tross MC**, **Jin H**, **Smith C**, Newton L, Andorf CM, Woodhouse MR, Thompson AM, **Sigmon B**, **Schnable JC** (2022) "[Association mapping across a multitude of traits collected in diverse environments identifies pleiotropic loci in maize.](https://doi.org/10.1093/gigascience/giac080)" *Gigascience* doi: 10.1093/gigascience/giac080 *bioRxiv* doi: 10.1101/2022.02.25.480753
 
 <div data-badge-type="2" data-doi="10.3389/fmicb.2022.921456" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Korth N**, Parsons L, Van Haute M, Yang Q, Hurst JP, **Schnable JC**, Holding DR, Benson AK (2022) [The unique seed protein composition of quality protein popcorn promotes growth of beneficial bacteria from the human gut microbiome.](https://www.frontiersin.org/articles/10.3389/fmicb.2022.921456/abstract) *Frontiers in Microbiology*  doi: 10.3389/fmicb.2022.921456
@@ -61,7 +64,7 @@ title: Schnable Lab Papers
 * Yu H, Li M, Sandhu J, **Sun G**, **Schnable JC**, Walia H, Xie W, Yu B, Mower JP, Zhang C (2022) "[Pervasive misannotation of microexons that are evolutionarily conserved and crucial for gene function in plants.](https://doi.org/10.1038/s41467-022-28449-8)" *Nature Communications* doi: 10.1038/s41467-022-28449-8
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Khan SH, Karkhanis M, Hatasaka B, Tope S, Noh S, Dalapati R, Bulbul A, **Mural RV**, Banerjee A, Kim KH, **Schnable JC**, Ji M, Mastrangelo CH, Zang L, Kim H (2022) "[Field Deployment of a nanogap gas sensor for crop damage detection.](https://doi.org/10.1109/MEMS51670.2022.9699614)" *MEMS 2022* doi: 10.1109/MEMS51670.2022.9699614
+* Khan SH, Karkhanis M, Hatasaka B, Tope S, Noh S, Dalapati R, Bulbul A, **Mural RV**, Banerjee A, Kim KH, **Schnable JC**, Ji M, Mastrangelo CH, Zang L, Kim H (2022) "[Field deployment of a nanogap gas sensor for crop damage detection.](https://doi.org/10.1109/MEMS51670.2022.9699614)" *MEMS 2022* doi: 10.1109/MEMS51670.2022.9699614
 
 **2021**
 
