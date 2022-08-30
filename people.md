@@ -21,7 +21,6 @@ googlefonts: ["Monoton", "Lobster"]
 |![Nikee Headshot](/images/People_Images/NikeeS.jpg){:width="120" align="middle"}|Nikee Shrestha|PhD Student||||
 |![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|PhD Student<br>_(co-advised)_|||
 |![Kyle Linders](/images/People_Images/KyleL.jpg){:width="120"}|Kyle Linders|MS Student<br>_(co-advised by Prof. Sigmon)_|||
-|![Clay Christenson](/images/People_Images/Clay.jpg){:width="120"}|Clay Christenson|Tech|||
 |![Daniella Norah Tumisiine](/images/People_Images/Norah.jpg){:width="120"}|Daniella Norah Tumusiine|Bachelors Student|||
 |![Isabel Sigmon](/images/People_Images/isabel.jpg){:width="120"}|Isabel Sigmon|Bachelors Student|||
 |![Alliance Igiraneza](/images/People_Images/Alliance.jpg){:width="120"}|Alliance Igiraneza|Bachelors Student|||
