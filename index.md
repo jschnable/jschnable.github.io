@@ -56,7 +56,7 @@ bigimg:
  ]}
 </script>
 
-![The Whole Schnable Lab](/images/lab2022.jpg){:width="900" align="middle" }
+![The Whole Schnable Lab](/images/lab2022.jpeg){:width="900" align="middle" }
 
 While individuals specialize, each member of the lab gets at least some experience writing computer code, employing molecular biology techniques, working with living plants in the greenhouse, and conducting fieldwork. As a result of the diverse set of collaborators we work with -- applied plant breeders, biochemists, engineers, computer scientists, food scientists, and statisticians -- each member of the lab also gains experience communicating both within and across scientific disciplines, as well as to diverse non-scientific audiences. This cross training produces scientists who are equipped to both understand and address the complex and far-reaching problems our world will face in coming decades.
 
