@@ -18,7 +18,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Fanyi Li](/images/People_Images/Fangyi.jpg){:width="120"}|Fangyi Li|PhD Student<br>_(co-advised)_|||
 |![Hongyu Jin Headshot](/images/People_Images/Hongyu.jpg){:width="120"}|[Hongyu Jin](/peoplepages/Hongyu_Jin/)|PhD Student<br>_(co-advised)_|||
 |![Michael Tross Headshot](/images/People_Images/MichaelT.jpg){:width="120"}|[Michael Tross](/peoplepages/Michael_Tross/)|PhD Student||0000-0002-4410-9679|
-|![Nikee Headshot](/images/People_Images/NikeeS.jpg){:width="120" align="middle"}|Nikee Shrestha|PhD Student||||
+|![Nikee Headshot](/images/People_Images/NikeeS.jpg){:width="120" align="middle"}|Nikee Shrestha|PhD Student||0000-0003-4195-7549||
 |![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|PhD Student<br>_(co-advised)_|||
 |![Kyle Linders](/images/People_Images/KyleL.jpg){:width="120"}|Kyle Linders|MS Student<br>_(co-advised by Prof. Sigmon)_|||
 |![Daniella Norah Tumisiine](/images/People_Images/Norah.jpg){:width="120"}|Daniella Norah Tumusiine|Bachelors Student|||
