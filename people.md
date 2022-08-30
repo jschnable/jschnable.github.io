@@ -26,8 +26,6 @@ googlefonts: ["Monoton", "Lobster"]
 |![Isabel Sigmon](/images/People_Images/isabel.jpg){:width="120"}|Isabel Sigmon|Bachelors Student|||
 |![Alliance Igiraneza](/images/People_Images/Alliance.jpg){:width="120"}|Alliance Igiraneza|Bachelors Student|||
 |![Han Tran](/images/People_Images/HanT.jpg){:width="120"}|Han Tran|Bachelors Student|||
-|![Brooke Bouwens](/images/People_Images/Brooke.jpg){:width="120"}|Brooke Bouwens|REEEU Student|||
-|![Alexa Nolan](/images/People_Images/AlexaN.jpg){:width="120"}|Alexa Nolan|REEEU Student|||
 |![Ryleigh](/images/People_Images/Ryleigh.jpg){:width="120"}|Ryleigh Grove|HS Student|||
 |![Alice Guo](/images/People_Images/AliceG.jpg){:width="120"}|Alice Guo|Bachelors Student|||
 
