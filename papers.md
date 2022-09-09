@@ -7,9 +7,6 @@ title: Schnable Lab Papers
 
 **Preprints**
 
-<div data-badge-type="2" data-doi="10.1101/2022.06.08.495271" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Grzybowski M**, **Zweiner M**, **Jin H**, Wijewardane NK, Atefi A, Naldrett MJ, Alvarez S, Ge Y, **Schnable JC** [Variation in morpho-physiological and metabolic responses to low nitrogen stress across the sorghum association panel.](https://doi.org/10.1101/2022.06.08.495271) *bioRxiv* doi: 10.1101/2022.06.08.495271
-
 <div data-badge-type="2" data-doi="10.1101/2022.07.29.502051" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Kick D, Wallace J, **Schnable JC**, Kolkman JM, Alaca B, Beissinger TM, Ertl D, Flint-Garcia S, Gage JL, Hirsch CN, Knoll JE, de Leon N, Lima DC, Moreta D, Singh MP, Weldekidan T, Washburn JD [Yield prediction through integration of genetic, environment, and management data through deep learning.](https://doi.org/10.1101/2022.07.29.502051) *bioRxiv* doi: 10.1101/2022.07.29.502051
 
@@ -36,8 +33,14 @@ title: Schnable Lab Papers
 
 **2022**
 
+<div data-badge-type="2" data-doi="10.1101/2022.06.08.495271" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Grzybowski M**, **Zweiner M**, **Jin H**, Wijewardane NK, Atefi A, Naldrett MJ, Alvarez S, Ge Y, **Schnable JC** (2022) [Variation in morpho-physiological and metabolic responses to low nitrogen stress across the sorghum association panel.](https://doi.org/10.1101/2022.06.08.495271) *BMC Plant Biology* *(Accepted)* *bioRxiv* doi: 10.1101/2022.06.08.495271
+
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Khound R, **Sun G**, **Mural RV**, **Schnable JC**, Santra D (2022) "SNP Discovery in Proso millet (**Panicum miliaceum** L.) using low-pass genome sequencing." *Plant Direct* *(Accepted)*
+* Li D, Bai D, Tian Y, Li Y, Zhao C, Wang Q, Gou S, Gu Y, Luan X, Wang R, Yang J, Hawkesford MJ, **Schnable JC**, Jin X, Qiu L (2022) "Time series canopy phenotyping enables the identification of genetic variants controlling dynamic phenotypes in soybean." *Journal of Integrative Plant Biology* *(Accepted)*
+
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Khound R, **Sun G**, **Mural RV**, **Schnable JC**, Santra D (2022) "SNP Discovery in Proso millet (*Panicum miliaceum* L.) using low-pass genome sequencing." *Plant Direct* *(Accepted)*
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Zhang K, Yang Y, Zhang X, Zhang L, Fu Y, Guo Z, Chen S, Wu J, **Schnable JC**, Yi K, Wang X, Cheng F (2022) "The genome of *Orychophragmus violaceus* provides genomic insights into the evolution of Brassicaceae polyploidization and its distinct traits." *Plant Communications* *(Accepted)*
