@@ -18,15 +18,13 @@ googlefonts: ["Monoton", "Lobster"]
 |![Fanyi Li](/images/People_Images/Fangyi.jpg){:width="120"}|Fangyi Li|PhD Student<br>_(co-advised)_|||
 |![Hongyu Jin Headshot](/images/People_Images/Hongyu.jpg){:width="120"}|[Hongyu Jin](/peoplepages/Hongyu_Jin/)|PhD Student<br>_(co-advised)_|||
 |![Michael Tross Headshot](/images/People_Images/MichaelT.jpg){:width="120"}|[Michael Tross](/peoplepages/Michael_Tross/)|PhD Student||0000-0002-4410-9679|
+|![Nikee Headshot](/images/People_Images/NikeeS.jpg){:width="120" align="middle"}|Nikee Shrestha|PhD Student||0000-0003-4195-7549||
 |![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|PhD Student<br>_(co-advised)_|||
 |![Kyle Linders](/images/People_Images/KyleL.jpg){:width="120"}|Kyle Linders|MS Student<br>_(co-advised by Prof. Sigmon)_|||
-|![Clay Christenson](/images/People_Images/Clay.jpg){:width="120"}|Clay Christenson|Tech|||
 |![Daniella Norah Tumisiine](/images/People_Images/Norah.jpg){:width="120"}|Daniella Norah Tumusiine|Bachelors Student|||
 |![Isabel Sigmon](/images/People_Images/isabel.jpg){:width="120"}|Isabel Sigmon|Bachelors Student|||
 |![Alliance Igiraneza](/images/People_Images/Alliance.jpg){:width="120"}|Alliance Igiraneza|Bachelors Student|||
 |![Han Tran](/images/People_Images/HanT.jpg){:width="120"}|Han Tran|Bachelors Student|||
-|![Brooke Bouwens](/images/People_Images/Brooke.jpg){:width="120"}|Brooke Bouwens|REEEU Student|||
-|![Alexa Nolan](/images/People_Images/AlexaN.jpg){:width="120"}|Alexa Nolan|REEEU Student|||
 |![Ryleigh](/images/People_Images/Ryleigh.jpg){:width="120"}|Ryleigh Grove|HS Student|||
 |![Alice Guo](/images/People_Images/AliceG.jpg){:width="120"}|Alice Guo|Bachelors Student|||
 
