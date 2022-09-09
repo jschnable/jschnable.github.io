@@ -104,6 +104,8 @@ googlefonts: ["Monoton", "Lobster"]
 |![Alexis](/images/People_Images/AlexisF.jpg){:width="120"}|Alexis Finch|Bachelors Student|2020-2021||
 |![Jocelyne Horanituze](/images/People_Images/Jocelyne.jpg){:width="120"}|Jocelyne Horanituze|Bachelors Student|2020-2021||
 |![Grace Carey](/images/People_Images/GraceC.jpg){:width="120"}|Grace Carey|Bachelors Student|Summer 2021||
+|![Brooke Bouwens](/images/People_Images/Brooke.jpg){:width="120"}|Brooke Bouwens|REEEU Student|Summer 2022||
+|![Alexa Nolan](/images/People_Images/AlexaN.jpg){:width="120"}|Alexa Nolan|REEEU Student|Summer 2022||
 
 {:.table100.ver1}
 
@@ -130,6 +132,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Sarah Johnson](/images/People_Images/Sarah.jpg){:width="120"}|Sarah Johnson|Rotating PhD Student<br>Complex Biosystems|Spring 2017|Graduate Student, Clemente & Hyten Labs|
 |![Michael Richter Headshot](/images/People_Images/MichaelR.jpg){:width="120"}|Michael Richter<br>0000-0001-9702-4292|PhD Student<br>_(rotating)_|Spring 2020|PhD Student, Wilson Lab|
 |![Lei Tian](/images/People_Images/Lei_Tian_Small.JPG){:width="120" align="middle"}|Lei Tian|Visiting PhD Student<br>Henan Agricultural University|Summer 2014|PhD Student|
+|![Clay Christenson](/images/People_Images/Clay.jpg){:width="120"}|Clay Christenson|Tech|2019-2022||
 
 
 {:.table100.ver1}
