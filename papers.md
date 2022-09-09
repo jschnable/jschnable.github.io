@@ -34,7 +34,7 @@ title: Schnable Lab Papers
 **2022**
 
 <div data-badge-type="2" data-doi="10.1101/2022.06.08.495271" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Grzybowski M**, **Zweiner M**, **Jin H**, Wijewardane NK, Atefi A, Naldrett MJ, Alvarez S, Ge Y, **Schnable JC** (2022) [Variation in morpho-physiological and metabolic responses to low nitrogen stress across the sorghum association panel.](https://doi.org/10.1101/2022.06.08.495271) *BMC Plant Biology* *(Accepted)* *bioRxiv* doi: 10.1101/2022.06.08.495271
+* **Grzybowski M**, **Zweiner M**, **Jin H**, Wijewardane NK, Atefi A, Naldrett MJ, Alvarez S, Ge Y, **Schnable JC** (2022) [Variation in morpho-physiological and metabolic responses to low nitrogen stress across the sorghum association panel.](https://doi.org/10.1186/s12870-022-03823-2) *BMC Plant Biology* 10.1186/s12870-022-03823-2 *bioRxiv* doi: 10.1101/2022.06.08.495271
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Li D, Bai D, Tian Y, Li Y, Zhao C, Wang Q, Gou S, Gu Y, Luan X, Wang R, Yang J, Hawkesford MJ, **Schnable JC**, Jin X, Qiu L (2022) "Time series canopy phenotyping enables the identification of genetic variants controlling dynamic phenotypes in soybean." *Journal of Integrative Plant Biology* *(Accepted)*
