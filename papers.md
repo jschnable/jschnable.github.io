@@ -42,8 +42,8 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Khound R, **Sun G**, **Mural RV**, **Schnable JC**, Santra D (2022) "SNP Discovery in Proso millet (*Panicum miliaceum* L.) using low-pass genome sequencing." *Plant Direct* *(Accepted)*
 
-<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Zhang K, Yang Y, Zhang X, Zhang L, Fu Y, Guo Z, Chen S, Wu J, **Schnable JC**, Yi K, Wang X, Cheng F (2022) "The genome of *Orychophragmus violaceus* provides genomic insights into the evolution of Brassicaceae polyploidization and its distinct traits." *Plant Communications* *(Accepted)*
+<div data-badge-type="2" data-doi="10.1016/j.xplc.2022.100431" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Zhang K, Yang Y, Zhang X, Zhang L, Fu Y, Guo Z, Chen S, Wu J, **Schnable JC**, Yi K, Wang X, Cheng F (2022) "[The genome of *Orychophragmus violaceus* provides genomic insights into the evolution of Brassicaceae polyploidization and its distinct traits.](https://doi.org/10.1016/j.xplc.2022.100431)" *Plant Communications* doi: 10.1016/j.xplc.2022.100431
 
 <div data-badge-type="2" data-doi="10.7554/eLife.75790" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Meier M, Xu G, Lopez-Guerrero, Li G, **Smith C**, **Sigmon B**, Herr J, Alfano J, Ge Y, **Schnable JC**, Yang J (2022) "[Maize root-associated microbes likely under adaptive selection by the host to enhance phenotypic performance.](https://doi.org/10.7554/eLife.75790)" *eLife* doi: 10.7554/eLife.75790 *bioRxiv* doi: 10.1101/2021.11.01.466815
