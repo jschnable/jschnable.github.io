@@ -4,6 +4,35 @@ title: Schnable Lab News
 
 ---
 
+### 2022 September
+
+* Marcin Grzybowski, now in a permanent position at University of Warsaw after a 2.5 year postdoc in our lab, publishes [his first paper as corresponding author](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-022-03823-2).
+
+
+
+### 2022 August
+
+* Michael Tross [wins a competitive DELTA fellowship from Corteva AgriScience](https://agronomy.unl.edu/news/tross-awarded-corteva-agriscience-fellowship).
+
+* Deniz, Ravi, Hongyu, Vladimir, and Michael all attend and present posters the National Association of Plant Breeders meeting in Ames Iowa.
+
+* James Schnable leaves Nebraska to spend the fall semester working with a Google/Alphabet R&D team in Mountain View, CA.
+
+* Ravi Mural's metaanalysis of maize GWAS studies [is published in Gigascience](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giac080/6673780).
+
+* The lab says good-bye to [Brooke Bowens](https://twitter.com/szintri/status/1555603012927623168) and [Alexa Nolan](https://twitter.com/szintri/status/1555585103736082432), our amazing summer REU interns.
+
+### 2022 July
+
+* Nikee Shrestha, a new PhD student joining our lab in August, [is selected as a '22-'25 FFAR fellow](https://ffar.maps.arcgis.com/apps/Cascade/index.html?appid=d31e21e6d7b748cab84aa14a8e041193)!
+
+* Nate Korth publishes his first lead author paper as a member of our lab. [Genes in maize control changes in the human gut microbiome](https://twitter.com/NateKorth/status/1547594635974914048).
+
+
+### 2022 June
+
+* [Lina Lopez](https://twitter.com/LinaLpzc) joins our lab as a new research technologist.
+
 ### 2022 May
 
 * Successfully wrap up planting. We're growing diversity panels, a Genomes to Fields site, and a nitrogen response study here in Lincoln, with bigger trials through collaborators in North Platte and Scottsbluff.
