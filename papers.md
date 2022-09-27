@@ -10,9 +10,6 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/2022.07.29.502051" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Kick D, Wallace J, **Schnable JC**, Kolkman JM, Alaca B, Beissinger TM, Ertl D, Flint-Garcia S, Gage JL, Hirsch CN, Knoll JE, de Leon N, Lima DC, Moreta D, Singh MP, Weldekidan T, Washburn JD [Yield prediction through integration of genetic, environment, and management data through deep learning.](https://doi.org/10.1101/2022.07.29.502051) *bioRxiv* doi: 10.1101/2022.07.29.502051
 
-<div data-badge-type="2" data-doi="10.21203/rs.3.rs-1490527/v1" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Yang Q, Van Haute M, **Korth N**, Sattler S, Toy J, Rose D, **Schnable JC**, Benson A "[Complex trait analysis of human gut microbiome-active traits in Sorghum bicolor: a new category of human health traits in food crops.](https://doi.org/10.21203/rs.3.rs-1490527/v1)" *Research Square* doi: 10.21203/rs.3.rs-1490527/v1
-
 <div data-badge-type="2" data-doi="10.1101/2022.02.09.479784" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Xu G, Lyu J, Obata T, Liu S, Ge Y, **Schnable JC**, Yang J "[A historically balanced locus under recent directional selection in responding to changed nitrogen conditions during modern maize breeding.](https://doi.org/10.1101/2022.02.09.479784)" *bioRxiv* doi: 10.1101/2022.02.09.479784
 
@@ -32,6 +29,9 @@ title: Schnable Lab Papers
 * Zhang Z, Chen C, Rutkoski J, **Schnable JC**, Murray S, Wang L, Jin X, Stich B, Crossa J, Hayes B. "[Harnessing agronomics through genomics and phenomics in plant breeding: a review](https://www.preprints.org/manuscript/202103.0519/v1)" *preprints.org* doi: 10.20944/preprints202103.0519.v1
 
 **2022**
+
+<div data-badge-type="2" data-doi="10.1038/s41467-022-33419-1" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Yang Q, Van Haute M, **Korth N**, Sattler S, Toy J, Rose D, **Schnable JC**, Benson A "[Genetic analysis of seed traits in Sorghum bicolor that affect the human gut microbiome.](https://doi.org/10.1038/s41467-022-33419-1)" *Nature Communications* doi: 10.1038/s41467-022-33419-1 *Research Square* doi: 10.21203/rs.3.rs-1490527/v1
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Li D, Bai D, Tian Y, Li Y, Zhao C, Wang Q, Gou S, Gu Y, Luan X, Wang R, Yang J, Hawkesford MJ, **Schnable JC**, Jin X, Qiu L (2022) "Time series canopy phenotyping enables the identification of genetic variants controlling dynamic phenotypes in soybean." *Journal of Integrative Plant Biology* *(Accepted)*
