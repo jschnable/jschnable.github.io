@@ -3,12 +3,17 @@ layout: page
 title: Schnable Lab News
 
 ---
+### 2022 November
+
+* Done with harvest! Roughly 27,000 ears were hand harvested by our team in 10 field experiments distributed across 500 miles.
+
+### 2022 October
+
+* Congratulations Ryleigh Grove! Ryleigh is an undergraduate research in our lab who was accepted into a summer internship with Syngenta as a freshman.
 
 ### 2022 September
 
 * Marcin Grzybowski, now in a permanent position at University of Warsaw after a 2.5 year postdoc in our lab, publishes [his first paper as corresponding author](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-022-03823-2).
-
-
 
 ### 2022 August
 
