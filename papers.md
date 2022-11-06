@@ -7,6 +7,12 @@ title: Schnable Lab Papers
 
 **Preprints**
 
+<div data-badge-type="2" data-doi="10.1101/2022.10.28.514203" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Grzybowski M**, **Mural RV** Xu G, **Turkus J**, Yang Y, **Schnable JC** [A common resequencing-based genetic marker dataset for global maize diversity.](https://doi.org/10.1101/2022.10.28.514203) *bioRxiv* doi: 10.1101/2022.10.28.514203
+
+<div data-badge-type="2" data-doi="10.1101/2022.10.24.513623" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Delen Y, **Mural RV**, Xu G, Delen SP, **Schnable JC**, Yang J, Dweikat I [Dissecting the genetic architecture of sunflower head diameter using genome-wide association study.](https://doi.org/10.1101/2022.10.24.513623) *bioRxiv* doi: 10.1101/2022.10.24.513623
+
 <div data-badge-type="2" data-doi="10.1101/2022.07.29.502051" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Kick D, Wallace J, **Schnable JC**, Kolkman JM, Alaca B, Beissinger TM, Ertl D, Flint-Garcia S, Gage JL, Hirsch CN, Knoll JE, de Leon N, Lima DC, Moreta D, Singh MP, Weldekidan T, Washburn JD [Yield prediction through integration of genetic, environment, and management data through deep learning.](https://doi.org/10.1101/2022.07.29.502051) *bioRxiv* doi: 10.1101/2022.07.29.502051
 
@@ -33,8 +39,8 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1038/s41467-022-33419-1" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Yang Q, Van Haute M, **Korth N**, Sattler S, Toy J, Rose D, **Schnable JC**, Benson A "[Genetic analysis of seed traits in Sorghum bicolor that affect the human gut microbiome.](https://doi.org/10.1038/s41467-022-33419-1)" *Nature Communications* doi: 10.1038/s41467-022-33419-1 *Research Square* doi: 10.21203/rs.3.rs-1490527/v1
 
-<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Li D, Bai D, Tian Y, Li Y, Zhao C, Wang Q, Gou S, Gu Y, Luan X, Wang R, Yang J, Hawkesford MJ, **Schnable JC**, Jin X, Qiu L (2022) "Time series canopy phenotyping enables the identification of genetic variants controlling dynamic phenotypes in soybean." *Journal of Integrative Plant Biology* *(Accepted)*
+<div data-badge-type="2" data-doi="10.1111/jipb.13380" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Li D, Bai D, Tian Y, Li Y, Zhao C, Wang Q, Gou S, Gu Y, Luan X, Wang R, Yang J, Hawkesford MJ, **Schnable JC**, Jin X, Qiu L (2022) "[Time series canopy phenotyping enables the identification of genetic variants controlling dynamic phenotypes in soybean.](https://doi.org/10.1111/jipb.13380)" *Journal of Integrative Plant Biology* doi: 10.1111/jipb.13380
 
 <div data-badge-type="2" data-doi="10.1186/s12870-022-03823-2" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Grzybowski M**, **Zweiner M**, **Jin H**, Wijewardane NK, Atefi A, Naldrett MJ, Alvarez S, Ge Y, **Schnable JC** (2022) [Variation in morpho-physiological and metabolic responses to low nitrogen stress across the sorghum association panel.](https://doi.org/10.1186/s12870-022-03823-2) *BMC Plant Biology* 10.1186/s12870-022-03823-2 *bioRxiv* doi: 10.1101/2022.06.08.495271
