@@ -25,9 +25,6 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1002/essoar.10508826.1" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Tross MC**, **Grzybowski M**, **Nishimwe AV**, **Sun G**, Ge Y, **Schnable JC** "[Data driven trait quantification across a maize diversity panel using hyperspectral leaf reflectance.](https://doi.org/10.1002/essoar.10508826.1)" *ESSOAr* doi: 10.1002/essoar.10508826.1
 
-<div data-badge-type="2" data-doi="10.1101/2021.08.18.456832" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Sun G**, Wase N, Su S ... **Foltz A** (16th of 25 authors) ... **Sigmon B**, Yu B, Obata T, Schmutz J, **Schnable JC** "[The genome of stress tolerant crop wild relative *Paspalum vaginatum* leads to increased biomass productivity in the crop *Zea mays*.](https://doi.org/10.1101/2021.08.18.456832)" *bioRxiv* doi: 10.1101/2021.08.18.456832
-
 <div data-badge-type="2" data-doi="10.1101/706994" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Hoban TP**, **Pages A**, Xu Z, Rodene E, Ubbens J, Stavness I, Yang J, **Schnable JC** "[Simulated plant images improve maize leaf counting accuracy.](https://doi.org/10.1101/706994)" *bioRxiv* doi: 10.1101/706994
 
@@ -35,6 +32,9 @@ title: Schnable Lab Papers
 * Zhang Z, Chen C, Rutkoski J, **Schnable JC**, Murray S, Wang L, Jin X, Stich B, Crossa J, Hayes B. "[Harnessing agronomics through genomics and phenomics in plant breeding: a review](https://www.preprints.org/manuscript/202103.0519/v1)" *preprints.org* doi: 10.20944/preprints202103.0519.v1
 
 **2022**
+
+<div data-badge-type="2" data-doi="10.1038/s41467-022-35507-8" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Sun G**, Wase N, Su S, Jenkins J, Zhou B, **Torres-Rodriguez JT** ... **Foltz A** (17th of 26 authors) ... **Sigmon B**, Yu B, Obata T, Schmutz J, **Schnable JC** "[Genome of *Paspalum vaginatum* and the role of trehalose mediated autophagy in increasing maize biomass](https://doi.org/10.1038/s41467-022-35507-8)" *Nature Communications* doi: 10.1038/s41467-022-35507-8 *bioRxiv* doi: 10.1101/2021.08.18.456832
 
 <div data-badge-type="2" data-doi="10.1038/s41467-022-33419-1" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Yang Q, Van Haute M, **Korth N**, Sattler S, Toy J, Rose D, **Schnable JC**, Benson A "[Genetic analysis of seed traits in Sorghum bicolor that affect the human gut microbiome.](https://doi.org/10.1038/s41467-022-33419-1)" *Nature Communications* doi: 10.1038/s41467-022-33419-1 *Research Square* doi: 10.21203/rs.3.rs-1490527/v1
