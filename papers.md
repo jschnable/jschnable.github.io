@@ -31,6 +31,14 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.20944/preprints202103.0519.v1" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
 * Zhang Z, Chen C, Rutkoski J, **Schnable JC**, Murray S, Wang L, Jin X, Stich B, Crossa J, Hayes B. "[Harnessing agronomics through genomics and phenomics in plant breeding: a review](https://www.preprints.org/manuscript/202103.0519/v1)" *preprints.org* doi: 10.20944/preprints202103.0519.v1
 
+**2023**
+
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Gaillard M, Benes B, **Tross MC**, **Schnable JC** (2023) Multi-view triangulation without correspondences. *Computers and Electronics in Agriculture* (Accepted)
+
+<div data-badge-type="2" data-doi="10.1111/tpj.16123" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Grzybowski M**, **Mural RV**, Xu G, **Turkus, J**, Yang Jinliang, **Schnable JC** (2023) [A common resequencing-based genetic marker dataset for global maize diversity.](https://doi.org/10.1111/tpj.16123) *The Plant Journal* doi: 10.1111/tpj.16123
+
 **2022**
 
 <div data-badge-type="2" data-doi="10.1038/s41467-022-35507-8" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
