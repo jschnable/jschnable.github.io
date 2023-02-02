@@ -1,9 +1,14 @@
 ---
 layout: page
 title: Schnable Lab News
+### 2023 January 
+
+* We welcome some new members to the Schnable lab! Our newest technician Chidanand Ullagaddi and our new PhD students: Waqar Ali and Ramesh Kanna! 
+
 ### 2022 December 
 
 * Congratulations to Vladimir and to Guangchao Sun for getting their paper "Genome of Paspalum vaginatum and the role of trehalose mediated autophagy in increasing maize biomass" published in Nature Communications!
+
 ### 2022 November
 
 * Done with harvest! Roughly 27,000 ears were hand harvested by our team in 10 field experiments distributed across 500 miles.
