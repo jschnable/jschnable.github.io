@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Schnable Lab News
+
 ### 2023 January 
 
 * We welcome some new members to the Schnable lab! Our newest technician Chidanand Ullagaddi and our new PhD students: Waqar Ali and Ramesh Kanna! 
