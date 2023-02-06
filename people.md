@@ -13,7 +13,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Marcin Grzybowski Headshot](/images/People_Images/Marcin.jpg){:width="120" align="middle"}|[Marcin Grzybowski](/peoplepages/Marcin_Grzybowski/)|Collaborator||0000-0002-6303-5433|
 |![Vladimir Headshot](/images/People_Images/Vlad.jpg){:width="120" align="middle"}|Jorge Vladimir Torres-Rodriguez|Postdoctoral Scholar|[CV](/CVs/VladimirCV.pdf)|0000-0001-6056-3452||
 |![Jon Turkus](/images/People_Images/JonT.jpg){:width="120"}|Jon Turkus|Technician||| 
-|![Lina López](/images/People_Images/Lina.jpg){:width="120"}|Lina López|Technician|||
+|![Lina López](/images/People_Images/Lina.jpg){:width="120"}|Lina López|Technician|||(/peoplepages/Lina_Lopez/)|
 |![Jill Hochstein](/images/People_Images/Jill.jpg){:width="120"}|[Jill Hochstein](/peoplepages/Jill_Hochstein/)<a href="https://twitter.com/jara12"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Technical Project Manager|||
 |![Fanyi Li](/images/People_Images/Fangyi.jpg){:width="120"}|Fangyi Li|PhD Student<br>_(co-advised)_|[CV](/CVs/FangyiLiCV.pdf)||
 |![Hongyu Jin Headshot](/images/People_Images/Hongyu.jpg){:width="120"}|[Hongyu Jin](/peoplepages/Hongyu_Jin/)|PhD Student<br>_(co-advised)_|[CV](/CVs/HongYuJinCV.pdf)||
