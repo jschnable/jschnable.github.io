@@ -10,6 +10,7 @@ title: Schnable Lab News
 ### 2022 December 
 
 * Congratulations to Vladimir and to Guangchao Sun for getting their paper "Genome of Paspalum vaginatum and the role of trehalose mediated autophagy in increasing maize biomass" published in Nature Communications!
+* Nathan Korth graduates with his PhD from the Benson and Schnable labs! Congrats Nate!
 
 ### 2022 November
 
