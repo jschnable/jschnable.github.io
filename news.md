@@ -5,6 +5,7 @@ title: Schnable Lab News
 ### 2023 January 
 
 * We welcome some new members to the Schnable lab! Our newest technician Chidanand Ullagaddi and our new PhD students: Waqar Ali and Ramesh Kanna! 
+* Michael Tross, a PhD student with the lab, accepted an internship at Google in California! Congrats Michael!
 
 ### 2022 December 
 
