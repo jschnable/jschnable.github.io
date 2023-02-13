@@ -2,6 +2,7 @@
 layout: page
 title: Media Coverage of Schnable Lab Projects
 ---
+<p><a https://ianrnews.unl.edu/james-schnable-recognized-outstanding-paper
 <p>James Schnable video interview with Market Journal</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zGIMwiND7KY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
