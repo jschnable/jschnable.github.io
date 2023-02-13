@@ -20,7 +20,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Hongyu Jin Headshot](/images/People_Images/Hongyu.jpg){:width="120"}|[Hongyu Jin](/peoplepages/Hongyu_Jin/)|PhD Student<br>_(co-advised)_|[CV](/CVs/HongYuJinCV.pdf)||
 |![Michael Tross Headshot](/images/People_Images/MichaelT.jpg){:width="120"}|[Michael Tross](/peoplepages/Michael_Tross/)|PhD Student|[CV](/CVs/MichaelTrossCV.pdf)|0000-0002-4410-9679|
 |![Nikee Headshot](/images/People_Images/NikeeS.jpg){:width="120" align="middle"}|Nikee Shrestha|PhD Student|[CV](/CVs/NikeeShresthaCV.pdf)|0000-0003-4195-7549||
-|![Waqar Headshot](/images/People_Images/WaqarAli.jpg){:width="120" align="middle"}|Waqar Ali|PhD Student|[CV](/CVs/WaqarCV.pdf)||
+|![Waqar Headshot](/images/People_Images/WaqarAli.jpg{:width="120"align="middle"}|Waqar Ali|PhD Student|[CV](/CVs/WaqarCV.pdf)||
 |![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|Postdoctoral Associate<br>_(co-advised)_|||
 |![Olivier](/images/People_Images/Olivier.jpg){:width="120"}|Olivier N Mizero|Post-Bac Student||0000-0003-0675-6936|
 |![Kyle Linders](/images/People_Images/KyleL.jpg){:width="120"}|Kyle Linders|MS Student<br>_(co-advised by Prof. Sigmon)_|[CV](/CVs/KyleLindersResume.pdf)||
