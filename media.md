@@ -3,14 +3,18 @@ layout: page
 title: Media Coverage of Schnable Lab Projects
 ---
 <p>Nebraska Today 2022: Pitch-perfect: Study of World Cup’s turfgrass may help crops yield more from less: https://news.unl.edu/newsrooms/today/article/pitch-perfect-study-of-world-cup-s-turfgrass-may-help-crops-yield-more-from/
+</p>
 <br>
 <p>Nebraska Today 2021: Husker researcher part of multi-university effort to improve ag decision-making: https://news.unl.edu/newsrooms/today/article/husker-researcher-part-of-multi-university-effort-to-improve-ag-decision/
+</p>
 <br>
 <p>Nebraska Today 2021: Model predicts gene responses to cold across diverse plant species: https://news.unl.edu/newsrooms/today/article/model-predicts-gene-responses-to-cold-across-diverse-plant-species/
+</p>
 <br>
 IANR story 2020:James Schnable recognized for outstanding paper: https://ianrnews.unl.edu/james-schnable-recognized-outstanding-paper
 <p>James Schnable video interview with Market Journal</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zGIMwiND7KY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 <br>
 <p>James Schnable <a href="https://community.plantae.org/article/5393868633501861372/faculty-job-myths-amp-amp-realities-an-interview-with-james-schnable">interviewed in Plantae by Arif Ashraf</a> as part of the "Faculty Job: Myths & Realities" series..</p>
 <br>
