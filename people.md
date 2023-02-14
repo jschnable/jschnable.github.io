@@ -10,7 +10,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Brandi Sigmon](/images/People_Images/BSigmon.jpg){:width="120" align="middle"}|[Brandi Sigmon](/peoplepages/Brandi_Sigmon/)|Assistant Professor of Practice<br>Dept. Plant Pathology||0000-0003-3914-6894|
 |![Ravi Mural Headshot](/images/People_Images/Ravi.jpg){:width="120" align="middle"}|[Ravi Mural](/peoplepages/Ravi_Mural/)|Research Assistant Professor<br>Center for Plant Science Innovation|[CV](/CVs/RaviMuralCV.pdf)|0000-0002-5489-9918|
 |![Deniz Headshot](/images/People_Images/Deniz2.PNG){:width="120" align="middle"}|[Deniz Istipliler](/peoplepages/Deniz_Istipiller/)|Adjunct Assistant Professor||0000-0002-0887-1121||
-|![Vladimir Headshot](/images/People_Images/Vlad.jpg){:width="120" align="middle"}[Vladimir Torres-Rodriquez](/peoplepages/Vladimir/)|Postdoctoral Scholar|[CV](/CVs/VladimirCV.pdf)|0000-0001-6056-3452||
+|![Vladimir Headshot](/images/People_Images/Vlad.jpg){:width="120" align="middle"}|Vladimir Torres-Rodriquez|Postdoctoral Scholar|[CV](/CVs/VladimirCV.pdf)|0000-0001-6056-3452||
 |![Marcin Grzybowski Headshot](/images/People_Images/Marcin.jpg){:width="120" align="middle"}|[Marcin Grzybowski](/peoplepages/Marcin_Grzybowski/)|Collaborator||0000-0002-6303-5433|
 |![Jon Turkus](/images/People_Images/JonT.jpg){:width="120"}|Jon Turkus|Technician|0000-0002-2006-0137||
 |![Lina Corona-López](/images/People_Images/Lina.jpg){:width="120"}|[Lina Corona-López](/peoplepages/LinaLopez/)|Technician|
