@@ -16,7 +16,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Lina Corona-López](/images/People_Images/Lina.jpg){:width="120"}|[Lina Corona-López](/peoplepages/LinaLopez/)|Technician|
 |![Chidanand "Chidu" Ullagaddi](/images/People_Images/CHIDU.jpg){:width="120"}|[Chidanand "Chidu" Ullagaddi](/peoplepages/Chidu/)|Technician|
 |![Jill Hochstein](/images/People_Images/Jill.jpg){:width="120"}|[Jill Hochstein](/peoplepages/Jill_Hochstein/)<a href="https://twitter.com/jara12"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Technical Project Manager|||
-|![Fanyi Li](/images/People_Images/Fangyi.jpg){:width="120"}|Fangyi Li|PhD Student<br>_(co-advised)_|[CV](/CVs/FangyiLiCV.pdf)||
+|![Fanyi Li](/images/People_Images/Fangyi.jpg){:width="120"}|[Fangyi Li](/peoplepages/Fangyi/)|PhD Student<br>_(co-advised)_|[CV](/CVs/FangyiLiCV.pdf)||
 |![Hongyu Jin Headshot](/images/People_Images/Hongyu.jpg){:width="120"}|[Hongyu Jin](/peoplepages/Hongyu_Jin/)|PhD Student<br>_(co-advised)_|[CV](/CVs/HongYuJinCV.pdf)||
 |![Michael Tross Headshot](/images/People_Images/MichaelT.jpg){:width="120"}|[Michael Tross](/peoplepages/Michael_Tross/)|PhD Student|[CV](/CVs/MichaelTrossCV.pdf)|0000-0002-4410-9679|
 |![Jensina Davis](images/People_Images/Jensina.jpg){:width="120"}|[Jensina Davis](/peoplepages/Jensina/)|PhD Student|[CV](/CVs/JensinaDavisCV.pdf)||
