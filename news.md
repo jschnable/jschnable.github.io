@@ -2,7 +2,7 @@
 layout: page
 title: Schnable Lab News
 
-##2023 February 
+### 2023 February 
 
 * Deniz goes back to Turkey!
 
