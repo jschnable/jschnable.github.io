@@ -3,7 +3,7 @@ layout: page
 title: James Schnable
 ---
 
-![James Schnable](/images/People_Images/jamesschnable.jpg){:width="180" align="middle"}
+![James Schnable](/images/People_Images/jamesschnable.jpg){:width="180" align="middle"}|
 
 **ORCID ID:** 0000-0001-6739-5527
 <br><br>
