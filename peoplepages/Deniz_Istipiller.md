@@ -3,7 +3,7 @@ layout: page
 title: Deniz Istipliler
 ---
 
-![Deniz Istipliler](/images/People_Images/Deniz3.PNG){:align="middle"}|
+![Deniz Istipliler](/images/People_Images/Deniz3.PNG){:width="180" align="middle"}|
 
 Deniz joined the lab in 2022 after completing his PhD at Ege University Izmir, Turkey. At the University of Nebraska Deniz is applying high-throughput phenotyping tools and machine learning approaches to study the basis of complex traits in maize.
 
