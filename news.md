@@ -4,7 +4,7 @@ title: Schnable Lab News
 
 ### 2023 February  
 
-* Deniz heads back to Turkey!
+* Deniz heads back to Turkey! We will miss him greatly!
 
 ### 2023 January 
 
