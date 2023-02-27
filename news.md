@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Schnable Lab News
+googlefonts: ["Monoton", "Lobster"]
+---
 
 ### 2023 February  
 
