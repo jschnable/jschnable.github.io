@@ -30,7 +30,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Isabel Sigmon](/images/People_Images/isabel.jpg){:width="120"}|Isabel Sigmon|Bachelors Student|||
 |![Alliance Igiraneza](/images/People_Images/Alliance.jpg){:width="120"}|Alliance Igiraneza|Bachelors Student|||
 |![Ryleigh](/images/People_Images/Ryleigh.jpg){:width="120"}|Ryleigh Grove|Bachelors Student|||
-
+|![Maddy](/images/People_Images/MaddyFaber.jpg){:width="120"}|Maddy Faber|Bachelors Student|||
 
 
 
