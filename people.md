@@ -32,7 +32,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Ryleigh](/images/People_Images/Ryleigh.jpg){:width="120"}|Ryleigh Grove|Bachelors Student|||
 |![Maddy](/images/People_Images/MaddyFaber.jpg){:width="120"}|Maddy Faber|Bachelors Student|||
 |![Jordan](/images/People_Images/Jordan.jpeg){:width="120"}|Jordan Bares|Bachelors Student|||
-
+|![Kashish](/images/People_Images/Kashish.jpg){:width="120"}|Kashish Syed|Bachelors Student|||
 
 {:.table100.ver1}
 
