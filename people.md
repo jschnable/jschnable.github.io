@@ -33,6 +33,9 @@ googlefonts: ["Monoton", "Lobster"]
 |![Maddy](/images/People_Images/MaddyFaber.jpg){:width="120"}|Maddy Faber|Bachelors Student|||
 |![Jordan](/images/People_Images/Jordan.jpeg){:width="120"}|Jordan Bares|Bachelors Student|||
 |![Kashish](/images/People_Images/Kashish.jpg){:width="120"}|Kashish Syed|Bachelors Student|||
+|![Halfeen](/images/People_Images/HalfeenKhudada.JPG){:width="120"}|Halfeen Khudada|Bachelors Student|||
+
+
 
 {:.table100.ver1}
 
