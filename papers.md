@@ -16,26 +16,24 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/2022.02.09.479784" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Xu G, Lyu J, Obata T, Liu S, Ge Y, **Schnable JC**, Yang J "[A historically balanced locus under recent directional selection in responding to changed nitrogen conditions during modern maize breeding.](https://doi.org/10.1101/2022.02.09.479784)" *bioRxiv* doi: 10.1101/2022.02.09.479784
 
-<div data-badge-type="2" data-doi="10.1002/essoar.10508826.1" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Tross MC**, **Grzybowski M**, **Nishimwe AV**, **Sun G**, Ge Y, **Schnable JC** "[Data driven trait quantification across a maize diversity panel using hyperspectral leaf reflectance.](https://doi.org/10.1002/essoar.10508826.1)" *ESSOAr* doi: 10.1002/essoar.10508826.1
-
 <div data-badge-type="2" data-doi="10.1101/706994" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * **Miao C**, **Hoban TP**, **Pages A**, Xu Z, Rodene E, Ubbens J, Stavness I, Yang J, **Schnable JC** "[Simulated plant images improve maize leaf counting accuracy.](https://doi.org/10.1101/706994)" *bioRxiv* doi: 10.1101/706994
 
 **2023**
+<!---
+* Noh M, Sium F, Tope S, Khan S, Karkhanis M, Wang L, Deshpande A, Dalapati R, **Mural RV**, Mastrangelo C, Zang L, Ji M, **Schnable JC**, Kim H (2023) Localization of biofuel crop damage utilizing a nanogap gas sensor. Transducers 2023 Kyoto Japan (Accepted)
+--->
 
-<div data-badge-type="2" data-doi="10.1101/2022.01.28.478212" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Sun G**, Yu H, Wang P, Lopez-Guerrero MG, **Mural RV**, **Mizero ON**, **Grzybowski M**, Song B, van Dijk K, Schachtman DP, Zhang C, **Schnable JC** (2023) [A role for heritable transcriptomic variation in maize adaptation to temperate environments.](https://doi.org/10.1101/2022.01.28.478212) *Genome Biology* (Accepted) *bioRxiv* doi: 10.1101/2022.01.28.478212
+<div data-badge-type="2" data-doi="10.1186/s13059-023-02891-3" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Sun G**, Yu H, Wang P, Lopez-Guerrero MG, **Mural RV**, **Mizero ON**, **Grzybowski M**, Song B, van Dijk K, Schachtman DP, Zhang C, **Schnable JC** (2023) [A role for heritable transcriptomic variation in maize adaptation to temperate environments.](https://doi.org/10.1186/s13059-023-02891-3) *Genome Biology* doi: 10.1186/s13059-023-02891-3 *bioRxiv* doi: 10.1101/2022.01.28.478212
 
 <div data-badge-type="2" data-doi="10.1016/j.compag.2023.107688" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Gaillard M, Benes B, **Tross MC**, **Schnable JC** (2023) [Multi-view triangulation without correspondences.](https://doi.org/10.1016/j.compag.2023.107688) *Computers and Electronics in Agriculture* doi: 10.1016/j.compag.2023.107688
 
 <div data-badge-type="2" data-doi="10.1111/tpj.16123" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Grzybowski M**, **Mural RV**, Xu G, **Turkus, J**, Yang Jinliang, **Schnable JC** (2023) [A common resequencing-based genetic marker dataset for global maize diversity.](https://doi.org/10.1111/tpj.16123) *The Plant Journal* doi: 10.1111/tpj.16123
-
-<!---
-* Localization of biofuel crop damage utilizing a nanogap gas sensor. Transducers 2023 Kyoto Japan (Accepted)
--->
+**Cover Article**, March 2023
+**Research Highlight** in *The Plant Journal* doi: [10.1111/tpj.16123](https://doi.org/10.1111/tpj.16123)
 
 <div data-badge-type="2" data-doi="10.1002/9781119874157.ch10" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
 * Chen C, Rutkoski J, **Schnable JC**, Murray S, Wang L, Jin X, Stich B, Crossa J, Hayes B Zhang Z (2023) "[Role of the genomics–phenomics–agronomy paradigm in plant breeding](https://doi.org/10.1002/9781119874157.ch10)" *Plant Breeding Reviews* doi: 10.1002/9781119874157.ch10 *preprints.org* doi: 10.20944/preprints202103.0519.v1
