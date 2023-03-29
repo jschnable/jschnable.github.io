@@ -104,8 +104,16 @@ googlefonts: ["Monoton", "Lobster"]
 |![Alexis](/images/People_Images/AlexisF.jpg){:width="120"}|Alexis Finch|Bachelors Student|2020-2021||
 |![Jocelyne Horanituze](/images/People_Images/Jocelyne.jpg){:width="120"}|Jocelyne Horanituze|Bachelors Student|2020-2021||
 |![Grace Carey](/images/People_Images/GraceC.jpg){:width="120"}|Grace Carey|Bachelors Student|Summer 2021||
+|![Kahheetah Barnoskie](/images/People_Images/Kahheetah.jpg){:width="120"}|Kahheetah Barnoskie|MS Student|2021-2022||
 |![Brooke Bouwens](/images/People_Images/Brooke.jpg){:width="120"}|Brooke Bouwens|REEEU Student|Summer 2022||
+|![Lionel Kagaba](/images/People_Images/Lionel.jpg){:width="120"}|Lionel Kagaba|Bachelors Student|Summer 2022||
+|![Marthe Niyingenera](/images/People_Images/Marthe.jpg){:width="120"}|Marthe Niyingenera|Bachelors Student|Summer 2022||
+|![Carine Mushimiyimana](/images/People_Images/Carine.jpg){:width="120"}|Carine Mushimiyimana|Bachelors Student|Summer 2022||
 |![Alexa Nolan](/images/People_Images/AlexaN.jpg){:width="120"}|Alexa Nolan|REEEU Student|Summer 2022||
+|![Han Tran](/images/People_Images/HanT.jpg){:width="120"}|Han Tran|Bachelors Student|Summer 2022|||
+|![Alice Guo](/images/People_Images/AliceG.jpg){:width="120"}|Alice Guo|Bachelors Student|Summer 2022||
+|![Abaigeal Aydt](/images/People_Images/Abaigeal.jpg){:width="120"}|Abaigeal Aydt|Bachelors Student|Summer 2022||
+
 
 {:.table100.ver1}
 
