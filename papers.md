@@ -20,9 +20,13 @@ title: Schnable Lab Papers
 * **Miao C**, **Hoban TP**, **Pages A**, Xu Z, Rodene E, Ubbens J, Stavness I, Yang J, **Schnable JC** "[Simulated plant images improve maize leaf counting accuracy.](https://doi.org/10.1101/706994)" *bioRxiv* doi: 10.1101/706994
 
 **2023**
+
 <!---
 * Noh M, Sium F, Tope S, Khan S, Karkhanis M, Wang L, Deshpande A, Dalapati R, **Mural RV**, Mastrangelo C, Zang L, Ji M, **Schnable JC**, Kim H (2023) Localization of biofuel crop damage utilizing a nanogap gas sensor. Transducers 2023 Kyoto Japan (Accepted)
 --->
+
+<div data-badge-type="2" data-doi="10.1093/jxb/erad129" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+Wijewardane NK, Zhang H, Yang J, **Schnable JC** (2023) [A leaf-level spectral library to support high throughput plant phenotyping: Predictive accuracy and model transfer.](https://doi.org/10.1093/jxb/erad129) *Journal of Experimental Botany* doi: 10.1093/jxb/erad129
 
 <div data-badge-type="2" data-doi="10.1186/s13059-023-02891-3" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Sun G**, Yu H, Wang P, Lopez-Guerrero MG, **Mural RV**, **Mizero ON**, **Grzybowski M**, Song B, van Dijk K, Schachtman DP, Zhang C, **Schnable JC** (2023) [A role for heritable transcriptomic variation in maize adaptation to temperate environments.](https://doi.org/10.1186/s13059-023-02891-3) *Genome Biology* doi: 10.1186/s13059-023-02891-3 *bioRxiv* doi: 10.1101/2022.01.28.478212
