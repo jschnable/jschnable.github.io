@@ -5,7 +5,7 @@ googlefonts: ["Monoton", "Lobster"]
 ---
 ### 2023 April
 
-* James was selected as an influential person in agrticulture by "Illionis Farmer Today," Claire, Nikee, and Nate all won prizes at NPSS, Chenyong came back to visit to give a talk on behalf of CROPS, Guangchaos's Genome Biology paper was published and there was also a write up about in IANR News, and Ryleigh made it to the final rouns of the Student Research Slam.
+* James was selected as an influential person in agrticulture by "Illionis Farmer Today," Claire, Nikee, and Nate all won prizes at NPSS, Chenyong came back to visit to give a talk on behalf of CROPS, Guangchaos's Genome Biology paper was published and there was also a write up about in IANR News, and Ryleigh made it to the final round of the Student Research Slam.
 
 ### 2023 March
 
