@@ -3,6 +3,13 @@ layout: page
 title: Schnable Lab News
 googlefonts: ["Monoton", "Lobster"]
 ---
+### 2023 April
+
+* James was selected as an influential person in agrticulture by "Illionis Farmer Today," Claire, Nikee, and Nate all won prizes at NPSS, Chenyong came back to visit to give a talk on behalf of CROPS, Guangchaos's Genome Biology paper was published and there was also a write up about in IANR News, and Ryleigh made it to the final rouns of the Student Research Slam.
+
+### 2023 March
+
+* March 16th-19th Maize Genetics Meeting 2023 @ St.Louis, Missouri: All lab members attended this conference, Marcin resequencing paper was published and made the cover of "The Plant Journal." New undergraduates join the lab: Maddy Faber, Jordan Bares, and Kashish Syed.
 
 ### 2023 February  
 
