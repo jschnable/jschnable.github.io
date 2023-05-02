@@ -5,11 +5,17 @@ googlefonts: ["Monoton", "Lobster"]
 ---
 ### 2023 April
 
-* James was selected as an influential person in agrticulture by "Illionis Farmer Today," Claire, Nikee, and Nate all won prizes at NPSS, Chenyong came back to visit to give a talk on behalf of CROPS, Guangchaos's Genome Biology paper was published and there was also a write up about in IANR News, and Ryleigh made it to the final round of the Student Research Slam.
+* Dr. Schnable was selected as an influential person in agriculture by "Illionis Farmer Today."
+* Claire an undergraduate in the Dr. Brandi Sigmon's lab, Nikee Shrestha, a PhD Student in the Schnable lab, and Nate Benson, a former PhD student in the lab, all won prizes at NPSS!
+* Dr.Chenyong Miao, a former lab member of the Schnable Lab, came back to visit to give a talk on behalf of CROPS 
+* Dr.Sun Guangchaos's Genome Biology was published and was mentioned in IANR news!
+* Ryleigh Grove, an undergraduate researcher in the Schnable Lab, made it to the final round of the Student Research Slam.
 
 ### 2023 March
 
-* March 16th-19th Maize Genetics Meeting 2023 @ St.Louis, Missouri: All lab members attended this conference, Marcin resequencing paper was published and made the cover of "The Plant Journal." New undergraduates join the lab: Maddy Faber, Jordan Bares, and Kashish Syed.
+* The Schnable Lab attended the Maize Genetics Conference in St.Louis, Missouri, 
+* Dr.Marcin Grzybowski resequencing paper was published and made the cover of "The Plant Journal." 
+* New undergraduates join the lab: Maddy Faber, Jordan Bares, and Kashish Syed. Welcome everyone!
 
 ### 2023 February  
 
