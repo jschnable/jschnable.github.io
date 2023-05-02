@@ -6,7 +6,7 @@ googlefonts: ["Monoton", "Lobster"]
 ### 2023 April
 
 * Dr. Schnable was selected as an influential person in agriculture by "Illionis Farmer Today."
-* Claire an undergraduate in the Dr. Brandi Sigmon's lab, Nikee Shrestha, a PhD Student in the Schnable lab, and Nate Benson, a former PhD student in the lab, all won prizes at NPSS!
+* Claire an undergraduate in the Dr. Brandi Sigmon's lab, Nikee Shrestha, a PhD Student in the Schnable lab, and Nate Korth Benson, a former PhD student in the Schnable and Benson labs, all won prizes at NPSS!
 * Dr.Chenyong Miao, a former lab member of the Schnable Lab, came back to visit to give a talk on behalf of CROPS.
 * Dr.Sun Guangchaos's Genome Biology was published and was mentioned in IANR news!
 * Ryleigh Grove, an undergraduate researcher in the Schnable Lab, made it to the final round of the Student Research Slam.
