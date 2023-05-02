@@ -23,6 +23,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Nikee Headshot](/images/People_Images/NikeeS.jpg){:width="120" align="middle"}|[Nikee Shrestha](/peoplepages/Nikee/)|PhD Student|[CV](/CVs/NikeeShresthaCV.pdf)|0000-0003-4195-7549||
 |![Waqar Ali](/images/People_Images/WaqarAli.jpg){:width="120"align="middle"}|[Waqar Ali](/peoplepages/Waqar/)|PhD Student|[CV](/CVs/WaqarCV.pdf)||
 |![Ramesh Kanna Mathivanan](/images/People_Images/Ramesh.jpg){:width="120"align="middle"}|[Ramesh Kanna Mathivanan](/peoplepages/Ramesh/)|PhD Student|[CV](/CVs/RameshKannaMathivananCV.pdf)||
+|![Amany Gomaa](images/People_Images/Amany.jfif){:width="120"}|[Amany Gomaa](/peoplepages/Amany.md/)|PhD Student|[CV](/CVs/AmanyGomaa.pdf)||
 |![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|Postdoctoral Associate<br>_(co-advised)_|||
 |![Olivier](/images/People_Images/Olivier.jpg){:width="120"}|[Olivier Mizero](/peoplepages/Olivier/)|Post-Bac Student||0000-0003-0675-6936|
 |![Kyle Linders](/images/People_Images/KyleL.jpg){:width="120"}|Kyle Linders|MS Student<br>_(co-advised by Prof. Sigmon)_|[CV](/CVs/KyleLindersResume.pdf)||
