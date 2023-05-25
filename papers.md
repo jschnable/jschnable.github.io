@@ -28,6 +28,9 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1111/nph.18980" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Sahay S, **Grzybowski M**, **Schnable JC**, Glowacka K (2023) [Genetic control of photoprotection and photosystem II operating efficiency in plants.](https://doi.org/10.1111/nph.18980) *New Phytologist* doi: 10.1111/nph.18980
 
+<div data-badge-type="2" data-doi="10.1186/s12863-023-01129-2" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Lima DC, Aviles AC, Alphers RT ... **Schnable JC** (26th of 37 authors) ... Wisser RJ, Xu W, de Leon N (2023) [2018–2019 field seasons of the Maize Genomes to Fields (G2F) G x E project.](https://doi.org/10.1186/s12863-023-01129-2) *BMC Genomic Data* doi: 10.1186/s12863-023-01129-2
+
 <div data-badge-type="2" data-doi="10.1093/jxb/erad129" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Wijewardane NK, Zhang H, Yang J, **Schnable JC**, Schachtman DP, Ge Y (2023) [A leaf-level spectral library to support high throughput plant phenotyping: Predictive accuracy and model transfer.](https://doi.org/10.1093/jxb/erad129) *Journal of Experimental Botany* doi: 10.1093/jxb/erad129
 
