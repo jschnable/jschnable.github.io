@@ -24,6 +24,8 @@ googlefonts: ["Monoton", "Lobster"]
 **Postdocs and Visiting Scientists**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
+|![Marcin Grzybowski Headshot](/images/People_Images/Marcin.jpg){:width="120" align="middle"}|[Marcin Grzybowski](/peoplepages/Marcin_Grzybowski/)<br>0000-0002-6303-5433|Postdoctoral Scholar|2019-2022|Faculty Member<br>University of Warsaw|
+|![Deniz Headshot](/images/People_Images/Deniz2.PNG){:width="120" align="middle"}|[Deniz Istipliler](/peoplepages/Deniz_Istipiller/)<br>0000-0002-0887-1121|Visiting Scholar|2022-2023|Assistant Professor<br>Ege University|
 |![Guangchao Sun](/images/People_Images/Guangchao.JPG){:width="120" align="middle"}|[Guangchao Sun](/peoplepages/Guangchao_Sun/)<a href="https://twitter.com/xiaoguanghuan"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a><br>0000-0003-3942-6175|Postdoctoral Scholar|2018-2021|Bioinformatician<br>Mayo Clinic|
 |![Xiaoxi Meng](/images/People_Images/Xiaoxi.jpg){:width="120" align="middle"}|[Xiaoxi "Peggy" Meng](/peoplepages/Xiaoxi_Meng/)<a href="https://twitter.com/xiaoxi_meng"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a><br>0000-0001-7217-2037|Postdoctoral Scholar|2018-2020|Postdoc University of Minnesota|
 |![Ranjita Thapa Headshot](/images/People_Images/Ranjita.jpg){:width="120" align="middle"}|Ranjita Thapa|Postdoctoral Scholar|2019-2020|Postdoc Cornell University|
@@ -39,6 +41,7 @@ googlefonts: ["Monoton", "Lobster"]
 **PhD Students**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
+|![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|PhD Student/FFAR Fellow|2017-2022||
 |![Santos Headshot](/images/People_Images/Santos.jpg){:width="120"}|Santos Yenandy<br>Barrera Lemus|PhD Student<br>_(co-advised)_|2021| Biotec Research Manager, Plant Sciences inc|
 |![Chenyong Miao](/images/People_Images/Miao_Small.jpg){:width="120"}|[Chenyong Miao](/peoplepages/Chenyong_Miao/)<a href="https://twitter.com/Valiancy_miao"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"><br>0000-0002-0904-3707</a>|PhD Student |2016-2020| Phenomics Data Scientist, Bayer Crop Science|
 |![Xiuru Dai](/images/People_Images/Xiuru_small.jpg){:width="120"}|Xiuru Dai<a href="https://twitter.com/Xiuru_Dai"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a><br>0000-0002-2516-1068|Visiting PhD Student<br>Shandong Agricultural University|2018-2019|PhD Student<br>Shandong Agricultural University|
@@ -53,6 +56,8 @@ googlefonts: ["Monoton", "Lobster"]
 **Masters Students**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
+|![Kahheetah Barnoskie](/images/People_Images/Kahheetah.jpg){:width="120"}|Kahheetah Barnoskie|MS Student|2021-2022||
+|![Kyle Linders](/images/People_Images/KyleL.jpg){:width="120"}|Kyle Linders|MS Student|2020-2022||
 |![Mackenzie](/images/People_Images/Mackenzie.jpeg){:width="120"}|[Mackenzie Zwiener](/peoplepages/Mackenzie_Zwiener/)<a href="https://twitter.com/MackenzieZwien1"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|MS Student<br>Technician|2019-2021|UNMC Technologist|
 |![Preston Hurst](/images/People_Images/Preston.jpg){:width="120"}|[Preston Hurst](/peoplepages/Preston_Hurst/)|MS Student|2017-2019|PhD Student with David Holding, UNL|
 |![Bhushit Agarwal](/images/People_Images/Bhushit.jpg){:width="120"}|Bhushit Agarwal|Comp. Sci. MS Student<br>_(co-advised)_|2015-2016|Software Engineer, Mode.ai|
@@ -64,7 +69,6 @@ googlefonts: ["Monoton", "Lobster"]
 **Bachelors Students**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
-|![Remy Hirwa](/images/People_Images/Remy.jpg){:width="120"}|Remy Hirwa|Bachelors Student|Summer 2021-Fall 2021||
 |![Daniel Ngu](/images/People_Images/Danielngu_small.jpg){:width="120"}|Daniel Ngu|Bachelors Student|2014-2017||
 |![Thomas Hoban](/images/People_Images/thoban.jpg){:width="120"}|Thomas Hoban<br>0000-0001-7607-1903|Bachelors Student|2015-2020||
 |![Logan Olson](/images/People_Images/logan.JPG){:width="120"}|Logan Olson|Bachelors Student|2016-2017||
@@ -104,7 +108,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Alexis](/images/People_Images/AlexisF.jpg){:width="120"}|Alexis Finch|Bachelors Student|2020-2021||
 |![Jocelyne Horanituze](/images/People_Images/Jocelyne.jpg){:width="120"}|Jocelyne Horanituze|Bachelors Student|2020-2021||
 |![Grace Carey](/images/People_Images/GraceC.jpg){:width="120"}|Grace Carey|Bachelors Student|Summer 2021||
-|![Kahheetah Barnoskie](/images/People_Images/Kahheetah.jpg){:width="120"}|Kahheetah Barnoskie|MS Student|2021-2022||
+|![Remy Hirwa](/images/People_Images/Remy.jpg){:width="120"}|Remy Hirwa|Bachelors Student|Summer 2021-Fall 2021||
 |![Brooke Bouwens](/images/People_Images/Brooke.jpg){:width="120"}|Brooke Bouwens|REEEU Student|Summer 2022||
 |![Lionel Kagaba](/images/People_Images/Lionel.jpg){:width="120"}|Lionel Kagaba|Bachelors Student|Summer 2022||
 |![Marthe Niyingenera](/images/People_Images/Marthe.jpg){:width="120"}|Marthe Niyingenera|Bachelors Student|Summer 2022||
@@ -113,7 +117,12 @@ googlefonts: ["Monoton", "Lobster"]
 |![Han Tran](/images/People_Images/HanT.jpg){:width="120"}|Han Tran|Bachelors Student|Summer 2022|||
 |![Alice Guo](/images/People_Images/AliceG.jpg){:width="120"}|Alice Guo|Bachelors Student|Summer 2022||
 |![Abaigeal Aydt](/images/People_Images/Abaigeal.jpg){:width="120"}|Abaigeal Aydt|Bachelors Student|Summer 2022||
-
+|![Alliance Igiraneza](/images/People_Images/Alliance.jpg){:width="120"}|Alliance Igiraneza|Bachelors Student|2021-2023||
+|![Daniella Norah Tumisiine](/images/People_Images/Norah.jpg){:width="120"}|Daniella Norah Tumusiine|Bachelors Student|2021-2023||
+|![Isabel Sigmon](/images/People_Images/isabel.jpg){:width="120"}|Isabel Sigmon|HS Student and<br>Bachelors Student|2018-2023||
+|![Maddy](/images/People_Images/MaddyFaber.jpg){:width="120"}|Maddy Faber|Bachelors Student|2023||
+|![Jordan](/images/People_Images/Jordan.jpeg){:width="120"}|Jordan Bares|Bachelors Student|2023||
+|![Kashish](/images/People_Images/Kashish.jpg){:width="120"}|Kashish Syed|Bachelors Student|2023||
 
 {:.table100.ver1}
 
@@ -133,14 +142,16 @@ googlefonts: ["Monoton", "Lobster"]
 
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
-|![Christine Smith](/images/People_Images/Christine.jpg){:width="120"}|Christine Smith|Technician|2018-2022||
-|![Shuying Zhang](/images/People_Images/Shuying.jpg){:width="120"}|Shuying Zhang|Technician|2019-2020|Technician, UNL Biomedical and Obesity Research Core|
-|![Xiangjun Li](/images/People_Images/Xiangjun.jpg){:width="120" align="middle"}|Xiangjun Li|Research Associate|2020|Lab Manager, Hyten Lab, UNL|
-|![Taity Changa Headshot](/images/People_Images/Taity.jpg){:width="120"}|Taity Changa|Volunteer|2019|Postdoc University of Florida|
-|![Sarah Johnson](/images/People_Images/Sarah.jpg){:width="120"}|Sarah Johnson|Rotating PhD Student<br>Complex Biosystems|Spring 2017|Graduate Student, Clemente & Hyten Labs|
-|![Michael Richter Headshot](/images/People_Images/MichaelR.jpg){:width="120"}|Michael Richter<br>0000-0001-9702-4292|PhD Student<br>_(rotating)_|Spring 2020|PhD Student, Wilson Lab|
 |![Lei Tian](/images/People_Images/Lei_Tian_Small.JPG){:width="120" align="middle"}|Lei Tian|Visiting PhD Student<br>Henan Agricultural University|Summer 2014|PhD Student|
+|![Sarah Johnson](/images/People_Images/Sarah.jpg){:width="120"}|Sarah Johnson|Rotating PhD Student<br>Complex Biosystems|Spring 2017|Graduate Student, Clemente & Hyten Labs|
+|![Taity Changa Headshot](/images/People_Images/Taity.jpg){:width="120"}|Taity Changa|Volunteer|2019|Postdoc University of Florida|
+|![Michael Richter Headshot](/images/People_Images/MichaelR.jpg){:width="120"}|Michael Richter<br>0000-0001-9702-4292|PhD Student<br>_(rotating)_|Spring 2020|PhD Student, Wilson Lab|
+|![Xiangjun Li](/images/People_Images/Xiangjun.jpg){:width="120" align="middle"}|Xiangjun Li|Research Associate|2020|Lab Manager, Hyten Lab, UNL|
+|![Shuying Zhang](/images/People_Images/Shuying.jpg){:width="120"}|Shuying Zhang|Technician|2019-2020|Technician, UNL Biomedical and Obesity Research Core|
 |![Clay Christenson](/images/People_Images/Clay.jpg){:width="120"}|Clay Christenson|Tech|2019-2022||
+![Christine Smith](/images/People_Images/Christine.jpg){:width="120"}|Christine Smith|Technician|2018-2022||
+|![Olivier](/images/People_Images/Olivier.jpg){:width="120"}|[Olivier Mizero](/peoplepages/Olivier/)<br>0000-0003-0675-6936|Post-Bac Student|2022-2023||
+
 
 
 {:.table100.ver1}
