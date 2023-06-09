@@ -3,10 +3,16 @@ layout: page
 title: Schnable Lab News
 googlefonts: ["Monoton", "Lobster"]
 ---
+# 2023 May
+* The Schnable lab planted got all the inbreds in the ground! Planting season went great for the lab!
+* James Schnable was quoted in a Nebraska Public Media story as the founder of a company that breeds water efficient grain for Western Nebraska and eastern Colorado. 
+* A collaborative paper “Genetic control of photoprotection and photosystem II operating efficiency in plants” between Dr. Katarzyna Glowacka lab and Dr. James Schnable was published this month in the journal “New Phytologist.”
+* Dr. James Schnable attended the “Sorghum in the 21st Century” in Montpellier, France and was a plenary speaker and spoke on understanding tradeoffs at the genetic locus level.
+
 ### 2023 April
 
 * Dr. Schnable was selected as an influential person in agriculture by "Illionis Farmer Today."
-* Claire an undergraduate in the Dr. Brandi Sigmon's lab, Nikee Shrestha, a PhD Student in the Schnable lab, and Nate Korth Benson, a former PhD student in the Schnable and Benson labs, all won prizes at NPSS!
+* Claire an undergraduate in the Dr. Brandi Sigmon's lab, Nikee Shrestha, a PhD Student in the Schnable lab, and Nate Korth, a former PhD student in the Schnable and Benson labs, all won prizes at NPSS!
 * Dr.Chenyong Miao, a former lab member of the Schnable Lab, came back to visit to give a talk on behalf of CROPS.
 * Dr.Sun Guangchaos's Genome Biology was published and was mentioned in IANR news!
 * Ryleigh Grove, an undergraduate researcher in the Schnable Lab, made it to the final round of the Student Research Slam.
