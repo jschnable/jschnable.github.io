@@ -5,7 +5,7 @@ googlefonts: ["Monoton", "Lobster"]
 ---
 # 2023 May
 * The Schnable lab planted all of the inbreds! Planting season went great for the lab!
-* James Schnable was quoted in a Nebraska Public Media story as the founder of a company that breeds water efficient grain for Western Nebraska and eastern Colorado. 
+* James Schnable was quoted in a Nebraska Public Media story "Millets — ancient drought-resistant grains — could help the Midwest survive climate change" as the founder of a company that breeds water efficient grain for Western Nebraska and eastern Colorado. 
 * A collaborative paper “Genetic control of photoprotection and photosystem II operating efficiency in plants” between Dr. Katarzyna Glowacka lab and Dr. James Schnable was published this month in the journal “New Phytologist.”
 * Dr. James Schnable attended the “Sorghum in the 21st Century” in Montpellier, France and was a plenary speaker and spoke on understanding tradeoffs at the genetic locus level.
 
