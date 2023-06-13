@@ -2,6 +2,15 @@
 layout: page
 title: Media Coverage of Schnable Lab Projects
 ---
+Joint Genome Institute Podcast: Genome Insider S4 Episode 1: Crops as Tough as World Cup Turf – James Schnable and Guangchao Sun: https://jgi.doe.gov/genome-insider-s4-episode-1/
+</p>
+<br>
+<p>Nebraska Today 2023:Refining surge protector in crops could boost yields:https://news.unl.edu/newsrooms/today/article/refining-surge-protector-in-crops-could-boost-yields/
+</p>
+<br>
+<p>Nebraska Public Media:Millets — ancient drought-resistant grains — could help the Midwest survive climate change:https://nebraskapublicmedia.org/en/news/news-articles/millets-ancient-drought-resistant-grains-could-help-the-midwest-survive-climate-change/
+</p>
+<br>
 <p>Nebraska Today 2022: Pitch-perfect: Study of World Cup’s turfgrass may help crops yield more from less: https://news.unl.edu/newsrooms/today/article/pitch-perfect-study-of-world-cup-s-turfgrass-may-help-crops-yield-more-from/
 </p>
 <br>
