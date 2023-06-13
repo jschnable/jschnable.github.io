@@ -2,7 +2,7 @@
 layout: page
 title: Media Coverage of Schnable Lab Projects
 ---
-Joint Genome Institute Podcast: Genome Insider S4 Episode 1: Crops as Tough as World Cup Turf – James Schnable and Guangchao Sun: https://jgi.doe.gov/genome-insider-s4-episode-1/
+<p>Joint Genome Institute Podcast: Genome Insider S4 Episode 1: Crops as Tough as World Cup Turf – James Schnable and Guangchao Sun: https://jgi.doe.gov/genome-insider-s4-episode-1/
 </p>
 <br>
 <p>Nebraska Today 2023: Refining surge protector in crops could boost yields:https://news.unl.edu/newsrooms/today/article/refining-surge-protector-in-crops-could-boost-yields/
