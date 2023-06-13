@@ -11,7 +11,7 @@ title: Media Coverage of Schnable Lab Projects
 <p><a href="https://nebraskapublicmedia.org/en/news/news-articles/millets-ancient-drought-resistant-grains-could-help-the-midwest-survive-climate-change/">Nebraska Public Media 2023: James Schnable quoted in the news story: Millets — ancient drought-resistant grains — could help the Midwest survive climate change</a>
 </p>
 <br>
-<p><a href="ttps://news.unl.edu/newsrooms/today/article/pitch-perfect-study-of-world-cup-s-turfgrass-may-help-crops-yield-more-from/">Nebraska Today 2022: Pitch-perfect: Study of World Cup’s turfgrass may help crops yield more from less</a>
+<p><a href="https://news.unl.edu/newsrooms/today/article/pitch-perfect-study-of-world-cup-s-turfgrass-may-help-crops-yield-more-from/">Nebraska Today 2022: Pitch-perfect: Study of World Cup’s turfgrass may help crops yield more from less</a>
 </p>
 <br>
 <p>Nebraska Today 2021: Husker researcher part of multi-university effort to improve ag decision-making: https://news.unl.edu/newsrooms/today/article/husker-researcher-part-of-multi-university-effort-to-improve-ag-decision/
