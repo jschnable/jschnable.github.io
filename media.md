@@ -8,7 +8,7 @@ title: Media Coverage of Schnable Lab Projects
 <p><a href="https://news.unl.edu/newsrooms/today/article/refining-surge-protector-in-crops-could-boost-yields/">Nebraska Today 2023: Refining surge protector in crops could boost yields</a>
 </p>
 <br>
-<p>Nebraska Public Media 2023: James Schnable quoted in the news story: Millets — ancient drought-resistant grains — could help the Midwest survive climate change:https://nebraskapublicmedia.org/en/news/news-articles/millets-ancient-drought-resistant-grains-could-help-the-midwest-survive-climate-change/
+<p><a href="https://nebraskapublicmedia.org/en/news/news-articles/millets-ancient-drought-resistant-grains-could-help-the-midwest-survive-climate-change/">Nebraska Public Media 2023: James Schnable quoted in the news story: Millets — ancient drought-resistant grains — could help the Midwest survive climate change</a>
 </p>
 <br>
 <p>Nebraska Today 2022: Pitch-perfect: Study of World Cup’s turfgrass may help crops yield more from less: https://news.unl.edu/newsrooms/today/article/pitch-perfect-study-of-world-cup-s-turfgrass-may-help-crops-yield-more-from/
