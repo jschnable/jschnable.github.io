@@ -5,7 +5,7 @@ title: Media Coverage of Schnable Lab Projects
 <p><a href="https://jgi.doe.gov/genome-insider-s4-episode-1/"> Joint Genome Institute Podcast: Genome Insider S4 Episode 1: Crops as Tough as World Cup Turf – James Schnable and Guangchao Sun</a>
 </p>
 <br>
-<p>Nebraska Today 2023: Refining surge protector in crops could boost yields:https://news.unl.edu/newsrooms/today/article/refining-surge-protector-in-crops-could-boost-yields/
+<p><a href="https://news.unl.edu/newsrooms/today/article/refining-surge-protector-in-crops-could-boost-yields/">Nebraska Today 2023: Refining surge protector in crops could boost yields</a>
 </p>
 <br>
 <p>Nebraska Public Media 2023: James Schnable quoted in the news story: Millets — ancient drought-resistant grains — could help the Midwest survive climate change:https://nebraskapublicmedia.org/en/news/news-articles/millets-ancient-drought-resistant-grains-could-help-the-midwest-survive-climate-change/
