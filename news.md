@@ -5,12 +5,12 @@ googlefonts: ["Monoton", "Lobster"]
 ---
 
 
-# 2023 June
+### 2023 June
 * Dr. James Schnable attended the “Sorghum in the 21st Century” in Montpellier, France and was a plenary speaker and spoke on understanding tradeoffs at the genetic locus level.
 * Dr. James Schnable and Dr. Guangchao parterned with Joint Genome Institute Podcast on their paper: A role for heritable transcriptomic variation in maize adaptation to temperate environments. The podcast episode was "Genome Insider S4 Episode 1: Crops as Tough as World Cup Turf – James Schnable and Guangchao Sun."
 * Luyang Zhang, an REU intern, joined the lab for the summer to evaluate senescence phenotypes in sorghum under differing exposure to nitrogen.
 
-# 2023 May
+### 2023 May
 * The Schnable lab planted all of the inbreds! Planting season went great for the lab!
 * James Schnable was quoted in a Nebraska Public Media story "Millets — ancient drought-resistant grains — could help the Midwest survive climate change" as the founder of a company that breeds water efficient grain for Western Nebraska and eastern Colorado. 
 * A collaborative paper “Genetic control of photoprotection and photosystem II operating efficiency in plants” between Dr. Katarzyna Glowacka lab and Dr. James Schnable was published this month in the journal “New Phytologist.”
