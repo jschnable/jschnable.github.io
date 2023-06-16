@@ -25,6 +25,9 @@ title: Schnable Lab Papers
 * Noh M, Sium F, Tope S, Khan S, Karkhanis M, Wang L, Deshpande A, Dalapati R, **Mural RV**, Mastrangelo C, Zang L, Ji M, **Schnable JC**, Kim H (2023) Localization of biofuel crop damage utilizing a nanogap gas sensor. Transducers 2023 Kyoto Japan (Accepted)
 --->
 
+<div data-badge-type="2" data-doi="10.1038/s41588-023-01419-6" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Chen J, Wang Z, Tan K, Huang W, Shi J, Li T, Hu KJ, Wang K, Wang C, Xin B, Zhao H, Song W, Hufford MB, **Schnable JC**, Jin W, Lai J (2023) [A complete telomere-to-telomere assembly of the maize genome.](https://doi.org/10.1038/s41588-023-01419-6) *Nature Genetics* doi: 10.1038/s41588-023-01419-6
+
 <div data-badge-type="2" data-doi="10.1111/nph.18980" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Sahay S, **Grzybowski M**, **Schnable JC**, Glowacka K (2023) [Genetic control of photoprotection and photosystem II operating efficiency in plants.](https://doi.org/10.1111/nph.18980) *New Phytologist* doi: 10.1111/nph.18980
 
