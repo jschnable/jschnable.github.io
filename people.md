@@ -23,7 +23,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Harshita Mangal](images/People_Images/HarshitaM.jpg){:width="120"}|Harshita Mangal| MS Student|||
 |![Henrique Moura Dias](images/People_Images/Henrique.jpg){:width="120"}|Henrique Moura Dias|Visiting PhD Student|||
 |![Luyang Zhang](images/People_Images/LuyangZhangpicture.jpeg){:width="120"}|Luyang Zhang|REU Intern|||
-|![Karla Montserrat Cuéllar Pérez](images/People_Images/KarlaC.jpg){:width="120"}|Karla Montserrat Cuéllar Pérez|Visiting Bachelor Student|||
+|![Karla Montserrat Cuéllar Pérez](images/People_Images/KarlaC.jpg){:width="120"}|[Karla Montserrat Cuéllar Pérez](/peoplepages/KarlaC.md/)|Visiting Bachelor Student|||
 |![Ryleigh](/images/People_Images/Ryleigh.jpg){:width="120"}|Ryleigh Grove|Bachelors/UCARE Student|||
 
 
