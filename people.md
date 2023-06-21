@@ -20,8 +20,10 @@ googlefonts: ["Monoton", "Lobster"]
 |![Fangyi Li](/images/People_Images/Fangyi.jpg){:width="120"}|[Fangyi Li](/peoplepages/FangyiLi/)|PhD Student<br>_(co-advised)_|[CV](/CVs/FangyiLiCV.pdf)||
 |![Hongyu Jin Headshot](/images/People_Images/Hongyu.jpg){:width="120"}|[Hongyu Jin](/peoplepages/Hongyu_Jin/)|PhD Student<br>_(co-advised)_|[CV](/CVs/HongYuJinCV.pdf)||
 |![Amany Gomaa](images/People_Images/Amany.jfif){:width="120"}|[Amany Gomaa](/peoplepages/Amany.md/)|PhD Student<br>_(co-advised)_|[CV](/CVs/AmanyGomaa.pdf)||
+|![Harshita Mangal](images/People_Images/HarshitaM.jpg){:width="120"}|Harshita Mangal| MS Student|||
 |![Henrique Moura Dias](images/People_Images/Henrique.jpg){:width="120"}|Henrique Moura Dias|Visiting PhD Student|||
 |![Luyang Zhang](images/People_Images/LuyangZhangpicture.jpeg){:width="120"}|Luyang Zhang|REU Intern|||
+|![Karla Montserrat Cuéllar Pérez](images/People_Images/KarlaC.jpg){:width="120"}|Karla Montserrat Cuéllar Pérez|Visiting Bachelor Student|||
 |![Ryleigh](/images/People_Images/Ryleigh.jpg){:width="120"}|Ryleigh Grove|Bachelors/UCARE Student|||
 
 
