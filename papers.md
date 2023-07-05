@@ -7,11 +7,11 @@ title: Schnable Lab Papers
 
 **Preprints**
 
+<div data-badge-type="2" data-doi="10.1101/2023.07.03.545230" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Li D**, Wang Q, Tian Y, Lyu X, Zhang H, Sun Y, Hong H, Gao H, Li Y, Zhao C, Wang J, Wang R, Yang J, Liu B, Schnable PS, **Schnable JC**, Li Y, Qiu L [Transcriptome brings variations of gene expression, alternative splicing, and structural variations into gene-scale trait dissection in soybean.](https://doi.org/10.1101/2023.07.03.545230) *bioRxiv* doi: 10.1101/2023.07.03.545230
+
 <div data-badge-type="2" data-doi="10.1101/2022.10.24.513623" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Delen Y, **Mural RV**, Xu G, Delen SP, **Schnable JC**, Yang J, Dweikat I [Dissecting the genetic architecture of sunflower head diameter using genome-wide association study.](https://doi.org/10.1101/2022.10.24.513623) *bioRxiv* doi: 10.1101/2022.10.24.513623
-
-<div data-badge-type="2" data-doi="10.1101/2022.07.29.502051" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Kick D, Wallace J, **Schnable JC**, Kolkman JM, Alaca B, Beissinger TM, Ertl D, Flint-Garcia S, Gage JL, Hirsch CN, Knoll JE, de Leon N, Lima DC, Moreta D, Singh MP, Weldekidan T, Washburn JD [Yield prediction through integration of genetic, environment, and management data through deep learning.](https://doi.org/10.1101/2022.07.29.502051) *bioRxiv* doi: 10.1101/2022.07.29.502051
 
 <div data-badge-type="2" data-doi="10.1101/2022.02.09.479784" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Xu G, Lyu J, Obata T, Liu S, Ge Y, **Schnable JC**, Yang J "[A historically balanced locus under recent directional selection in responding to changed nitrogen conditions during modern maize breeding.](https://doi.org/10.1101/2022.02.09.479784)" *bioRxiv* doi: 10.1101/2022.02.09.479784
@@ -25,6 +25,9 @@ title: Schnable Lab Papers
 * Noh M, Sium F, Tope S, Khan S, Karkhanis M, Wang L, Deshpande A, Dalapati R, **Mural RV**, Mastrangelo C, Zang L, Ji M, **Schnable JC**, Kim H (2023) Localization of biofuel crop damage utilizing a nanogap gas sensor. Transducers 2023 Kyoto Japan (Accepted)
 --->
 
+<div data-badge-type="2" data-doi="10.1093/jxb/erad241" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Barnes AC, Myers JL, Surber SM, **Liang Z**, Mower JP, **Schnable JC**, Roston RL (2023) [Oligogalactolipid production during cold challenge is conserved in early diverging lineages.](https://doi.org/10.1093/jxb/erad241) *Journal of Experimental Botany* doi: 10.1093/jxb/erad241
+
 <div data-badge-type="2" data-doi="10.1038/s41588-023-01419-6" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Chen J, Wang Z, Tan K, Huang W, Shi J, Li T, Hu KJ, Wang K, Wang C, Xin B, Zhao H, Song W, Hufford MB, **Schnable JC**, Jin W, Lai J (2023) [A complete telomere-to-telomere assembly of the maize genome.](https://doi.org/10.1038/s41588-023-01419-6) *Nature Genetics* doi: 10.1038/s41588-023-01419-6
 
@@ -33,6 +36,9 @@ title: Schnable Lab Papers
 
 <div data-badge-type="2" data-doi="10.1186/s12863-023-01129-2" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Lima DC, Aviles AC, Alphers RT ... **Schnable JC** (26th of 37 authors) ... Wisser RJ, Xu W, de Leon N (2023) [2018–2019 field seasons of the Maize Genomes to Fields (G2F) G x E project.](https://doi.org/10.1186/s12863-023-01129-2) *BMC Genomic Data* doi: 10.1186/s12863-023-01129-2
+
+<div data-badge-type="2" data-doi="10.1093/g3journal/jkad006" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Kick D, Wallace J, **Schnable JC**, Kolkman JM, Alaca B, Beissinger TM, Ertl D, Flint-Garcia S, Gage JL, Hirsch CN, Knoll JE, de Leon N, Lima DC, Moreta D, Singh MP, Weldekidan T, Washburn JD [Yield prediction through integration of genetic, environment, and management data through deep learning.](https://doi.org/10.1093/g3journal/jkad006) *G3* doi: 10.1093/g3journal/jkad006 *bioRxiv* doi: 10.1101/2022.07.29.502051
 
 <div data-badge-type="2" data-doi="10.1093/jxb/erad129" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Wijewardane NK, Zhang H, Yang J, **Schnable JC**, Schachtman DP, Ge Y (2023) [A leaf-level spectral library to support high throughput plant phenotyping: Predictive accuracy and model transfer.](https://doi.org/10.1093/jxb/erad129) *Journal of Experimental Botany* doi: 10.1093/jxb/erad129
