@@ -121,9 +121,8 @@ googlefonts: ["Monoton", "Lobster"]
 |![Daniella Norah Tumisiine](/images/People_Images/Norah.jpg){:width="120"}|Daniella Norah Tumusiine|Bachelors Student|2021-2023||
 |![Isabel Sigmon](/images/People_Images/isabel.jpg){:width="120"}|Isabel Sigmon|HS Student and<br>Bachelors Student|2018-2023||
 |![Maddy](/images/People_Images/MaddyFaber.jpg){:width="120"}|Maddy Faber|Bachelors Student|2023||
-|![Jordan](/images/People_Images/Jordan.jpeg){:width="120"}|Jordan Bares|Bachelors Student|2023||
 |![Kashish](/images/People_Images/Kashish.jpg){:width="120"}|Kashish Syed|Bachelors Student|2023||
-|![Karla Montserrat Cuéllar Pérez](images/People_Images/KarlaC.jpg){:width="120"}|[Karla Montserrat Cuéllar Pérez](/peoplepages/KarlaC.md/)|Visiting Bachelor Student|||
+|![Karla Montserrat Cuéllar Pérez](images/People_Images/KarlaC.jpg){:width="120"}|[Karla Montserrat Cuéllar Pérez](/peoplepages/KarlaC.md/)|Visiting Bachelor Student|Summer 2022||
 
 {:.table100.ver1}
 
