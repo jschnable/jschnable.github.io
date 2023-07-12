@@ -123,6 +123,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Maddy](/images/People_Images/MaddyFaber.jpg){:width="120"}|Maddy Faber|Bachelors Student|2023||
 |![Jordan](/images/People_Images/Jordan.jpeg){:width="120"}|Jordan Bares|Bachelors Student|2023||
 |![Kashish](/images/People_Images/Kashish.jpg){:width="120"}|Kashish Syed|Bachelors Student|2023||
+|![Karla Montserrat Cuéllar Pérez](images/People_Images/KarlaC.jpg){:width="120"}|[Karla Montserrat Cuéllar Pérez](/peoplepages/KarlaC.md/)|Visiting Bachelor Student|||
 
 {:.table100.ver1}
 
