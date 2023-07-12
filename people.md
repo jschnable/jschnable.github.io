@@ -24,7 +24,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Henrique Moura Dias](images/People_Images/Henrique.jpg){:width="120"}|Henrique Moura Dias|Visiting PhD Student|||
 |![Luyang Zhang](images/People_Images/LuyangZhangpicture.jpeg){:width="120"}|Luyang Zhang|REU Intern|||
 |![Ryleigh](/images/People_Images/Ryleigh.jpg){:width="120"}|Ryleigh Grove|Bachelors/UCARE Student|||
-
+|![Jordan](/images/People_Images/Jordan.jpeg){:width="120"}|Jordan Bares|Bachelors Student|||
 
 
 {:.table100.ver1}
