@@ -5,7 +5,7 @@ googlefonts: ["Monoton", "Lobster"]
 ---
 
 ### August 2023
-* Luyang Zhang, summer undergraduate researcher in our lab, won an Outstanding Research Presentation Award for her work mapping genes controlling chlorophyll accumulation in sorghum.
+* Luyang Zhang, summer undergraduate researcher in the lab, won an Outstanding Research Presentation Award for her work mapping genes that control chlorophyll accumulation in sorghum! 
 * Lina Lopez, a research technologist in the lab, and Nikee Shrestha, a graduate student in the lab, both attended and presented at the Robotics in agriculture AII4RA meeting.
 ### 2023 July
 * Jensina Davis, a graduate student in the lab, presented her work on phyllotaxi at the MLCAS2023 conference virtually!
