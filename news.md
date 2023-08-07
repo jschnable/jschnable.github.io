@@ -11,7 +11,7 @@ googlefonts: ["Monoton", "Lobster"]
 *Michael Tross, a graduate student in the lab, recently had a story by IANR written about his experience being an intern at Google X over this last spring semester.
 *Schnable Lab and Yang Lab went out to the fields and collected mRNA samples. They collected over 8100 samples over the course of just a day!
 *Luyang Zhang, summer undergraduate researcher in our lab, won an Outstanding Research Presentation Award for her work mapping genes controlling chlorophyll accumulation in sorghum. 
-Lina Lopez, a research technologist in the lab, and Nikee Shrestha, a graduate student in the lab, both attended and presented at the Robotics in agriculture AII4RA meeting.
+*Lina Lopez, a research technologist in the lab, and Nikee Shrestha, a graduate student in the lab, both attended and presented at the Robotics in agriculture AII4RA meeting.
 
 ### 2023 June
 * Dr. James Schnable attended the “Sorghum in the 21st Century” in Montpellier, France and was a plenary speaker and spoke on understanding tradeoffs at the genetic locus level.
