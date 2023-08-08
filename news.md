@@ -4,10 +4,11 @@ title: Schnable Lab News
 googlefonts: ["Monoton", "Lobster"]
 ---
 
-### August 2023
+### 2023 August
 
 * Luyang Zhang, summer undergraduate researcher in the lab, won an Outstanding Research Presentation Award for her work mapping genes that control chlorophyll accumulation in sorghum! 
 * Lina Lopez, a research technologist in the lab, and Nikee Shrestha, a graduate student in the lab, both attended and presented at the Robotics in agriculture AII4RA meeting.
+  
 ### 2023 July
 
 * Jensina Davis, a graduate student in the lab, presented her work on phyllotaxi at the MLCAS2023 conference virtually!
@@ -16,11 +17,13 @@ googlefonts: ["Monoton", "Lobster"]
 * Ryleigh Grove, a undergraduate UCARE researcher in the lab, has spent the summer as an Discovery Corn Breeder Intern at Sygenta and recently attended the Corn Grower’s Congress 2023.
 * Michael Tross, a graduate student in the lab, recently had a story by IANR written about his experience being an intern at Google X over this last spring semester.
 * Schnable Lab and Yang Lab went out to the fields and collected mRNA samples. They collected over 8100 samples over the course of just a day!
+  
 ### 2023 June
 
 * Dr. James Schnable attended the “Sorghum in the 21st Century” in Montpellier, France and was a plenary speaker and spoke on understanding tradeoffs at the genetic locus level.
 * Dr. James Schnable and Dr. Guangchao parterned with Joint Genome Institute Podcast on their paper: A role for heritable transcriptomic variation in maize adaptation to temperate environments. The podcast episode was "Genome Insider S4 Episode 1: Crops as Tough as World Cup Turf – James Schnable and Guangchao Sun."
 * Luyang Zhang, an REU intern, joined the lab for the summer to evaluate senescence phenotypes in sorghum under differing exposure to nitrogen.
+  
 ### 2023 May
 
 * The Schnable lab planted all of the inbreds! Planting season went great for the lab!
