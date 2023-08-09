@@ -7,6 +7,9 @@ title: Schnable Lab Papers
 
 **Preprints**
 
+<div data-badge-type="2" data-doi="10.1101/2023.08.08.551183" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Engelhorn J, Snodgrass S, Kok A, Seetharam A, Schneider M, Kiwit T, Singh A, Banf M, Khaipho-Burch M, Runcie D, Camargo V, **Torres-Rodriguez JV**, **Sun G**, Stam M, Fiorani F, **Schnable JC**, Bass H, Hufford M, Stich B, Frommer W, Ross-Ibarra J, Hartwig T [Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites.](https://doi.org/10.1101/2023.08.08.551183) *bioRxiv* doi:10.1101/2023.08.08.551183
+
 <div data-badge-type="2" data-doi="10.1101/2023.07.03.545230" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Li D**, Wang Q, Tian Y, Lyu X, Zhang H, Sun Y, Hong H, Gao H, Li Y, Zhao C, Wang J, Wang R, Yang J, Liu B, Schnable PS, **Schnable JC**, Li Y, Qiu L [Transcriptome brings variations of gene expression, alternative splicing, and structural variations into gene-scale trait dissection in soybean.](https://doi.org/10.1101/2023.07.03.545230) *bioRxiv* doi: 10.1101/2023.07.03.545230
 
