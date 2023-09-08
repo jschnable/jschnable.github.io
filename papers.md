@@ -7,6 +7,10 @@ title: Schnable Lab Papers
 
 **Preprints**
 
+<div data-badge-type="2" data-doi="10.1101/2023.08.29.555201" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+
+* Sahay S, **Shrestha N**, **Moura Dias H**, **Mural RV**, **Grzybowski M**, **Schnable JC**, Glowacka K$^\S$ [Comparative GWAS identifies a role for Mendel’s green pea gene in the nonphotochemical quenching kinetics of sorghum, maize, and arabidopsis](https://doi.org/10.1101/2023.08.29.555201). *bioRxiv8 doi: 10.1101/2023.08.29.555201
+
 <div data-badge-type="2" data-doi="10.1101/2023.08.08.551183" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Engelhorn J, Snodgrass S, Kok A, Seetharam A, Schneider M, Kiwit T, Singh A, Banf M, Khaipho-Burch M, Runcie D, Camargo V, **Torres-Rodriguez JV**, **Sun G**, Stam M, Fiorani F, **Schnable JC**, Bass H, Hufford M, Stich B, Frommer W, Ross-Ibarra J, Hartwig T [Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites.](https://doi.org/10.1101/2023.08.08.551183) *bioRxiv* doi:10.1101/2023.08.08.551183
 
@@ -27,6 +31,9 @@ title: Schnable Lab Papers
 <!---
 * Noh M, Sium F, Tope S, Khan S, Karkhanis M, Wang L, Deshpande A, Dalapati R, **Mural RV**, Mastrangelo C, Zang L, Ji M, **Schnable JC**, Kim H (2023) Localization of biofuel crop damage utilizing a nanogap gas sensor. Transducers 2023 Kyoto Japan (Accepted)
 --->
+
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+\item DiMario R, Kophs A, Apalla A, **Schnable JS**, Cousins A (2023) Multiple highly expressed phosphoenolpyruvate carboxylase genes have divergent enzyme kinetic properties in two C4 grasses. *Annals Of Botany* (In Press)
 
 <div data-badge-type="2" data-doi="10.1093/jxb/erad241" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Barnes AC, Myers JL, Surber SM, **Liang Z**, Mower JP, **Schnable JC**, Roston RL (2023) [Oligogalactolipid production during cold challenge is conserved in early diverging lineages.](https://doi.org/10.1093/jxb/erad241) *Journal of Experimental Botany* doi: 10.1093/jxb/erad241
