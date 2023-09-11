@@ -28,12 +28,11 @@ title: Schnable Lab Papers
 
 **2023**
 
-<!---
-* Noh M, Sium F, Tope S, Khan S, Karkhanis M, Wang L, Deshpande A, Dalapati R, **Mural RV**, Mastrangelo C, Zang L, Ji M, **Schnable JC**, Kim H (2023) Localization of biofuel crop damage utilizing a nanogap gas sensor. Transducers 2023 Kyoto Japan (Accepted)
---->
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Noh M, Sium F, Tope S, Khan S, Karkhanis M, Wang L, Deshpande A, Dalapati R, **Mural RV**, Mastrangelo C, Zang L, Ji M, **Schnable JC**, Kim H (2023) Localization of crop damage utilizing a wake up gas sensor network. *Transducers 2023* Kyoto, Japan *(Conference Paper)*
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-\item DiMario R, Kophs A, Apalla A, **Schnable JS**, Cousins A (2023) Multiple highly expressed phosphoenolpyruvate carboxylase genes have divergent enzyme kinetic properties in two C4 grasses. *Annals Of Botany* (In Press)
+* DiMario R, Kophs A, Apalla A, **Schnable JS**, Cousins A (2023) Multiple highly expressed phosphoenolpyruvate carboxylase genes have divergent enzyme kinetic properties in two C4 grasses. *Annals Of Botany* (In Press)
 
 <div data-badge-type="2" data-doi="10.1093/jxb/erad241" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Barnes AC, Myers JL, Surber SM, **Liang Z**, Mower JP, **Schnable JC**, Roston RL (2023) [Oligogalactolipid production during cold challenge is conserved in early diverging lineages.](https://doi.org/10.1093/jxb/erad241) *Journal of Experimental Botany* doi: 10.1093/jxb/erad241
