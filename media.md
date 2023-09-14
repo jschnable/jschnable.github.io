@@ -2,6 +2,22 @@
 layout: page
 title: Media Coverage of Schnable Lab Projects
 ---
+
+<p><a href="https://ianrnews.unl.edu/three-integrated-plant-biology-students-awarded-fellowships"> Three integrated plant biology students awarded fellowships</a>
+</p>
+<br>
+<p><a href="https://news.unl.edu/newsrooms/today/article/tross-expertise-in-ai-plant-biology-lands-him-internship-in-googles-x-lab/"> Tross’ expertise in AI, plant biology lands him spot in Google’s X lab</a>
+</p>
+<br>
+<p><a href="https://news.unl.edu/newsrooms/today/article/tross-expertise-in-ai-plant-biology-lands-him-internship-in-googles-x-lab/"> Tross’ expertise in AI, plant biology lands him spot in Google’s X lab</a>
+</p>
+<br>
+<p><a href="https://agronomy.unl.edu/news/artificial-intelligence-and-plant-biology-research-lands-tross-internship-google-x"> Artificial intelligence and plant biology research lands Tross internship at Google-X</a>
+</p>
+<br>
+<p><a href="https://ruralradio.com/rrn/news/genome-sequencing-breakthrough-boosts-corn-breeding-connects-to-unl-legacy/?utm_source=dlvr.it&utm_medium=twitter"Genome Sequencing Breakthrough Boosts Corn Breeding, Connects to UNL Legacy</a>
+</p>
+<br>
 <p><a href="https://jgi.doe.gov/genome-insider-s4-episode-1/"> Joint Genome Institute Podcast: Genome Insider S4 Episode 1: Crops as Tough as World Cup Turf – James Schnable and Guangchao Sun</a>
 </p>
 <br>
