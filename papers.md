@@ -28,11 +28,14 @@ title: Schnable Lab Papers
 
 **2023**
 
+<div data-badge-type="2" data-doi="10.1186/s13104-023-06430-y" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Lima DC, Aviles AC, Alpers RT ... **Schnable JC** (24th of 35 authors) ... Xu W, de Leon N (2023) [2020-2021 field seasons of Maize GxE project within the Genomes to Fields Initiative.](https://doi.org/10.1186/s13104-023-06430-y) **BMC Research Notes** doi: 10.1186/s13104-023-06430-y
+
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Noh M, Sium F, Tope S, Khan S, Karkhanis M, Wang L, Deshpande A, Dalapati R, **Mural RV**, Mastrangelo C, Zang L, Ji M, **Schnable JC**, Kim H (2023) Localization of crop damage utilizing a wake up gas sensor network. *Transducers 2023* Kyoto, Japan *(Conference Paper)*
 
-<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* DiMario R, Kophs A, Apalla A, **Schnable JS**, Cousins A (2023) Multiple highly expressed phosphoenolpyruvate carboxylase genes have divergent enzyme kinetic properties in two C4 grasses. *Annals Of Botany* (In Press)
+<div data-badge-type="2" data-doi="10.1093/aob/mcad116" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* DiMario R, Kophs A, Apalla A, **Schnable JS**, Cousins A (2023) [Multiple highly expressed phosphoenolpyruvate carboxylase genes have divergent enzyme kinetic properties in two C4 grasses.](https://doi.org/10.1093/aob/mcad116) *Annals Of Botany* doi: 10.1093/aob/mcad116
 
 <div data-badge-type="2" data-doi="10.1093/jxb/erad241" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Barnes AC, Myers JL, Surber SM, **Liang Z**, Mower JP, **Schnable JC**, Roston RL (2023) [Oligogalactolipid production during cold challenge is conserved in early diverging lineages.](https://doi.org/10.1093/jxb/erad241) *Journal of Experimental Botany* doi: 10.1093/jxb/erad241
