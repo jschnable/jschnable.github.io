@@ -22,11 +22,10 @@ googlefonts: ["Monoton", "Lobster"]
 |![Amany Gomaa](images/People_Images/Amany.jfif){:width="120"}|[Amany Gomaa](/peoplepages/Amany.md/)|PhD Student<br>_(co-advised)_|[CV](/CVs/AmanyGomaa.pdf)||
 |![Harshita Mangal](images/People_Images/HarshitaM.jpg){:width="120"}|Harshita Mangal| MS Student|||
 |![Henrique Moura Dias](images/People_Images/Henrique.jpg){:width="120"}|Henrique Moura Dias|Visiting PhD Student|||
-|![Luyang Zhang](images/People_Images/LuyangZhangpicture.jpeg){:width="120"}|Luyang Zhang|REU Intern|||
 |![Ryleigh](/images/People_Images/Ryleigh.jpg){:width="120"}|Ryleigh Grove|Bachelors/UCARE Student|||
-|![Jordan](/images/People_Images/Jordan.jpeg){:width="120"}|Jordan Bares|Bachelors Student|||
-
-
+|![Jordan](/images/People_Images/Jordan.jpeg){:width="120"}|Jordan Bares|Undergraduate Research Assistant|||
+|![Matthew](/images/People_Images/Matthew.jpeg.jpg){:width="120"}|Matthew Lowry|Undergraduate Research Assistant|||
+|![Chessie](/images/People_Images/Chessie.jpeg.jpg){:width="120"}|Chessie Ruester|Undergraduate Research Assistant|||
 {:.table100.ver1}
 
 [Lab Alumni 2014-Present](/alumni)
