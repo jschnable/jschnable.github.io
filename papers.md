@@ -7,9 +7,11 @@ title: Schnable Lab Papers
 
 **Preprints**
 
-<div data-badge-type="2" data-doi="10.1101/2023.08.29.555201" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+<div data-badge-type="2" data-doi="10.1101/2023.09.20.558616" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Korth N**, Yang Q, Van Haute MJ, **Tross MC**, Peng B, **Shrestha N**, **Zwiener M**, **Mural RV**, **Schnable JC**, Benson AK [Grain utilization by the gut microbiome as a human health phenotype to identify multiple effect loci in genome-wide association studies of *Sorghum bicolor*](https://doi.org/10.1101/2023.09.20.558616). *bioRxiv* doi: 10.1101/2023.09.20.558616
 
-* Sahay S, **Shrestha N**, **Moura Dias H**, **Mural RV**, **Grzybowski M**, **Schnable JC**, Glowacka K$^\S$ [Comparative GWAS identifies a role for Mendel’s green pea gene in the nonphotochemical quenching kinetics of sorghum, maize, and arabidopsis](https://doi.org/10.1101/2023.08.29.555201). *bioRxiv8 doi: 10.1101/2023.08.29.555201
+<div data-badge-type="2" data-doi="10.1101/2023.08.29.555201" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Sahay S, **Shrestha N**, **Moura Dias H**, **Mural RV**, **Grzybowski M**, **Schnable JC**, Glowacka K [Comparative GWAS identifies a role for Mendel’s green pea gene in the nonphotochemical quenching kinetics of sorghum, maize, and arabidopsis](https://doi.org/10.1101/2023.08.29.555201). *bioRxiv* doi: 10.1101/2023.08.29.555201
 
 <div data-badge-type="2" data-doi="10.1101/2023.08.08.551183" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Engelhorn J, Snodgrass S, Kok A, Seetharam A, Schneider M, Kiwit T, Singh A, Banf M, Khaipho-Burch M, Runcie D, Camargo V, **Torres-Rodriguez JV**, **Sun G**, Stam M, Fiorani F, **Schnable JC**, Bass H, Hufford M, Stich B, Frommer W, Ross-Ibarra J, Hartwig T [Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites.](https://doi.org/10.1101/2023.08.08.551183) *bioRxiv* doi:10.1101/2023.08.08.551183
@@ -29,7 +31,7 @@ title: Schnable Lab Papers
 **2023**
 
 <div data-badge-type="2" data-doi="10.1186/s13104-023-06430-y" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Lima DC, Aviles AC, Alpers RT ... **Schnable JC** (24th of 35 authors) ... Xu W, de Leon N (2023) [2020-2021 field seasons of Maize GxE project within the Genomes to Fields Initiative.](https://doi.org/10.1186/s13104-023-06430-y) **BMC Research Notes** doi: 10.1186/s13104-023-06430-y
+* Lima DC, Aviles AC, Alpers RT ... **Schnable JC** (24th of 35 authors) ... Weldekidan T, Xu W, de Leon N (2023) [2020-2021 field seasons of Maize GxE project within the Genomes to Fields Initiative.](https://doi.org/10.1186/s13104-023-06430-y) **BMC Research Notes** doi: 10.1186/s13104-023-06430-y
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Noh M, Sium F, Tope S, Khan S, Karkhanis M, Wang L, Deshpande A, Dalapati R, **Mural RV**, Mastrangelo C, Zang L, Ji M, **Schnable JC**, Kim H (2023) Localization of crop damage utilizing a wake up gas sensor network. *Transducers 2023* Kyoto, Japan *(Conference Paper)*
