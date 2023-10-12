@@ -8,7 +8,7 @@ googlefonts: ["Monoton", "Lobster"]
 | | **Name** | **Title**| **CV** | **ORCID**
 |![James Schnable](/images/People_Images/jamesschnable.jpg){:width="120" align="middle"}|[James Schnable](/peoplepages/jschnable/)<a href="https://twitter.com/szintri"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Professor|[CV](/CVs/JSchnable.pdf)|0000-0001-6739-5527|
 |![Ravi Mural Headshot](/images/People_Images/Ravi.jpg){:width="120" align="middle"}|[Ravi Mural](/peoplepages/Ravi_Mural/)|Research Assistant Professor<br>Center for Plant Science Innovation|[CV](/CVs/RaviMuralCV.pdf)|0000-0002-5489-9918|
-|![Vladimir Headshot](/images/People_Images/Vlad.jpg){:width="120" align="middle"}|[Vladimir Torres-Rodriquez](/peoplepages/Vlad/)|Postdoctoral Scholar|[CV](/CVs/VladimirCV.pdf)|0000-0001-6056-3452|
+|![Vladimir Headshot](/images/People_Images/vlad2.jpg){:width="120" align="middle"}|[Vladimir Torres-Rodriquez](/peoplepages/Vlad/)|Postdoctoral Scholar|[CV](/CVs/VladimirCV.pdf)|0000-0001-6056-3452|
 |![Jon Turkus](/images/People_Images/JonT.jpg){:width="120"}|Jon Turkus|Lab Manager||0000-0002-2006-0137|
 |![Lina Corona-López](/images/People_Images/Lina.jpg){:width="120"}|[Lina Corona-López](/peoplepages/LinaLopez/)|Technician|
 |![Chidanand "Chidu" Ullagaddi](/images/People_Images/Chidanand.jpeg){:width="120"}|[Chidanand "Chidu" Ullagaddi](/peoplepages/Chidu/)|Technician|
