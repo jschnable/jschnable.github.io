@@ -24,7 +24,8 @@ googlefonts: ["Monoton", "Lobster"]
 **Postdocs and Visiting Scientists**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
-|![Luyang Zhang](images/People_Images/LuyangZhangpicture.jpeg){:width="120"}|Luyang Zhang|REU Intern|||
+|![Lina Corona-López](/images/People_Images/Lina.jpg){:width="120"}|[Lina Corona-López](/peoplepages/LinaLopez/)|Technician|
+|![Ravi Mural Headshot](/images/People_Images/Ravi.jpg){:width="120" align="middle"}|[Ravi Mural](/peoplepages/Ravi_Mural/)|Research Assistant Professor<br>Center for Plant Science Innovation|[CV](/CVs/RaviMuralCV.pdf)|0000-0002-5489-9918|
 |![Marcin Grzybowski Headshot](/images/People_Images/Marcin.jpg){:width="120" align="middle"}|[Marcin Grzybowski](/peoplepages/Marcin_Grzybowski/)<br>0000-0002-6303-5433|Postdoctoral Scholar|2019-2022|Faculty Member<br>University of Warsaw|
 |![Deniz Headshot](/images/People_Images/Deniz2.PNG){:width="120" align="middle"}|[Deniz Istipliler](/peoplepages/Deniz_Istipiller/)<br>0000-0002-0887-1121|Visiting Scholar|2022-2023|Assistant Professor<br>Ege University|
 |![Guangchao Sun](/images/People_Images/Guangchao.JPG){:width="120" align="middle"}|[Guangchao Sun](/peoplepages/Guangchao_Sun/)<a href="https://twitter.com/xiaoguanghuan"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a><br>0000-0003-3942-6175|Postdoctoral Scholar|2018-2021|Bioinformatician<br>Mayo Clinic|
@@ -42,6 +43,7 @@ googlefonts: ["Monoton", "Lobster"]
 **PhD Students**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
+|![Henrique Moura Dias](images/People_Images/Henrique.jpg){:width="120"}|Henrique Moura Dias|Visiting PhD Student|||
 |![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|PhD Student/FFAR Fellow|2017-2022||
 |![Santos Headshot](/images/People_Images/Santos.jpg){:width="120"}|Santos Yenandy<br>Barrera Lemus|PhD Student<br>_(co-advised)_|2021| Biotec Research Manager, Plant Sciences inc|
 |![Chenyong Miao](/images/People_Images/Miao_Small.jpg){:width="120"}|[Chenyong Miao](/peoplepages/Chenyong_Miao/)<a href="https://twitter.com/Valiancy_miao"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"><br>0000-0002-0904-3707</a>|PhD Student |2016-2020| Phenomics Data Scientist, Bayer Crop Science|
@@ -124,6 +126,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Maddy](/images/People_Images/MaddyFaber.jpg){:width="120"}|Maddy Faber|Bachelors Student|2023||
 |![Kashish](/images/People_Images/Kashish.jpg){:width="120"}|Kashish Syed|Bachelors Student|2023||
 |![Karla Montserrat Cuéllar Pérez](images/People_Images/KarlaC.jpg){:width="120"}|[Karla Montserrat Cuéllar Pérez](/peoplepages/KarlaC.md/)|Visiting Bachelor Student|Summer 2022||
+|![Luyang Zhang](images/People_Images/LuyangZhangpicture.jpeg){:width="120"}|Luyang Zhang|REU Intern|||
 
 {:.table100.ver1}
 
