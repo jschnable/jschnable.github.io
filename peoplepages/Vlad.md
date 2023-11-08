@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vladimir Torres-Rodriquez 
+title: Vladimir Torres-Rodriguez 
 ---
 
 ![Vladimir Torres-Rodriguez](/images/People_Images/Vlad2.jpg){:align="middle"}|
