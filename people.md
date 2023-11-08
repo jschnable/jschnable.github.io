@@ -10,6 +10,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Vladimir Headshot](/images/People_Images/vlad2.jpg){:width="120" align="middle"}|[Vladimir Torres-Rodriguez](/peoplepages/Vlad/)|Postdoctoral Scholar|[CV](/CVs/VladimirCV.pdf)|0000-0001-6056-3452|
 |![Jon Turkus](/images/People_Images/JonT.jpg){:width="120"}|Jon Turkus|Lab Manager||0000-0002-2006-0137|
 |![Chidanand "Chidu" Ullagaddi](/images/People_Images/Chidanand.jpeg){:width="120"}|[Chidanand "Chidu" Ullagaddi](/peoplepages/Chidu/)|Technician|
+|![Kyle Linders](/images/People_Images/KyleL.jpg){:width="120"}|Kyle Linders|Technician|
 |![Michael Tross Headshot](/images/People_Images/MichaelT.jpg){:width="120"}|[Michael Tross](/peoplepages/Michael_Tross/)|PhD Student|[CV](/CVs/MichaelTrossCV.pdf)|0000-0002-4410-9679|
 |![Jensina Davis](images/People_Images/Jensina.png){:width="120"}|[Jensina Davis](/peoplepages/Jensina/)|PhD Student|[CV](/CVs/JensinaDavisCV.pdf)||
 |![Nikee Headshot](/images/People_Images/NikeeS.jpg){:width="120" align="middle"}|[Nikee Shrestha](/peoplepages/Nikee/)|PhD Student|[CV](/CVs/NikeeShresthaCV.pdf)|0000-0003-4195-7549||
