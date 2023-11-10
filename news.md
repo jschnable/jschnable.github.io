@@ -5,18 +5,18 @@ googlefonts: ["Monoton", "Lobster"]
 ---
 
 ### 2023 November
-The Schnable Lab presented at the 2023 UNL Plant Science Symposium: over ten people in the lab presented a poster, Jensina Davis and Ryleigh Grove presented short talks, and Waqar Ali presented a lightning talk.
+*The Schnable Lab presented at the 2023 UNL Plant Science Symposium: over ten people in the lab presented a poster, Jensina Davis and Ryleigh Grove presented short talks, and Waqar Ali presented a lightning talk.
 
 ### 2023 October
-Jensina Davis and Nikee Shrestha attended the Digital Agriculture and Advanced Analytics Symposium at Kansas State.
-Fangyi Li and Hongyu Jin sucessfully passed their comprehensive exams.
-Lina Lopez, a former research technician in the lab, accepted a job offer to work with USDA!
-The Nebraska Corn Board welcomed Dr. James Schnable as the next Nebraska Corn Checkoff Presidential Chair. 
-Dr. James Schnable attended the IROS 2023 to present at workshop based on agricultural robotics. His topic was explained how differences in the kinds of data collected by automated systems are already changing the ways researchers use quantitative genetics to link genes to functions in plants. 
+*Jensina Davis and Nikee Shrestha attended the Digital Agriculture and Advanced Analytics Symposium at Kansas State.
+*Fangyi Li and Hongyu Jin sucessfully passed their comprehensive exams.
+*Lina Lopez, a former research technician in the lab, accepted a job offer to work with USDA!
+*The Nebraska Corn Board welcomed Dr. James Schnable as the next Nebraska Corn Checkoff Presidential Chair. 
+*Dr. James Schnable attended the IROS 2023 to present at workshop based on agricultural robotics. His topic was how differences in the kinds of data collected by automated systems are already changing the ways researchers use quantitative genetics to link genes to functions in plants. 
 
 ### 2023 September
 * Ravi Mural is hired as a tenure track assistant professor at South Dakota State University!
-Three plant scientists were recognized for their outstanding character in the field and the classroom. Researchers Jensina Davis earned the Moseman Fellowship, Michael Tross earned the Life Sciences Award, and Nikee Shrestha earned the Widaman Distinguished Graduate Assistant Award.
+*Three plant scientists were recognized for their outstanding character in the field and the classroom. Researchers Jensina Davis earned the Moseman Fellowship, Michael Tross earned the Life Sciences Award, and Nikee Shrestha earned the Widaman Distinguished Graduate Assistant Award.
 ### 2023 August
 
 * Luyang Zhang, summer undergraduate researcher in the lab, won an Outstanding Research Presentation Award for her work mapping genes that control chlorophyll accumulation in sorghum!
