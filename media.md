@@ -17,9 +17,6 @@ title: Media Coverage of Schnable Lab Projects
 <p><a href="https://news.unl.edu/newsrooms/today/article/tross-expertise-in-ai-plant-biology-lands-him-internship-in-googles-x-lab/"> Tross’ expertise in AI, plant biology lands him spot in Google’s X lab</a>
 </p>
 <br>
-<p><a href="https://news.unl.edu/newsrooms/today/article/tross-expertise-in-ai-plant-biology-lands-him-internship-in-googles-x-lab/"> Tross’ expertise in AI, plant biology lands him spot in Google’s X lab</a>
-</p>
-<br>
 <p><a href="https://agronomy.unl.edu/news/artificial-intelligence-and-plant-biology-research-lands-tross-internship-google-x"> Artificial intelligence and plant biology research lands Tross internship at Google-X</a>
 </p>
 <br>
