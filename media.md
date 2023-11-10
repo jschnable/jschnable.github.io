@@ -2,7 +2,15 @@
 layout: page
 title: Media Coverage of Schnable Lab Projects
 ---
-
+<p><a href="https://mediahub.unl.edu/media/21468"> IANR KRVN Interview October 14, 2023</a>
+</p>
+<br>
+<p><a href="https://ianrnews.unl.edu/schnable-selected-nebraska-corn-checkoff-presidential-chair"> Schnable selected as Nebraska Corn Checkoff Presidential Chair</a>
+</p>
+<br>
+<p><a href="https:https://agronomy.unl.edu/news/14-graduate-students-earn-fellowships-and-awards"> 14 graduate students earn fellowships and awards</a>
+</p>
+<br>
 <p><a href="https://ianrnews.unl.edu/three-integrated-plant-biology-students-awarded-fellowships"> Three integrated plant biology students awarded fellowships</a>
 </p>
 <br>
