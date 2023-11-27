@@ -24,6 +24,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Jordan](/images/People_Images/Jordan.jpeg){:width="120"}|Jordan Bares|Undergraduate Research Assistant|||
 |![Matthew](/images/People_Images/Matthew.jpeg.jpg){:width="120"}|Matthew Lowry|Undergraduate Research Assistant|||
 |![Chessie](/images/People_Images/Chessie.jpeg.jpg){:width="120"}|Chessie Ruester|Undergraduate Research Assistant|||
+|![Natasha](/images/People_Images/NatashaNguyen.jpeg){:width="120"}|Natasha Nguyen|Undergraduate Research Assistant|||
 {:.table100.ver1}
 
 [Lab Alumni 2014-Present](/alumni)
