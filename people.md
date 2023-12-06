@@ -15,7 +15,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Jensina Davis](images/People_Images/Jensina.png){:width="120"}|[Jensina Davis](/peoplepages/Jensina/)|PhD Student|[CV](/CVs/JensinaDavisCV.pdf)||
 |![Nikee Headshot](/images/People_Images/NikeeS.jpg){:width="120" align="middle"}|[Nikee Shrestha](/peoplepages/Nikee/)|PhD Student|[CV](/CVs/NikeeShresthaCV.pdf)|0000-0003-4195-7549||
 |![Waqar Ali](/images/People_Images/WaqarAli.jpg){:width="120"align="middle"}|[Waqar Ali](/peoplepages/Waqar/)|PhD Student|[CV](/CVs/WaqarCV.pdf)||
-|![Ramesh Kanna Mathivanan](/images/People_Images/Ramesh.jpg){:width="120"align="middle"}|[Ramesh Kanna Mathivanan](/peoplepages/Ramesh/)|Masters Student|[CV](/CVs/RameshKannaMathivananCV.pdf)||
+|![Ramesh Kanna Mathivanan](/images/People_Images/Ramesh.jpg){:width="120"align="middle"}|[Ramesh Kanna Mathivanan](/peoplepages/Ramesh/)|Masters Student||[CV](/CVs/Ramesh_CV_updated.pdf)||
 |![Fangyi Li](/images/People_Images/Fangyi.jpg){:width="120"}|[Fangyi Li](/peoplepages/FangyiLi/)|PhD Student<br>_(co-advised)_|[CV](/CVs/FangyiLiCV.pdf)||
 |![Hongyu Jin Headshot](/images/People_Images/Hongyu.jpg){:width="120"}|[Hongyu Jin](/peoplepages/Hongyu_Jin/)|PhD Student<br>_(co-advised)_|[CV](/CVs/HongYuJinCV.pdf)||
 |![Amany Gomaa](images/People_Images/Amany.jfif){:width="120"}|[Amany Gomaa](/peoplepages/Amany.md/)|PhD Student<br>_(co-advised)_|[CV](/CVs/AmanyGomaa.pdf)||
