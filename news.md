@@ -6,8 +6,8 @@ googlefonts: ["Monoton", "Lobster"]
 
 ### 2023 November
 
-* Vladimir and Harshita gave presentations at the monthly PSI research meeting!
 * Jensina Davis, Nikke Shrestha, and Michael Tross were recongized for their fellowships at the UNL IANR award ceremony! Researchers Jensina Davis earned the Moseman Fellowship, Michael Tross earned the Life Sciences Award, and Nikee Shrestha earned the Widaman Distinguished Graduate Assistant Award.
+* Vladimir and Harshita gave presentations at the monthly PSI research meeting!
 * The Schnable Lab presented at the 2023 UNL Plant Science Symposium: over ten people in the lab presented a poster, Jensina Davis and Ryleigh Grove presented short talks, and Waqar Ali presented a lightning talk.
 
 ### 2023 October
