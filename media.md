@@ -2,6 +2,12 @@
 layout: page
 title: Media Coverage of Schnable Lab Projects
 ---
+<p><a href="https://nebraskanewsservice.net/state/fields-of-the-future-ai-meets-farming/">Fields of the future, Al meets farming</a>
+</p>
+<br>
+<p><a href="https://agupdate.com/midwestmessenger/news/state-and-regional/in-his-dna-new-nebraska-corn-checkoff-presidential-chairman-is-leader-in-groundbreaking-corn-genetic/article_9a943f10-7a6c-11ee-9b01-275e721872ba.html">In his DNA:New Nebraska Corn Checkoff presidential chairman is leader in groundbreaking corn genetic fieldwork.</a>
+</p>
+<br>
 <p><a href="https://mediahub.unl.edu/media/21468"> IANR KRVN Interview October 14, 2023</a>
 </p>
 <br>
