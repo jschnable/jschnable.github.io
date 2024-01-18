@@ -72,8 +72,6 @@ googlefonts: ["Monoton", "Lobster"]
 **Bachelors Students**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
-|![Matthew](/images/People_Images/Matthew.jpeg.jpg){:width="120"}|Matthew Lowry|Undergraduate Research Assistant|||
-|![Chessie](/images/People_Images/Chessie.jpeg.jpg){:width="120"}|Chessie Ruester|Undergraduate Research Assistant|||
 |![Daniel Ngu](/images/People_Images/Danielngu_small.jpg){:width="120"}|Daniel Ngu|Bachelors Student|2014-2017||
 |![Thomas Hoban](/images/People_Images/thoban.jpg){:width="120"}|Thomas Hoban<br>0000-0001-7607-1903|Bachelors Student|2015-2020||
 |![Logan Olson](/images/People_Images/logan.JPG){:width="120"}|Logan Olson|Bachelors Student|2016-2017||
@@ -129,6 +127,8 @@ googlefonts: ["Monoton", "Lobster"]
 |![Kashish](/images/People_Images/Kashish.jpg){:width="120"}|Kashish Syed|Bachelors Student|2023||
 |![Karla Montserrat Cuéllar Pérez](images/People_Images/KarlaC.jpg){:width="120"}|[Karla Montserrat Cuéllar Pérez](/peoplepages/KarlaC.md/)|Visiting Bachelor Student|Summer 2022||
 |![Luyang Zhang](images/People_Images/LuyangZhangpicture.jpeg){:width="120"}|Luyang Zhang|REU Intern|||
+|![Matthew](/images/People_Images/Matthew.jpeg.jpg){:width="120"}|Matthew Lowry|Undergraduate Research Assistant|2023||
+|![Chessie](/images/People_Images/Chessie.jpeg.jpg){:width="120"}|Chessie Ruester|Undergraduate Research Assistant|2022-2023||
 
 {:.table100.ver1}
 
