@@ -22,8 +22,6 @@ googlefonts: ["Monoton", "Lobster"]
 |![Harshita Mangal](images/People_Images/HarshitaM.jpg){:width="120"}|Harshita Mangal| MS Student|||
 |![Ryleigh](/images/People_Images/Ryleigh.jpg){:width="120"}|Ryleigh Grove|Bachelors/UCARE Student|||
 |![Jordan](/images/People_Images/Jordan.jpeg){:width="120"}|Jordan Bares|Undergraduate Research Assistant|||
-|![Matthew](/images/People_Images/Matthew.jpeg.jpg){:width="120"}|Matthew Lowry|Undergraduate Research Assistant|||
-|![Chessie](/images/People_Images/Chessie.jpeg.jpg){:width="120"}|Chessie Ruester|Undergraduate Research Assistant|||
 |![Natasha](/images/People_Images/NatashaNguyen.jpeg){:width="120"}|Natasha Nguyen|Undergraduate Research Assistant|||
 {:.table100.ver1}
 
