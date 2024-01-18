@@ -72,6 +72,8 @@ googlefonts: ["Monoton", "Lobster"]
 **Bachelors Students**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
+|![Matthew](/images/People_Images/Matthew.jpeg.jpg){:width="120"}|Matthew Lowry|Undergraduate Research Assistant|||
+|![Chessie](/images/People_Images/Chessie.jpeg.jpg){:width="120"}|Chessie Ruester|Undergraduate Research Assistant|||
 |![Daniel Ngu](/images/People_Images/Danielngu_small.jpg){:width="120"}|Daniel Ngu|Bachelors Student|2014-2017||
 |![Thomas Hoban](/images/People_Images/thoban.jpg){:width="120"}|Thomas Hoban<br>0000-0001-7607-1903|Bachelors Student|2015-2020||
 |![Logan Olson](/images/People_Images/logan.JPG){:width="120"}|Logan Olson|Bachelors Student|2016-2017||
