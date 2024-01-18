@@ -6,8 +6,8 @@ googlefonts: ["Monoton", "Lobster"]
 
 ### 2024 January
 
-*The Schnable Lab presented at the Plant and Animal Genome 2024 conference in San Diego: Vladimir Torres gave the talk "Population Level Gene Expression Can Repeatedly Link Genes to Functions in Maize", Nikke Shrestha gave two talks "Efficient High Throughput Phenotyping of Sorghum Seeds Using a Pre-Trained Computer Vision Model" and "Genetic Determinants of Sorghum Phenotypic Variation Under Nitrogen Deficit Stress" finally; Jensina Davis gave the talk "A Funny Thing Happened on the Way to the Data: A Case Study in Wrangling Multi-Environment Field Trial Data".
-*Jensina Davis gave a talk at the National Corn Growers Association grower committee meetings
+* The Schnable Lab presented at the Plant and Animal Genome 2024 conference in San Diego: Vladimir Torres gave the talk "Population Level Gene Expression Can Repeatedly Link Genes to Functions in Maize", Nikke Shrestha gave two talks "Efficient High Throughput Phenotyping of Sorghum Seeds Using a Pre-Trained Computer Vision Model" and "Genetic Determinants of Sorghum Phenotypic Variation Under Nitrogen Deficit Stress" finally; Jensina Davis gave the talk "A Funny Thing Happened on the Way to the Data: A Case Study in Wrangling Multi-Environment Field Trial Data".
+* Jensina Davis gave a talk at the National Corn Growers Association grower committee meetings
 
 ### 2023 November
 
