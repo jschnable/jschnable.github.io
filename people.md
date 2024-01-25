@@ -23,6 +23,11 @@ googlefonts: ["Monoton", "Lobster"]
 |![Ryleigh](/images/People_Images/Ryleigh.jpg){:width="120"}|Ryleigh Grove|Bachelors/UCARE Student|||
 |![Jordan](/images/People_Images/Jordan.jpeg){:width="120"}|Jordan Bares|Undergraduate Research Assistant|||
 |![Natasha](/images/People_Images/NatashaNguyen.jpeg){:width="120"}|Natasha Nguyen|Undergraduate Research Assistant|||
+|![Sofia](/images/People_Images/Sofia_Grace.jpeg){:width="120"}|Sofia Grace|Undergraduate Research Assistant|||
+|![Kelsey](/images/People_Images/Kelsey_Shotkoski.jpg){:width="120"}|Kelsey Shotkoski|Undergraduate Research Assistant|||
+|![Annaliese](/images/People_Images/Annaliese_Kohrell.jpeg){:width="120"}|Annaliese Kohrell|Undergraduate Research Assistant|||
+|![Shurouk](/images/People_Images/Shurouk_Hamad.jpg){:width="120"}|Shurouk Hamad|Undergraduate Research Assistant|||
+|![Oddine](/images/People_Images/Oddine_Kyavuma.jpg){:width="120"}|Oddine Kyavuma|Undergraduate Research Assistant|||
 {:.table100.ver1}
 
 [Lab Alumni 2014-Present](/alumni)
