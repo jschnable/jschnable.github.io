@@ -24,16 +24,16 @@ googlefonts: ["Monoton", "Lobster"]
 **Postdocs and Visiting Scientists**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
-|![Lina Corona-López](/images/People_Images/Lina.jpg){:width="120"}|[Lina Corona-López](/peoplepages/LinaLopez/)|Technician|
-|![Ravi Mural Headshot](/images/People_Images/Ravi.jpg){:width="120" align="middle"}|[Ravi Mural](/peoplepages/Ravi_Mural/)|Research Assistant Professor<br>Center for Plant Science Innovation|[CV](/CVs/RaviMuralCV.pdf)|0000-0002-5489-9918|
-|![Marcin Grzybowski Headshot](/images/People_Images/Marcin.jpg){:width="120" align="middle"}|[Marcin Grzybowski](/peoplepages/Marcin_Grzybowski/)<br>0000-0002-6303-5433|Postdoctoral Scholar|2019-2022|Faculty Member<br>University of Warsaw|
+|![Lina Corona-López](/images/People_Images/Lina.jpg){:width="120"}|[Lina Corona-López](/peoplepages/LinaLopez/)|Technician|2022-2023|Field Crop Research Scientist at USDA (Raleigh)|
+|![Ravi Mural Headshot](/images/People_Images/Ravi.jpg){:width="120" align="middle"}|[Ravi Mural](/peoplepages/Ravi_Mural/)<br>0000-0002-5489-9918|Research Assistant Professor<br>Center for Plant Science Innovation|2019-2023|Assistant Professor at South Dakota State University|
+|![Marcin Grzybowski Headshot](/images/People_Images/Marcin.jpg){:width="120" align="middle"}|[Marcin Grzybowski](/peoplepages/Marcin_Grzybowski/)<br>0000-0002-6303-5433|Postdoctoral Scholar|2019-2022|Assistant Professor, University of Warsaw|
 |![Deniz Headshot](/images/People_Images/Deniz2.PNG){:width="120" align="middle"}|[Deniz Istipliler](/peoplepages/Deniz_Istipiller/)<br>0000-0002-0887-1121|Visiting Scholar|2022-2023|Assistant Professor<br>Ege University|
 |![Guangchao Sun](/images/People_Images/Guangchao.JPG){:width="120" align="middle"}|[Guangchao Sun](/peoplepages/Guangchao_Sun/)<a href="https://twitter.com/xiaoguanghuan"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a><br>0000-0003-3942-6175|Postdoctoral Scholar|2018-2021|Bioinformatician<br>Mayo Clinic|
-|![Xiaoxi Meng](/images/People_Images/Xiaoxi.jpg){:width="120" align="middle"}|[Xiaoxi "Peggy" Meng](/peoplepages/Xiaoxi_Meng/)<a href="https://twitter.com/xiaoxi_meng"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a><br>0000-0001-7217-2037|Postdoctoral Scholar|2018-2020|Postdoc University of Minnesota|
-|![Ranjita Thapa Headshot](/images/People_Images/Ranjita.jpg){:width="120" align="middle"}|Ranjita Thapa|Postdoctoral Scholar|2019-2020|Postdoc Cornell University|
-|![Sunil KK Raju](/images/People_Images/Sunil.jpg){:width="120"}|[Sunil KK Raju](/peoplepages/Sunil_Raju/)<a href="https://twitter.com/Sunil_KumarKR"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Postdoctoral Scholar|2017-2018|Postdoc, [Niederhuth Lab](http://niederhuthlab.com/people/), Michigan State|
+|![Xiaoxi Meng](/images/People_Images/Xiaoxi.jpg){:width="120" align="middle"}|[Xiaoxi "Peggy" Meng](/peoplepages/Xiaoxi_Meng/)<a href="https://twitter.com/xiaoxi_meng"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a><br>0000-0001-7217-2037|Postdoctoral Scholar|2018-2020|Computational Scientist, St. Jude Children's Hospital|
+|![Ranjita Thapa Headshot](/images/People_Images/Ranjita.jpg){:width="120" align="middle"}|Ranjita Thapa|Postdoctoral Scholar|2019-2020|Research Scientist, Inari Agriculture|
+|![Sunil KK Raju](/images/People_Images/Sunil.jpg){:width="120"}|[Sunil KK Raju](/peoplepages/Sunil_Raju/)<a href="https://twitter.com/Sunil_KumarKR"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Postdoctoral Scholar|2017-2018|Postdoc at New York University|
 |![Lang Yan](/images/People_Images/Lang_Small.jpg){:width="120"}|Lang Yan<a href="https://twitter.com/langyan87"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Visiting Scholar|2016-2017|Deputy Director, Potato Functional Genomics, XiChang College|
-|![Jinliang Yang](/images/People_Images/jinliang.JPG){:width="120"}|Jinliang Yang<a href="https://twitter.com/JinliangYang"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Postdoctoral Scholar|2016-2017|[Assistant Professor](http://jyanglab.com/), University of Nebraska-Lincoln|
+|![Jinliang Yang](/images/People_Images/jinliang.JPG){:width="120"}|Jinliang Yang<a href="https://twitter.com/JinliangYang"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Postdoctoral Scholar|2016-2017|[Associate Professor](http://jyanglab.com/), University of Nebraska-Lincoln|
 |![Yang Zhang](/images/People_Images/yzhang_small.jpg){:width="120" align="middle"}|[Yang Zhang](/peoplepages/Yang_Zhang/)<a href="https://twitter.com/zymaize"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|Postdoctoral Scholar|2014-2017| Research Scientist, St. Jude Children's Research Hospital|
 
 {:.table100.ver1}
@@ -44,12 +44,12 @@ googlefonts: ["Monoton", "Lobster"]
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
 |![Henrique Moura Dias](images/People_Images/Henrique.jpg){:width="120"}|Henrique Moura Dias|Visiting PhD Student|||
-|![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|PhD Student/FFAR Fellow|2017-2022||
-|![Santos Headshot](/images/People_Images/Santos.jpg){:width="120"}|Santos Yenandy<br>Barrera Lemus|PhD Student<br>_(co-advised)_|2021| Biotec Research Manager, Plant Sciences inc|
+|![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|PhD Student/FFAR Fellow|2017-2022|Postdoc, North Carolina State|
+|![Santos Headshot](/images/People_Images/Santos.jpg){:width="120"}|Santos Yenandy<br>Barrera Lemus|PhD Student<br>_(co-advised)_|2021|Research Scientist, World Coffee Research|
 |![Chenyong Miao](/images/People_Images/Miao_Small.jpg){:width="120"}|[Chenyong Miao](/peoplepages/Chenyong_Miao/)<a href="https://twitter.com/Valiancy_miao"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"><br>0000-0002-0904-3707</a>|PhD Student |2016-2020| Phenomics Data Scientist, Bayer Crop Science|
-|![Xiuru Dai](/images/People_Images/Xiuru_small.jpg){:width="120"}|Xiuru Dai<a href="https://twitter.com/Xiuru_Dai"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a><br>0000-0002-2516-1068|Visiting PhD Student<br>Shandong Agricultural University|2018-2019|PhD Student<br>Shandong Agricultural University|
+|![Xiuru Dai](/images/People_Images/Xiuru_small.jpg){:width="120"}|Xiuru Dai<a href="https://twitter.com/Xiuru_Dai"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a><br>0000-0002-2516-1068|Visiting PhD Student<br>Shandong Agricultural University|2018-2019|Assistant Professor, Shandong Agricultural University|
 |![Daniel Carvalho](/images/People_Images/Daniel_Carvalho.jpg){:width="120"}|[Daniel Carvalho](/peoplepages/Daniel_Carvalho/)<a href="https://twitter.com/SciOfCarvalho"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|PhD Student, [CV](/CVs/DCarvalho.pdf)|2015-2019|Postdoc, Federal University of Minas Gerais|
-|![Zhikai Liang](/images/People_Images/Zhikai_Liang_small.jpg){:width="120"}|[Zhikai Liang](/peoplepages/zliang/)<a href="https://twitter.com/shanwai1234"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a><br>0000-0002-9963-8631|PhD Student<br>[CV](/CVs/ZLiang.pdf)|2015-2019|Postdoc <a href="https://cbs.umn.edu/springer-lab/home">Springer Lab UMN</a>|
+|![Zhikai Liang](/images/People_Images/Zhikai_Liang_small.jpg){:width="120"}|[Zhikai Liang](/peoplepages/zliang/)<a href="https://twitter.com/shanwai1234"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a><br>0000-0002-9963-8631|PhD Student<br>[CV](/CVs/ZLiang.pdf)|2015-2019|Assistant Professor, North Dakota State University|
 |![Xianjun Lai](/images/People_Images/xlai.jpg){:width="120"}|[Xianjun Lai](/peoplepages/Xianjun_Lai/)<a href="https://twitter.com/xianjunlai"><img src="/images/Twitter_logo_blue.png" style="width: 15px;">|CSC PhD Student|2015-2017|Associate Professor, XiChang College|
 
 {:.table100.ver1}
@@ -60,10 +60,10 @@ googlefonts: ["Monoton", "Lobster"]
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
 |![Kahheetah Barnoskie](/images/People_Images/Kahheetah.jpg){:width="120"}|Kahheetah Barnoskie|MS Student|2021-2022||
-|![Kyle Linders](/images/People_Images/KyleL.jpg){:width="120"}|Kyle Linders|MS Student|2020-2022||
-|![Mackenzie](/images/People_Images/Mackenzie.jpeg){:width="120"}|[Mackenzie Zwiener](/peoplepages/Mackenzie_Zwiener/)<a href="https://twitter.com/MackenzieZwien1"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|MS Student<br>Technician|2019-2021|UNMC Technologist|
-|![Preston Hurst](/images/People_Images/Preston.jpg){:width="120"}|[Preston Hurst](/peoplepages/Preston_Hurst/)|MS Student|2017-2019|PhD Student with David Holding, UNL|
-|![Bhushit Agarwal](/images/People_Images/Bhushit.jpg){:width="120"}|Bhushit Agarwal|Comp. Sci. MS Student<br>_(co-advised)_|2015-2016|Software Engineer, Mode.ai|
+|![Kyle Linders](/images/People_Images/KyleL.jpg){:width="120"}|Kyle Linders|MS Student|2020-2022|Research Technologist, UNL|
+|![Mackenzie](/images/People_Images/Mackenzie.jpeg){:width="120"}|[Mackenzie Zwiener](/peoplepages/Mackenzie_Zwiener/)<a href="https://twitter.com/MackenzieZwien1"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|MS Student<br>Technician|2019-2021|Statistician, US Dept. of Homeland Security|
+|![Preston Hurst](/images/People_Images/Preston.jpg){:width="120"}|[Preston Hurst](/peoplepages/Preston_Hurst/)|MS Student|2017-2019|Research Scientist, Syngenta|
+|![Bhushit Agarwal](/images/People_Images/Bhushit.jpg){:width="120"}|Bhushit Agarwal|Comp. Sci. MS Student<br>_(co-advised)_|2015-2016|Software Engineer, MyVest|
 |![Srinidhi Bashyam](/images/People_Images/Srinidhi.jpg){:width="120"}|Srinidhi Bashyam|Comp. Sci. MS Student<br>_(co-advised)_|2015-2016|Systems Software Developer, University of Nebraska-Lincoln|
 {:.table100.ver1}
 
