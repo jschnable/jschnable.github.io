@@ -31,16 +31,16 @@ title: Schnable Lab Papers
 **2024**
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Zarei A, Li B, **Schnable JC**, Lyons E, Pauli D, Benes B, Barnard K (2024) PlantSegNet: 3D point cloud instance segmentation of nearby plant organs with identical semantics. *Computers and Electronics in Agriculture* (Accepted) 
+* Zarei A, Li B, **Schnable JC**, Lyons E, Pauli D, Benes B, Barnard K (2024) PlantSegNet: 3D point cloud instance segmentation of nearby plant organs with identical semantics. *Computers and Electronics in Agriculture* (Accepted)
 
 <div data-badge-type="2" data-doi="10.1101/2023.12.15.571950" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Tross MC**, **Grzybowski M**, Jubery TZ, **Grove RJ**, **Nishimwe AV**, **Torres-Rodriguez JV**, **Sun G**, Ganapathysubramanian B, Ge Y, **Schnable JC** (2024) Data driven discovery and quantification of hyperspectral leaf reflectance phenotypes across a maize diversity panel. *The Plant Phenome Journal* (Accepted) *bioRxiv* doi:10.1101/2023.12.15.571950
+* **Tross MC**, **Grzybowski M**, Jubery TZ, **Grove RJ**, **Nishimwe AV**, **Torres-Rodriguez JV**, **Sun G**, Ganapathysubramanian B, Ge Y, **Schnable JC** (2024) [Data driven discovery and quantification of hyperspectral leaf reflectance phenotypes across a maize diversity panel.](https://doi.org/10.1101/2023.12.15.571950) *The Plant Phenome Journal* (Accepted) *bioRxiv* doi:10.1101/2023.12.15.571950
 
 <div data-badge-type="2" data-doi="10.1101/2023.11.29.568906" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Jin H**, **Tross MC**, Tan R, Newton L, **Mural RV**, Yang J, Thompson AM, **Schnable JC** (2024) [Imitating the "breeder’s eye": predicting grain yield from measurements of non-yield traits.] *The Plant Phenome Journal* (Accepted) *bioRxiv* doi: 10.1101/2023.11.29.568906
+* **Jin H**, **Tross MC**, Tan R, Newton L, **Mural RV**, Yang J, Thompson AM, **Schnable JC** (2024) [Imitating the "breeder’s eye": predicting grain yield from measurements of non-yield traits.](https://doi.org/10.1101/2023.11.29.568906) *The Plant Phenome Journal* (Accepted) *bioRxiv* doi: 10.1101/2023.11.29.568906
 
 <div data-badge-type="2" data-doi="10.3390/s24072172" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Rodene E, Fernando GD, Piyush V, Ge Y, **Schnable JC** (2024) [Image filtering to improve maize tassel detection accuracy using machine learning algorithms.](https://doi.org/10.3390/s24072172) *Sensors* doi: 10.3390/s24072172
+* Rodene E, Fernando GD, Piyush V, Ge Y, **Schnable JC**, Ghosh S, Yang J (2024) [Image filtering to improve maize tassel detection accuracy using machine learning algorithms.](https://doi.org/10.3390/s24072172) *Sensors* doi: 10.3390/s24072172
 
 <div data-badge-type="2" data-doi="10.17912/micropub.biology.001115" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Linders KM**, Santra D, **Schnable JC**, **Sigmon B** (2024) [Variation in leaf chlorophyll concentration in response to nitrogen application across maize hybrids in contrasting environments.](https://doi.org/10.17912/micropub.biology.001115) *microPublication Biology*
