@@ -18,7 +18,7 @@ Our alumni are employed as professors at nine universities across four countries
 
 ![Alumni](/images/Alumni.png){:width="600" align="middle"}
 
-## Postdoc Positions
+# Postdoc Positions
 
 Openings for postdocs without their own funding fluctuate based on the availability of grant funds. Please include the phrase "Codeword Pineapple" in the subject line of your e-mail [when e-mailing Prof. Schnable](https://agronomy.unl.edu/schnable).
 <br><br>
@@ -28,7 +28,7 @@ Several postdoc fellowship programs are available within the USA:
 
 * The [USDA NIFA postdoc fellowship program](https://www.nifa.usda.gov/sites/default/files/resources/FY-2020-EWD-FAQ-Predocs-Postdocs.pdf). This link describes both pre-doc (grad student) and postdoc fellowship programs.
 
-### PhD Student Positions
+# PhD Student Positions
 
 The Schnable Lab currently accepts PhD students through two PhD programs: [Complex Biosystems](https://cbio.unl.edu/) (Integrated Plant Biology) and [Agronomy and Horticulture](https://agronomy.unl.edu/graduate-programs) (Plant Breeding and Genetics). If you apply to either program and are interesting in joining our lab, send Prof. Schnable an e-mail after you submit to let him know to look for your application in the online system.
 <br><br>
@@ -38,12 +38,8 @@ Several PhD fellowship programs are available within the USA:
 * National Science Foundation [Graduate Research Fellowship](https://www.nsfgrfp.org/). US Citizens and Permanent Residents. You can apply for this your last year of college/undergrad.
 * Foundation for Food and Agricultural Research [Fellows Program](https://ffarfellows.org/). Open to PhD students regardless of citzenship. You can apply for this the year before you join the lab, whether you are completing your undergraduate degree or masters degree.
 
-### Undergraduates
+# Opportunities for Undergraduates
 
 The Schnable Lab is always recruiting promising undergraduates who either wish to gain experience in computational or molecular biology techniques working as paid assistants on existing research projects, or who wish to develop and carry out independent research projects within our areas of investigation through the [University of Nebraska's UCARE program](https://ucare.unl.edu/apply-ucare).
 <br><br>
-During the summer the lab also hosts undergraduates through two [NSF Research Experience for Undergraduate programs](https://www.unl.edu/summerprogram/home): Bioenergy Systems and Plant and Microbiome. Selection for both of these programs is performed by a committee, but if you are really interested in specifically working in the Schnable Lab, send an e-mail to Professor Schnable after you submit your application talking about why you'd like to work with us, and he can sometimes at least act as an advocate to the selection committees.
-<br><br>
-
-**An important note to potential postdocs, research technicians, grad students, and undergraduate research assistants:** If you receive a competing offer while we are negotiating or waiting for admissions decisions/offer letters to go through, *tell me.* That fact that you are exploring other options is completely rational and not something I will ever hold against a potential applicant.
-<br><br>Sometimes I can use the information that another offer is on the table to get Human Resources to work faster. Sometimes I can use the existence of a second offer to get approval for an increase in pay or a recruitment fellowship. But I can only do those things if I know a second offer exists or is likely to arrive.
+During the summer the lab also hosts undergraduates through two [NSF Research Experience for Undergraduate programs](https://www.unl.edu/summerprogram/home): Bioenergy Systems and Plant and Microbiome. Selection for both of these programs is performed by a committee, but if you are really interested in specifically working in the Schnable Lab, send an e-mail to Professor Schnable after you submit your application talking about why you'd like to work with us.
