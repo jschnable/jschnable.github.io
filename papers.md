@@ -30,8 +30,8 @@ title: Schnable Lab Papers
 
 **2024**
 
-<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Sahay S, **Grzybowski M**, **Schnable JC**, Glowacka K(2024) Genotype-specific nonphotochemical quenching responses to nitrogen deficit are linked to chlorophyll a to b ratios. *Journal of Plant Physiology* (Accepted)
+<div data-badge-type="2" data-doi="10.1016/j.jplph.2024.154261" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Sahay S, **Grzybowski M**, **Schnable JC**, Glowacka K (2024) [Genotype-specific nonphotochemical quenching responses to nitrogen deficit are linked to chlorophyll a to b ratios.](https://doi.org/10.1016/j.jplph.2024.154261) *Journal of Plant Physiology* doi: 10.1016/j.jplph.2024.154261
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Torres-Rodriguez JV**, Li D, **Turkus J**, Newton L, **Davis J**, **Lopez-Corona L**, **Ali W**, **Sun G**, **Mural RV**, **Grzybowski M**, Thompson AM, **Schnable JC** (2024) [Population level gene expression can repeatedly link genes to functions in maize.](https://doi.org/10.1101/2023.10.31.565032) *The Plant Journal* (Accepted) *bioRxiv* doi: 10.1101/2023.10.31.565032
@@ -42,8 +42,8 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/2023.12.15.571950" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Tross MC**, **Grzybowski M**, Jubery TZ, **Grove RJ**, **Nishimwe AV**, **Torres-Rodriguez JV**, **Sun G**, Ganapathysubramanian B, Ge Y, **Schnable JC** (2024) [Data driven discovery and quantification of hyperspectral leaf reflectance phenotypes across a maize diversity panel.](https://doi.org/10.1101/2023.12.15.571950) *The Plant Phenome Journal* (Accepted) *bioRxiv* doi:10.1101/2023.12.15.571950
 
-<div data-badge-type="2" data-doi="10.1101/2023.11.29.568906" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Jin H**, **Tross MC**, Tan R, Newton L, **Mural RV**, Yang J, Thompson AM, **Schnable JC** (2024) [Imitating the "breeder’s eye": predicting grain yield from measurements of non-yield traits.](https://doi.org/10.1101/2023.11.29.568906) *The Plant Phenome Journal* (Accepted) *bioRxiv* doi: 10.1101/2023.11.29.568906
+<div data-badge-type="2" data-doi="10.1002/ppj2.20102" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Jin H**, **Tross MC**, Tan R, Newton L, **Mural RV**, Yang J, Thompson AM, **Schnable JC** (2024) [Imitating the "breeder’s eye": predicting grain yield from measurements of non-yield traits.](https://doi.org/10.1002/ppj2.20102) *The Plant Phenome Journal* doi: 10.1002/ppj2.20102 *bioRxiv* doi: 10.1101/2023.11.29.568906
 
 <div data-badge-type="2" data-doi="10.3390/s24072172" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Rodene E, Fernando GD, Piyush V, Ge Y, **Schnable JC**, Ghosh S, Yang J (2024) [Image filtering to improve maize tassel detection accuracy using machine learning algorithms.](https://doi.org/10.3390/s24072172) *Sensors* doi: 10.3390/s24072172
