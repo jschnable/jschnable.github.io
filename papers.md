@@ -33,6 +33,9 @@ title: Schnable Lab Papers
 
 **2024**
 
+<div data-badge-type="2" data-doi="10.1101/2023.09.29.560160" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Raju SKK**, **Zhang Y**, Mahboub S, **Ngu DW**, Qiu Y, Harmon FG, **Schnable JC**, Roston RL$ (2024) [Rhythmic lipid and gene expression responses to chilling in panicoid grasses.](https://doi.org/10.1101/2023.09.29.560160) *Journal of Experimental Botany* (Accepted) *bioRxiv* doi: 10.1101/2023.09.29.560160
+
 <div data-badge-type="2" data-doi="10.1016/j.jplph.2024.154261" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Sahay S, **Grzybowski M**, **Schnable JC**, Glowacka K (2024) [Genotype-specific nonphotochemical quenching responses to nitrogen deficit are linked to chlorophyll a to b ratios.](https://doi.org/10.1016/j.jplph.2024.154261) *Journal of Plant Physiology* doi: 10.1016/j.jplph.2024.154261
 
