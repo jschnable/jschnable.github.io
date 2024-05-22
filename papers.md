@@ -22,19 +22,10 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/2023.07.03.545230" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Li D**, Wang Q, Tian Y, Lyu X, Zhang H, Sun Y, Hong H, Gao H, Li Y, Zhao C, Wang J, Wang R, Yang J, Liu B, Schnable PS, **Schnable JC**, Li Y, Qiu L [Transcriptome brings variations of gene expression, alternative splicing, and structural variations into gene-scale trait dissection in soybean.](https://doi.org/10.1101/2023.07.03.545230) *bioRxiv* doi: 10.1101/2023.07.03.545230
 
-<div data-badge-type="2" data-doi="10.1101/2022.10.24.513623" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Delen Y, **Mural RV**, Xu G, Delen SP, **Schnable JC**, Yang J, Dweikat I [Dissecting the genetic architecture of sunflower head diameter using genome-wide association study.](https://doi.org/10.1101/2022.10.24.513623) *bioRxiv* doi: 10.1101/2022.10.24.513623
-
-<div data-badge-type="2" data-doi="10.1101/2022.02.09.479784" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Xu G, Lyu J, Obata T, Liu S, Ge Y, **Schnable JC**, Yang J "[A historically balanced locus under recent directional selection in responding to changed nitrogen conditions during modern maize breeding.](https://doi.org/10.1101/2022.02.09.479784)" *bioRxiv* doi: 10.1101/2022.02.09.479784
-
-<div data-badge-type="2" data-doi="10.1101/706994" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Miao C**, **Hoban TP**, **Pages A**, Xu Z, Rodene E, Ubbens J, Stavness I, Yang J, **Schnable JC** "[Simulated plant images improve maize leaf counting accuracy.](https://doi.org/10.1101/706994)" *bioRxiv* doi: 10.1101/706994
-
 **2024**
 
 <div data-badge-type="2" data-doi="10.1101/2023.09.29.560160" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Raju SKK**, **Zhang Y**, Mahboub S, **Ngu DW**, Qiu Y, Harmon FG, **Schnable JC**, Roston RL$ (2024) [Rhythmic lipid and gene expression responses to chilling in panicoid grasses.](https://doi.org/10.1101/2023.09.29.560160) *Journal of Experimental Botany* (Accepted) *bioRxiv* doi: 10.1101/2023.09.29.560160
+* **Raju SKK**, **Zhang Y**, Mahboub S, **Ngu DW**, Qiu Y, Harmon FG, **Schnable JC**, Roston RL (2024) [Rhythmic lipid and gene expression responses to chilling in panicoid grasses.](https://doi.org/10.1101/2023.09.29.560160) *Journal of Experimental Botany* (Accepted) *bioRxiv* doi: 10.1101/2023.09.29.560160
 
 <div data-badge-type="2" data-doi="10.1016/j.jplph.2024.154261" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Sahay S, **Grzybowski M**, **Schnable JC**, Glowacka K (2024) [Genotype-specific nonphotochemical quenching responses to nitrogen deficit are linked to chlorophyll a to b ratios.](https://doi.org/10.1016/j.jplph.2024.154261) *Journal of Plant Physiology* doi: 10.1016/j.jplph.2024.154261
