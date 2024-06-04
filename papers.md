@@ -31,7 +31,7 @@ title: Schnable Lab Papers
 * Sahay S, **Grzybowski M**, **Schnable JC**, Glowacka K (2024) [Genotype-specific nonphotochemical quenching responses to nitrogen deficit are linked to chlorophyll a to b ratios.](https://doi.org/10.1016/j.jplph.2024.154261) *Journal of Plant Physiology* doi: 10.1016/j.jplph.2024.154261
 
 <div data-badge-type="2" data-doi="10.1111/tpj.16801" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Torres-Rodriguez JV**, Li D, **Turkus J**, Newton L, **Davis J**, **Lopez-Corona L**, **Ali W**, **Sun G**, **Mural RV**, **Grzybowski M**, Thompson AM, **Schnable JC** (2024) [Population level gene expression can repeatedly link genes to functions in maize.](https://doi.org/10.1111/tpj.16801) *The Plant Journal* 10.1111/tpj.16801 *bioRxiv* doi: 10.1101/2023.10.31.565032
+* **Torres-Rodriguez JV**, Li D, **Turkus J**, Newton L, **Davis J**, **Lopez-Corona L**, **Ali W**, **Sun G**, **Mural RV**, **Grzybowski M**, Zamft B, Thompson AM, **Schnable JC** (2024) [Population level gene expression can repeatedly link genes to functions in maize.](https://doi.org/10.1111/tpj.16801) *The Plant Journal* 10.1111/tpj.16801 *bioRxiv* doi: 10.1101/2023.10.31.565032
 
 <div data-badge-type="2" data-doi="10.1016/j.compag.2024.108922" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Zarei A, Li B, **Schnable JC**, Lyons E, Pauli D, Benes B, Barnard K (2024) [PlantSegNet: 3D point cloud instance segmentation of nearby plant organs with identical semantics.](https://doi.org/10.1016/j.compag.2024.108922) *Computers and Electronics in Agriculture* doi: 10.1016/j.compag.2024.108922
