@@ -10,9 +10,6 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.31220/agriRxiv.2024.00251" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Shrestha N**, Powadi A, **Davis J**, Ayanlade TT, Liu H, **Tross MC**, **Mathivanan RK**, **Bares J**, **Lopez-Corona L**, **Turkus J**, Coffey L, Tubery TZ, **Ge Y**, Sarkar S, **Schnable JC**, Ganapathysubramanian B, Schnable PS [Plot-level satellite imagery can substitute for UAVs in assessing maize phenotypes across multistate field trials.](https://doi.org/10.31220/agriRxiv.2024.00251) *agriRxiv* doi: 10.31220/agriRxiv.2024.00251
 
-<div data-badge-type="2" data-doi="10.1101/2023.09.20.558616" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Korth N**, Yang Q, Van Haute MJ, **Tross MC**, Peng B, **Shrestha N**, **Zwiener M**, **Mural RV**, **Schnable JC**, Benson AK [Grain utilization by the gut microbiome as a human health phenotype to identify multiple effect loci in genome-wide association studies of *Sorghum bicolor*](https://doi.org/10.1101/2023.09.20.558616). *bioRxiv* doi: 10.1101/2023.09.20.558616
-
 <div data-badge-type="2" data-doi="10.1101/2023.08.29.555201" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Sahay S, **Shrestha N**, **Moura Dias H**, **Mural RV**, **Grzybowski M**, **Schnable JC**, Glowacka K [Comparative GWAS identifies a role for Mendel’s green pea gene in the nonphotochemical quenching kinetics of sorghum, maize, and arabidopsis](https://doi.org/10.1101/2023.08.29.555201). *bioRxiv* doi: 10.1101/2023.08.29.555201
 
@@ -23,6 +20,11 @@ title: Schnable Lab Papers
 * **Li D**, Wang Q, Tian Y, Lyu X, Zhang H, Sun Y, Hong H, Gao H, Li Y, Zhao C, Wang J, Wang R, Yang J, Liu B, Schnable PS, **Schnable JC**, Li Y, Qiu L [Transcriptome brings variations of gene expression, alternative splicing, and structural variations into gene-scale trait dissection in soybean.](https://doi.org/10.1101/2023.07.03.545230) *bioRxiv* doi: 10.1101/2023.07.03.545230
 
 **2024**
+
+<div data-badge-type="2" data-doi="10.1101/2023.09.20.558616" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Korth N**, Yang Q, Van Haute MJ, **Tross MC**, Peng B, **Shrestha N**, **Zwiener M**, **Mural RV**, **Schnable JC**, Benson AK (2024) [Grain utilization by the gut microbiome as a human health phenotype to identify multiple effect loci in genome-wide association studies of *Sorghum bicolor*](https://doi.org/10.1101/2023.09.20.558616). *G3* (Accepted) *bioRxiv* doi: 10.1101/2023.09.20.558616
+
+* Jia Y, **Ullagaddi C**, Allen C, Rausch K, Singh V, **Schnable JC**, Kamruzzaman M (2024) [Optimizing feature selection with gradient boosting machines in PLS regression for rredicting moisture and protein in multi-Country corn kernels via NIR spectroscopy.] *Food Chemistry* (Accepted)
 
 <div data-badge-type="2" data-doi="10.1093/jxb/erae247" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Raju SKK**, **Zhang Y**, Mahboub S, **Ngu DW**, Qiu Y, Harmon FG, **Schnable JC**, Roston RL (2024) [Rhythmic lipid and gene expression responses to chilling in panicoid grasses.](https://doi.org/10.1093/jxb/erae247) *Journal of Experimental Botany* 10.1093/jxb/erae247 *bioRxiv* doi: 10.1101/2023.09.29.560160
@@ -37,7 +39,7 @@ title: Schnable Lab Papers
 * Zarei A, Li B, **Schnable JC**, Lyons E, Pauli D, Benes B, Barnard K (2024) [PlantSegNet: 3D point cloud instance segmentation of nearby plant organs with identical semantics.](https://doi.org/10.1016/j.compag.2024.108922) *Computers and Electronics in Agriculture* doi: 10.1016/j.compag.2024.108922
 
 <div data-badge-type="2" data-doi="10.1101/2023.12.15.571950" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Tross MC**, **Grzybowski M**, Jubery TZ, **Grove RJ**, **Nishimwe AV**, **Torres-Rodriguez JV**, **Sun G**, Ganapathysubramanian B, Ge Y, **Schnable JC** (2024) [Data driven discovery and quantification of hyperspectral leaf reflectance phenotypes across a maize diversity panel.](https://doi.org/10.1101/2023.12.15.571950) *The Plant Phenome Journal* (Accepted) *bioRxiv* doi:10.1101/2023.12.15.571950
+* **Tross MC**, **Grzybowski M**, Jubery TZ, **Grove RJ**, **Nishimwe AV**, **Torres-Rodriguez JV**, **Sun G**, Ganapathysubramanian B, Ge Y, **Schnable JC** (2024) [Data driven discovery and quantification of hyperspectral leaf reflectance phenotypes across a maize diversity panel.](https://doi.org/10.1002/ppj2.20106) *The Plant Phenome Journal* doi: 10.1002/ppj2.20106 *bioRxiv* doi:10.1101/2023.12.15.571950
 
 <div data-badge-type="2" data-doi="10.1002/ppj2.20102" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Jin H**, **Tross MC**, Tan R, Newton L, **Mural RV**, Yang J, Thompson AM, **Schnable JC** (2024) [Imitating the "breeder’s eye": predicting grain yield from measurements of non-yield traits.](https://doi.org/10.1002/ppj2.20102) *The Plant Phenome Journal* doi: 10.1002/ppj2.20102 *bioRxiv* doi: 10.1101/2023.11.29.568906
