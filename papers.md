@@ -24,7 +24,11 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/2023.09.20.558616" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Korth N**, Yang Q, Van Haute MJ, **Tross MC**, Peng B, **Shrestha N**, **Zwiener M**, **Mural RV**, **Schnable JC**, Benson AK (2024) [Grain utilization by the gut microbiome as a human health phenotype to identify multiple effect loci in genome-wide association studies of *Sorghum bicolor*](https://doi.org/10.1101/2023.09.20.558616). *G3* (Accepted) *bioRxiv* doi: 10.1101/2023.09.20.558616
 
-* Jia Y, **Ullagaddi C**, Allen C, Rausch K, Singh V, **Schnable JC**, Kamruzzaman M (2024) [Optimizing feature selection with gradient boosting machines in PLS regression for rredicting moisture and protein in multi-Country corn kernels via NIR spectroscopy.] *Food Chemistry* (Accepted)
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Khound R, Rajput SG, **Schnable JC**, Mani V, Dipak SK (2024) Genome-wide association study reveals marker-trait associations for major agronomic traits in proso millet (*Panicum miliaceum* L.). *Planta* (Accepted)
+
+<div data-badge-type="2" data-doi="j.foodchem.2024.140062" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Jia Y, **Ullagaddi C**, Allen C, Rausch K, Singh V, **Schnable JC**, Kamruzzaman M (2024) [Optimizing feature selection with gradient boosting machines in PLS regression for predicting moisture and protein in multi-Country corn kernels via NIR spectroscopy.](https://doi.org/10.1016/j.foodchem.2024.140062) *Food Chemistry* doi: 10.1016/j.foodchem.2024.140062
 
 <div data-badge-type="2" data-doi="10.1093/jxb/erae247" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Raju SKK**, **Zhang Y**, Mahboub S, **Ngu DW**, Qiu Y, Harmon FG, **Schnable JC**, Roston RL (2024) [Rhythmic lipid and gene expression responses to chilling in panicoid grasses.](https://doi.org/10.1093/jxb/erae247) *Journal of Experimental Botany* 10.1093/jxb/erae247 *bioRxiv* doi: 10.1101/2023.09.29.560160
