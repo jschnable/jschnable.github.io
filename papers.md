@@ -24,8 +24,8 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/2023.09.20.558616" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Korth N**, Yang Q, Van Haute MJ, **Tross MC**, Peng B, **Shrestha N**, **Zwiener M**, **Mural RV**, **Schnable JC**, Benson AK (2024) [Grain utilization by the gut microbiome as a human health phenotype to identify multiple effect loci in genome-wide association studies of *Sorghum bicolor*](https://doi.org/10.1101/2023.09.20.558616). *G3* (Accepted) *bioRxiv* doi: 10.1101/2023.09.20.558616
 
-<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Khound R, Rajput SG, **Schnable JC**, Mani V, Dipak SK (2024) Genome-wide association study reveals marker-trait associations for major agronomic traits in proso millet (*Panicum miliaceum* L.). *Planta* (Accepted)
+<div data-badge-type="2" data-doi="10.1007/s00425-024-04465-4" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Khound R, Rajput SG, **Schnable JC**, Mani V, Dipak SK (2024) [Genome-wide association study reveals marker-trait associations for major agronomic traits in proso millet (*Panicum miliaceum* L.).](https://doi.org/10.1007/s00425-024-04465-4) *Planta* doi: 10.1007/s00425-024-04465-4
 
 <div data-badge-type="2" data-doi="j.foodchem.2024.140062" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Jia Y, **Ullagaddi C**, Allen C, Rausch K, Singh V, **Schnable JC**, Kamruzzaman M (2024) [Optimizing feature selection with gradient boosting machines in PLS regression for predicting moisture and protein in multi-Country corn kernels via NIR spectroscopy.](https://doi.org/10.1016/j.foodchem.2024.140062) *Food Chemistry* doi: 10.1016/j.foodchem.2024.140062
