@@ -43,6 +43,7 @@ googlefonts: ["Monoton", "Lobster"]
 **PhD Students**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
+|![Michael Tross Headshot](/images/People_Images/MichaelT.jpg){:width="120"}|[Michael Tross](/peoplepages/Michael_Tross/)|PhD Student|[CV](/CVs/MichaelTrossCV.pdf)|0000-0002-4410-9679|
 |![Henrique Moura Dias](images/People_Images/Henrique.jpg){:width="120"}|Henrique Moura Dias|Visiting PhD Student|||
 |![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|PhD Student/FFAR Fellow|2017-2022|Postdoc, North Carolina State|
 |![Santos Headshot](/images/People_Images/Santos.jpg){:width="120"}|Santos Yenandy<br>Barrera Lemus|PhD Student<br>_(co-advised)_|2021|Research Scientist, World Coffee Research|
