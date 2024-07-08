@@ -16,10 +16,10 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/2023.08.08.551183" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Engelhorn J, Snodgrass S, Kok A, Seetharam A, Schneider M, Kiwit T, Singh A, Banf M, Khaipho-Burch M, Runcie D, Camargo V, **Torres-Rodriguez JV**, **Sun G**, Stam M, Fiorani F, **Schnable JC**, Bass H, Hufford M, Stich B, Frommer W, Ross-Ibarra J, Hartwig T [Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites.](https://doi.org/10.1101/2023.08.08.551183) *bioRxiv* doi:10.1101/2023.08.08.551183
 
-<div data-badge-type="2" data-doi="10.1101/2023.07.03.545230" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Li D**, Wang Q, Tian Y, Lyu X, Zhang H, Sun Y, Hong H, Gao H, Li Y, Zhao C, Wang J, Wang R, Yang J, Liu B, Schnable PS, **Schnable JC**, Li Y, Qiu L [Transcriptome brings variations of gene expression, alternative splicing, and structural variations into gene-scale trait dissection in soybean.](https://doi.org/10.1101/2023.07.03.545230) *bioRxiv* doi: 10.1101/2023.07.03.545230
-
 **2024**
+
+<div data-badge-type="2" data-doi="10.1016/j.xplc.2024.101010" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Li D**, Wang Q, Tian Y, Lyu X, Zhang H, Sun Y, Hong H, Gao H, Li Y, Zhao C, Wang J, Wang R, Yang J, Liu B, Schnable PS, **Schnable JC**, Li Y, Qiu L [TWAS facilitates gene-scale trait genetic dissection through gene expression, structural variations, and alternative splicing in soybean.](https://doi.org/10.1016/j.xplc.2024.101010) *Plant Communications* doi: 10.1016/j.xplc.2024.101010 *bioRxiv* doi: 10.1101/2023.07.03.545230
 
 <div data-badge-type="2" data-doi="10.1101/2023.09.20.558616" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Korth N**, Yang Q, Van Haute MJ, **Tross MC**, Peng B, **Shrestha N**, **Zwiener M**, **Mural RV**, **Schnable JC**, Benson AK (2024) [Grain utilization by the gut microbiome as a human health phenotype to identify multiple effect loci in genome-wide association studies of *Sorghum bicolor*](https://doi.org/10.1101/2023.09.20.558616). *G3* (Accepted) *bioRxiv* doi: 10.1101/2023.09.20.558616
