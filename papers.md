@@ -18,8 +18,11 @@ title: Schnable Lab Papers
 
 **2024**
 
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Bai G, Barker B, Scoby D, Irmak S, Luck JD, Neale CMU, **Schnable JC**, Awada T, Ge Y (2024) High-throughput physiological phenotyping of crop evapotranspiration at the plot scale. *Field Crop Research* (Accepted)
+
 <div data-badge-type="2" data-doi="10.1016/j.xplc.2024.101010" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Li D**, Wang Q, Tian Y, Lyu X, Zhang H, Sun Y, Hong H, Gao H, Li Y, Zhao C, Wang J, Wang R, Yang J, Liu B, Schnable PS, **Schnable JC**, Li Y, Qiu L [TWAS facilitates gene-scale trait genetic dissection through gene expression, structural variations, and alternative splicing in soybean.](https://doi.org/10.1016/j.xplc.2024.101010) *Plant Communications* doi: 10.1016/j.xplc.2024.101010 *bioRxiv* doi: 10.1101/2023.07.03.545230
+* **Li D**, Wang Q, Tian Y, Lyu X, Zhang H, Sun Y, Hong H, Gao H, Li Y, Zhao C, Wang J, Wang R, Yang J, Liu B, Schnable PS, **Schnable JC**, Li Y, Qiu L (2024) [TWAS facilitates gene-scale trait genetic dissection through gene expression, structural variations, and alternative splicing in soybean.](https://doi.org/10.1016/j.xplc.2024.101010) *Plant Communications* doi: 10.1016/j.xplc.2024.101010 *bioRxiv* doi: 10.1101/2023.07.03.545230
 
 <div data-badge-type="2" data-doi="10.1101/2023.09.20.558616" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Korth N**, Yang Q, Van Haute MJ, **Tross MC**, Peng B, **Shrestha N**, **Zwiener M**, **Mural RV**, **Schnable JC**, Benson AK (2024) [Grain utilization by the gut microbiome as a human health phenotype to identify multiple effect loci in genome-wide association studies of *Sorghum bicolor*](https://doi.org/10.1101/2023.09.20.558616). *G3* (Accepted) *bioRxiv* doi: 10.1101/2023.09.20.558616
