@@ -131,6 +131,12 @@ googlefonts: ["Monoton", "Lobster"]
 |![Matthew](/images/People_Images/Matthew.jpeg.jpg){:width="120"}|Matthew Lowry|Undergraduate Research Assistant|2023||
 |![Chessie](/images/People_Images/Chessie.jpeg.jpg){:width="120"}|Chessie Ruester|Undergraduate Research Assistant|2022-2023||
 |![Aime Nishimwe](/images/People_Images/Aime.jpg){:width="120"}|Aime Nishimwe|CUSP Bachelors Student<a href="https://twitter.com/AimeValentin"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a><br>0000-0003-0074-9364|2018-2022||
+|![Natasha](/images/People_Images/NatashaNguyen.jpeg){:width="120"}|Natasha Nguyen|Undergraduate Research Assistant|2023-2024||
+|![Sofia](/images/People_Images/Sofia_Grace.jpeg){:width="120"}|Sofia Grace|Undergraduate Research Assistant|2023-2024||
+|![Kelsey](/images/People_Images/Kelsey_Shotkoski.jpg){:width="120"}|Kelsey Shotkoski|Undergraduate Research Assistant|2023-2024||
+|![Annaliese](/images/People_Images/Annaliese_Kohrell.jpeg){:width="120"}|Annaliese Kohrell|Undergraduate Research Assistant|2023-2024||
+|![Shurouk](/images/People_Images/Shurouk_Hamad.jpg){:width="120"}|Shurouk Hamad|Undergraduate Research Assistant|2023-2024||
+|![Oddine](/images/People_Images/Oddine_Kyavuma.jpg){:width="120"}|Oddine Kyavuma|Undergraduate Research Assistant|2023-2024||
 
 
 {:.table100.ver1}
