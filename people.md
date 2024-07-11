@@ -9,6 +9,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![James Schnable](/images/People_Images/jamesschnable.jpg){:width="120" align="middle"}|[James Schnable](/peoplepages/jschnable/)<a href="https://twitter.com/szintri"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Professor|[CV](/CVs/JSchnable.pdf)|0000-0001-6739-5527|
 |![Vladimir Headshot](/images/People_Images/vlad2.jpg){:width="120" align="middle"}|[Vladimir Torres-Rodriguez](/peoplepages/Vlad/)|Postdoctoral Scholar|[CV](/CVs/CV_Vladimir-2.pdf)|0000-0001-6056-3452|
 |![Jon Turkus](/images/People_Images/JonT.jpg){:width="120"}|Jon Turkus|Lab Manager||0000-0002-2006-0137|
+|![Rossy](/images/People_Images/Rossy.jpeg){:width="120"}|Rossy Bedolla|Office assistant|||
 |![Chidanand "Chidu" Ullagaddi](/images/People_Images/Chidanand.jpeg){:width="120"}|[Chidanand "Chidu" Ullagaddi](/peoplepages/Chidu/)|Technician|
 |![Kyle Linders](/images/People_Images/KyleL.jpg){:width="120"}|Kyle Linders|Technician|
 |![Jensina Davis](images/People_Images/Jensina.png){:width="120"}|[Jensina Davis](/peoplepages/Jensina/)|PhD Student|[CV](/CVs/JensinaDavisCV.pdf)|ORCID 0009-0000-3638-9482|
@@ -21,12 +22,6 @@ googlefonts: ["Monoton", "Lobster"]
 |![Harshita Mangal](images/People_Images/HarshitaM.jpg){:width="120"}|Harshita Mangal| MS Student|||
 |![Ryleigh](/images/People_Images/Ryleigh.jpg){:width="120"}|Ryleigh Grove|Bachelors/UCARE Student|||
 |![Jordan](/images/People_Images/Jordan.jpeg){:width="120"}|Jordan Bares|Undergraduate Research Assistant|||
-|![Natasha](/images/People_Images/NatashaNguyen.jpeg){:width="120"}|Natasha Nguyen|Undergraduate Research Assistant|||
-|![Sofia](/images/People_Images/Sofia_Grace.jpeg){:width="120"}|Sofia Grace|Undergraduate Research Assistant|||
-|![Kelsey](/images/People_Images/Kelsey_Shotkoski.jpg){:width="120"}|Kelsey Shotkoski|Undergraduate Research Assistant|||
-|![Annaliese](/images/People_Images/Annaliese_Kohrell.jpeg){:width="120"}|Annaliese Kohrell|Undergraduate Research Assistant|||
-|![Shurouk](/images/People_Images/Shurouk_Hamad.jpg){:width="120"}|Shurouk Hamad|Undergraduate Research Assistant|||
-|![Oddine](/images/People_Images/Oddine_Kyavuma.jpg){:width="120"}|Oddine Kyavuma|Undergraduate Research Assistant|||
 {:.table100.ver1}
 
 [Lab Alumni 2014-Present](/alumni)
