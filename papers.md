@@ -10,22 +10,22 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.31220/agriRxiv.2024.00251" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Shrestha N**, Powadi A, **Davis J**, Ayanlade TT, Liu H, **Tross MC**, **Mathivanan RK**, **Bares J**, **Lopez-Corona L**, **Turkus J**, Coffey L, Tubery TZ, **Ge Y**, Sarkar S, **Schnable JC**, Ganapathysubramanian B, Schnable PS [Plot-level satellite imagery can substitute for UAVs in assessing maize phenotypes across multistate field trials.](https://doi.org/10.31220/agriRxiv.2024.00251) *agriRxiv* doi: 10.31220/agriRxiv.2024.00251
 
-<div data-badge-type="2" data-doi="10.1101/2023.08.29.555201" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Sahay S, **Shrestha N**, **Moura Dias H**, **Mural RV**, **Grzybowski M**, **Schnable JC**, Glowacka K [Comparative GWAS identifies a role for Mendel’s green pea gene in the nonphotochemical quenching kinetics of sorghum, maize, and arabidopsis](https://doi.org/10.1101/2023.08.29.555201). *bioRxiv* doi: 10.1101/2023.08.29.555201
-
 <div data-badge-type="2" data-doi="10.1101/2023.08.08.551183" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Engelhorn J, Snodgrass S, Kok A, Seetharam A, Schneider M, Kiwit T, Singh A, Banf M, Khaipho-Burch M, Runcie D, Camargo V, **Torres-Rodriguez JV**, **Sun G**, Stam M, Fiorani F, **Schnable JC**, Bass H, Hufford M, Stich B, Frommer W, Ross-Ibarra J, Hartwig T [Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites.](https://doi.org/10.1101/2023.08.08.551183) *bioRxiv* doi:10.1101/2023.08.08.551183
 
 **2024**
 
-<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Bai G, Barker B, Scoby D, Irmak S, Luck JD, Neale CMU, **Schnable JC**, Awada T, Ge Y (2024) High-throughput physiological phenotyping of crop evapotranspiration at the plot scale. *Field Crop Research* (Accepted)
+<div data-badge-type="2" data-doi="10.1101/2023.08.29.555201" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Sahay S, **Shrestha N**, **Moura Dias H**, **Mural RV**, **Grzybowski M**, **Schnable JC**, Glowacka K [Comparative GWAS identifies a role for Mendel’s green pea gene in the nonphotochemical quenching kinetics of sorghum, maize, and arabidopsis](https://doi.org/10.1101/2023.08.29.555201). *The Plant Journal* (Accepted) *bioRxiv* doi: 10.1101/2023.08.29.555201
+
+<div data-badge-type="2" data-doi="10.1016/j.fcr.2024.109507" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Bai G, Barker B, Scoby D, Irmak S, Luck JD, Neale CMU, **Schnable JC**, Awada T, Kustas WP, Ge Y (2024) [High-throughput physiological phenotyping of crop evapotranspiration at the plot scale.](https://doi.org/10.1016/j.fcr.2024.109507) *Field Crop Research* doi: 10.1016/j.fcr.2024.109507
 
 <div data-badge-type="2" data-doi="10.1016/j.xplc.2024.101010" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Li D**, Wang Q, Tian Y, Lyu X, Zhang H, Sun Y, Hong H, Gao H, Li Y, Zhao C, Wang J, Wang R, Yang J, Liu B, Schnable PS, **Schnable JC**, Li Y, Qiu L (2024) [TWAS facilitates gene-scale trait genetic dissection through gene expression, structural variations, and alternative splicing in soybean.](https://doi.org/10.1016/j.xplc.2024.101010) *Plant Communications* doi: 10.1016/j.xplc.2024.101010 *bioRxiv* doi: 10.1101/2023.07.03.545230
 
-<div data-badge-type="2" data-doi="10.1101/2023.09.20.558616" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Korth N**, Yang Q, Van Haute MJ, **Tross MC**, Peng B, **Shrestha N**, **Zwiener M**, **Mural RV**, **Schnable JC**, Benson AK (2024) [Grain utilization by the gut microbiome as a human health phenotype to identify multiple effect loci in genome-wide association studies of *Sorghum bicolor*](https://doi.org/10.1101/2023.09.20.558616). *G3* (Accepted) *bioRxiv* doi: 10.1101/2023.09.20.558616
+<div data-badge-type="2" data-doi="10.1093/g3journal/jkae145" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Korth N**, Yang Q, Van Haute MJ, **Tross MC**, Peng B, **Shrestha N**, **Zwiener M**, **Mural RV**, **Schnable JC**, Benson AK (2024) [Genomic co-localization of variation affecting agronomic and human gut microbiome traits in a meta-analysis of diverse sorghum.](https://doi.org/10.1093/g3journal/jkae145). *G3* doi: 10.1093/g3journal/jkae145 *bioRxiv* doi: 10.1101/2023.09.20.558616
 
 <div data-badge-type="2" data-doi="10.1007/s00425-024-04465-4" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Khound R, Rajput SG, **Schnable JC**, Mani V, Dipak SK (2024) [Genome-wide association study reveals marker-trait associations for major agronomic traits in proso millet (*Panicum miliaceum* L.).](https://doi.org/10.1007/s00425-024-04465-4) *Planta* doi: 10.1007/s00425-024-04465-4
