@@ -4,6 +4,26 @@ title: Schnable Lab News
 googlefonts: ["Monoton", "Lobster"]
 ---
 
+### 2024 Jun
+
+* Dr. Zhongjie Ji giving insights on "Advance Canopy Architecture Modeling in Maize" in the Collective Research Organization of Plant Scientists UNL series of conferences.
+* Congratulations to Harshita for her first anniversary at Schnable lab, it's great to have you as part of the team!!
+
+
+### 2024 May
+
+* The James Schnable Fest!. The Schanble lab turned ten years!! This is a special recognition to all present and past members, thank you to all of you folks for making this lab awesome! 
+* Congratulations to Dr. James Schnable for being recognized by UNL as an outstanding supporter of postdocs in diverse projects, skill development, and life goals. Congratulations, James!"
+* Congratulations to Hongyu Jin for defending his PhD, Good job, Dr. Hongyu!!
+* Dr. Michael Tross, a recent PhD graduate from our lab featured in this Midwest Messenger article on AI for agriculture! 
+
+### 2024 April
+
+* Zhongjie Ji, the newest UNL-PSI Heuermann postdoctoral scholar recipient will be working with our lab and UNL Plant Phenomics to translate new plant phenotyping technologies to the field. Welcome Zhongjie! 
+* Dr. James Schable reached 10K citations in Google Scholar. Congratulations on such a great achievement James!! 
+* Five members of our lab Amany (talk), Harshita (talk), Waqar, Ramesh, Nikee, Jensina, and Vladimir explain their work at the 2024 Nebraska Plant Science Symposium. Good job!! 
+* Harshita Mangal was awarded second prize for her lightning talk at the 2024 Corteva-Nebraska Plant Science Symposium and takes home a poster prize as well. Nicely done! 
+
 ### 2024 March 
 
 * Michael Tross successfully defend his PhD thesis. Congratulations Dr. Tross!!
