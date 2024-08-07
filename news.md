@@ -6,13 +6,16 @@ googlefonts: ["Monoton", "Lobster"]
 
 ### 2024 July
 
-* Congratulations to Ramesh's MSc defense!
+* Congratulations to Ramesh's MSc defense! Keep up the good work!
+* We are happy to welcome Karla Cuellar for her internship at Schnable's Lab!
+* Welcome to the team, our new Office Associate, Rossy Bedolla!
+* So proud of Ryleigh Grove for receiving a stipend for a summer research project at the University of Nebraska-Lincoln. Congrats Ryleigh!
+* Congratulations Prof. Torres-Rodriguez for the new corn gene discovery! 🌽 this breakthrough could revolutionize agriculture and improve crops. Keep up the good work! 
 
 ### 2024 Jun
 
 * Dr. Zhongjie Ji giving insights on "Advance Canopy Architecture Modeling in Maize" in the Collective Research Organization of Plant Scientists UNL series of conferences.
 * Congratulations to Harshita for her first anniversary at Schnable lab, it's great to have you as part of the team!!
-
 
 ### 2024 May
 
