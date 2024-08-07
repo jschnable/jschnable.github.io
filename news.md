@@ -4,6 +4,10 @@ title: Schnable Lab News
 googlefonts: ["Monoton", "Lobster"]
 ---
 
+### 2024 July
+
+* Congratulations to Ramesh's MSc defense!
+
 ### 2024 Jun
 
 * Dr. Zhongjie Ji giving insights on "Advance Canopy Architecture Modeling in Maize" in the Collective Research Organization of Plant Scientists UNL series of conferences.
