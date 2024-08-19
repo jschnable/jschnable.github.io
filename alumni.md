@@ -60,6 +60,7 @@ googlefonts: ["Monoton", "Lobster"]
 **Masters Students**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
+|![Ramesh Kanna Mathivanan](/images/People_Images/Ramesh.jpg){:width="120"align="middle"}|[Ramesh Kanna Mathivanan](/peoplepages/Ramesh/)|MS Student|2022-2024||
 |![Kahheetah Barnoskie](/images/People_Images/Kahheetah.jpg){:width="120"}|Kahheetah Barnoskie|MS Student|2021-2022||
 |![Kyle Linders](/images/People_Images/KyleL.jpg){:width="120"}|Kyle Linders|MS Student|2020-2022|Research Technologist, UNL|
 |![Mackenzie](/images/People_Images/Mackenzie.jpeg){:width="120"}|[Mackenzie Zwiener](/peoplepages/Mackenzie_Zwiener/)<a href="https://twitter.com/MackenzieZwien1"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|MS Student<br>Technician|2019-2021|Statistician, US Dept. of Homeland Security|
