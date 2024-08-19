@@ -19,6 +19,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Hongyu Jin Headshot](/images/People_Images/Hongyu.jpg){:width="120"}|[Hongyu Jin](/peoplepages/Hongyu_Jin/)|PhD Student<br>_(co-advised)_|[CV](/CVs/HongYuJinCV.pdf)||
 |![Amany Gomaa](images/People_Images/Amany.jfif){:width="120"}|[Amany Gomaa](/peoplepages/Amany.md/)|PhD Student<br>_(co-advised)_|[CV](/CVs/AmanyGomaa.pdf)||
 |![Harshita Mangal](images/People_Images/HarshitaM.jpg){:width="120"}|Harshita Mangal| MS Student|||
+|![Sofiya Arora](images/People_Images/sofiya.jpg){:width="120"}|Sofiya Arora| MS Student|||
 |![Ryleigh](/images/People_Images/Ryleigh.jpg){:width="120"}|Ryleigh Grove|Bachelors/UCARE Student|||
 |![Jordan](/images/People_Images/Jordan.jpeg){:width="120"}|Jordan Bares|Undergraduate Research Assistant|||
 {:.table100.ver1}
