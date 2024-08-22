@@ -15,8 +15,11 @@ title: Schnable Lab Papers
 
 **2024**
 
-<div data-badge-type="2" data-doi="10.1101/2023.08.29.555201" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Sahay S, **Shrestha N**, **Moura Dias H**, **Mural RV**, **Grzybowski M**, **Schnable JC**, Glowacka K [Comparative GWAS identifies a role for Mendel’s green pea gene in the nonphotochemical quenching kinetics of sorghum, maize, and arabidopsis](https://doi.org/10.1101/2023.08.29.555201). *The Plant Journal* (Accepted) *bioRxiv* doi: 10.1101/2023.08.29.555201
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Moura Dias H**, de Teledo NA, **Mural RV**, **Schnable JC**, Van Sluys MA (2024) THI1 gene evolutionary trends: A comprehensive plant-focused Assessment via data Mining and large-scale analysis. *Genome Biology and Evolution* (Accepted)
+
+<div data-badge-type="2" data-doi="10.1111/tpj.16967" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Sahay S, **Shrestha N**, **Moura Dias H**, **Mural RV**, **Grzybowski M**, **Schnable JC**, Glowacka K (2024) [Nonphotochemical quenching kinetics GWAS in sorghum identifies genes that may play conserved roles in maize and Arabidopsis thaliana photoprotection](https://doi.org/10.1111/tpj.16967). *The Plant Journal* doi: 10.1111/tpj.16967 *bioRxiv* doi: 10.1101/2023.08.29.555201
 
 <div data-badge-type="2" data-doi="10.1016/j.fcr.2024.109507" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Bai G, Barker B, Scoby D, Irmak S, Luck JD, Neale CMU, **Schnable JC**, Awada T, Kustas WP, Ge Y (2024) [High-throughput physiological phenotyping of crop evapotranspiration at the plot scale.](https://doi.org/10.1016/j.fcr.2024.109507) *Field Crop Research* doi: 10.1016/j.fcr.2024.109507
@@ -31,10 +34,10 @@ title: Schnable Lab Papers
 * Khound R, Rajput SG, **Schnable JC**, Mani V, Dipak SK (2024) [Genome-wide association study reveals marker-trait associations for major agronomic traits in proso millet (*Panicum miliaceum* L.).](https://doi.org/10.1007/s00425-024-04465-4) *Planta* doi: 10.1007/s00425-024-04465-4
 
 <div data-badge-type="2" data-doi="j.foodchem.2024.140062" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Jia Y, **Ullagaddi C**, Allen C, Rausch K, Singh V, **Schnable JC**, Kamruzzaman M (2024) [Optimizing feature selection with gradient boosting machines in PLS regression for predicting moisture and protein in multi-Country corn kernels via NIR spectroscopy.](https://doi.org/10.1016/j.foodchem.2024.140062) *Food Chemistry* doi: 10.1016/j.foodchem.2024.140062
+* Zheng R, Jia Y, **Ullagaddi C**, Allen C, Rausch K, Singh V, **Schnable JC**, Kamruzzaman M (2024) [Optimizing feature selection with gradient boosting machines in PLS regression for predicting moisture and protein in multi-Country corn kernels via NIR spectroscopy.](https://doi.org/10.1016/j.foodchem.2024.140062) *Food Chemistry* doi: 10.1016/j.foodchem.2024.140062
 
 <div data-badge-type="2" data-doi="10.1093/jxb/erae247" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Raju SKK**, **Zhang Y**, Mahboub S, **Ngu DW**, Qiu Y, Harmon FG, **Schnable JC**, Roston RL (2024) [Rhythmic lipid and gene expression responses to chilling in panicoid grasses.](https://doi.org/10.1093/jxb/erae247) *Journal of Experimental Botany* 10.1093/jxb/erae247 *bioRxiv* doi: 10.1101/2023.09.29.560160
+* **Raju SKK**, **Zhang Y**, Mahboub S, **Ngu DW**, Qiu Y, Harmon FG, **Schnable JC**, Roston RL (2024) [Rhythmic lipid and gene expression responses to chilling in panicoid grasses.](https://doi.org/10.1093/jxb/erae247) *Journal of Experimental Botany* doi: 10.1093/jxb/erae247 *bioRxiv* doi: 10.1101/2023.09.29.560160
 
 <div data-badge-type="2" data-doi="10.1016/j.jplph.2024.154261" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Sahay S, **Grzybowski M**, **Schnable JC**, Glowacka K (2024) [Genotype-specific nonphotochemical quenching responses to nitrogen deficit are linked to chlorophyll a to b ratios.](https://doi.org/10.1016/j.jplph.2024.154261) *Journal of Plant Physiology* doi: 10.1016/j.jplph.2024.154261
