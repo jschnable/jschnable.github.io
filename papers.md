@@ -13,6 +13,9 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/2024.07.22.604683" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Shrestha N**, **Mangal H**, **Torres-Rodriguez JV**, **Tross MC**, **Lopez-Corona L**, **Linders K**, **Sun G**, **Mural RV**, **Schnable JC** [Off-the-shelf image analysis models outperform human visual assessment in identifying genes controlling seed color variation in sorghum.](https://doi.org/10.1101/2024.07.22.604683) *bioRxiv* doi: 10.1101/2024.07.22.604683
 
+<div data-badge-type="2" data-doi="10.1101/2024.08.26.609532" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Mathivanan RK**, Pedersen C, **Turkus J**, **Shrestha N**, **Torres-Rodriguez JV**, **Mural RV**, Obata T, **Schnable JC** [Transcripts and genomic intervals associated with variation in metabolite abundance in maize leaves under field conditions.](https://doi.org/10.1101/2024.08.26.609532) *bioRxiv* doi: 10.1101/2024.08.26.609532
+
 <div data-badge-type="2" data-doi="10.31220/agriRxiv.2024.00251" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Shrestha N**, Powadi A, **Davis J**, Ayanlade TT, Liu H, **Tross MC**, **Mathivanan RK**, **Bares J**, **Lopez-Corona L**, **Turkus J**, Coffey L, Tubery TZ, **Ge Y**, Sarkar S, **Schnable JC**, Ganapathysubramanian B, Schnable PS [Plot-level satellite imagery can substitute for UAVs in assessing maize phenotypes across multistate field trials.](https://doi.org/10.31220/agriRxiv.2024.00251) *agriRxiv* doi: 10.31220/agriRxiv.2024.00251
 
