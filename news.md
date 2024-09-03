@@ -4,6 +4,12 @@ title: Schnable Lab News
 googlefonts: ["Monoton", "Lobster"]
 ---
 
+### 2024 August
+
+* Congratulations to our lab's newest PhD candidate, Nikee Shrestha! Keep up the good work!
+* Welcome to our lab, Dr. Khang Hoang, Visiting Scientist.
+* Welcome to the Schnable lab, our new M.S. student, Sofiya Arora.
+
 ### 2024 July
 
 * Congratulations to Ramesh's MSc defense! Keep up the good work!
