@@ -25,6 +25,9 @@ title: Schnable Lab Papers
 **2024**
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Ostermann I, Benes B, Gaillard M, Li B, **Davis J**, **Grove RJ**, **Shrestha N**, **Tross MC**, **Schnable JC** (2024) Sorghum segmentation and leaf counting using an \textit{in silico} trained deep neural model. *The Plant Phenome Journal* (Accepted)
+
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Moura Dias H**, de Teledo NA, **Mural RV**, **Schnable JC**, Van Sluys MA (2024) THI1 gene evolutionary trends: A comprehensive plant-focused Assessment via data Mining and large-scale analysis. *Genome Biology and Evolution* (Accepted)
 
 <div data-badge-type="2" data-doi="10.1111/tpj.16967" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
@@ -161,7 +164,7 @@ Commentary by Chris Surridge published in *Nature Plants*. doi: [10.1038/s41477-
 **2021**
 
 <div data-badge-type="2" data-doi="10.7717/peerj.12628" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Tross MC**, Gaillard M, **Zweiner M**, **Miao C**, Li B, Benes B, **Schnable JC** "[3D reconstruction identifies loci linked to variation in angle of individual sorghum leaves.](https://doi.org/10.7717/peerj.12628)" *PeerJ* doi: 10.7717/peerj.12628 *bioRxiv* doi: 10.1101/2021.06.15.448566
+* **Tross MC**, Gaillard M, **Zweiner M**, **Miao C**, **Grove RJ**, Li B, Benes B, **Schnable JC** "[3D reconstruction identifies loci linked to variation in angle of individual sorghum leaves.](https://doi.org/10.7717/peerj.12628)" *PeerJ* doi: 10.7717/peerj.12628 *bioRxiv* doi: 10.1101/2021.06.15.448566
 
 <div data-badge-type="2" data-doi="10.3389/fpls.2021.743782" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Diao X, Zhang H, Tang S, **Schnable JC**, He Q, Gao Y, Luo M, Jia G, Feng B, Zhi H (2021) "[Genome-wide DNA polymorphism analysis and molecular marker development for the *Setaria italica* variety ‘SSR41’ and positional cloning of the Setaria white leaf sheath gene SiWLS1.](https://doi.org/10.3389/fpls.2021.743782)" *Frontiers in Plant Science* doi: 10.3389/fpls.2021.743782
