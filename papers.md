@@ -25,7 +25,10 @@ title: Schnable Lab Papers
 **2024**
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Ostermann I, Benes B, Gaillard M, Li B, **Davis J**, **Grove RJ**, **Shrestha N**, **Tross MC**, **Schnable JC** (2024) Sorghum segmentation and leaf counting using an \textit{in silico} trained deep neural model. *The Plant Phenome Journal* (Accepted)
+* Wei J, Guo T, Mu Q, Alladassi M, **Mural RV**, Boyles RE, Hoffman L, Hayes CM, **Sigmon B**, Thompson AM, Salas-Fernandez M, Rooney WL, Kresovich S, **Schnable JC**, Li X, Yu J (2024) Genetic and environmental patterns underlying phenotypic plasticity in flowering time and plant height in sorghum. *Plant, Cell and Environment* (Accepted)
+
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Ostermann I, Benes B, Gaillard M, Li B, **Davis J**, **Grove RJ**, **Shrestha N**, **Tross MC**, **Schnable JC** (2024) Sorghum segmentation and leaf counting using an *in silico* trained deep neural model. *The Plant Phenome Journal* (Accepted)
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Moura Dias H**, de Teledo NA, **Mural RV**, **Schnable JC**, Van Sluys MA (2024) THI1 gene evolutionary trends: A comprehensive plant-focused Assessment via data Mining and large-scale analysis. *Genome Biology and Evolution* (Accepted)
@@ -40,7 +43,7 @@ title: Schnable Lab Papers
 * **Li D**, Wang Q, Tian Y, Lyu X, Zhang H, Sun Y, Hong H, Gao H, Li Y, Zhao C, Wang J, Wang R, Yang J, Liu B, Schnable PS, **Schnable JC**, Li Y, Qiu L (2024) [TWAS facilitates gene-scale trait genetic dissection through gene expression, structural variations, and alternative splicing in soybean.](https://doi.org/10.1016/j.xplc.2024.101010) *Plant Communications* doi: 10.1016/j.xplc.2024.101010 *bioRxiv* doi: 10.1101/2023.07.03.545230
 
 <div data-badge-type="2" data-doi="10.1093/g3journal/jkae145" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Korth N**, Yang Q, Van Haute MJ, **Tross MC**, Peng B, **Shrestha N**, **Zwiener M**, **Mural RV**, **Schnable JC**, Benson AK (2024) [Genomic co-localization of variation affecting agronomic and human gut microbiome traits in a meta-analysis of diverse sorghum.](https://doi.org/10.1093/g3journal/jkae145). *G3* doi: 10.1093/g3journal/jkae145 *bioRxiv* doi: 10.1101/2023.09.20.558616
+* **Korth N**, Yang Q, Van Haute MJ, **Tross MC**, Peng B, **Shrestha N**, **Zwiener M**, **Mural RV**, **Schnable JC**, Benson AK (2024) [Genomic co-localization of variation affecting agronomic and human gut microbiome traits in a meta-analysis of diverse sorghum.](https://doi.org/10.1093/g3journal/jkae145) *G3* doi: 10.1093/g3journal/jkae145 *bioRxiv* doi: 10.1101/2023.09.20.558616
 
 <div data-badge-type="2" data-doi="10.1007/s00425-024-04465-4" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Khound R, Rajput SG, **Schnable JC**, Mani V, Dipak SK (2024) [Genome-wide association study reveals marker-trait associations for major agronomic traits in proso millet (*Panicum miliaceum* L.).](https://doi.org/10.1007/s00425-024-04465-4) *Planta* doi: 10.1007/s00425-024-04465-4
