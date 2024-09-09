@@ -24,6 +24,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Ryleigh](/images/People_Images/Ryleigh.jpg){:width="120"}|Ryleigh Grove|Bachelors/UCARE Student|||
 |![Karla](/images/People_Images/KarlaC.jpg){:width="120"}|Karla M. Cuellar Perez|Bachelors student|||
 |![Khang](/images/People_Images/Khang.png){:width="120"}|Khang Hoang|Visiting Scientist|||
+|![Caner Yavuz](/images/People_Images/Caner.jpg){:width="120"}|Caner Yavuz|Visiting Scientist|||
 |![Jordan](/images/People_Images/Jordan.jpeg){:width="120"}|Jordan Bares|Undergraduate Research Assistant|||
 {:.table100.ver1}
 
