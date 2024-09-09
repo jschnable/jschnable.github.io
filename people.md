@@ -10,7 +10,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Vladimir Headshot](/images/People_Images/vlad2.jpg){:width="120" align="middle"}|[Vladimir Torres-Rodriguez](/peoplepages/Vlad/)|Research Assistant Professor|[CV](/CVs/CV_Vladimir-2.pdf)|0000-0001-6056-3452|
 |![Zhongjie](/images/People_Images/Zhongjie.jpg){:width="120"}|Zhongjie Ji|Heuermann Research Fellow|||
 |![Jon Turkus](/images/People_Images/JonT.jpg){:width="120"}|Jon Turkus|Lab Manager||0000-0002-2006-0137|
-|![Rossy](/images/People_Images/Rossy.jpeg){:width="120"}|Rossy Bedolla|Office Associate|||
+|![Rossy Bedolla](images/People_Images/Rossy.jpeg){:width="120”align="middle”}|[Rossy Bedolla](/peoplepages/Rossy/)|Office Associate|||
 |![Chidanand "Chidu" Ullagaddi](/images/People_Images/Chidanand.jpeg){:width="120"}|[Chidanand "Chidu" Ullagaddi](/peoplepages/Chidu/)|Technician|
 |![Kyle Linders](/images/People_Images/KyleL.jpg){:width="120"}|Kyle Linders|Technician|
 |![Jensina Davis](images/People_Images/Jensina.png){:width="120"}|[Jensina Davis](/peoplepages/Jensina/)|PhD Student|[CV](/CVs/JensinaDavisCV.pdf)|ORCID 0009-0000-3638-9482|
