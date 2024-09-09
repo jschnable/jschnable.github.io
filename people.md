@@ -20,7 +20,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Fangyi Li](/images/People_Images/Fangyi.jpg){:width="120"}|[Fangyi Li](/peoplepages/FangyiLi/)|PhD Student<br>_(co-advised)_|[CV](/CVs/FangyiLiCV.pdf)||
 |![Hongyu Jin Headshot](/images/People_Images/Hongyu.jpg){:width="120"}|[Hongyu Jin](/peoplepages/Hongyu_Jin/)|PhD Student<br>_(co-advised)_|[CV](/CVs/HongYuJinCV.pdf)||
 |![Amany Gomaa](images/People_Images/Amany.jfif){:width="120"}|[Amany Gomaa](/peoplepages/Amany.md/)|PhD Student<br>_(co-advised)_|[CV](/CVs/AmanyGomaa.pdf)||
-|![Sofiya Arora](images/People_Images/Sofiya.png){:width="120”}|[Sofiya Arora](/peoplepages/Sofiya/)|Sofiya Arora| MS Student|||
+|![Sofiya Arora](images/People_Images/sofiya.jpg){:width="120”}|[Sofiya Arora](/peoplepages/Sofiya/)| MS Student|||
 |![Ryleigh](/images/People_Images/Ryleigh.jpg){:width="120"}|Ryleigh Grove|Bachelors/UCARE Student|||
 |![Karla](/images/People_Images/KarlaC.jpg){:width="120"}|Karla M. Cuellar Perez|Bachelors student|||
 |![Khang](/images/People_Images/Khang.png){:width="120"}|Khang Hoang|Visiting Scientist|||
