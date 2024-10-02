@@ -4,6 +4,13 @@ title: Schnable Lab News
 googlefonts: ["Monoton", "Lobster"]
 ---
 
+### 2024 September
+
+* Welcome to our lab, Dr. Caner Yavuz, Visiting Scientist.
+* Congratulations to the Schnable Lab for securing a new grant to build a digital twin of cornfields, which will help guide the development of more efficient and productive corn hybrids!
+* We welcome Niranjan Pokhrel, a PhD student rotating through our lab as part of the Complex Biosystems program at UNL.
+* A special congratulations to Dr. Schnable for being honored with the Nebraska Corn Checkoff Presidential Chair position!
+
 ### 2024 August
 
 * Congratulations to our lab's newest PhD candidate, Nikee Shrestha! Keep up the good work!
