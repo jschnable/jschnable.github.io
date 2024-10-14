@@ -25,6 +25,9 @@ title: Schnable Lab Papers
 **2024**
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Delen Y, **Mural RV**, Xu G, Delen SP, **Schnable JC**, Dweikat I, Yang J (2024) Dissecting the genetic architecture of sunflower disc diameter using genome-wide association study. *Plant Direct* (Accepted)
+
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Wei J, Guo T, Mu Q, Alladassi M, **Mural RV**, Boyles RE, Hoffman L, Hayes CM, **Sigmon B**, Thompson AM, Salas-Fernandez M, Rooney WL, Kresovich S, **Schnable JC**, Li X, Yu J (2024) Genetic and environmental patterns underlying phenotypic plasticity in flowering time and plant height in sorghum. *Plant, Cell and Environment* (Accepted)
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
@@ -82,7 +85,7 @@ doi: 10.17912/micropub.biology.001115
 * Lima DC, Aviles AC, Alpers RT ... **Schnable JC** (24th of 35 authors) ... Weldekidan T, Xu W, de Leon N (2023) [2020-2021 field seasons of Maize GxE project within the Genomes to Fields Initiative.](https://doi.org/10.1186/s13104-023-06430-y) **BMC Research Notes** doi: 10.1186/s13104-023-06430-y
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Noh M, Sium F, Tope S, Khan S, Karkhanis M, Wang L, Deshpande A, Dalapati R, **Mural RV**, Mastrangelo C, Zang L, Ji M, **Schnable JC**, Kim H (2023) Localization of crop damage utilizing a wake up gas sensor network. *Transducers 2023* Kyoto, Japan *(Conference Paper)*
+* Noh M, Sium F, Tope S, Khan S, Karkhanis M, Wang L, Deshpande A, Dalapati R, **Mural RV**, Mastrangelo C, Zang L, Ji M, **Schnable JC**, Kim H (2023) [Localization of crop damage utilizing a wake up gas sensor network.](https://ieeexplore.ieee.org/abstract/document/10516771) *Transducers 2023* Kyoto, Japan *(Conference Paper)*
 
 <div data-badge-type="2" data-doi="10.1093/aob/mcad116" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * DiMario R, Kophs A, Apalla A, **Schnable JS**, Cousins A (2023) [Multiple highly expressed phosphoenolpyruvate carboxylase genes have divergent enzyme kinetic properties in two C4 grasses.](https://doi.org/10.1093/aob/mcad116) *Annals Of Botany* doi: 10.1093/aob/mcad116
