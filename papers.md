@@ -25,16 +25,19 @@ title: Schnable Lab Papers
 **2024**
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Delen Y, **Mural RV**, Xu G, Delen SP, **Schnable JC**, Dweikat I, Yang J (2024) Dissecting the genetic architecture of sunflower disc diameter using genome-wide association study. *Plant Direct* (Accepted)
+* Boatwright L, Thudi M, Sangiredday MKR, Coffin AW, Tadesse HK, Vutla S, Harris-Shultz K, Knoll JE, Cuevas H, Kumar N, Soman C, **Schnable JC**, Punnuri SM (2024) GWAS analysis for plant height and stem diameter in sorghum using multiple phenotyping approaches. *The Plant Phenome Journal* (Accepted)
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Wei J, Guo T, Mu Q, Alladassi M, **Mural RV**, Boyles RE, Hoffman L, Hayes CM, **Sigmon B**, Thompson AM, Salas-Fernandez M, Rooney WL, Kresovich S, **Schnable JC**, Li X, Yu J (2024) Genetic and environmental patterns underlying phenotypic plasticity in flowering time and plant height in sorghum. *Plant, Cell and Environment* (Accepted)
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Ostermann I, Benes B, Gaillard M, Li B, **Davis J**, **Grove RJ**, **Shrestha N**, **Tross MC**, **Schnable JC** (2024) Sorghum segmentation and leaf counting using an *in silico* trained deep neural model. *The Plant Phenome Journal* (Accepted)
-
-<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Moura Dias H**, de Teledo NA, **Mural RV**, **Schnable JC**, Van Sluys MA (2024) THI1 gene evolutionary trends: A comprehensive plant-focused Assessment via data Mining and large-scale analysis. *Genome Biology and Evolution* (Accepted)
+
+<div data-badge-type="2" data-doi="10.1002/pld3.70010" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Delen Y, **Mural RV**, Xu G, Delen SP, **Schnable JC**, Dweikat I, Yang J (2024) [Dissecting the genetic architecture of sunflower disc diameter using genome-wide association study.](https://doi.org/10.1002/pld3.70010) *Plant Direct* doi: 10.1002/pld3.70010
+
+<div data-badge-type="2" data-doi="10.1002/ppj2.70002" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Ostermann I, Benes B, Gaillard M, Li B, **Davis J**, **Grove RJ**, **Shrestha N**, **Tross MC**, **Schnable JC** (2024) [Sorghum segmentation and leaf counting using an *in silico* trained deep neural model.](https://doi.org/10.1002/ppj2.70002) *The Plant Phenome Journal* doi: 10.1002/ppj2.70002
 
 <div data-badge-type="2" data-doi="10.1111/tpj.16967" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Sahay S, **Shrestha N**, **Moura Dias H**, **Mural RV**, **Grzybowski M**, **Schnable JC**, Glowacka K (2024) [Nonphotochemical quenching kinetics GWAS in sorghum identifies genes that may play conserved roles in maize and Arabidopsis thaliana photoprotection](https://doi.org/10.1111/tpj.16967). *The Plant Journal* doi: 10.1111/tpj.16967 *bioRxiv* doi: 10.1101/2023.08.29.555201
