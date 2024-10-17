@@ -30,8 +30,8 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1111/pce.15213" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Wei J, Guo T, Mu Q, Alladassi M, **Mural RV**, Boyles RE, Hoffman L, Hayes CM, **Sigmon B**, Thompson AM, Salas-Fernandez M, Rooney WL, Kresovich S, **Schnable JC**, Li X, Yu J (2024) [Genetic and environmental patterns underlying phenotypic plasticity in flowering time and plant height in sorghum.](https://doi.org/10.1111/pce.15213) *Plant, Cell and Environment* doi: 10.1111/pce.15213
 
-<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Moura Dias H**, de Teledo NA, **Mural RV**, **Schnable JC**, Van Sluys MA (2024) THI1 gene evolutionary trends: A comprehensive plant-focused Assessment via data Mining and large-scale analysis. *Genome Biology and Evolution* (Accepted)
+<div data-badge-type="2" data-doi="10.1093/gbe/evae212" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Moura Dias H**, de Teledo NA, **Mural RV**, **Schnable JC**, Van Sluys MA (2024) [THI1 gene evolutionary trends: A comprehensive plant-focused Assessment via data Mining and large-scale analysis.](https://doi.org/10.1093/gbe/evae212) *Genome Biology and Evolution* doi: 10.1093/gbe/evae212
 
 <div data-badge-type="2" data-doi="10.1002/pld3.70010" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Delen Y, **Mural RV**, Xu G, Delen SP, **Schnable JC**, Dweikat I, Yang J (2024) [Dissecting the genetic architecture of sunflower disc diameter using genome-wide association study.](https://doi.org/10.1002/pld3.70010) *Plant Direct* doi: 10.1002/pld3.70010
