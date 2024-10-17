@@ -27,8 +27,8 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Boatwright L, Thudi M, Sangiredday MKR, Coffin AW, Tadesse HK, Vutla S, Harris-Shultz K, Knoll JE, Cuevas H, Kumar N, Soman C, **Schnable JC**, Punnuri SM (2024) GWAS analysis for plant height and stem diameter in sorghum using multiple phenotyping approaches. *The Plant Phenome Journal* (Accepted)
 
-<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Wei J, Guo T, Mu Q, Alladassi M, **Mural RV**, Boyles RE, Hoffman L, Hayes CM, **Sigmon B**, Thompson AM, Salas-Fernandez M, Rooney WL, Kresovich S, **Schnable JC**, Li X, Yu J (2024) Genetic and environmental patterns underlying phenotypic plasticity in flowering time and plant height in sorghum. *Plant, Cell and Environment* (Accepted)
+<div data-badge-type="2" data-doi="10.1111/pce.15213" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Wei J, Guo T, Mu Q, Alladassi M, **Mural RV**, Boyles RE, Hoffman L, Hayes CM, **Sigmon B**, Thompson AM, Salas-Fernandez M, Rooney WL, Kresovich S, **Schnable JC**, Li X, Yu J (2024) [Genetic and environmental patterns underlying phenotypic plasticity in flowering time and plant height in sorghum.](https://doi.org/10.1111/pce.15213) *Plant, Cell and Environment* doi: 10.1111/pce.15213
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Moura Dias H**, de Teledo NA, **Mural RV**, **Schnable JC**, Van Sluys MA (2024) THI1 gene evolutionary trends: A comprehensive plant-focused Assessment via data Mining and large-scale analysis. *Genome Biology and Evolution* (Accepted)
