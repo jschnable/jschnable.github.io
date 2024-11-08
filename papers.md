@@ -7,6 +7,9 @@ title: Schnable Lab Papers
 
 **Preprints**
 
+<div data-badge-type="2" data-doi="10.1101/2024.10.03.616344" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Davis JM**, Gaillard M, **Tross MC**, **Shrestha N**, Ostermann I, **Grove RJ**, Li B, Benes B, **Schnable JC** [3D reconstruction enables high-throughput phenotyping and quantitative genetic analysis of phyllotaxy.](https://doi.org/10.1101/2024.06.04.597477)  *bioRxiv* doi: 10.1101/2024.10.03.616344
+
 <div data-badge-type="2" data-doi="10.1101/2024.06.04.597477" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Tross MC**, Duggan G, **Shrestha N**, **Schnable JC** [Models trained to predict differential expression across plant organs identify distal and proximal regulatory regions.](https://doi.org/10.1101/2024.06.04.597477) *bioRxiv* doi: 10.1101/2024.06.04.597477
 
@@ -18,6 +21,9 @@ title: Schnable Lab Papers
 
 <div data-badge-type="2" data-doi="10.31220/agriRxiv.2024.00251" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Shrestha N**, Powadi A, **Davis J**, Ayanlade TT, Liu H, **Tross MC**, **Mathivanan RK**, **Bares J**, **Lopez-Corona L**, **Turkus J**, Coffey L, Tubery TZ, **Ge Y**, Sarkar S, **Schnable JC**, Ganapathysubramanian B, Schnable PS [Plot-level satellite imagery can substitute for UAVs in assessing maize phenotypes across multistate field trials.](https://doi.org/10.31220/agriRxiv.2024.00251) *agriRxiv* doi: 10.31220/agriRxiv.2024.00251
+
+<div data-badge-type="2" data-doi="10.1101/2024.03.13.584802" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Singh S, Newton L, **Schnable JC**, Thompson AM [Unveiling shared genetic regulators for plant architectural and biomass yield traits in sorghum.](https://doi.org/10.1101/2024.03.13.584802) *bioRxiv* doi: 10.1101/2024.03.13.584802
 
 <div data-badge-type="2" data-doi="10.1101/2023.08.08.551183" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Engelhorn J, Snodgrass S, Kok A, Seetharam A, Schneider M, Kiwit T, Singh A, Banf M, Khaipho-Burch M, Runcie D, Camargo V, **Torres-Rodriguez JV**, **Sun G**, Stam M, Fiorani F, **Schnable JC**, Bass H, Hufford M, Stich B, Frommer W, Ross-Ibarra J, Hartwig T [Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites.](https://doi.org/10.1101/2023.08.08.551183) *bioRxiv* doi:10.1101/2023.08.08.551183
