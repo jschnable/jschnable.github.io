@@ -7,6 +7,9 @@ title: Schnable Lab Papers
 
 **Preprints**
 
+<div data-badge-type="2" data-doi="10.1101/2024.11.25.625283" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+*  **Ali W**, **Grzybowski M**, **Torres-Rodriguez JV**, **Li F**, **Shrestha S**, **Mathivanan RK**, de Bernardeaux G, Hoang K, **Mural R**, Roston RL, **Schnable JC**, Seema Sahay [Quantitative genetics of photosynthetic trait variation in maize.](https://doi.org/10.1101/2024.11.25.625283) *bioRxiv* doi: 10.1101/2024.11.25.625283
+
 <div data-badge-type="2" data-doi="10.1101/2024.10.03.616344" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Davis JM**, Gaillard M, **Tross MC**, **Shrestha N**, Ostermann I, **Grove RJ**, Li B, Benes B, **Schnable JC** [3D reconstruction enables high-throughput phenotyping and quantitative genetic analysis of phyllotaxy.](https://doi.org/10.1101/2024.06.04.597477)  *bioRxiv* doi: 10.1101/2024.10.03.616344
 
