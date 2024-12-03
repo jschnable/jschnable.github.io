@@ -8,16 +8,13 @@ title: Schnable Lab Papers
 **Preprints**
 
 <div data-badge-type="2" data-doi="10.1101/2024.11.25.625283" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-*  **Ali W**, **Grzybowski M**, **Torres-Rodriguez JV**, **Li F**, **Shrestha S**, **Mathivanan RK**, de Bernardeaux G, Hoang K, **Mural R**, Roston RL, **Schnable JC**, Seema Sahay [Quantitative genetics of photosynthetic trait variation in maize.](https://doi.org/10.1101/2024.11.25.625283) *bioRxiv* doi: 10.1101/2024.11.25.625283
+*  **Ali W**, **Grzybowski M**, **Torres-Rodriguez JV**, **Li F**, **Shrestha S**, **Mathivanan RK**, de Bernardeaux G, Hoang K, **Mural R**, Roston RL, **Schnable JC**, Sahay S [Quantitative genetics of photosynthetic trait variation in maize.](https://doi.org/10.1101/2024.11.25.625283) *bioRxiv* doi: 10.1101/2024.11.25.625283
 
 <div data-badge-type="2" data-doi="10.1101/2024.10.03.616344" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Davis JM**, Gaillard M, **Tross MC**, **Shrestha N**, Ostermann I, **Grove RJ**, Li B, Benes B, **Schnable JC** [3D reconstruction enables high-throughput phenotyping and quantitative genetic analysis of phyllotaxy.](https://doi.org/10.1101/2024.06.04.597477)  *bioRxiv* doi: 10.1101/2024.10.03.616344
 
 <div data-badge-type="2" data-doi="10.1101/2024.06.04.597477" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Tross MC**, Duggan G, **Shrestha N**, **Schnable JC** [Models trained to predict differential expression across plant organs identify distal and proximal regulatory regions.](https://doi.org/10.1101/2024.06.04.597477) *bioRxiv* doi: 10.1101/2024.06.04.597477
-
-<div data-badge-type="2" data-doi="10.1101/2024.07.22.604683" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Shrestha N**, **Mangal H**, **Torres-Rodriguez JV**, **Tross MC**, **Lopez-Corona L**, **Linders K**, **Sun G**, **Mural RV**, **Schnable JC** [Off-the-shelf image analysis models outperform human visual assessment in identifying genes controlling seed color variation in sorghum.](https://doi.org/10.1101/2024.07.22.604683) *bioRxiv* doi: 10.1101/2024.07.22.604683
 
 <div data-badge-type="2" data-doi="10.1101/2024.08.26.609532" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Mathivanan RK**, Pedersen C, **Turkus J**, **Shrestha N**, **Torres-Rodriguez JV**, **Mural RV**, Obata T, **Schnable JC** [Transcripts and genomic intervals associated with variation in metabolite abundance in maize leaves under field conditions.](https://doi.org/10.1101/2024.08.26.609532) *bioRxiv* doi: 10.1101/2024.08.26.609532
@@ -30,7 +27,11 @@ title: Schnable Lab Papers
 
 **2024**
 
-* **Torres-Rodriguez JV**, Li D, **Schnable JC** (2024) Evolving best practices for transcriptome-wide association studies accelerate discovery of gene-phenotype links. *Current Opinion in Plant Biology* (Accepted)
+<div data-badge-type="2" data-doi="10.1101/2024.07.22.604683" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Shrestha N**, **Mangal H**, **Torres-Rodriguez JV**, **Tross MC**, **Lopez-Corona L**, **Linders K**, **Sun G**, **Mural RV**, **Schnable JC** [Off-the-shelf image analysis models outperform human visual assessment in identifying genes controlling seed color variation in sorghum.](https://doi.org/10.1101/2024.07.22.604683) *The Plant Phenome Journal* (Accepted) *bioRxiv* doi: 10.1101/2024.07.22.604683
+
+<div data-badge-type="2" data-doi="10.1016/j.pbi.2024.102670" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Torres-Rodriguez JV**, Li D, **Schnable JC** (2024) [Evolving best practices for transcriptome-wide association studies accelerate discovery of gene-phenotype links.](https://doi.org/10.1016/j.pbi.2024.102670) *Current Opinion in Plant Biology* doi: 10.1016/j.pbi.2024.102670
 
 <div data-badge-type="2" data-doi="10.31220/agriRxiv.2024.00251" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Shrestha N**, Powadi A, **Davis J**, Ayanlade TT, Liu H, **Tross MC**, **Mathivanan RK**, **Bares J**, **Lopez-Corona L**, **Turkus J**, Coffey L, Tubery TZ, **Ge Y**, Sarkar S, **Schnable JC**, Ganapathysubramanian B, Schnable PS (2024) [Plot-level satellite imagery can substitute for UAVs in assessing maize phenotypes across multistate field trials.](https://doi.org/10.31220/agriRxiv.2024.00251) *Plants Planet People* (Accepted) *agriRxiv* doi: 10.31220/agriRxiv.2024.00251
