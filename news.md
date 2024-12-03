@@ -4,6 +4,12 @@ title: Schnable Lab News
 googlefonts: ["Monoton", "Lobster"]
 ---
 
+### 2024 November
+
+* A big congratulations to Dr. Fangyi Li for defending her Complex Biosystems PhD thesis! Her research, conducted under the guidance of Dr. Rebecca Roston and Dr. James Schnable, focused on photosynthesis and cold tolerance in sorghum and maize.
+* Prof. Schnable addressed the ARPA-E Agricultural Portfolio Summit in San Antonio, TX.
+* Prof. Schnable recently participated in the Distinguished Lecture in Precision Agriculture at South Dakota State University (SDSU). His talk, titled "How New Tools Are Shaping the Ways We Understand Both Genomes and Field Trials", highlighted the transformative impact of innovative technologies on agricultural research.
+
 ### 2024 October
 
 * We are thrilled to announce that Jensina Davis has advanced to PhD candidacy. Congratulations, Jensina!
