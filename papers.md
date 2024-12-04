@@ -28,7 +28,10 @@ title: Schnable Lab Papers
 **2024**
 
 <div data-badge-type="2" data-doi="10.1101/2024.07.22.604683" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Shrestha N**, **Mangal H**, **Torres-Rodriguez JV**, **Tross MC**, **Lopez-Corona L**, **Linders K**, **Sun G**, **Mural RV**, **Schnable JC** [Off-the-shelf image analysis models outperform human visual assessment in identifying genes controlling seed color variation in sorghum.](https://doi.org/10.1101/2024.07.22.604683) *The Plant Phenome Journal* (Accepted) *bioRxiv* doi: 10.1101/2024.07.22.604683
+* Powadi A, Jubery TZ, **Tross M**, **Schnable JC**, Ganapathysubramanian B (2024) [Disentangling genotype and environment specific latent features for improved trait prediction using a compositional autoencoder.](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1476070/abstract) *Frontiers in Plant Science* doi: 10.3389/fpls.2024.1476070
+
+<div data-badge-type="2" data-doi="10.1101/2024.07.22.604683" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Shrestha N**, **Mangal H**, **Torres-Rodriguez JV**, **Tross MC**, **Lopez-Corona L**, **Linders K**, **Sun G**, **Mural RV**, **Schnable JC** (2024) [Off-the-shelf image analysis models outperform human visual assessment in identifying genes controlling seed color variation in sorghum.](https://doi.org/10.1101/2024.07.22.604683) *The Plant Phenome Journal* (Accepted) *bioRxiv* doi: 10.1101/2024.07.22.604683
 
 <div data-badge-type="2" data-doi="10.1016/j.pbi.2024.102670" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Torres-Rodriguez JV**, Li D, **Schnable JC** (2024) [Evolving best practices for transcriptome-wide association studies accelerate discovery of gene-phenotype links.](https://doi.org/10.1016/j.pbi.2024.102670) *Current Opinion in Plant Biology* doi: 10.1016/j.pbi.2024.102670
