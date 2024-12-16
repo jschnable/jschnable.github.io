@@ -7,6 +7,9 @@ title: Schnable Lab Papers
 
 **Preprints**
 
+<div data-badge-type="2" data-doi="10.1101/2024.12.12.628249" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Mangal H**, **Linders K**, **Turkus J**, **Shrestha N**, Long B, Kuang X, Cebert E, **Torres-Rodriguez JV**, **Schnable JC** [Genes and pathways determining flowering time variation in temperate adapted sorghum.](https://doi.org/10.1101/2024.12.12.628249) *bioRxiv* doi: 10.1101/2024.12.12.628249
+
 <div data-badge-type="2" data-doi="10.1101/2024.11.25.625283" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 *  **Ali W**, **Grzybowski M**, **Torres-Rodriguez JV**, **Li F**, **Shrestha S**, **Mathivanan RK**, de Bernardeaux G, Hoang K, **Mural R**, Roston RL, **Schnable JC**, Sahay S [Quantitative genetics of photosynthetic trait variation in maize.](https://doi.org/10.1101/2024.11.25.625283) *bioRxiv* doi: 10.1101/2024.11.25.625283
 
@@ -27,7 +30,7 @@ title: Schnable Lab Papers
 
 **2024**
 
-<div data-badge-type="2" data-doi="10.1101/2024.07.22.604683" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+<div data-badge-type="2" data-doi="10.3389/fpls.2024.1476070" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Powadi A, Jubery TZ, **Tross M**, **Schnable JC**, Ganapathysubramanian B (2024) [Disentangling genotype and environment specific latent features for improved trait prediction using a compositional autoencoder.](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1476070/abstract) *Frontiers in Plant Science* doi: 10.3389/fpls.2024.1476070
 
 <div data-badge-type="2" data-doi="10.1101/2024.07.22.604683" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
