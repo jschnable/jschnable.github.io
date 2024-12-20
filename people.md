@@ -11,7 +11,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Zhongjie](/images/People_Images/Zhongjie.jpg){:width="120"}|Zhongjie Ji|Heuermann Research Fellow|||
 |![Hongyu Jin Headshot](/images/People_Images/Hongyu.jpg){:width="120"}|[Hongyu Jin](/peoplepages/Hongyu_Jin/)|Postdoctoral|[CV](/CVs/HongYuJinCV.pdf)||
 |![Jon Turkus](/images/People_Images/JonT.jpg){:width="120"}|Jon Turkus|Lab Manager||0000-0002-2006-0137|
-|![Rossy Bedolla](images/People_Images/Rossy2.png){:width="120" align="middle"}|[Rossy Bedolla](/peoplepages/Rossy.md/)|Office Associate|||
+|![Rossy Bedolla](images/People_Images/Rossy2.png){:width="120" align="middle"}|[Rossy Bedolla](/peoplepages/Rossy.md/)|Office Associate||0009-0000-0774-4852|
 |![Chidanand "Chidu" Ullagaddi](/images/People_Images/Chidanand.jpeg){:width="120"}|[Chidanand "Chidu" Ullagaddi](/peoplepages/Chidu/)|Technician|
 |![Kyle Linders](/images/People_Images/KyleL.jpg){:width="120"}|Kyle Linders|Technician|
 |![Jensina Davis](images/People_Images/Jensina.png){:width="120"}|[Jensina Davis](/peoplepages/Jensina/)|PhD Student|[CV](/CVs/JensinaDavisCV.pdf)|ORCID 0009-0000-3638-9482|
