@@ -24,6 +24,7 @@ googlefonts: ["Monoton", "Lobster"]
 **Postdocs and Visiting Scientists**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
+|![Hongyu Jin Headshot](/images/People_Images/Hongyu.jpg){:width="120"}|[Hongyu Jin](/peoplepages/Hongyu_Jin/)|Postdoctoral|[CV](/CVs/HongYuJinCV.pdf)|0000-0002-4562-0639|
 |![Lina Corona-López](/images/People_Images/Lina.jpg){:width="120"}|[Lina Corona-López](/peoplepages/LinaLopez/)|Technician|2022-2023|Field Crop Research Scientist at USDA (Raleigh)|
 |![Ravi Mural Headshot](/images/People_Images/Ravi.jpg){:width="120" align="middle"}|[Ravi Mural](/peoplepages/Ravi_Mural/)<br>0000-0002-5489-9918|Research Assistant Professor<br>Center for Plant Science Innovation|2019-2023|Assistant Professor at South Dakota State University|
 |![Marcin Grzybowski Headshot](/images/People_Images/Marcin.jpg){:width="120" align="middle"}|[Marcin Grzybowski](/peoplepages/Marcin_Grzybowski/)<br>0000-0002-6303-5433|Postdoctoral Scholar|2019-2022|Assistant Professor, University of Warsaw|
