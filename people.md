@@ -20,7 +20,6 @@ googlefonts: ["Monoton", "Lobster"]
 |![Amany Gomaa](images/People_Images/Amany.jfif){:width="120"}|[Amany Gomaa](/peoplepages/Amany.md/)|PhD Student<br>_(co-advised)_|[CV](/CVs/AmanyGomaa.pdf)|0000-0002-7309-5229|
 |![Sofiya Arora](images/People_Images/Sofiya.png){:width="120”align="middle"}|[Sofiya Arora](/peoplepages/Sofiya/)|MS Student||0009-0004-5357-6094|
 |![Ryleigh](/images/People_Images/Ryleigh.jpg){:width="120"}|Ryleigh Grove|Bachelors/UCARE Student|||
-|![Karla](/images/People_Images/KarlaC.jpg){:width="120"}|Karla M. Cuellar Perez|Bachelors student|||
 |![Caner Yavuz](/images/People_Images/Caner.jpg){:width="120"}|Caner Yavuz|Visiting Scientist|||
 |![Jordan](/images/People_Images/Jordan.jpeg){:width="120"}|Jordan Bares|Undergraduate Research Assistant|||
 {:.table100.ver1}
