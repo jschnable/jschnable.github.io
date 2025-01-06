@@ -6,7 +6,7 @@ googlefonts: ["Monoton", "Lobster"]
 
 ### 2024 December
 
-* Congratulations to the Schnable lab and all our collaborators for accomplishing a wonderful 2024 and a new year with many wins! Happy Holidays!
+* Congratulations to the Schnable lab and all our collaborators for a successful 2024 and our new year filled with many achievements! Happy Holidays!
 
 ### 2024 November
 
