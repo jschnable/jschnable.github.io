@@ -24,6 +24,8 @@ googlefonts: ["Monoton", "Lobster"]
 **Postdocs and Visiting Scientists**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
+|![Khang](/images/People_Images/Khang.png){:width="120"}|Khang Hoang|Visiting Scientist|2024||
+|![Hongyu Jin Headshot](/images/People_Images/Hongyu.jpg){:width="120"}|[Hongyu Jin](/peoplepages/Hongyu_Jin/)|Postdoctoral|2024|
 |![Lina Corona-López](/images/People_Images/Lina.jpg){:width="120"}|[Lina Corona-López](/peoplepages/LinaLopez/)|Technician|2022-2023|Field Crop Research Scientist at USDA (Raleigh)|
 |![Ravi Mural Headshot](/images/People_Images/Ravi.jpg){:width="120" align="middle"}|[Ravi Mural](/peoplepages/Ravi_Mural/)<br>0000-0002-5489-9918|Research Assistant Professor<br>Center for Plant Science Innovation|2019-2023|Assistant Professor at South Dakota State University|
 |![Marcin Grzybowski Headshot](/images/People_Images/Marcin.jpg){:width="120" align="middle"}|[Marcin Grzybowski](/peoplepages/Marcin_Grzybowski/)<br>0000-0002-6303-5433|Postdoctoral Scholar|2019-2022|Assistant Professor, University of Warsaw|
@@ -43,7 +45,9 @@ googlefonts: ["Monoton", "Lobster"]
 **PhD Students**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
-|![Michael Tross Headshot](/images/People_Images/MichaelT.jpg){:width="120"}|[Michael Tross](/peoplepages/Michael_Tross/)|PhD Student|[CV](/CVs/MichaelTrossCV.pdf)|0000-0002-4410-9679|
+
+|![Fangyi Li](/images/People_Images/Fangyi.jpg){:width="120"}|[Fangyi Li](/peoplepages/FangyiLi/)|PhD Student<br>_(co-advised)_|2024||
+|![Michael Tross Headshot](/images/People_Images/MichaelT.jpg){:width="120"}|[Michael Tross](/peoplepages/Michael_Tross/)|PhD Student|2024|
 |![Henrique Moura Dias](images/People_Images/Henrique.jpg){:width="120"}|Henrique Moura Dias|Visiting PhD Student|||
 |![Nate Korth](/images/People_Images/Nate_small.jpg){:width="120"}|Nate Korth|PhD Student/FFAR Fellow|2017-2022|Postdoc, North Carolina State|
 |![Santos Headshot](/images/People_Images/Santos.jpg){:width="120"}|Santos Yenandy<br>Barrera Lemus|PhD Student<br>_(co-advised)_|2021|Research Scientist, World Coffee Research|
@@ -74,6 +78,7 @@ googlefonts: ["Monoton", "Lobster"]
 **Bachelors Students**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
+|![Karla](/images/People_Images/KarlaC.jpg){:width="120"}|Karla M. Cuellar Perez|Bachelors student|Fall 2024|Universidad de Guanajuato, Mexico|
 |![Daniel Ngu](/images/People_Images/Danielngu_small.jpg){:width="120"}|Daniel Ngu|Bachelors Student|2014-2017||
 |![Thomas Hoban](/images/People_Images/thoban.jpg){:width="120"}|Thomas Hoban<br>0000-0001-7607-1903|Bachelors Student|2015-2020||
 |![Logan Olson](/images/People_Images/logan.JPG){:width="120"}|Logan Olson|Bachelors Student|2016-2017||
@@ -158,6 +163,8 @@ googlefonts: ["Monoton", "Lobster"]
 
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
+
+|![Niranjan Pokhrel](/images/People_Images/Niranjan.jpeg){:width="120"}|[Niranjan Pokhrel](/peoplepages/Niranjan.md/)|Rotating PhD Student<br>Complex Biosystems|Fall 2024|PhD Student UNL||
 |![Lei Tian](/images/People_Images/Lei_Tian_Small.JPG){:width="120" align="middle"}|Lei Tian|Visiting PhD Student<br>Henan Agricultural University|Summer 2014|PhD Student|
 |![Sarah Johnson](/images/People_Images/Sarah.jpg){:width="120"}|Sarah Johnson|Rotating PhD Student<br>Complex Biosystems|Spring 2017|Graduate Student, Clemente & Hyten Labs|
 |![Taity Changa Headshot](/images/People_Images/Taity.jpg){:width="120"}|Taity Changa|Volunteer|2019|Postdoc University of Florida|
