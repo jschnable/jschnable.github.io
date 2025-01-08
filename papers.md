@@ -7,6 +7,9 @@ title: Schnable Lab Papers
 
 **Preprints**
 
+<div data-badge-type="2" data-doi="10.1101/2024.12.13.624727" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Jin H**, Park A, Sreedasyam A, Li G, Ge Y, Swaminathan K, Schmutz J, Clemente TE, **Schnable JC**, Yang J [Nitrogen response and growth trajectory of sorghum CRISPR-Cas9 mutants using high-throughput phenotyping](https://doi.org/10.1101/2024.12.13.624727) *bioRxiv* doi: 10.1101/2024.12.13.624727
+
 <div data-badge-type="2" data-doi="10.1101/2024.12.12.628249" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Mangal H**, **Linders K**, **Turkus J**, **Shrestha N**, Long B, Kuang X, Cebert E, **Torres-Rodriguez JV**, **Schnable JC** [Genes and pathways determining flowering time variation in temperate adapted sorghum.](https://doi.org/10.1101/2024.12.12.628249) *bioRxiv* doi: 10.1101/2024.12.12.628249
 
@@ -28,22 +31,24 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/2023.08.08.551183" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Engelhorn J, Snodgrass S, Kok A, Seetharam A, Schneider M, Kiwit T, Singh A, Banf M, Khaipho-Burch M, Runcie D, Camargo V, **Torres-Rodriguez JV**, **Sun G**, Stam M, Fiorani F, **Schnable JC**, Bass H, Hufford M, Stich B, Frommer W, Ross-Ibarra J, Hartwig T [Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites.](https://doi.org/10.1101/2023.08.08.551183) *bioRxiv* doi:10.1101/2023.08.08.551183
 
+**2025**
+
+<div data-badge-type="2" data-doi="10.1101/2024.07.22.604683" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Shrestha N**, **Mangal H**, **Torres-Rodriguez JV**, **Tross MC**, **Lopez-Corona L**, **Linders K**, **Sun G**, **Mural RV**, **Schnable JC** (2025) [Off-the-shelf image analysis models outperform human visual assessment in identifying genes controlling seed color variation in sorghum.](https://doi.org/10.1101/2024.07.22.604683) *The Plant Phenome Journal* (Accepted) *bioRxiv* doi: 10.1101/2024.07.22.604683
+
+<div data-badge-type="2" data-doi="10.1002/ppp3.10613" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Shrestha N**, Powadi A, **Davis J**, Ayanlade TT, Liu H, **Tross MC**, **Mathivanan RK**, **Bares J**, **Lopez-Corona L**, **Turkus J**, Coffey L, Tubery TZ, **Ge Y**, Sarkar S, **Schnable JC**, Ganapathysubramanian B, Schnable PS (2025) [Plot-level satellite imagery can substitute for UAVs in assessing maize phenotypes across multistate field trials.](https://doi.org/10.1002/ppp3.10613) *Plants Planet People* doi: 10.1002/ppp3.10613 *agriRxiv* doi: 10.31220/agriRxiv.2024.00251
+
+<div data-badge-type="2" data-doi="10.1016/j.pbi.2024.102670" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Torres-Rodriguez JV**, Li D, **Schnable JC** (2025) [Evolving best practices for transcriptome-wide association studies accelerate discovery of gene-phenotype links.](https://doi.org/10.1016/j.pbi.2024.102670) *Current Opinion in Plant Biology* doi: 10.1016/j.pbi.2024.102670
+
 **2024**
 
 <div data-badge-type="2" data-doi="10.3389/fpls.2024.1476070" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Powadi A, Jubery TZ, **Tross M**, **Schnable JC**, Ganapathysubramanian B (2024) [Disentangling genotype and environment specific latent features for improved trait prediction using a compositional autoencoder.](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1476070/abstract) *Frontiers in Plant Science* doi: 10.3389/fpls.2024.1476070
 
-<div data-badge-type="2" data-doi="10.1101/2024.07.22.604683" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Shrestha N**, **Mangal H**, **Torres-Rodriguez JV**, **Tross MC**, **Lopez-Corona L**, **Linders K**, **Sun G**, **Mural RV**, **Schnable JC** (2024) [Off-the-shelf image analysis models outperform human visual assessment in identifying genes controlling seed color variation in sorghum.](https://doi.org/10.1101/2024.07.22.604683) *The Plant Phenome Journal* (Accepted) *bioRxiv* doi: 10.1101/2024.07.22.604683
-
-<div data-badge-type="2" data-doi="10.1016/j.pbi.2024.102670" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Torres-Rodriguez JV**, Li D, **Schnable JC** (2024) [Evolving best practices for transcriptome-wide association studies accelerate discovery of gene-phenotype links.](https://doi.org/10.1016/j.pbi.2024.102670) *Current Opinion in Plant Biology* doi: 10.1016/j.pbi.2024.102670
-
-<div data-badge-type="2" data-doi="10.31220/agriRxiv.2024.00251" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Shrestha N**, Powadi A, **Davis J**, Ayanlade TT, Liu H, **Tross MC**, **Mathivanan RK**, **Bares J**, **Lopez-Corona L**, **Turkus J**, Coffey L, Tubery TZ, **Ge Y**, Sarkar S, **Schnable JC**, Ganapathysubramanian B, Schnable PS (2024) [Plot-level satellite imagery can substitute for UAVs in assessing maize phenotypes across multistate field trials.](https://doi.org/10.31220/agriRxiv.2024.00251) *Plants Planet People* (Accepted) *agriRxiv* doi: 10.31220/agriRxiv.2024.00251
-
-<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Boatwright L, Thudi M, Sangiredday MKR, Coffin AW, Tadesse HK, Vutla S, Harris-Shultz K, Knoll JE, Cuevas H, Kumar N, Soman C, **Schnable JC**, Punnuri SM (2024) GWAS analysis for plant height and stem diameter in sorghum using multiple phenotyping approaches. *The Plant Phenome Journal* (Accepted)
+<div data-badge-type="2" data-doi="10.1002/ppj2.70008" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Boatwright L, Thudi M, Sangiredday MKR, Coffin AW, Tadesse HK, Vutla S, Harris-Shultz K, Knoll JE, Cuevas H, Kumar N, Soman C, **Schnable JC**, Punnuri SM (2024) [GWAS analysis for plant height and stem diameter in sorghum using multiple phenotyping approaches.](https://doi.org/10.1002/ppj2.70008) *The Plant Phenome Journal* doi: 10.1002/ppj2.70008
 
 <div data-badge-type="2" data-doi="10.1111/pce.15213" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Wei J, Guo T, Mu Q, Alladassi M, **Mural RV**, Boyles RE, Hoffman L, Hayes CM, **Sigmon B**, Thompson AM, Salas-Fernandez M, Rooney WL, Kresovich S, **Schnable JC**, Li X, Yu J (2024) [Genetic and environmental patterns underlying phenotypic plasticity in flowering time and plant height in sorghum.](https://doi.org/10.1111/pce.15213) *Plant, Cell and Environment* doi: 10.1111/pce.15213
