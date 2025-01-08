@@ -4,6 +4,10 @@ title: Schnable Lab News
 googlefonts: ["Monoton", "Lobster"]
 ---
 
+### 2024 December
+
+* Congratulations to the Schnable lab and all our collaborators for a successful 2024 and our new year filled with many achievements! Happy Holidays!
+
 ### 2024 November
 
 * A big congratulations to Dr. Fangyi Li for defending her Complex Biosystems PhD thesis! Her research, conducted under the guidance of Dr. Rebecca Roston and Dr. James Schnable, focused on photosynthesis and cold tolerance in sorghum and maize.
