@@ -25,16 +25,16 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/2024.08.26.609532" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Mathivanan RK**, Pedersen C, **Turkus J**, **Shrestha N**, **Torres-Rodriguez JV**, **Mural RV**, Obata T, **Schnable JC** [Transcripts and genomic intervals associated with variation in metabolite abundance in maize leaves under field conditions.](https://doi.org/10.1101/2024.08.26.609532) *bioRxiv* doi: 10.1101/2024.08.26.609532
 
-<div data-badge-type="2" data-doi="10.1101/2024.03.13.584802" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Singh S, Newton L, **Schnable JC**, Thompson AM [Unveiling shared genetic regulators for plant architectural and biomass yield traits in sorghum.](https://doi.org/10.1101/2024.03.13.584802) *bioRxiv* doi: 10.1101/2024.03.13.584802
-
 <div data-badge-type="2" data-doi="10.1101/2023.08.08.551183" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Engelhorn J, Snodgrass S, Kok A, Seetharam A, Schneider M, Kiwit T, Singh A, Banf M, Khaipho-Burch M, Runcie D, Camargo V, **Torres-Rodriguez JV**, **Sun G**, Stam M, Fiorani F, **Schnable JC**, Bass H, Hufford M, Stich B, Frommer W, Ross-Ibarra J, Hartwig T [Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites.](https://doi.org/10.1101/2023.08.08.551183) *bioRxiv* doi:10.1101/2023.08.08.551183
 
 **2025**
 
-<div data-badge-type="2" data-doi="10.1101/2024.07.22.604683" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Shrestha N**, **Mangal H**, **Torres-Rodriguez JV**, **Tross MC**, **Lopez-Corona L**, **Linders K**, **Sun G**, **Mural RV**, **Schnable JC** (2025) [Off-the-shelf image analysis models outperform human visual assessment in identifying genes controlling seed color variation in sorghum.](https://doi.org/10.1101/2024.07.22.604683) *The Plant Phenome Journal* (Accepted) *bioRxiv* doi: 10.1101/2024.07.22.604683
+<div data-badge-type="2" data-doi="10.1093/jxb/eraf012" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Singh S, Newton L, **Schnable JC**, Thompson AM [Unveiling shared genetic regulators for plant architectural and biomass yield traits in sorghum.](https://doi.org/10.1093/jxb/eraf012) *Journal of Experimental Botany* doi: 10.1093/jxb/eraf012 *bioRxiv* doi: 10.1101/2024.03.13.584802
+
+<div data-badge-type="2" data-doi="10.1002/ppj2.70013" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Shrestha N**, **Mangal H**, **Torres-Rodriguez JV**, **Tross MC**, **Lopez-Corona L**, **Linders K**, **Sun G**, **Mural RV**, **Schnable JC** (2025) [Off-the-shelf image analysis models outperform human visual assessment in identifying genes controlling seed color variation in sorghum.](https://doi.org/10.1002/ppj2.70013) *The Plant Phenome Journal* doi: 10.1002/ppj2.70013 *bioRxiv* doi: 10.1101/2024.07.22.604683
 
 <div data-badge-type="2" data-doi="10.1002/ppp3.10613" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Shrestha N**, Powadi A, **Davis J**, Ayanlade TT, Liu H, **Tross MC**, **Mathivanan RK**, **Bares J**, **Lopez-Corona L**, **Turkus J**, Coffey L, Tubery TZ, **Ge Y**, Sarkar S, **Schnable JC**, Ganapathysubramanian B, Schnable PS (2025) [Plot-level satellite imagery can substitute for UAVs in assessing maize phenotypes across multistate field trials.](https://doi.org/10.1002/ppp3.10613) *Plants Planet People* doi: 10.1002/ppp3.10613 *agriRxiv* doi: 10.31220/agriRxiv.2024.00251
