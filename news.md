@@ -4,6 +4,13 @@ title: Schnable Lab News
 googlefonts: ["Monoton", "Lobster"]
 ---
 
+### 2025 January
+
+* Exciting news! Our preprint, "Assessing the impact of yield plasticity on hybrid performance in maize," is now live on bioRxiv! Congratulations Jensina Davis and all the team involved for this big achievement!
+* Huge congratulations to Dr. James Schnable for his insightful talk at the PAG Conference! His presentation on scaling trait discovery in crop plants was a great success.
+* Congratulations to Nikee Shresta for leading an amazing project on "satellite-based corn phenotyping" Your work spanning 5 sites over 725 miles is a game-changer. Exciting to see this USDA_NIFA-supported research featured in plantspplplanet!
+* Happy New Year!
+
 ### 2024 December
 
 * Congratulations to the Schnable lab and all our collaborators for a successful 2024 and our new year filled with many achievements! Happy Holidays!
