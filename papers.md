@@ -30,6 +30,9 @@ title: Schnable Lab Papers
 
 **2025**
 
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Quach TN, Guo M, Nazarenus T, Sato SJ, Wang M, Zhang T, Nersesian N, Ge Z, **Ullagaddi C**, Yu B, **Schnable JC**, and Clemente TE (2025) In context promoter bashing of the *Sorghum bicolor* gene models functionally annotated as bundle sheath cell preferred expressing phosphoenolpyruvate carboxykinase and alanine aminotransferase. *Crop Science* (Accepted)
+
 <div data-badge-type="2" data-doi="10.1093/jxb/eraf012" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Singh S, Newton L, **Schnable JC**, Thompson AM [Unveiling shared genetic regulators for plant architectural and biomass yield traits in sorghum.](https://doi.org/10.1093/jxb/eraf012) *Journal of Experimental Botany* doi: 10.1093/jxb/eraf012 *bioRxiv* doi: 10.1101/2024.03.13.584802
 
