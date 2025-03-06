@@ -4,6 +4,12 @@ title: Schnable Lab News
 googlefonts: ["Monoton", "Lobster"]
 ---
 
+### 2025 February
+
+* Congratulations to Drs. Vladimir Torres-Rodriguez and Guangchao Sun on their contributions to a paper accepted in Nature Genetics! Well done!
+* A big congratulations to Dr. Jinliang Yang for being named the new Charles O. Gardner Professor of Maize Quantitative Genetics! A well-deserved recognition for his contributions to the field.
+* We’re thrilled to welcome Karla Cuellar to our lab now as a PhD student! We look forward to your contributions and future success! 
+
 ### 2025 January
 
 * Exciting news! Our preprint, "Assessing the impact of yield plasticity on hybrid performance in maize," is now live on bioRxiv! Congratulations Jensina Davis and all the team involved for this big achievement!
