@@ -12,14 +12,14 @@ googlefonts: ["Monoton", "Lobster"]
 * Dr. James Schnable was invited to speak at the Baker Plant Breeding Symposium student-organized event in Ames, Iowa. With an engaged audience and insightful discussions, it was a fantastic opportunity to connect with the next generation of plant scientists.
 * Dr. Schnable was invited to present and share our latest research in sorghum at the NE Sorghum Symposium, in Grand Island, NE.
 * Maize Genetics Conference 2025 – St. Louis, MO
-  Our lab had a strong presence at the Maize Meeting Conference 2025, with several PhD students presenting their cutting-edge research:
-  Waqar Ali – Genes controlling yield components.
-  Harshita Mangal – Diverse transcriptional responses to low-nitrogen.
-  Nikee Shrestha – How plants prefer exons to be divisible by 3.
-  Jensina Davis – Linking gene expression and phenotypic plasticity.
-  Beyond PhD students, our lab was also represented by:
-  Sofiya Arora, a co-mentored MS student, explored the downstream consequences of natural cis-regulatory gene expression variation.
-  Caner Yavuz, a visiting scholar, worked on improving maize tissue culture through natural genetic variation.
+* Our lab had a strong presence at the Maize Meeting Conference 2025, with several PhD students presenting their cutting-edge research:
+* Waqar Ali – Genes controlling yield components.
+* Harshita Mangal – Diverse transcriptional responses to low-nitrogen.
+* Nikee Shrestha – How plants prefer exons to be divisible by 3.
+* Jensina Davis – Linking gene expression and phenotypic plasticity.
+* Beyond PhD students, our lab was also represented by:
+* Sofiya Arora, a co-mentored MS student, explored the downstream consequences of natural cis-regulatory gene expression variation.
+* Caner Yavuz, a visiting scholar, worked on improving maize tissue culture through natural genetic variation.
 
 ### 2025 February
 
