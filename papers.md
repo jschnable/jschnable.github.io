@@ -8,16 +8,13 @@ title: Schnable Lab Papers
 **Preprints**
 
 <div data-badge-type="2" data-doi="10.1101/2024.12.13.624727" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Jin H**, Park A, Sreedasyam A, Li G, Ge Y, Swaminathan K, Schmutz J, Clemente TE, **Schnable JC**, Yang J [Nitrogen response and growth trajectory of sorghum CRISPR-Cas9 mutants using high-throughput phenotyping](https://doi.org/10.1101/2024.12.13.624727) *bioRxiv* doi: 10.1101/2024.12.13.624727
+* **Jin H**, Park A, Sreedasyam A, Li G, Ge Y, Swaminathan K, Schmutz J, Clemente TE, **Schnable JC**, Yang J [Nitrogen response and growth trajectory of sorghum CRISPR-Cas9 mutants using high-throughput phenotyping.](https://doi.org/10.1101/2024.12.13.624727) *bioRxiv* doi: 10.1101/2024.12.13.624727
 
 <div data-badge-type="2" data-doi="10.1101/2024.12.12.628249" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Mangal H**, **Linders K**, **Turkus J**, **Shrestha N**, Long B, Kuang X, Cebert E, **Torres-Rodriguez JV**, **Schnable JC** [Genes and pathways determining flowering time variation in temperate adapted sorghum.](https://doi.org/10.1101/2024.12.12.628249) *bioRxiv* doi: 10.1101/2024.12.12.628249
 
 <div data-badge-type="2" data-doi="10.1101/2024.11.25.625283" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-*  **Ali W**, **Grzybowski M**, **Torres-Rodriguez JV**, **Li F**, **Shrestha S**, **Mathivanan RK**, de Bernardeaux G, Hoang K, **Mural R**, Roston RL, **Schnable JC**, Sahay S [Quantitative genetics of photosynthetic trait variation in maize.](https://doi.org/10.1101/2024.11.25.625283) *bioRxiv* doi: 10.1101/2024.11.25.625283
-
-<div data-badge-type="2" data-doi="10.1101/2024.10.03.616344" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Davis JM**, Gaillard M, **Tross MC**, **Shrestha N**, Ostermann I, **Grove RJ**, Li B, Benes B, **Schnable JC** [3D reconstruction enables high-throughput phenotyping and quantitative genetic analysis of phyllotaxy.](https://doi.org/10.1101/2024.06.04.597477)  *bioRxiv* doi: 10.1101/2024.10.03.616344
+*  **Ali W**, **Grzybowski M**, **Torres-Rodriguez JV**, **Li F**, **Shrestha N**, **Mathivanan RK**, de Bernardeaux G, Hoang K, **Mural R**, Roston RL, **Schnable JC**, Sahay S [Quantitative genetics of photosynthetic trait variation in maize.](https://doi.org/10.1101/2024.11.25.625283) *bioRxiv* doi: 10.1101/2024.11.25.625283
 
 <div data-badge-type="2" data-doi="10.1101/2024.06.04.597477" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Tross MC**, Duggan G, **Shrestha N**, **Schnable JC** [Models trained to predict differential expression across plant organs identify distal and proximal regulatory regions.](https://doi.org/10.1101/2024.06.04.597477) *bioRxiv* doi: 10.1101/2024.06.04.597477
@@ -30,11 +27,20 @@ title: Schnable Lab Papers
 
 **2025**
 
-<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Quach TN, Guo M, Nazarenus T, Sato SJ, Wang M, Zhang T, Nersesian N, Ge Z, **Ullagaddi C**, Yu B, **Schnable JC**, and Clemente TE (2025) In context promoter bashing of the *Sorghum bicolor* gene models functionally annotated as bundle sheath cell preferred expressing phosphoenolpyruvate carboxykinase and alanine aminotransferase. *Crop Science* (Accepted)
+<div data-badge-type="2" data-doi="10.1101/2025.01.21.634104" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Davis JM**, Coffey LM, **Turkus J**, **López-Corona L**, **Linders K**, **Ullagaddi C**, Santra DK, Schnable PS, **Schnable JC** [Assessing the impact of yield plasticity on hybrid performance in maize.](https://doi.org/10.1101/2025.01.21.634104) *Physiologia Plantarum* (Accepted) *bioRxiv* doi: 10.1101/2025.01.21.634104
+
+<div data-badge-type="2" data-doi="10.1101/2024.08.26.609532" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Mathivanan RK**, Pedersen C, **Turkus J**, **Shrestha N**, **Torres-Rodriguez JV**, **Mural RV**, Obata T, **Schnable JC** [Transcripts and genomic intervals associated with variation in metabolite abundance in maize leaves under field conditions.](https://doi.org/10.1101/2024.08.26.609532) *BMC Genomics* (Accepted) *bioRxiv* doi: 10.1101/2024.08.26.609532
+
+<div data-badge-type="2" data-doi="10.1016/j.plaphe.2025.100023" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Davis JM**, Gaillard M, **Tross MC**, **Shrestha N**, Ostermann I, **Grove RJ**, Li B, Benes B, **Schnable JC** (2025) [3D reconstruction enables high-throughput phenotyping and quantitative genetic analysis of phyllotaxy.](https://doi.org/10.1016/j.plaphe.2025.100023) *Plant Phenomics* doi: 10.1016/j.plaphe.2025.100023 *bioRxiv* doi: 10.1101/2024.10.03.616344
+
+<div data-badge-type="2" data-doi="10.1002/csc2.70039." data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Quach TN, Guo M, Nazarenus T, Sato SJ, Wang M, Zhang T, Nersesian N, Ge Z, **Ullagaddi C**, Yu B, **Schnable JC**, and Clemente TE (2025) [In context promoter bashing of the *Sorghum bicolor* gene models functionally annotated as bundle sheath cell preferred expressing phosphoenolpyruvate carboxykinase and alanine aminotransferase.](https://doi.org/10.1002/csc2.70039) *Crop Science* doi: 10.1002/csc2.70039.
 
 <div data-badge-type="2" data-doi="10.1093/jxb/eraf012" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Singh S, Newton L, **Schnable JC**, Thompson AM [Unveiling shared genetic regulators for plant architectural and biomass yield traits in sorghum.](https://doi.org/10.1093/jxb/eraf012) *Journal of Experimental Botany* doi: 10.1093/jxb/eraf012 *bioRxiv* doi: 10.1101/2024.03.13.584802
+* Singh A, Newton L, **Schnable JC**, Thompson AM [Unveiling shared genetic regulators for plant architectural and biomass yield traits in sorghum.](https://doi.org/10.1093/jxb/eraf012) *Journal of Experimental Botany* doi: 10.1093/jxb/eraf012 *bioRxiv* doi: 10.1101/2024.03.13.584802
 
 <div data-badge-type="2" data-doi="10.1002/ppj2.70013" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Shrestha N**, **Mangal H**, **Torres-Rodriguez JV**, **Tross MC**, **Lopez-Corona L**, **Linders K**, **Sun G**, **Mural RV**, **Schnable JC** (2025) [Off-the-shelf image analysis models outperform human visual assessment in identifying genes controlling seed color variation in sorghum.](https://doi.org/10.1002/ppj2.70013) *The Plant Phenome Journal* doi: 10.1002/ppj2.70013 *bioRxiv* doi: 10.1101/2024.07.22.604683
