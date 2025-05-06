@@ -4,6 +4,9 @@ title: Schnable Lab News
 googlefonts: ["Monoton", "Lobster"]
 ---
 
+### 2025 Mayo
+* **Jensina Davis** receives a Heuermann Award from the Center for Plant Science Innovation.
+
 ### 2025 March
 
 * We were honored to welcome back **Dr. Deniz İştipliler**, who presented a seminar in UNL’s Agronomy and Horticulture series on efficiently using scarce water in agriculture.
@@ -18,7 +21,7 @@ googlefonts: ["Monoton", "Lobster"]
 
 * Congratulations to Drs. Vladimir Torres-Rodriguez and Guangchao Sun on their contributions to a paper accepted in Nature Genetics! Well done!
 * A big congratulations to Dr. Jinliang Yang for being named the new Charles O. Gardner Professor of Maize Quantitative Genetics! A well-deserved recognition for his contributions to the field.
-* We’re thrilled to welcome Karla Cuellar to our lab now as a PhD student! We look forward to your contributions and future success! 
+* We’re thrilled to welcome Karla Cuellar to our lab now as a PhD student! We look forward to your contributions and future success!
 
 ### 2025 January
 
@@ -44,7 +47,7 @@ googlefonts: ["Monoton", "Lobster"]
 * We were pleased to welcome Dr. Sunil Kenchanmane from UC Riverside as a guest speaker at PSI 2024, celebrating the accomplishments of our alumni.
 * Great job to all who represented our lab at MLCAS 2024 and IPPS8 2024. Your hard work shone through!
 * It was a pleasure to reconnect with alumni Dr. Zhikai Liang and Dr. Deniz İştipliler. Thank you for sharing your experiences and career journeys with us!
-* Congratulations to Dr. Schnable on his presentation at the CSU Plant Adaptation Symposium! We're proud of his contributions and of how he represents our lab's work. 
+* Congratulations to Dr. Schnable on his presentation at the CSU Plant Adaptation Symposium! We're proud of his contributions and of how he represents our lab's work.
 
 ### 2024 September
 
@@ -65,7 +68,7 @@ googlefonts: ["Monoton", "Lobster"]
 * We are happy to welcome Karla Cuellar for her internship at Schnable's Lab!
 * Welcome to the team, our new Office Associate, Rossy Bedolla!
 * So proud of Ryleigh Grove for receiving a stipend for a summer research project at the University of Nebraska-Lincoln. Congrats Ryleigh!
-* Congratulations Prof. Torres-Rodriguez for the new corn gene discovery! 🌽 this breakthrough could revolutionize agriculture and improve crops. Keep up the good work! 
+* Congratulations Prof. Torres-Rodriguez for the new corn gene discovery! 🌽 this breakthrough could revolutionize agriculture and improve crops. Keep up the good work!
 
 ### 2024 Jun
 
@@ -74,24 +77,24 @@ googlefonts: ["Monoton", "Lobster"]
 
 ### 2024 May
 
-* The James Schnable Fest!. The Schanble lab turned ten years!! This is a special recognition to all present and past members, thank you to all of you folks for making this lab awesome! 
+* The James Schnable Fest!. The Schanble lab turned ten years!! This is a special recognition to all present and past members, thank you to all of you folks for making this lab awesome!
 * Congratulations to Dr. James Schnable for being recognized by UNL as an outstanding supporter of postdocs in diverse projects, skill development, and life goals. Congratulations, James!"
 * Congratulations to Hongyu Jin for defending his PhD, Good job, Dr. Hongyu!!
-* Dr. Michael Tross, a recent PhD graduate from our lab featured in this Midwest Messenger article on AI for agriculture! 
+* Dr. Michael Tross, a recent PhD graduate from our lab featured in this Midwest Messenger article on AI for agriculture!
 
 ### 2024 April
 
-* Zhongjie Ji, the newest UNL-PSI Heuermann postdoctoral scholar recipient will be working with our lab and UNL Plant Phenomics to translate new plant phenotyping technologies to the field. Welcome Zhongjie! 
-* Dr. James Schable reached 10K citations in Google Scholar. Congratulations on such a great achievement James!! 
-* Five members of our lab Amany (talk), Harshita (talk), Waqar, Ramesh, Nikee, Jensina, and Vladimir explain their work at the 2024 Nebraska Plant Science Symposium. Good job!! 
-* Harshita Mangal was awarded second prize for her lightning talk at the 2024 Corteva-Nebraska Plant Science Symposium and takes home a poster prize as well. Nicely done! 
+* Zhongjie Ji, the newest UNL-PSI Heuermann postdoctoral scholar recipient will be working with our lab and UNL Plant Phenomics to translate new plant phenotyping technologies to the field. Welcome Zhongjie!
+* Dr. James Schable reached 10K citations in Google Scholar. Congratulations on such a great achievement James!!
+* Five members of our lab Amany (talk), Harshita (talk), Waqar, Ramesh, Nikee, Jensina, and Vladimir explain their work at the 2024 Nebraska Plant Science Symposium. Good job!!
+* Harshita Mangal was awarded second prize for her lightning talk at the 2024 Corteva-Nebraska Plant Science Symposium and takes home a poster prize as well. Nicely done!
 
-### 2024 March 
+### 2024 March
 
 * Michael Tross successfully defend his PhD thesis. Congratulations Dr. Tross!!
 * The first author paper from Hongyu Jin as a member of the lab has been accepted. Nicely done Hongyu!
 
-### 2024 February 
+### 2024 February
 
 * The Schnable Lab presented at the maize genome conference hosted in Raleigh, NC. Two of our grad students presented a lightning talk about their posters, Nikee Shrestha and Michael Tross. In addition, Harshita Mangal, Hongyu Jin, Vladimir Torres, Jensina Davis, Waqar Ali and Ramesh Kanna presented posters.
 
@@ -113,7 +116,7 @@ googlefonts: ["Monoton", "Lobster"]
 * Lina Lopez, a former research technician in the lab, accepted a job offer to work with USDA!
 * The Nebraska Corn Board welcomed Dr. James Schnable as the next Nebraska Corn Checkoff Presidential Chair.
 * Dr. James Schnable attended the IROS 2023 to present at workshop based on agricultural robotics. His topic was how differences in the kinds of data collected by automated systems are already changing the ways researchers use quantitative genetics to link genes to functions in plants.
-  
+
 ### 2023 September
 
 * Ravi Mural is hired as a tenure track assistant professor at South Dakota State University!
