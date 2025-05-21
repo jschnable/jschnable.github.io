@@ -24,6 +24,7 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/2024.12.12.628249" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Mangal H**, **Linders K**, **Turkus J**, **Shrestha N**, Long B, Kuang X, Cebert E, **Torres-Rodriguez JV**, **Schnable JC** (2025) [Genes and pathways determining flowering time variation in temperate adapted sorghum.](https://doi.org/10.1101/2024.12.12.628249) *The Plant Journal* (Accepted) *bioRxiv* doi: 10.1101/2024.12.12.628249
 
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Ojeda-Rivera JO, Barnes A, Ainsworth EA ... **Schnable JC** (48th of 56 authors) ... Zou J, Buckler ES (2025) Designing a nitrogen efficient cold tolerant maize for modern agricultural systems. *The Plant Cell* (Accepted)
 
 <div data-badge-type="2" data-doi="10.1093/jxb/eraf198" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
