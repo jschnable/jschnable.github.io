@@ -10,9 +10,6 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1101/2024.12.13.624727" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Jin H**, Park A, Sreedasyam A, Li G, Ge Y, Swaminathan K, Schmutz J, Clemente TE, **Schnable JC**, Yang J [Nitrogen response and growth trajectory of sorghum CRISPR-Cas9 mutants using high-throughput phenotyping.](https://doi.org/10.1101/2024.12.13.624727) *bioRxiv* doi: 10.1101/2024.12.13.624727
 
-<div data-badge-type="2" data-doi="10.1101/2024.12.12.628249" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Mangal H**, **Linders K**, **Turkus J**, **Shrestha N**, Long B, Kuang X, Cebert E, **Torres-Rodriguez JV**, **Schnable JC** [Genes and pathways determining flowering time variation in temperate adapted sorghum.](https://doi.org/10.1101/2024.12.12.628249) *bioRxiv* doi: 10.1101/2024.12.12.628249
-
 <div data-badge-type="2" data-doi="10.1101/2024.06.04.597477" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Tross MC**, Duggan G, **Shrestha N**, **Schnable JC** [Models trained to predict differential expression across plant organs identify distal and proximal regulatory regions.](https://doi.org/10.1101/2024.06.04.597477) *bioRxiv* doi: 10.1101/2024.06.04.597477
 
@@ -30,6 +27,7 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1093/jxb/eraf198" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 *  **Ali W**, **Grzybowski M**, **Torres-Rodriguez JV**, **Li F**, **Shrestha N**, **Mathivanan RK**, de Bernardeaux G, Hoang K, **Mural R**, Roston RL, **Schnable JC**, Sahay S (2025) [Quantitative genetics of photosynthetic trait variation in maize.](https://doi.org/10.1093/jxb/eraf198) *Journal of Experimental Botany* doi: 10.1093/jxb/eraf198 *bioRxiv* doi: 10.1101/2024.11.25.625283
 
+<div data-badge-type="2" data-doi="10.3389/fpls.2025.1595339" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Li F**, **Grzybowski M**, Roston RL, **Schnable JC** (2025) [Nighttime fluorescence phenotyping reduces environmental variability for photosynthetic traits and enables the identification of candidate loci in maize.](https://doi.org/10.3389/fpls.2025.1595339) *Frontiers in Plant Science* doi: 10.3389/fpls.2025.1595339
 
 
