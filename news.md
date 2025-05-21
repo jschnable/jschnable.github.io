@@ -4,9 +4,13 @@ title: Schnable Lab News
 googlefonts: ["Monoton", "Lobster"]
 ---
 
-### 2025 Mayo
-* **Jensina Davis** receives a Heuermann Award from the Center for Plant Science Innovation.
+### 2025 May
+* Congratulations to **Jensina Davis** for receiving a Heuermann Award from the Center for Plant Science Innovation.
 
+### 2025 April
+
+* We’ve officially kicked off the planting season at the Schnable Lab! Our team is excited to get back into the field as we launch new experiments and continue ongoing research.
+  
 ### 2025 March
 
 * We were honored to welcome back **Dr. Deniz İştipliler**, who presented a seminar in UNL’s Agronomy and Horticulture series on efficiently using scarce water in agriculture.
