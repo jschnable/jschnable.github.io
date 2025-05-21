@@ -21,8 +21,16 @@ title: Schnable Lab Papers
 
 **2025**
 
-<div data-badge-type="2" data-doi="10.1101/2024.11.25.625283" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-*  **Ali W**, **Grzybowski M**, **Torres-Rodriguez JV**, **Li F**, **Shrestha N**, **Mathivanan RK**, de Bernardeaux G, Hoang K, **Mural R**, Roston RL, **Schnable JC**, Sahay S (2025) [Quantitative genetics of photosynthetic trait variation in maize.](https://doi.org/10.1101/2024.11.25.625283) *Journal of Experimental Botany* (Accepted) *bioRxiv* doi: 10.1101/2024.11.25.625283
+<div data-badge-type="2" data-doi="10.1101/2024.12.12.628249" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Mangal H**, **Linders K**, **Turkus J**, **Shrestha N**, Long B, Kuang X, Cebert E, **Torres-Rodriguez JV**, **Schnable JC** (2025) [Genes and pathways determining flowering time variation in temperate adapted sorghum.](https://doi.org/10.1101/2024.12.12.628249) *The Plant Journal* (Accepted) *bioRxiv* doi: 10.1101/2024.12.12.628249
+
+* Ojeda-Rivera JO, Barnes A, Ainsworth EA ... **Schnable JC** (48th of 56 authors) ... Zou J, Buckler ES (2025) Designing a nitrogen efficient cold tolerant maize for modern agricultural systems. *The Plant Cell* (Accepted)
+
+<div data-badge-type="2" data-doi="10.1093/jxb/eraf198" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+*  **Ali W**, **Grzybowski M**, **Torres-Rodriguez JV**, **Li F**, **Shrestha N**, **Mathivanan RK**, de Bernardeaux G, Hoang K, **Mural R**, Roston RL, **Schnable JC**, Sahay S (2025) [Quantitative genetics of photosynthetic trait variation in maize.](https://doi.org/10.1093/jxb/eraf198) *Journal of Experimental Botany* doi: 10.1093/jxb/eraf198 *bioRxiv* doi: 10.1101/2024.11.25.625283
+
+* **Li F**, **Grzybowski M**, Roston RL, **Schnable JC** (2025) [Nighttime fluorescence phenotyping reduces environmental variability for photosynthetic traits and enables the identification of candidate loci in maize.](https://doi.org/10.3389/fpls.2025.1595339) *Frontiers in Plant Science* doi: 10.3389/fpls.2025.1595339
+
 
 <div data-badge-type="2" data-doi="10.1002/csc2.70073" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Istipliler D**, **Tross MC**, **Bouwens B**, **Jin H**,  Yufeng Ge, Yang J, **Mural RV**,  **Schnable JC** (2025) [Heritability, heterosis, and hybrid/inbred classification ability of maize leaf hyperspectral signals under changing soil nitrogen.](https://doi.org/10.1002/csc2.70073) *Crop Science* doi: 10.1002/csc2.70073
