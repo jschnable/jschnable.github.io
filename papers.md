@@ -7,9 +7,6 @@ title: Schnable Lab Papers
 
 **Preprints**
 
-<div data-badge-type="2" data-doi="10.1101/2024.12.13.624727" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Jin H**, Park A, Sreedasyam A, Li G, Ge Y, Swaminathan K, Schmutz J, Clemente TE, **Schnable JC**, Yang J [Nitrogen response and growth trajectory of sorghum CRISPR-Cas9 mutants using high-throughput phenotyping.](https://doi.org/10.1101/2024.12.13.624727) *bioRxiv* doi: 10.1101/2024.12.13.624727
-
 <div data-badge-type="2" data-doi="10.1101/2024.06.04.597477" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Tross MC**, Duggan G, **Shrestha N**, **Schnable JC** [Models trained to predict differential expression across plant organs identify distal and proximal regulatory regions.](https://doi.org/10.1101/2024.06.04.597477) *bioRxiv* doi: 10.1101/2024.06.04.597477
 
@@ -17,6 +14,9 @@ title: Schnable Lab Papers
 * Engelhorn J, Snodgrass S, Kok A, Seetharam A, Schneider M, Kiwit T, Singh A, Banf M, Khaipho-Burch M, Runcie D, Camargo V, **Torres-Rodriguez JV**, **Sun G**, Stam M, Fiorani F, **Schnable JC**, Bass H, Hufford M, Stich B, Frommer W, Ross-Ibarra J, Hartwig T [Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites.](https://doi.org/10.1101/2023.08.08.551183) *bioRxiv* doi:10.1101/2023.08.08.551183
 
 **2025**
+
+<div data-badge-type="2" data-doi="10.1101/2024.12.13.624727" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Jin H**, Park A, Sreedasyam A, Li G, Ge Y, Swaminathan K, Schmutz J, Clemente TE, **Schnable JC**, Yang J [Nitrogen response and growth trajectory of sorghum CRISPR-Cas9 mutants using high-throughput phenotyping.](https://doi.org/10.1101/2024.12.13.624727) *Genomics Communications* (Accepted) *bioRxiv* doi: 10.1101/2024.12.13.624727
 
 <div data-badge-type="2" data-doi="10.1101/2024.12.12.628249" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Mangal H**, **Linders K**, **Turkus J**, **Shrestha N**, Long B, Kuang X, Cebert E, **Torres-Rodriguez JV**, **Schnable JC** (2025) [Genes and pathways determining flowering time variation in temperate adapted sorghum.](https://doi.org/10.1101/2024.12.12.628249) *The Plant Journal* (Accepted) *bioRxiv* doi: 10.1101/2024.12.12.628249
