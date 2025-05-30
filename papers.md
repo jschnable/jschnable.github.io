@@ -15,8 +15,8 @@ title: Schnable Lab Papers
 
 **2025**
 
-<div data-badge-type="2" data-doi="10.1101/2024.12.13.624727" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Jin H**, Park A, Sreedasyam A, Li G, Ge Y, Swaminathan K, Schmutz J, Clemente TE, **Schnable JC**, Yang J [Nitrogen response and growth trajectory of sorghum CRISPR-Cas9 mutants using high-throughput phenotyping.](https://doi.org/10.1101/2024.12.13.624727) *Genomics Communications* (Accepted) *bioRxiv* doi: 10.1101/2024.12.13.624727
+<div data-badge-type="2" data-doi="10.48130/gcomm-0025-0011" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Jin H**, Park A, Sreedasyam A, Li G, Ge Y, Swaminathan K, Schmutz J, Clemente TE, **Schnable JC**, Yang J [Nitrogen response and growth trajectory of sorghum CRISPR-Cas9 mutants using high-throughput phenotyping.](https://doi.org/10.48130/gcomm-0025-0011) *Genomics Communications* doi: 10.48130/gcomm-0025-0011 *bioRxiv* doi: 10.1101/2024.12.13.624727
 
 <div data-badge-type="2" data-doi="10.1101/2024.12.12.628249" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Mangal H**, **Linders K**, **Turkus J**, **Shrestha N**, Long B, Kuang X, Cebert E, **Torres-Rodriguez JV**, **Schnable JC** (2025) [Genes and pathways determining flowering time variation in temperate adapted sorghum.](https://doi.org/10.1101/2024.12.12.628249) *The Plant Journal* (Accepted) *bioRxiv* doi: 10.1101/2024.12.12.628249
@@ -37,8 +37,8 @@ title: Schnable Lab Papers
 <div data-badge-type="2" data-doi="10.1186/s12864-025-11580-3" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Mathivanan RK**, Pedersen C, **Turkus J**, **Shrestha N**, **Torres-Rodriguez JV**, **Mural RV**, Obata T, **Schnable JC** (2025) [Transcripts and genomic intervals associated with variation in metabolite abundance in maize leaves under field conditions.](https://doi.org/10.1186/s12864-025-11580-3) *BMC Genomics* doi: 10.1186/s12864-025-11580-3 *bioRxiv* doi: 10.1101/2024.08.26.609532
 
-<div data-badge-type="2" data-doi="10.1101/2025.01.21.634104" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Davis JM**, Coffey LM, **Turkus J**, **López-Corona L**, **Linders K**, **Ullagaddi C**, Santra DK, Schnable PS, **Schnable JC** (2025) [Assessing the impact of yield plasticity on hybrid performance in maize.](https://doi.org/10.1101/2025.01.21.634104) *Physiologia Plantarum* (Accepted) *bioRxiv* doi: 10.1101/2025.01.21.634104
+<div data-badge-type="2" data-doi="10.1111/ppl.70278" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Davis JM**, Coffey LM, **Turkus J**, **López-Corona L**, **Linders K**, **Ullagaddi C**, Santra DK, Schnable PS, **Schnable JC** (2025) [Assessing the impact of yield plasticity on hybrid performance in maize.](https://doi.org/10.1111/ppl.70278) *Physiologia Plantarum* doi: 10.1111/ppl.70278 *bioRxiv* doi: 10.1101/2025.01.21.634104
 
 <div data-badge-type="2" data-doi="10.1016/j.plaphe.2025.100023" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Davis JM**, Gaillard M, **Tross MC**, **Shrestha N**, Ostermann I, **Grove RJ**, Li B, Benes B, **Schnable JC** (2025) [3D reconstruction enables high-throughput phenotyping and quantitative genetic analysis of phyllotaxy.](https://doi.org/10.1016/j.plaphe.2025.100023) *Plant Phenomics* doi: 10.1016/j.plaphe.2025.100023 *bioRxiv* doi: 10.1101/2024.10.03.616344
