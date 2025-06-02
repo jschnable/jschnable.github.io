@@ -15,14 +15,20 @@ title: Schnable Lab Papers
 
 **2025**
 
-<div data-badge-type="2" data-doi="10.48130/gcomm-0025-0011" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Jin H**, Park A, Sreedasyam A, Li G, Ge Y, Swaminathan K, Schmutz J, Clemente TE, **Schnable JC**, Yang J [Nitrogen response and growth trajectory of sorghum CRISPR-Cas9 mutants using high-throughput phenotyping.](https://doi.org/10.48130/gcomm-0025-0011) *Genomics Communications* doi: 10.48130/gcomm-0025-0011 *bioRxiv* doi: 10.1101/2024.12.13.624727
-
 <div data-badge-type="2" data-doi="10.1101/2024.12.12.628249" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Mangal H**, **Linders K**, **Turkus J**, **Shrestha N**, Long B, Kuang X, Cebert E, **Torres-Rodriguez JV**, **Schnable JC** (2025) [Genes and pathways determining flowering time variation in temperate adapted sorghum.](https://doi.org/10.1101/2024.12.12.628249) *The Plant Journal* (Accepted) *bioRxiv* doi: 10.1101/2024.12.12.628249
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Izere P, Zhao B, **Schnable JC**, Ge Y, Shi Y (2025) Positioning accuracy of RTK-GNSS-enabled drones and their performance in agricultural crop sensing. *Journal of the ASABE* (Accepted)
+
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Ojeda-Rivera JO, Barnes A, Ainsworth EA ... **Schnable JC** (48th of 56 authors) ... Zou J, Buckler ES (2025) Designing a nitrogen efficient cold tolerant maize for modern agricultural systems. *The Plant Cell* (Accepted)
+
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Ozair F, Adak A, Murray S ... **Schnable JC** (11th of 16 authors) ... Thompson A, Weldekidan T, Xu W (2025) Phenotypic plasticity in maize grain yield: genetic and environmental insights of response to environmental gradients. *The Plant Genome* (Accepted)
+
+<div data-badge-type="2" data-doi="10.48130/gcomm-0025-0011" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Jin H**, Park A, Sreedasyam A, Li G, Ge Y, Swaminathan K, Schmutz J, Clemente TE, **Schnable JC**, Yang J [Nitrogen response and growth trajectory of sorghum CRISPR-Cas9 mutants using high-throughput phenotyping.](https://doi.org/10.48130/gcomm-0025-0011) *Genomics Communications* doi: 10.48130/gcomm-0025-0011 *bioRxiv* doi: 10.1101/2024.12.13.624727
 
 <div data-badge-type="2" data-doi="10.1093/jxb/eraf198" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 *  **Ali W**, **Grzybowski M**, **Torres-Rodriguez JV**, **Li F**, **Shrestha N**, **Mathivanan RK**, de Bernardeaux G, Hoang K, **Mural R**, Roston RL, **Schnable JC**, Sahay S (2025) [Quantitative genetics of photosynthetic trait variation in maize.](https://doi.org/10.1093/jxb/eraf198) *Journal of Experimental Botany* doi: 10.1093/jxb/eraf198 *bioRxiv* doi: 10.1101/2024.11.25.625283
