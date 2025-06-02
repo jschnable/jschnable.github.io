@@ -24,6 +24,7 @@ googlefonts: ["Monoton", "Lobster"]
 **Postdocs and Visiting Scientists**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
+|![Caner Yavuz](/images/People_Images/Caner.jpg){:width="120"}|Caner Yavuz|Visiting Scientist|2025||
 |![Khang](/images/People_Images/Khang.png){:width="120"}|Khang Hoang|Visiting Scientist|2024||
 |![Hongyu Jin Headshot](/images/People_Images/Hongyu.jpg){:width="120"}|[Hongyu Jin](/peoplepages/Hongyu_Jin/)|Postdoctoral|2024|
 |![Lina Corona-López](/images/People_Images/Lina.jpg){:width="120"}|[Lina Corona-López](/peoplepages/LinaLopez/)|Technician|2022-2023|Field Crop Research Scientist at USDA (Raleigh)|
