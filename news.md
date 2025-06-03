@@ -4,6 +4,9 @@ title: Schnable Lab News
 googlefonts: ["Monoton", "Lobster"]
 ---
 
+### 2025 Jun
+* Congratulations to Harshita Mangal and all team members involved in publishing their paper, **"Genes and pathways determining flowering time variation in temperate-adapted sorghum"** Way to go, Schnable lab!!
+
 ### 2025 May
 * Congratulations to **Jensina Davis** for receiving a Heuermann Award from the Center for Plant Science Innovation.
 
