@@ -21,7 +21,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Sofiya Arora](images/People_Images/Sofiya.png){:width="120”align="middle"}|[Sofiya Arora](/peoplepages/Sofiya/)|MS Student||0009-0004-5357-6094|
 |![Ryleigh](/images/People_Images/Ryleigh-Grove.gif){:width="120"}|Ryleigh Kirby|Bachelors/UCARE Student|||
 |![Jordan](/images/People_Images/Jordan.jpeg){:width="120"}|Jordan Bares|Undergraduate Research Assistant|||
-|![Charlie Colvin](images/People_Images/Charlie-C.jpg){:width="120”align="middle"}|[Charlie Colvin](/peoplepages/Charlie-Colvin/)|Crop-to-Food Innovation REEU Program|[CV](/CVs/Charlie-Colvin.pdf)|0009-0002-1316-6563|
+|![Charlie Colvin](images/People_Images/Charlie-C.jpg){:width="120”align="middle"}|[Charlie Colvin](/peoplepages/Charlie-Colvin.md/)|Crop-to-Food Innovation REEU Program|[CV](/CVs/Charlie-Colvin.pdf)|0009-0002-1316-6563|
 {:.table100.ver1}
 
 [Lab Alumni 2014-Present](/alumni)
