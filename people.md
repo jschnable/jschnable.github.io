@@ -22,6 +22,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Ryleigh](/images/People_Images/Ryleigh-Grove.gif){:width="120"}|Ryleigh Kirby|Bachelors/UCARE Student|||
 |![Jordan](/images/People_Images/Jordan.jpeg){:width="120"}|Jordan Bares|Undergraduate Research Assistant|||
 |![Charlie Colvin](images/People_Images/Charlie-C.jpg){:width="120”align="middle"}|[Charlie Colvin](/peoplepages/Charlie-Colvin.md/)|Crop-to-Food Innovation REEU Program|[CV](/CVs/Charlie-Colvin.pdf)|0009-0002-1316-6563|
+|![Trisha Nanjaraju](images/People_Images/TrishaN.jpg){:width="120”align="middle"}|[Trisha Nanjaraju](/peoplepages/TrishaN.md/)|Undergraduate Student from India|[CV](/CVs/TrishaN.pdf)|
 {:.table100.ver1}
 
 [Lab Alumni 2014-Present](/alumni)
