@@ -14,5 +14,7 @@ In 2023, Waqar joined the Schnable Lab at UNL, where he brings both field-based 
    style="padding: 10px 15px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">
    Connect with Waqar Ali on LinkedIn
 </a>
+
+
 <a href="https://x.com/waqarali325?s=21" target="_blank">Visit Waqar Ali on X</a>
 
