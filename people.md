@@ -23,7 +23,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Jordan](/images/People_Images/Jordan.jpeg){:width="120"}|Jordan Bares|Undergraduate Research Assistant|||
 |![Charlie Colvin](images/People_Images/Charlie-C.jpg){:width="120”align="middle"}|[Charlie Colvin](/peoplepages/Charlie-Colvin.md/)|Crop-to-Food Innovation REEU Program|[CV](/CVs/Charlie-Colvin.pdf)|0009-0002-1316-6563|
 |![Trisha Nanjaraju](images/People_Images/TrishaN.jpg){:width="120”align="middle"}|[Trisha Nanjaraju](/peoplepages/TrishaN.md/)|Undergraduate Student from India|[CV](/CVs/TrishaN.pdf)|
-|![Preethi Jagadish Gowda Kabbakki](images/People_Images/PreethiJK.jpg){:width="120”align="middle"}|[Preethi J K](/peoplepages/Preethi.md/)|Undergraduate Student from India|[CV](/CVs/Preethi_CV.pdf)|
+|![Preethi Jagadish Gowda Kabbakki](images/People_Images/PreethiJK.jpg){:width="120”align="middle"}|[Preethi Jagadish Gowda Kabbakki](/peoplepages/Preethi.md/)|Undergraduate Student from India|[CV](/CVs/Preethi_CV.pdf)|
 {:.table100.ver1}
 
 [Lab Alumni 2014-Present](/alumni)
