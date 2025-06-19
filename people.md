@@ -19,7 +19,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Harshita Mangal](images/People_Images/HarshitaM.jpg){:width="120"}|[Harshita Mangal](/peoplepages/HarshitaM.md/)| PhD Student|[CV](/CVs/CV_HarshitaM.pdf)|0009-0002-8424-6026|
 |![Amany Gomaa](images/People_Images/Amany.jfif){:width="120"}|[Amany Gomaa](/peoplepages/Amany.md/)|PhD Student<br>_(co-advised)_|[CV](/CVs/AmanyGomaa.pdf)|0000-0002-7309-5229|
 |![Sofiya Arora](images/People_Images/Sofiya.png){:width="120”align="middle"}|[Sofiya Arora](/peoplepages/Sofiya/)|MS Student|[CV](/CVs/CV_SofiyaA.pdf)|0009-0004-5357-6094|
-|![Ryleigh](/images/People_Images/RyleighK.jpg){:width="120"}|[Ryleigh Kirby](/peoplepages/RyleighK.md/)|Bachelors/UCARE Student|[CV](/CVs/CV_RyleighK.pdf)||
+|![Ryleigh Kirby](/images/People_Images/RyleighK.jpg){:width="120"}|[Ryleigh Kirby](/peoplepages/RyleighK.md/)|Bachelors/UCARE Student|[CV](/CVs/CV_RyleighK.pdf)||
 |![Jordan](/images/People_Images/Jordan.jpeg){:width="120"}|Jordan Bares|Undergraduate Research Assistant|||
 |![Charlie Colvin](images/People_Images/Charlie-C.jpg){:width="120”align="middle"}|[Charlie Colvin](/peoplepages/Charlie-Colvin.md/)|Crop-to-Food Innovation REEU Program|[CV](/CVs/Charlie-Colvin.pdf)|0009-0002-1316-6563|
 |![Trisha Nanjaraju](images/People_Images/TrishaN.jpg){:width="120”align="middle"}|[Trisha Nanjaraju](/peoplepages/TrishaN.md/)|Undergraduate Student from India|[CV](/CVs/TrishaN.pdf)|
