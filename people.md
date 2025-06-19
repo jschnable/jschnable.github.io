@@ -11,7 +11,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Zhongjie](/images/People_Images/Zhongjie.jpg){:width="120"}|[Zhongjie Ji](/peoplepages/ZhongjieJ.md/)|Heuermann Research Fellow|[CV](/CVs/CV_ZhongjieJ.pdf)|0009-0006-1448-305X|
 |![Jon Turkus](/images/People_Images/JonT.jpg){:width="120"}|[Jon Turkus](/peoplepages/JonT.md/)|Lab Manager||0000-0002-2006-0137|
 |![Rossy Bedolla](images/People_Images/RossyB2.jpg){:width="120" align="middle"}|[Rossy Bedolla](/peoplepages/Rossy.md/)|Office Associate|[CV](/CVs/CV-RossyB.pdf)|
-|![Chidanand "Chidu" Ullagaddi](/images/People_Images/Chidanand.JPG){:width="120"}|[Chidanand "Chidu" Ullagaddi](/peoplepages/Chidu/)|Technician||0009-0009-4005-3282|
+|![Chidanand "Chidu" Ullagaddi](/images/People_Images/Chidanand.JPG){:width="120"}|[Chidanand "Chidu" Ullagaddi](/peoplepages/Chidu/)|Technician|[CV](/CVs/CV_Chidanand.pdf)|0009-0009-4005-3282|
 |![Kyle Linders](/images/People_Images/KyleL.jpg){:width="120"}|[Kyle Linders](/peoplepages/KyleL.md/)|Technician||0009-0006-9206-3608|
 |![Jensina Davis](images/People_Images/JensinaD2.jpg){:width="120"}|[Jensina Davis](/peoplepages/Jensina/)|PhD Student|[CV](/CVs/CV_JensinaDavis-2.pdf)|0009-0000-3638-9482|
 |![Nikee Headshot](/images/People_Images/NikeeS.jpg){:width="120" align="middle"}|[Nikee Shrestha](/peoplepages/Nikee/)|PhD Student|[CV](/CVs/NikeeShresthaCV.pdf)|0000-0003-4195-7549||
