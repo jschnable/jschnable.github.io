@@ -9,4 +9,5 @@ Harshita Mangal from India is a PhD student in the Department of Agronomy and Ho
 Harshita has led genome-wide (GWAS) and transcriptome-wide (TWAS) association studies to uncover genetic signals underlying key agronomic traits. She is currently working on modeling phenotypic plasticity, identifying regulatory networks through co-expression analysis, and validating SNP datasets for genotype accuracy across large populations.
 
 [Connect with Harshita on LinkedIn](www.linkedin.com/in/harshitamangal)
+
 [Github](https://github.com/harshita9817)
