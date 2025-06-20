@@ -14,7 +14,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Chidanand "Chidu" Ullagaddi](/images/People_Images/Chidanand.JPG){:width="120"}|[Chidanand "Chidu" Ullagaddi](/peoplepages/Chidu/)|Technician|[CV](/CVs/CV_Chidanand.pdf)|0009-0009-4005-3282|
 |![Kyle Linders](/images/People_Images/KyleL.jpg){:width="120"}|[Kyle Linders](/peoplepages/KyleL.md/)|Technician||0009-0006-9206-3608|
 |![Jensina Davis](images/People_Images/JensinaD2.jpg){:width="120"}|[Jensina Davis](/peoplepages/Jensina/)|PhD Student|[CV](/CVs/CV_JensinaDavis-2.pdf)|0009-0000-3638-9482|
-|![Nikee Headshot](/images/People_Images/NikeeS.jpg){:width="120" align="middle"}|[Nikee Shrestha](/peoplepages/Nikee/)|PhD Student|[CV](/CVs/NikeeShresthaCV.pdf)|0000-0003-4195-7549||
+|![Nikee Shrestha](/images/People_Images/NikeeS.PNG){:width="120" align="middle"}|[Nikee Shrestha](/peoplepages/Nikee/)|PhD Student|[CV](/CVs/CV_NikeeS.pdf)|0000-0003-4195-7549||
 |![Waqar Ali](/images/People_Images/WaqarAli2.jpg){:width="120"align="middle"}|[Waqar Ali](/peoplepages/Waqar/)|PhD Student|[CV](/CVs/WaqarAliCV.pdf)|0009-0001-8822-0950|
 |![Harshita Mangal](images/People_Images/HarshitaM2.jpg){:width="120"}|[Harshita Mangal](/peoplepages/HarshitaM.md/)| PhD Student|[CV](/CVs/CV_HarshitaM.pdf)|0009-0002-8424-6026|
 |![Amany Gomaa](images/People_Images/Amany.jfif){:width="120"}|[Amany Gomaa](/peoplepages/Amany.md/)|PhD Student<br>_(co-advised)_|[CV](/CVs/AmanyGomaa.pdf)|0000-0002-7309-5229|
