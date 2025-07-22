@@ -11,23 +11,24 @@ title: Schnable Lab Papers
 * **Tross MC**, Duggan G, **Shrestha N**, **Schnable JC** [Models trained to predict differential expression across plant organs identify distal and proximal regulatory regions.](https://doi.org/10.1101/2024.06.04.597477) *bioRxiv* doi: 10.1101/2024.06.04.597477
 
 <div data-badge-type="2" data-doi="10.1101/2023.08.08.551183" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Engelhorn J, Snodgrass S, Kok A, Seetharam A, Schneider M, Kiwit T, Singh A, Banf M, Khaipho-Burch M, Runcie D, Camargo V, **Torres-Rodriguez JV**, **Sun G**, Stam M, Fiorani F, **Schnable JC**, Bass H, Hufford M, Stich B, Frommer W, Ross-Ibarra J, Hartwig T [Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites.](https://doi.org/10.1101/2023.08.08.551183) *bioRxiv* doi:10.1101/2023.08.08.551183
+* Engelhorn J, Snodgrass S, Kok A, Seetharam A, Schneider M, Kiwit T, Singh A, Banf M, Khaipho-Burch M, Runcie D, Camargo V, **Torres-Rodriguez JV**, **Sun G**, Stam M, Fiorani F, **Schnable JC**, Bass H, Hufford M, Stich B, Frommer W, Ross-Ibarra J, Hartwig T [Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites.](https://doi.org/10.1101/2023.08.08.551183) *bioRxiv* doi: 10.1101/2023.08.08.551183
 
 **2025**
-<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Shrestha K, Thapa K, Kaler E, Taniguchi M, Sattler S, **Schnable JC**, Louis J (2025) Employing spectral features to accelerate sorghum phenotyping against sap-feeding aphids. *Plant Direct* (Accepted)
-
-<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Izere P, Zhao B, **Schnable JC**, Ge Y, Shi Y (2025) Positioning accuracy of RTK-GNSS-enabled drones and their performance in agricultural crop sensing. *Journal of the ASABE* (Accepted)
-
-<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Ojeda-Rivera JO, Barnes A, Ainsworth EA ... **Schnable JC** (48th of 56 authors) ... Zou J, Buckler ES (2025) Designing a nitrogen efficient cold tolerant maize for modern agricultural systems. *The Plant Cell* (Accepted)
 
 <div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Ozair F, Adak A, Murray S ... **Schnable JC** (11th of 16 authors) ... Thompson A, Weldekidan T, Xu W (2025) Phenotypic plasticity in maize grain yield: genetic and environmental insights of response to environmental gradients. *The Plant Genome* (Accepted)
 
+<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Izere P, Zhao B, **Schnable JC**, Ge Y, Shi Y (2025) Positioning accuracy of RTK-GNSS-enabled drones and their performance in agricultural crop sensing. *Journal of the ASABE* (Accepted) [SSRN Preprint.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025445)
+
+<div data-badge-type="2" data-doi="10.1002/pld3.70092" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Shrestha K, Thapa K, Kaler E, Taniguchi M, Sattler S, **Schnable JC**, Louis J (2025) [Employing spectral features to accelerate sorghum phenotyping against sap-feeding aphids.](https://doi.org/10.1002/pld3.70092) *Plant Direct* doi: 10.1002/pld3.70092
+
+<div data-badge-type="2" data-doi="10.1093/plcell/koaf139" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Ojeda-Rivera JO, Barnes A, Ainsworth EA ... **Schnable JC** (48th of 56 authors) ... Zou J, Buckler ES (2025) [Designing a nitrogen efficient cold tolerant maize for modern agricultural systems.](https://doi.org/10.1093/plcell/koaf139) *The Plant Cell* doi: 10.1093/plcell/koaf139
+
 <div data-badge-type="2" data-doi="10.1111/tpj.70250" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Mangal H**, **Linders K**, **Turkus J**, **Shrestha N**, Long B, Kuang X, Cebert E, **Torres-Rodriguez JV**, **Schnable JC** (2025) [Genes and pathways determining flowering time variation in temperate adapted sorghum.](https://doi.org/10.1101/2024.12.12.628249) *The Plant Journal* doi: 10.1111/tpj.70250 *bioRxiv* doi: 10.1101/2024.12.12.628249
+* **Mangal H**, **Linders K**, **Turkus J**, **Shrestha N**, Long B, Kuang X, Cebert E, **Torres-Rodriguez JV**, **Schnable JC** (2025) [Genes and pathways determining flowering time variation in temperate adapted sorghum.](https://doi.org/10.1111/tpj.70250) *The Plant Journal* doi: 10.1111/tpj.70250 *bioRxiv* doi: 10.1101/2024.12.12.628249
 
 <div data-badge-type="2" data-doi="10.48130/gcomm-0025-0011" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Jin H**, Park A, Sreedasyam A, Li G, Ge Y, Swaminathan K, Schmutz J, Clemente TE, **Schnable JC**, Yang J [Nitrogen response and growth trajectory of sorghum CRISPR-Cas9 mutants using high-throughput phenotyping.](https://doi.org/10.48130/gcomm-0025-0011) *Genomics Communications* doi: 10.48130/gcomm-0025-0011 *bioRxiv* doi: 10.1101/2024.12.13.624727
