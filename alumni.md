@@ -24,8 +24,8 @@ googlefonts: ["Monoton", "Lobster"]
 **Postdocs and Visiting Scientists**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
-|![Trisha Nanjaraju](images/People_Images/TrishaN.jpg){:width="120”align="middle"}|Trisha Nanjaraju|Undergraduate Student from India|2025||
-|![Preethi Jagadish Gowda Kabbakki](images/People_Images/PreethiJK.jpg){:width="120”align="middle"}|Preethi Jagadish Gowda Kabbakki|Undergraduate Student from India|2025||
+|![Trisha Nanjaraju](images/People_Images/TrishaN.jpg){:width="120”align="middle"}|[Trisha Nanjaraju](/peoplepages/TrishaN.md/)|Undergraduate Student from India|2025||
+|![Preethi Jagadish Gowda Kabbakki](images/People_Images/PreethiJK.jpg){:width="120”align="middle"}|[Preethi Jagadish Gowda Kabbakki](/peoplepages/Preethi.md/)|Undergraduate Student from India|2025||
 |![Caner Yavuz](/images/People_Images/Caner.jpg){:width="120"}|Caner Yavuz|Visiting Scientist|2025||
 |![Khang](/images/People_Images/Khang.png){:width="120"}|Khang Hoang|Visiting Scientist|2024||
 |![Hongyu Jin Headshot](/images/People_Images/Hongyu.jpg){:width="120"}|[Hongyu Jin](/peoplepages/Hongyu_Jin/)|Postdoctoral|2024|
