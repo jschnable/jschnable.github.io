@@ -5,6 +5,7 @@ googlefonts: ["Monoton", "Lobster"]
 ---
 
 ### 2025 July
+* Congratulations to **Sofiya Arora** for receiving the **Widaman Distinguished Graduate Fellowship Award** from the UNL Agricultural Research Division at the University of Nebraska-Lincoln!!
 * Congratulations to **Nikee Shrestha** for receiving the **Widaman Distinguished Graduate Fellowship Award** from the UNL Agricultural Research Division at the University of Nebraska-Lincoln!!
 * Congratulations to **Jensina Davis** for receiving the **Hardin Distinguished Graduate Fellowship Award** from the UNL Agricultural Research Division at the University of Nebraska-Lincoln!! 
 
