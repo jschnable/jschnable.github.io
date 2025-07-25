@@ -4,6 +4,10 @@ title: Schnable Lab News
 googlefonts: ["Monoton", "Lobster"]
 ---
 
+### 2025 July
+* Congratulations to **Nikee Shresta** for receiving the **Widaman Distinguished Graduate Fellowship Award** from the UNL Agricultural Research Division at the University of Nebraska-Lincoln!!
+* Congratulations to **Jensina Davis** for receiving the **Hardin Distinguished Graduate Fellowship Award** from the UNL Agricultural Research Division at the University of Nebraska-Lincoln!! 
+
 ### 2025 Jun
 * Congratulations to Harshita Mangal and all team members involved in publishing their paper, **"Genes and pathways determining flowering time variation in temperate-adapted sorghum"** Way to go, Schnable lab!!
 
