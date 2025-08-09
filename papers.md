@@ -7,6 +7,12 @@ title: Schnable Lab Papers
 
 **Preprints**
 
+<div data-badge-type="2" data-doi="10.31220/agriRxiv.2025.00339" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* **Ji Zhongjie**, Ge Y, **Schnable JC** [Scalable methods for quantifying the stay green ability of corn for yield prediction by using satellite images.](https://doi.org/10.31220/agriRxiv.2025.00339) *agriRxiv* doi: 10.31220/agriRxiv.2025.00339
+
+<div data-badge-type="2" data-doi="10.48550/arXiv.2502.13399" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Zaremehrjerdi H, Coffey L, Jubery T, Liu H, **Turkus J**, **Linders K**, **Schnable JC**, Schnable PS, Ganapathysubramanian B [MaizeEar-SAM: Zero-shot maize ear phenotyping.](https://doi.org/10.48550/arXiv.2502.13399) *arXiv** doi: 10.48550/arXiv.2502.13399
+
 <div data-badge-type="2" data-doi="10.1101/2024.06.04.597477" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Tross MC**, Duggan G, **Shrestha N**, **Schnable JC** [Models trained to predict differential expression across plant organs identify distal and proximal regulatory regions.](https://doi.org/10.1101/2024.06.04.597477) *bioRxiv* doi: 10.1101/2024.06.04.597477
 
