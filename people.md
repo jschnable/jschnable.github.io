@@ -21,9 +21,6 @@ googlefonts: ["Monoton", "Lobster"]
 |![Sofiya Arora](images/People_Images/Sofiya.png){:width="120”align="middle"}|[Sofiya Arora](/peoplepages/Sofiya/)|MS Student|[CV](/CVs/CV_SofiyaA2.pdf)|0009-0004-5357-6094|
 |![Ryleigh Kirby](/images/People_Images/RyleighK.jpg){:width="120"}|[Ryleigh Kirby](/peoplepages/RyleighK.md/)|Bachelors/UCARE Student|[CV](/CVs/CV_RyleighK.pdf)||
 |![Jordan](/images/People_Images/Jordan.jpeg){:width="120"}|Jordan Bares|Undergraduate Research Assistant|||
-|![Charlie Colvin](images/People_Images/Charlie-C.jpg){:width="120”align="middle"}|[Charlie Colvin](/peoplepages/Charlie-Colvin.md/)|Crop-to-Food Innovation REEU Program|[CV](/CVs/Charlie-Colvin.pdf)|0009-0002-1316-6563|
-|![Trisha Nanjaraju](images/People_Images/TrishaN.jpg){:width="120”align="middle"}|[Trisha Nanjaraju](/peoplepages/TrishaN.md/)|Undergraduate Student from India|[CV](/CVs/TrishaN.pdf)|
-|![Preethi Jagadish Gowda Kabbakki](images/People_Images/PreethiJK.jpg){:width="120”align="middle"}|[Preethi Jagadish Gowda Kabbakki](/peoplepages/Preethi.md/)|Undergraduate Student from India|[CV](/CVs/CV_Preethi.pdf)|
 {:.table100.ver1}
 
 [Lab Alumni 2014-Present](/alumni)
