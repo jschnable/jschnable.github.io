@@ -79,6 +79,7 @@ googlefonts: ["Monoton", "Lobster"]
 **Bachelors Students**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
+|![Charlie Colvin](images/People_Images/Charlie-C.jpg){:width="120”align="middle"}|[Charlie Colvin](/peoplepages/Charlie-Colvin.md/)|Crop-to-Food Innovation REEU Program|2025||
 |![Trisha Nanjaraju](images/People_Images/TrishaN.jpg){:width="120”align="middle"}|[Trisha Nanjaraju](/peoplepages/TrishaN.md/)|Undergraduate Student from India|2025||
 |![Preethi Jagadish Gowda Kabbakki](images/People_Images/PreethiJK.jpg){:width="120”align="middle"}|[Preethi Jagadish Gowda Kabbakki](/peoplepages/Preethi.md/)|Undergraduate Student from India|2025||
 |![Karla](/images/People_Images/KarlaC.jpg){:width="120"}|Karla M. Cuellar Perez|Bachelors student|Fall 2024|Universidad de Guanajuato, Mexico|
