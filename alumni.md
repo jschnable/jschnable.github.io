@@ -15,6 +15,7 @@ googlefonts: ["Monoton", "Lobster"]
 <li><a href="#Masters">Masters Students</a></li>
 <li><a href="#Bachelors">Bachelors Students</a></li>
 <li><a href="#HS">High School Students</a></li>
+<li><a href="#Tech">Technicians</a></li>
 <li><a href="#AO">All Others</a></li>
 </ul>
 
@@ -27,7 +28,6 @@ googlefonts: ["Monoton", "Lobster"]
 |![Caner Yavuz](/images/People_Images/Caner.jpg){:width="120"}|Caner Yavuz|Visiting Scientist|2025||
 |![Khang](/images/People_Images/Khang.png){:width="120"}|Khang Hoang|Visiting Scientist|2024||
 |![Hongyu Jin Headshot](/images/People_Images/Hongyu.jpg){:width="120"}|[Hongyu Jin](/peoplepages/Hongyu_Jin/)|Postdoctoral|2024|
-|![Lina Corona-López](/images/People_Images/Lina.jpg){:width="120"}|[Lina Corona-López](/peoplepages/LinaLopez/)|Technician|2022-2023|Field Crop Research Scientist at USDA (Raleigh)|
 |![Ravi Mural Headshot](/images/People_Images/Ravi.jpg){:width="120" align="middle"}|[Ravi Mural](/peoplepages/Ravi_Mural/)<br>0000-0002-5489-9918|Research Assistant Professor<br>Center for Plant Science Innovation|2019-2023|Assistant Professor at South Dakota State University|
 |![Marcin Grzybowski Headshot](/images/People_Images/Marcin.jpg){:width="120" align="middle"}|[Marcin Grzybowski](/peoplepages/Marcin_Grzybowski/)<br>0000-0002-6303-5433|Postdoctoral Scholar|2019-2022|Assistant Professor, University of Warsaw|
 |![Deniz Headshot](/images/People_Images/Deniz2.PNG){:width="120" align="middle"}|[Deniz Istipliler](/peoplepages/Deniz_Istipiller/)<br>0000-0002-0887-1121|Visiting Scholar|2022-2023|Assistant Professor<br>Ege University|
@@ -161,10 +161,18 @@ googlefonts: ["Monoton", "Lobster"]
 
 {:.table100.ver1}
 
+<a id="Tech">
+
+**Technicians**
+
+| | **Name** | **Title**| **Tenure** | **Current Affiliation** |
+|![Lina Corona-López](/images/People_Images/Lina.jpg){:width="120"}|[Lina Corona-López](/peoplepages/LinaLopez/)|Technician|2022-2023|Field Crop Research Scientist at USDA (Raleigh)|
+
+{:.table100.ver1}
+
 <a id="AO">
 
 **All Others**
-
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
 
