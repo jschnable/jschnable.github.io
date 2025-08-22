@@ -166,7 +166,7 @@ googlefonts: ["Monoton", "Lobster"]
 **Technicians**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
-|![Kyle Linders 0009-0006-9206-3608](/images/People_Images/KyleL.jpg){:width="120"}|[Kyle Linders](/peoplepages/KyleL.md/)|Technician|||
+|![Kyle Linders 0009-0006-9206-3608](/images/People_Images/KyleL.jpg){:width="120"}|[Kyle Linders](/peoplepages/KyleL.md/)|Technician|2023-2025||
 |![Lina Corona-López](/images/People_Images/Lina.jpg){:width="120"}|[Lina Corona-López](/peoplepages/LinaLopez/)|Technician|2022-2023|Field Crop Research Scientist at USDA (Raleigh)|
 ![Christine Smith](/images/People_Images/Christine.jpg){:width="120"}|Christine Smith|Technician|2018-2022||
 |![Shuying Zhang](/images/People_Images/Shuying.jpg){:width="120"}|Shuying Zhang|Technician|2019-2020|Technician, UNL Biomedical and Obesity Research Core|
