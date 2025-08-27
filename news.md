@@ -4,6 +4,11 @@ title: Schnable Lab News
 googlefonts: ["Monoton", "Lobster"]
 ---
 
+### 2025 August
+
+* The Schnable Lab is excited to start the Fall semester with new members and fresh research directions. We look forward to an exciting season of collaboration and discovery.
+* We are excited to welcome **Karla Cuellar** and **Ozgur Altundas** as new Ph.D. candidates, and **Hadiya Kounsar** as a Master’s student, to the Schnable Lab. We look forward to the great science ahead!
+
 ### 2025 July
 * Congratulations to **Sofiya Arora** for receiving the **Widaman Distinguished Graduate Fellowship Award** from the UNL Agricultural Research Division at the University of Nebraska-Lincoln!!
 * Congratulations to **Nikee Shrestha** for receiving the **Widaman Distinguished Graduate Fellowship Award** from the UNL Agricultural Research Division at the University of Nebraska-Lincoln!!
