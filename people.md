@@ -18,7 +18,9 @@ googlefonts: ["Monoton", "Lobster"]
 |![Harshita Mangal](images/People_Images/HarshitaM2.jpg){:width="120"}|[Harshita Mangal](/peoplepages/HarshitaM.md/)| PhD Student|[CV](/CVs/CV_HarshitaM.pdf)|0009-0002-8424-6026|
 |![Amany Gomaa](images/People_Images/Amany.jfif){:width="120"}|[Amany Gomaa](/peoplepages/Amany.md/)|PhD Student<br>_(co-advised)_|[CV](/CVs/CV_AmanyG.pdf)|0000-0002-7309-5229|
 |![Karla Cuéllar](images/People_Images/KarlaC.jpeg){:width="120”align="middle"}|[Karla Cuéllar](/peoplepages/KarlaC2.md/)|PhD Student|[CV](/CVs/CV_KarlaC.pdf)|0009-0001-2851-6370|
+|![Ozgur Altundas](images/People_Images/OzgurA.jpg){:width="120”align="middle"}|[Ozgur Altundas](/peoplepages/OzgurA.md/)|PhD Student|[CV](/CVs/CV_OzgurA.pdf)|0000-0002-4579-599X|
 |![Sofiya Arora](images/People_Images/Sofiya.png){:width="120”align="middle"}|[Sofiya Arora](/peoplepages/Sofiya/)|MS Student|[CV](/CVs/CV_SofiyaA2.pdf)|0009-0004-5357-6094|
+|![Hadiya Kounsar](images/People_Images/HadiyaK.jpg){:width="120”align="middle"}|[Hadiya Kounsar](/peoplepages/HadiyaK.md/)|MS Student|[CV](/CVs/CV_HadiyaK.pdf)|0009-0001-5087-7690|
 |![Ryleigh Kirby](/images/People_Images/RyleighK.jpg){:width="120"}|[Ryleigh Kirby](/peoplepages/RyleighK.md/)|Bachelors/UCARE Student|[CV](/CVs/CV_RyleighK.pdf)||
 |![Jordan](/images/People_Images/Jordan.jpeg){:width="120"}|Jordan Bares|Undergraduate Research Assistant|||
 {:.table100.ver1}
