@@ -15,6 +15,7 @@ googlefonts: ["Monoton", "Lobster"]
 <li><a href="#Masters">Masters Students</a></li>
 <li><a href="#Bachelors">Bachelors Students</a></li>
 <li><a href="#HS">High School Students</a></li>
+<li><a href="#Tech">Technicians</a></li>
 <li><a href="#AO">All Others</a></li>
 </ul>
 
@@ -24,12 +25,9 @@ googlefonts: ["Monoton", "Lobster"]
 **Postdocs and Visiting Scientists**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
-|![Trisha Nanjaraju](images/People_Images/TrishaN.jpg){:width="120”align="middle"}|[Trisha Nanjaraju](/peoplepages/TrishaN.md/)|Undergraduate Student from India|2025||
-|![Preethi Jagadish Gowda Kabbakki](images/People_Images/PreethiJK.jpg){:width="120”align="middle"}|[Preethi Jagadish Gowda Kabbakki](/peoplepages/Preethi.md/)|Undergraduate Student from India|2025||
 |![Caner Yavuz](/images/People_Images/Caner.jpg){:width="120"}|Caner Yavuz|Visiting Scientist|2025||
 |![Khang](/images/People_Images/Khang.png){:width="120"}|Khang Hoang|Visiting Scientist|2024||
 |![Hongyu Jin Headshot](/images/People_Images/Hongyu.jpg){:width="120"}|[Hongyu Jin](/peoplepages/Hongyu_Jin/)|Postdoctoral|2024|
-|![Lina Corona-López](/images/People_Images/Lina.jpg){:width="120"}|[Lina Corona-López](/peoplepages/LinaLopez/)|Technician|2022-2023|Field Crop Research Scientist at USDA (Raleigh)|
 |![Ravi Mural Headshot](/images/People_Images/Ravi.jpg){:width="120" align="middle"}|[Ravi Mural](/peoplepages/Ravi_Mural/)<br>0000-0002-5489-9918|Research Assistant Professor<br>Center for Plant Science Innovation|2019-2023|Assistant Professor at South Dakota State University|
 |![Marcin Grzybowski Headshot](/images/People_Images/Marcin.jpg){:width="120" align="middle"}|[Marcin Grzybowski](/peoplepages/Marcin_Grzybowski/)<br>0000-0002-6303-5433|Postdoctoral Scholar|2019-2022|Assistant Professor, University of Warsaw|
 |![Deniz Headshot](/images/People_Images/Deniz2.PNG){:width="120" align="middle"}|[Deniz Istipliler](/peoplepages/Deniz_Istipiller/)<br>0000-0002-0887-1121|Visiting Scholar|2022-2023|Assistant Professor<br>Ege University|
@@ -81,6 +79,9 @@ googlefonts: ["Monoton", "Lobster"]
 **Bachelors Students**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
+|![Charlie Colvin](images/People_Images/Charlie-C.jpg){:width="120”align="middle"}|[Charlie Colvin](/peoplepages/Charlie-Colvin.md/)|Crop-to-Food Innovation REEU Program|2025||
+|![Trisha Nanjaraju](images/People_Images/TrishaN.jpg){:width="120”align="middle"}|[Trisha Nanjaraju](/peoplepages/TrishaN.md/)|Undergraduate Student from India|2025||
+|![Preethi Jagadish Gowda Kabbakki](images/People_Images/PreethiJK.jpg){:width="120”align="middle"}|[Preethi Jagadish Gowda Kabbakki](/peoplepages/Preethi.md/)|Undergraduate Student from India|2025||
 |![Karla](/images/People_Images/KarlaC.jpg){:width="120"}|Karla M. Cuellar Perez|Bachelors student|Fall 2024|Universidad de Guanajuato, Mexico|
 |![Daniel Ngu](/images/People_Images/Danielngu_small.jpg){:width="120"}|Daniel Ngu|Bachelors Student|2014-2017||
 |![Thomas Hoban](/images/People_Images/thoban.jpg){:width="120"}|Thomas Hoban<br>0000-0001-7607-1903|Bachelors Student|2015-2020||
@@ -160,10 +161,21 @@ googlefonts: ["Monoton", "Lobster"]
 
 {:.table100.ver1}
 
+<a id="Tech">
+
+**Technicians**
+
+| | **Name** | **Title**| **Tenure** | **Current Affiliation** |
+|![Kyle Linders 0009-0006-9206-3608](/images/People_Images/KyleL.jpg){:width="120"}|[Kyle Linders](/peoplepages/KyleL.md/)|Technician|2023-2025||
+|![Lina López-Corona](/images/People_Images/Lina.jpg){:width="120"}|[Lina López-Corona](/peoplepages/LinaLopez/)|Technician|2022-2023|Field Crop Research Scientist at USDA (Raleigh)|
+![Christine Smith](/images/People_Images/Christine.jpg){:width="120"}|Christine Smith|Technician|2018-2022||
+|![Shuying Zhang](/images/People_Images/Shuying.jpg){:width="120"}|Shuying Zhang|Technician|2019-2020|Technician, UNL Biomedical and Obesity Research Core|
+
+{:.table100.ver1}
+
 <a id="AO">
 
 **All Others**
-
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
 
@@ -173,9 +185,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Taity Changa Headshot](/images/People_Images/Taity.jpg){:width="120"}|Taity Changa|Volunteer|2019|Postdoc University of Florida|
 |![Michael Richter Headshot](/images/People_Images/MichaelR.jpg){:width="120"}|Michael Richter<br>0000-0001-9702-4292|PhD Student<br>_(rotating)_|Spring 2020|PhD Student, Wilson Lab|
 |![Xiangjun Li](/images/People_Images/Xiangjun.jpg){:width="120" align="middle"}|Xiangjun Li|Research Associate|2020|Lab Manager, Hyten Lab, UNL|
-|![Shuying Zhang](/images/People_Images/Shuying.jpg){:width="120"}|Shuying Zhang|Technician|2019-2020|Technician, UNL Biomedical and Obesity Research Core|
 |![Clay Christenson](/images/People_Images/Clay.jpg){:width="120"}|Clay Christenson|Tech|2019-2022||
-![Christine Smith](/images/People_Images/Christine.jpg){:width="120"}|Christine Smith|Technician|2018-2022||
 |![Olivier](/images/People_Images/Olivier.jpg){:width="120"}|[Olivier Mizero](/peoplepages/Olivier/)<br>0000-0003-0675-6936|Post-Bac Student|2022-2023||
 
 

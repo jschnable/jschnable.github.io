@@ -12,18 +12,17 @@ googlefonts: ["Monoton", "Lobster"]
 |![Jon Turkus](/images/People_Images/JonT.jpg){:width="120"}|[Jon Turkus](/peoplepages/JonT.md/)|Lab Manager||0000-0002-2006-0137|
 |![Rossy Bedolla](images/People_Images/RossyB2.jpg){:width="120" align="middle"}|[Rossy Bedolla](/peoplepages/Rossy.md/)|Office Associate|[CV](/CVs/CV-RossyB.pdf)|
 |![Chidanand "Chidu" Ullagaddi](/images/People_Images/Chidanand.JPG){:width="120"}|[Chidanand "Chidu" Ullagaddi](/peoplepages/Chidu/)|Technician|[CV](/CVs/CV_Chidanand.pdf)|0009-0009-4005-3282|
-|![Kyle Linders](/images/People_Images/KyleL.jpg){:width="120"}|[Kyle Linders](/peoplepages/KyleL.md/)|Technician|[CV](/CVs/CV_KyleL.pdf)|0009-0006-9206-3608|
 |![Jensina Davis](images/People_Images/JensinaD2.jpg){:width="120"}|[Jensina Davis](/peoplepages/Jensina/)|PhD Student|[CV](/CVs/CV_JensinaDavis-2.pdf)|0009-0000-3638-9482|
 |![Nikee Shrestha](/images/People_Images/NikeeS.PNG){:width="120" align="middle"}|[Nikee Shrestha](/peoplepages/Nikee/)|PhD Student|[CV](/CVs/CV_NikeeS.pdf)|0000-0003-4195-7549||
 |![Waqar Ali](/images/People_Images/WaqarAli2.jpg){:width="120"align="middle"}|[Waqar Ali](/peoplepages/Waqar/)|PhD Student|[CV](/CVs/WaqarAliCV.pdf)|0009-0001-8822-0950|
 |![Harshita Mangal](images/People_Images/HarshitaM2.jpg){:width="120"}|[Harshita Mangal](/peoplepages/HarshitaM.md/)| PhD Student|[CV](/CVs/CV_HarshitaM.pdf)|0009-0002-8424-6026|
 |![Amany Gomaa](images/People_Images/Amany.jfif){:width="120"}|[Amany Gomaa](/peoplepages/Amany.md/)|PhD Student<br>_(co-advised)_|[CV](/CVs/CV_AmanyG.pdf)|0000-0002-7309-5229|
+|![Karla Cuéllar](images/People_Images/KarlaC.jpeg){:width="120”align="middle"}|[Karla Cuéllar](/peoplepages/KarlaC2.md/)|PhD Student|[CV](/CVs/CV_KarlaC.pdf)|0009-0001-2851-6370|
+|![Ozgur Altundas](images/People_Images/OzgurA.jpg){:width="120”align="middle"}|[Ozgur Altundas](/peoplepages/OzgurA.md/)|PhD Student|[CV](/CVs/CV_OzgurA.pdf)|0000-0002-4579-599X|
 |![Sofiya Arora](images/People_Images/Sofiya.png){:width="120”align="middle"}|[Sofiya Arora](/peoplepages/Sofiya/)|MS Student|[CV](/CVs/CV_SofiyaA2.pdf)|0009-0004-5357-6094|
+|![Hadiya Kounsar](images/People_Images/HadiyaK2.jpg){:width="120”align="middle"}|[Hadiya Kounsar](/peoplepages/HadiyaK.md/)|MS Student|[CV](/CVs/CV_HadiyaK.pdf)|0009-0001-5087-7690|
 |![Ryleigh Kirby](/images/People_Images/RyleighK.jpg){:width="120"}|[Ryleigh Kirby](/peoplepages/RyleighK.md/)|Bachelors/UCARE Student|[CV](/CVs/CV_RyleighK.pdf)||
 |![Jordan](/images/People_Images/Jordan.jpeg){:width="120"}|Jordan Bares|Undergraduate Research Assistant|||
-|![Charlie Colvin](images/People_Images/Charlie-C.jpg){:width="120”align="middle"}|[Charlie Colvin](/peoplepages/Charlie-Colvin.md/)|Crop-to-Food Innovation REEU Program|[CV](/CVs/Charlie-Colvin.pdf)|0009-0002-1316-6563|
-|![Trisha Nanjaraju](images/People_Images/TrishaN.jpg){:width="120”align="middle"}|[Trisha Nanjaraju](/peoplepages/TrishaN.md/)|Undergraduate Student from India|[CV](/CVs/TrishaN.pdf)|
-|![Preethi Jagadish Gowda Kabbakki](images/People_Images/PreethiJK.jpg){:width="120”align="middle"}|[Preethi Jagadish Gowda Kabbakki](/peoplepages/Preethi.md/)|Undergraduate Student from India|[CV](/CVs/CV_Preethi.pdf)|
 {:.table100.ver1}
 
 [Lab Alumni 2014-Present](/alumni)
