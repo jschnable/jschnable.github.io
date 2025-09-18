@@ -11,7 +11,7 @@ title: Schnable Lab Papers
 * **Ji Zhongjie**, Ge Y, **Schnable JC** [Scalable methods for quantifying the stay green ability of corn for yield prediction by using satellite images.](https://doi.org/10.31220/agriRxiv.2025.00339) *agriRxiv* doi: 10.31220/agriRxiv.2025.00339
 
 <div data-badge-type="2" data-doi="10.48550/arXiv.2502.13399" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Zaremehrjerdi H, Coffey L, Jubery T, Liu H, **Turkus J**, **Linders K**, **Schnable JC**, Schnable PS, Ganapathysubramanian B [MaizeEar-SAM: Zero-shot maize ear phenotyping.](https://doi.org/10.48550/arXiv.2502.13399) *arXiv** doi: 10.48550/arXiv.2502.13399
+* Zaremehrjerdi H, Coffey L, Jubery T, Liu H, **Turkus J**, **Linders K**, **Schnable JC**, Schnable PS, Ganapathysubramanian B [MaizeEar-SAM: Zero-shot maize ear phenotyping.](https://doi.org/10.48550/arXiv.2502.13399) *arXiv* doi: 10.48550/arXiv.2502.13399
 
 <div data-badge-type="2" data-doi="10.1101/2024.06.04.597477" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * **Tross MC**, Duggan G, **Shrestha N**, **Schnable JC** [Models trained to predict differential expression across plant organs identify distal and proximal regulatory regions.](https://doi.org/10.1101/2024.06.04.597477) *bioRxiv* doi: 10.1101/2024.06.04.597477
@@ -21,11 +21,14 @@ title: Schnable Lab Papers
 
 **2025**
 
-<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Ozair F, Adak A, Murray S ... **Schnable JC** (11th of 16 authors) ... Thompson A, Weldekidan T, Xu W (2025) Phenotypic plasticity in maize grain yield: genetic and environmental insights of response to environmental gradients. *The Plant Genome* (Accepted)
+<div data-badge-type="2" data-doi="10.3389/fpls.2025.1617831" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Powadi A, Jubery T, **Tross M**, **Shrestha N**, Coffey L, **Schnable JC**, Schnable PS, Ganapathysubramanian B (2025) [Enhancing yield prediction from plot-level satellite imagery through genotype and environment feature disentanglement.](https://doi.org/10.3389/fpls.2025.1617831) *Frontiers in Plant Science* doi: 10.3389/fpls.2025.1617831
 
-<div data-badge-type="2" data-doi="" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* Izere P, Zhao B, **Schnable JC**, Ge Y, Shi Y (2025) Positioning accuracy of RTK-GNSS-enabled drones and their performance in agricultural crop sensing. *Journal of the ASABE* (Accepted) [SSRN Preprint.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025445)
+<div data-badge-type="2" data-doi="10.1002/tpg2.70078" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Ozair F, Adak A, Murray S ... **Schnable JC** (11th of 16 authors) ... Thompson A, Weldekidan T, Xu W (2025) [Phenotypic plasticity in maize grain yield: genetic and environmental insights of response to environmental gradients.](https://doi.org/10.1002/tpg2.70078) *The Plant Genome* doi: 10.1002/tpg2.70078
+
+<div data-badge-type="2" data-doi="10.13031/ja.16306" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
+* Izere P, Zhao B, **Schnable JC**, Ge Y, Shi Y (2025) [Positioning accuracy of RTK-GNSS-enabled drones and their performance in agricultural crop sensing.](https://elibrary.asabe.org/abstract.asp?AID=55510&t=3&dabs=Y&redir=&redirType=) *Journal of the ASABE* doi: 10.13031/ja.16306 [SSRN Preprint.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025445)
 
 <div data-badge-type="2" data-doi="10.1002/pld3.70092" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Shrestha K, Thapa K, Kaler E, Taniguchi M, Sattler S, **Schnable JC**, Louis J (2025) [Employing spectral features to accelerate sorghum phenotyping against sap-feeding aphids.](https://doi.org/10.1002/pld3.70092) *Plant Direct* doi: 10.1002/pld3.70092
