@@ -4,6 +4,12 @@ title: Schnable Lab News
 googlefonts: ["Monoton", "Lobster"]
 ---
 
+### 2025 September
+
+* Dr. James Schnable presented **“What We Can See, We Can Change: Linking Plant Form to Gene Function”** at the XII Conference of the Polish Society of Experimental Plant Biology in Warsaw, Poland.
+* Dr. James Schnable delivered **“From Breeder’s Eye to Silicon Eyes: New Tools for an Old Challenge”** at the 9th International Meeting on Plant Breeding in Piracicaba, São Paulo, Brazil.
+
+
 ### 2025 August
 
 * The Schnable Lab is excited to start the Fall semester with new members and fresh research directions. We look forward to an exciting season of collaboration and discovery.
