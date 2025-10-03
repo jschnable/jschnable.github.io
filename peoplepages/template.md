@@ -1,16 +1,18 @@
 ---
 layout: page
-title: Ravi Mural
+title: First Last
 ---
 
-![Ravi Mural](/images/People_Images/Ravi.jpg){:align="middle"}|
+![First Last](/images/People_Images/placeholder.jpg){:align="middle"}
 
-Ravi joined the lab in 2019 after completing his PhD working in soybean breeding. He currently leads our collaboration with the Hanseup Lab at the University of Utah working on field deployable microsensors. In addition, Ravi is working to study pleiotropy and genotype by environment interactions by mining data from widely used association populations. 
+Write a short biography here. Include current focus areas, collaborations, or highlights that visitors should know.
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=5NlUnZ0AAAAJ)
-
-**ORCID ID:** 0000-0002-5489-9918
+- [Google Scholar Profile](https://scholar.google.com/)
+- **ORCID ID:** 0000-0000-0000-0000
 
 **Papers As A Member Of The Schnable Lab:**<br><br>
 
-{% include pub_lists/rmural.md %}
+{% comment %}
+Replace the include below with the file that matches the author initials under `_includes/pub_lists/`.
+{% endcomment %}
+{% include pub_lists/template.md %}

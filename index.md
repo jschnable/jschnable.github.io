@@ -8,64 +8,58 @@ bigimg:
   - "/images/Front_Page_Images/header.png" : ""
 ---
 
-<script type="application/ld+json">
-{ "@context": "https://schema.org",
- "@type": "Organization",
- "name": "Schnable Lab",
- "url": "http://schnablelab.org/",
- "logo": "http://schnablelab.org/images/lab_logo.jpg",
- "foundingDate": "2014",
- "founders": [
- {
- "@type": "Person",
- "name": "James Schnable",
-  "Description": "Scientist",
- "alternateName": "James C. Schnable",
- "alumniOf": {
-   "type": "CollegeOrUniversity",
-   "name": "University of California-Berkeley",
-   "sameAs": "https://en.wikipedia.org/wiki/University_of_California,_Berkeley"
- },
- "award": [
-   "NAPPN Early Career Award (2019)",
-   "ASPB Early Career Award (2019)",
-   "Marcus Rhoades Early Career Award in maize genetics (2018)"
- ],
- "disambiguatingDescription": "Plant Biologist",
- "gender": "Male",
- "honorificPrefix": "Dr.",
- "honorificSuffix": "PhD",
- "image": "https://agronomy.unl.edu/images/faculty/SchnableJames_809x1010_0.jpg",
- "jobTitle": "Associate Professor",
- "nationality": "American",
- "sameAs": [
-   "https://twitter.com/szintri",
-   "https://scholar.google.com/citations?user=cik4JVYAAAAJ&hl=en"
- ]
- }],
- "address": {
- "@type": "PostalAddress",
- "streetAddress": "1900 Vine Street",
- "addressLocality": "Lincoln",
- "addressRegion": "NE",
- "postalCode": "68588",
- "addressCountry": "USA"
- },
- "sameAs": [
- "https://twitter.com/schnablelab"
- ]}
-</script>
+<script type="application/ld+json">{% include schema-organization.json %}</script>
 
-![The Whole Schnable Lab](/images/lab2022_v2.jpg){:width="900" align="middle" }
+![The Schnable Lab](/images/lab2022_v2.jpg){:width="900" align="middle" }
 
-While individuals specialize, each member of the lab gets at least some experience writing computer code, employing molecular biology techniques, working with living plants in the greenhouse, and conducting fieldwork. As a result of the diverse set of collaborators we work with -- applied plant breeders, biochemists, engineers, computer scientists, food scientists, and statisticians -- each member of the lab also gains experience communicating both within and across scientific disciplines, as well as to diverse non-scientific audiences. This cross training produces scientists who are equipped to both understand and address the complex and far-reaching problems our world will face in coming decades.
+<div class="hero-banner">
+  <h2>Hypothesis-driven research in plant genomics and phenomics</h2>
+  <p>The Schnable Lab blends field experiments, molecular biology, and computational analytics to understand how crops adapt, thrive, and feed the world.</p>
+  <div class="hero-actions">
+    <a href="{{ '/research/' | relative_url }}">Explore our research</a>
+    <a class="secondary" href="#join">Join the lab</a>
+  </div>
+</div>
 
-**Come work with us!**
+## What We Study
 
-The Schnable Lab is always recruiting promising undergraduates who either wish to gain experience in computational or molecular biology techniques working as paid assistants on existing research projects, or who wish to develop and carry out independent research projects within our areas of investigation through the University of Nebraska's UCARE program..
-<br><br>
-Openings for postdocs or graduate students (without their own source of support) fluctuate based on avaliablity of grant funds.
-<br><br>
-Read more about [ongoing projects in the lab](/research/).
-<br><br>
-The Schnable Group is based at the University of Nebraska-Lincoln and is lead by James Schnable. Looking for the ISU research group with the same last name? [Click here](https://schnablelab.plantgenomics.iastate.edu/).
+- **Phenotyping at scale** – pairing field robotics, imaging, and classical agronomy to monitor trait development across environments.
+- **Genomics that matters** – linking DNA variation to stress resilience, yield components, and gene regulation in maize and sorghum.
+- **Collaborative solutions** – working with breeders, engineers, and data scientists to turn discoveries into deployable tools.
+
+## Recent Highlights
+
+{% assign highlights = site.data.news | sort: 'date' | reverse | slice: 0, 3 %}
+<ul class="news-list">
+{% for item in highlights %}
+  <li class="news-list__item">
+    <time datetime="{{ item.date | date: '%Y-%m-%d' }}">{{ item.date | date: '%B %d, %Y' }}</time>
+    <strong>{{ item.title }}</strong><br />
+    {{ item.summary }}
+    {% if item.link %}<br /><a href="{{ item.link }}">Learn more</a>{% endif %}
+  </li>
+{% endfor %}
+</ul>
+
+[See all news]({{ '/news/' | relative_url }})
+
+## Training Across Disciplines
+
+Each lab member gains experience coding, building field equipment, running molecular assays, and communicating results to scientific and public audiences. The cross-training keeps our science grounded in real-world challenges and ensures discoveries translate beyond the lab.
+
+## Join the Lab {#join}
+
+We are always interested in motivated scientists:
+
+- **Undergraduates** can contribute to funded projects or propose UCARE research within our focus areas.
+- **Graduate students and postdocs** should reach out with a CV and a short statement of interests; opportunities shift with grant availability.
+
+Check current openings on the [Join the Lab]({{ '/jobs/' | relative_url }}) page, or email Dr. Schnable to start a conversation.
+
+## Contact
+
+Schnable Lab — University of Nebraska-Lincoln<br />
+1900 Vine Street, Lincoln, NE 68588, USA<br />
+Connect with us on [Twitter](https://twitter.com/schnablelab).
+
+Looking for the Iowa State group led by Dr. Patrick Schnable? [Visit their site](https://schnablelab.plantgenomics.iastate.edu/).

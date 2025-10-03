@@ -1,0 +1,151 @@
+- name: James Schnable
+  role: Professor
+  category: Faculty
+  status: current
+  image: /images/People_Images/jamesschnable.jpg
+  page_path: peoplepages/jschnable.md
+  cv: /CVs/JSchnable.pdf
+  orcid: 0000-0001-6739-5527
+  socials:
+    - label: Twitter
+      url: https://twitter.com/szintri
+
+- name: Vladimir Torres-Rodriguez
+  role: Research Assistant Professor
+  category: Research Staff
+  status: current
+  image: /images/People_Images/vlad2.jpg
+  page_path: peoplepages/Vlad.md
+  cv: /CVs/CV_Vladimir3.pdf
+  orcid: 0000-0001-6056-3452
+
+- name: Zhongjie Ji
+  role: Heuermann Research Fellow
+  category: Research Staff
+  status: current
+  image: /images/People_Images/Zhongjie.jpg
+  page_path: peoplepages/ZhongjieJ.md
+  cv: /CVs/CV_ZhongjieJ.pdf
+  orcid: 0009-0006-1448-305X
+
+- name: Jon Turkus
+  role: Lab Manager
+  category: Professional Staff
+  status: current
+  image: /images/People_Images/JonT.jpg
+  page_path: peoplepages/JonT.md
+  orcid: 0000-0002-2006-0137
+
+- name: Rossy Bedolla
+  role: Office Associate
+  category: Professional Staff
+  status: current
+  image: /images/People_Images/RossyB2.jpg
+  page_path: peoplepages/Rossy.md
+  cv: /CVs/CV-RossyB.pdf
+
+- name: 'Chidanand "Chidu" Ullagaddi'
+  role: Technician
+  category: Professional Staff
+  categories:
+    - Professional Staff
+  status: current
+  image: /images/People_Images/Chidanand.JPG
+  page_path: peoplepages/Chidu.md
+  cv: /CVs/CV_Chidanand.pdf
+  orcid: 0009-0009-4005-3282
+
+- name: Jensina Davis
+  role: PhD Student
+  category: Graduate Students
+  status: current
+  image: /images/People_Images/JensinaD2.jpg
+  page_path: peoplepages/Jensina.md
+  cv: /CVs/CV_JensinaDavis-2.pdf
+  orcid: 0009-0000-3638-9482
+
+- name: Nikee Shrestha
+  role: PhD Student
+  category: Graduate Students
+  status: current
+  image: /images/People_Images/NikeeS.PNG
+  page_path: peoplepages/Nikee.md
+  cv: /CVs/CV_NikeeS.pdf
+  orcid: 0000-0003-4195-7549
+
+- name: Waqar Ali
+  role: PhD Student
+  category: Graduate Students
+  status: current
+  image: /images/People_Images/WaqarAli2.jpg
+  page_path: peoplepages/Waqar.md
+  cv: /CVs/WaqarAliCV.pdf
+  orcid: 0009-0001-8822-0950
+
+- name: Harshita Mangal
+  role: PhD Student
+  category: Graduate Students
+  status: current
+  image: /images/People_Images/HarshitaM2.jpg
+  page_path: peoplepages/HarshitaM.md
+  cv: /CVs/CV_HarshitaM.pdf
+  orcid: 0009-0002-8424-6026
+
+- name: Amany Gomaa
+  role: PhD Student (co-advised)
+  category: Graduate Students
+  status: current
+  image: /images/People_Images/Amany.jfif
+  page_path: peoplepages/Amany.md
+  cv: /CVs/CV_AmanyG.pdf
+  orcid: 0000-0002-7309-5229
+
+- name: Karla Cuéllar
+  role: PhD Student
+  category: Graduate Students
+  status: current
+  image: /images/People_Images/KarlaC.jpeg
+  page_path: peoplepages/KarlaC2.md
+  cv: /CVs/CV_KarlaC.pdf
+  orcid: 0009-0001-2851-6370
+
+- name: Ozgur Altundas
+  role: PhD Student
+  category: Graduate Students
+  status: current
+  image: /images/People_Images/OzgurA.jpg
+  page_path: peoplepages/OzgurA.md
+  cv: /CVs/CV_OzgurA.pdf
+  orcid: 0000-0002-4579-599X
+
+- name: Sofiya Arora
+  role: MS Student
+  category: Graduate Students
+  status: current
+  image: /images/People_Images/Sofiya.png
+  page_path: peoplepages/Sofiya.md
+  cv: /CVs/CV_SofiyaA2.pdf
+  orcid: 0009-0004-5357-6094
+
+- name: Hadiya Kounsar
+  role: MS Student
+  category: Graduate Students
+  status: current
+  image: /images/People_Images/HadiyaK2.jpg
+  page_path: peoplepages/HadiyaK.md
+  cv: /CVs/CV_HadiyaK.pdf
+  orcid: 0009-0001-5087-7690
+
+- name: Ryleigh Kirby
+  role: Undergraduate Researcher (UCARE)
+  category: Undergraduate Researchers
+  status: current
+  image: /images/People_Images/RyleighK.jpg
+  page_path: peoplepages/RyleighK.md
+  cv: /CVs/CV_RyleighK.pdf
+
+- name: Jordan Bares
+  role: Undergraduate Research Assistant
+  category: Undergraduate Researchers
+  status: current
+  image: /images/People_Images/Jordan.jpeg
