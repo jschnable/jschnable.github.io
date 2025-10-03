@@ -8,13 +8,14 @@ googlefonts: ["Monoton", "Lobster"]
 
 {% assign sorted_news = site.data.news | sort: 'date' | reverse %}
 {% assign recent_news = sorted_news | slice: 0, 6 %}
-{% assign recent_months = '' | split: ',' %}
+{% assign recent_month_keys = '' %}
 {% for item in recent_news %}
-  {% assign month_label = item.date | date: '%B %Y' %}
-  {% unless recent_months contains month_label %}
-    {% assign recent_months = recent_months | push: month_label %}
+  {% assign month_key = item.date | date: '%Y-%m' %}
+  {% unless recent_month_keys contains month_key %}
+    {% assign recent_month_keys = recent_month_keys | append: month_key | append: ',' %}
   {% endunless %}
 {% endfor %}
+{% assign recent_month_count = recent_month_keys | split: ',' | size | minus: 1 %}
 <ul class="news-list">
 {% for item in recent_news %}
   <li class="news-list__item">
@@ -30,8 +31,10 @@ googlefonts: ["Monoton", "Lobster"]
 <div class="news-archive">
 {% assign grouped = sorted_news | group_by_exp: 'entry', "entry.date | date: '%B %Y'" %}
 {% assign archive_headings_displayed = 0 %}
+{% assign skip_counter = 0 %}
 {% for group in grouped %}
-  {% if recent_months contains group.name %}
+  {% if skip_counter < recent_month_count %}
+    {% assign skip_counter = skip_counter | plus: 1 %}
     {% continue %}
   {% endif %}
   {% if archive_headings_displayed < 3 %}
