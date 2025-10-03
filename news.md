@@ -8,11 +8,11 @@ googlefonts: ["Monoton", "Lobster"]
 
 {% assign sorted_news = site.data.news | sort: 'date' | reverse %}
 {% assign recent_news = sorted_news | slice: 0, 6 %}
-{% assign recent_months = '' %}
+{% assign recent_months = '' | split: ',' %}
 {% for item in recent_news %}
   {% assign month_label = item.date | date: '%B %Y' %}
   {% unless recent_months contains month_label %}
-    {% assign recent_months = recent_months | append: month_label | append: '||' %}
+    {% assign recent_months = recent_months | push: month_label %}
   {% endunless %}
 {% endfor %}
 <ul class="news-list">
@@ -29,11 +29,12 @@ googlefonts: ["Monoton", "Lobster"]
 
 <div class="news-archive">
 {% assign grouped = sorted_news | group_by_exp: 'entry', "entry.date | date: '%B %Y'" %}
+{% assign archive_headings_displayed = 0 %}
 {% for group in grouped %}
   {% if recent_months contains group.name %}
     {% continue %}
   {% endif %}
-  {% if forloop.index0 < 3 %}
+  {% if archive_headings_displayed < 3 %}
 ### {{ group.name }}
   <ul class="news-list">
   {% for entry in group.items %}
@@ -43,6 +44,7 @@ googlefonts: ["Monoton", "Lobster"]
     </li>
   {% endfor %}
   </ul>
+  {% assign archive_headings_displayed = archive_headings_displayed | plus: 1 %}
   {% else %}
   <details>
     <summary>{{ group.name }}</summary>
