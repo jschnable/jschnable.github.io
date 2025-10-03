@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Schnable Lab",
+  "url": "https://schnablelab.org/",
+  "logo": "https://schnablelab.org/images/lab_logo.jpg",
+  "foundingDate": "2014",
+  "founders": [
+    {
+      "@type": "Person",
+      "name": "James Schnable",
+      "description": "Plant biologist and associate professor",
+      "alternateName": "James C. Schnable",
+      "alumniOf": {
+        "@type": "CollegeOrUniversity",
+        "name": "University of California-Berkeley",
+        "sameAs": "https://en.wikipedia.org/wiki/University_of_California,_Berkeley"
+      },
+      "award": [
+        "NAPPN Early Career Award (2019)",
+        "ASPB Early Career Award (2019)",
+        "Marcus Rhoades Early Career Award in maize genetics (2018)"
+      ],
+      "disambiguatingDescription": "Plant biologist",
+      "gender": "Male",
+      "honorificPrefix": "Dr.",
+      "honorificSuffix": "PhD",
+      "image": "https://agronomy.unl.edu/images/faculty/SchnableJames_809x1010_0.jpg",
+      "jobTitle": "Associate Professor",
+      "nationality": "American",
+      "sameAs": [
+        "https://twitter.com/szintri",
+        "https://scholar.google.com/citations?user=cik4JVYAAAAJ&hl=en"
+      ]
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1900 Vine Street",
+    "addressLocality": "Lincoln",
+    "addressRegion": "NE",
+    "postalCode": "68588",
+    "addressCountry": "USA"
+  },
+  "sameAs": [
+    "https://twitter.com/schnablelab"
+  ]
+}

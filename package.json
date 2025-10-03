@@ -1,0 +1,14 @@
+{
+  "name": "schnablelab-site",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "bundle exec jekyll serve",
+    "build": "bundle exec jekyll build",
+    "optimize:image": "node scripts/optimize-image.js"
+  },
+  "devDependencies": {
+    "sharp": "^0.33.2"
+  }
+}

@@ -1,0 +1,26 @@
+---
+layout: null
+permalink: /search.json
+---
+[
+{% assign documents = site.pages | where_exp: 'page', 'page.search_exclude != true' %}
+{% assign documents = documents | concat: site.posts %}
+{% for collection in site.collections %}
+  {% unless collection.label == 'posts' or collection.label == 'data' %}
+    {% assign documents = documents | concat: collection.docs %}
+  {% endunless %}
+{% endfor %}
+{% for doc in documents %}
+  {% if doc.search_exclude == true or doc.url == nil %}{% continue %}{% endif %}
+  {% assign doc_title_raw = doc.title | default: doc.name %}
+  {% assign doc_title_clean = doc_title_raw | strip_html | normalize_whitespace %}
+  {% assign doc_content_clean = doc.content | strip_html | normalize_whitespace | truncate: 4000 %}
+  {% unless forloop.first %},
+{% endunless %}
+  {
+    "title": {{ doc_title_clean | jsonify }},
+    "url": {{ doc.url | relative_url | jsonify }},
+    "content": {{ doc_content_clean | jsonify }}
+  }
+{% endfor %}
+]
