@@ -12,7 +12,7 @@
 
 - name: Vladimir Torres-Rodriguez
   role: Research Assistant Professor
-  category: Research Staff
+  category: Faculty
   status: current
   image: /images/People_Images/vlad2.jpg
   page_path: peoplepages/Vlad.md
@@ -30,7 +30,7 @@
 
 - name: Jon Turkus
   role: Lab Manager
-  category: Professional Staff
+  category: Research Staff
   status: current
   image: /images/People_Images/JonT.jpg
   page_path: peoplepages/JonT.md
@@ -46,9 +46,7 @@
 
 - name: 'Chidanand "Chidu" Ullagaddi'
   role: Technician
-  category: Professional Staff
-  categories:
-    - Professional Staff
+  category: Research Staff
   status: current
   image: /images/People_Images/Chidanand.JPG
   page_path: peoplepages/Chidu.md
