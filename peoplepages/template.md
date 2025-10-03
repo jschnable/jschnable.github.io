@@ -1,16 +1,12 @@
 ---
 layout: page
-title: Ravi Mural
+title: Hongyu Jin
 ---
 
-![Ravi Mural](/images/People_Images/Ravi.jpg){:align="middle"}|
+![Hongyu Jin](/images/People_Images/Hongyu.jpg){:align="middle"}|
 
-Ravi joined the lab in 2019 after completing his PhD working in soybean breeding. He currently leads our collaboration with the Hanseup Lab at the University of Utah working on field deployable microsensors. In addition, Ravi is working to study pleiotropy and genotype by environment interactions by mining data from widely used association populations. 
+Hongyu Jin is an Integrated Plant Biology PhD student who is co-advised by Prof. Schnable and [Prof. Jinliang Yang](https://jyanglab.com/). Hongyu joined the lab in 2019 after completing his PhD at Chia Agricultural University in Beijing.
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=5NlUnZ0AAAAJ)
+### Papers As A Member Of The Schnable Lab:
 
-**ORCID ID:** 0000-0002-5489-9918
-
-**Papers As A Member Of The Schnable Lab:**<br><br>
-
-{% include pub_lists/rmural.md %}
+{% include pub_lists/hjin.md %}
