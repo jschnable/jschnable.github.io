@@ -473,6 +473,171 @@ th, td {
   background-color: #cccccc;
 }
 
+.hero-banner {
+  background: #f5f1e7;
+  border-radius: 12px;
+  padding: 40px 32px;
+  margin: 30px 0;
+}
+
+.hero-banner h2 {
+  margin-top: 0;
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-top: 24px;
+}
+
+.hero-actions a {
+  background: #d00000;
+  border-radius: 999px;
+  color: #fff;
+  display: inline-block;
+  font-weight: 600;
+  padding: 12px 24px;
+  transition: background 0.2s ease-in-out;
+}
+
+.hero-actions a.secondary {
+  background: transparent;
+  border: 2px solid #d00000;
+  color: #d00000;
+}
+
+.hero-actions a:hover,
+.hero-actions a:focus {
+  background: #a80000;
+  color: #fff;
+}
+
+.hero-actions a.secondary:hover,
+.hero-actions a.secondary:focus {
+  background: #d00000;
+  color: #fff;
+}
+
+.people-grid {
+  list-style: none;
+  margin: 30px 0;
+  padding: 0;
+  display: grid;
+  gap: 24px;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.people-card {
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  padding: 24px;
+  text-align: center;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+}
+
+.people-card__image {
+  border-radius: 50%;
+  height: 120px;
+  object-fit: cover;
+  width: 120px;
+}
+
+.people-card__name {
+  margin-bottom: 8px;
+}
+
+.people-card__name a {
+  color: inherit;
+}
+
+.people-card__role {
+  color: #666;
+  font-size: 0.95em;
+  margin-bottom: 12px;
+}
+
+.people-card__links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.people-card__links a {
+  font-size: 0.9em;
+}
+
+.people-card__meta {
+  list-style: none;
+  margin: 12px 0 0;
+  padding: 0;
+  display: grid;
+  gap: 6px;
+  font-size: 0.9em;
+  color: #555;
+}
+
+.people-card__meta li strong {
+  color: #333;
+  font-weight: 600;
+}
+
+.news-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.news-list__item {
+  border-bottom: 1px solid #eee;
+  padding: 16px 0;
+}
+
+.news-list__item:last-child {
+  border-bottom: 0;
+}
+
+.news-list__item time {
+  color: #666;
+  display: block;
+  font-size: 0.85em;
+  letter-spacing: 0.02em;
+  margin-bottom: 6px;
+  text-transform: uppercase;
+}
+
+.news-archive details {
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  margin: 12px 0;
+  padding: 12px 16px;
+}
+
+.news-archive summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+#search-input {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-size: 1rem;
+  margin-bottom: 20px;
+  padding: 14px 16px;
+  width: 100%;
+}
+
+#search-input:focus {
+  border-color: #d00000;
+  box-shadow: 0 0 0 3px rgba(208, 0, 0, 0.15);
+  outline: none;
+}
+
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;
