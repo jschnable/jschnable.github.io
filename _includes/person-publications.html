@@ -1,0 +1,45 @@
+{% assign member_id = include.member_id %}
+{% assign limit_count = include.limit | default: 20 %}
+{% if member_id %}
+  {% assign matched = '' | split: '' %}
+  {% for pub in site.data.publications %}
+    {% assign has_member = false %}
+    {% for author in pub.authors %}
+      {% if author.member_id and author.member_id == member_id %}
+        {% assign has_member = true %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+    {% if has_member %}
+      {% assign matched = matched | push: pub %}
+    {% endif %}
+  {% endfor %}
+
+  {% assign preprints = '' | split: '' %}
+  {% assign published = '' | split: '' %}
+  {% for pub in matched %}
+    {% if pub.status and pub.status != 'published' %}
+      {% assign preprints = preprints | push: pub %}
+    {% else %}
+      {% assign published = published | push: pub %}
+    {% endif %}
+  {% endfor %}
+
+  {% assign sorted_preprints = preprints | sort: 'year' | reverse %}
+  {% assign sorted_published = published | sort: 'year' | reverse %}
+
+  {% assign combined = sorted_preprints | concat: sorted_published %}
+
+  {% if combined and combined.size > 0 %}
+    <section class="person-publications">
+      {% unless include.hide_heading %}
+        <h2 class="person-publications__heading">{{ include.heading | default: 'Recent Publications' }}</h2>
+      {% endunless %}
+      <ul class="person-publications__list">
+        {% for pub in combined limit: limit_count %}
+          <li class="person-publications__item">{% include publication-card.html pub=pub highlight_member=member_id %}</li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endif %}
+{% endif %}

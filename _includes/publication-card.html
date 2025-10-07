@@ -1,0 +1,27 @@
+{% assign pub = include.pub -%}
+{% assign highlight_member = include.highlight_member -%}
+{%- assign author_output = "" -%}
+{%- for author in pub.authors -%}
+  {%- if author.truncated -%}
+    {%- assign rendered_author = "..." -%}
+  {%- elsif author.member_id -%}
+    {%- assign is_focus = highlight_member and author.member_id == highlight_member -%}
+    {%- capture rendered_author -%}<strong{% if is_focus %} class="pub-author--highlight"{% endif %}>{{ author.name }}</strong>{%- endcapture -%}
+  {%- else -%}
+    {%- assign rendered_author = author.name -%}
+  {%- endif -%}
+  {%- if forloop.last -%}
+    {%- assign author_output = author_output | append: rendered_author -%}
+  {%- else -%}
+    {%- assign author_output = author_output | append: rendered_author | append: ", " -%}
+  {%- endif -%}
+{%- endfor -%}
+<span class="pub-authors">{{ author_output }}</span>{% if pub.year %} ({{ pub.year }}){% endif %}
+{% if pub.url and pub.title %}<a href="{{ pub.url }}">{{ pub.title }}</a>{% elsif pub.title %}{{ pub.title }}{% endif %}
+{% if pub.journal %} <em>{{ pub.journal }}</em>{% endif %}
+{% if pub.doi %} doi: <a href="https://doi.org/{{ pub.doi }}">{{ pub.doi }}</a>{% endif %}
+{% if pub.author_note %} <em class="author-note">({{ pub.author_note }})</em>{% endif %}
+{% if pub.notes %}{% for note_hash in pub.notes %}{% for note in note_hash %} <em>{{ note[0] }}</em> doi: {{ note[1] }}{% endfor %}{% endfor %}{% endif %}
+{% if pub.status and pub.status != "published" %}
+  <span class="pub-status pub-status--{{ pub.status }}">{{ pub.status | capitalize }}</span>
+{% endif %}
