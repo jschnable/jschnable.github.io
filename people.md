@@ -28,7 +28,7 @@ Meet the scientists, students, and staff who power discovery in the Schnable Lab
     {% elsif person.page %}
       {% assign person_url = person.page %}
     {% endif %}
-    {% assign portrait = person.image | default: '/images/People_Images/placeholder.jpg' %}
+    {% assign portrait = person.image | default: '/images/optimized/People_Images/placeholder.jpg' %}
     <li class="people-card">
       {% if person_url %}<a class="people-card__image-link" href="{{ person_url | relative_url }}">{% endif %}
       <img class="people-card__image" src="{{ portrait | relative_url }}" alt="{{ person.name | escape }}" />
@@ -40,11 +40,19 @@ Meet the scientists, students, and staff who power discovery in the Schnable Lab
       {% assign link_count = 0 %}
       {% if person.cv %}{% assign link_count = link_count | plus: 1 %}{% endif %}
       {% if person.orcid %}{% assign link_count = link_count | plus: 1 %}{% endif %}
+      {% if person.scholar %}{% assign link_count = link_count | plus: 1 %}{% endif %}
       {% if person.socials %}{% assign link_count = link_count | plus: person.socials.size %}{% endif %}
       {% if link_count > 0 %}
       <ul class="people-card__links">
         {% if person.cv %}<li><a href="{{ person.cv | relative_url }}">CV</a></li>{% endif %}
         {% if person.orcid %}<li><a href="https://orcid.org/{{ person.orcid }}">ORCID</a></li>{% endif %}
+        {% if person.scholar %}
+          {% assign scholar_url = person.scholar %}
+          {% unless scholar_url contains '://' %}
+            {% assign scholar_url = 'https://scholar.google.com/citations?user=' | append: person.scholar %}
+          {% endunless %}
+          <li><a href="{{ scholar_url }}">Google Scholar</a></li>
+        {% endif %}
         {% if person.socials %}
           {% for social in person.socials %}
             <li><a href="{{ social.url }}">{{ social.label }}</a></li>

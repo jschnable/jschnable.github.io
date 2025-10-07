@@ -1,0 +1,3879 @@
+- id: 2025-n-offtheshelf-image-analysis
+  year: 2025
+  title: Off-the-shelf image analysis models outperform human visual assessment in identifying genes controlling seed color
+    variation in sorghum.
+  authors:
+  - name: Shrestha N
+    member_id: shrestha-nikee
+  - name: Mangal H
+    member_id: mangal-harshita
+  - name: Torres-Rodriguez JV
+    member_id: torres-rodriguez-vladimir
+  - name: Tross MC
+    member_id: tross-michael
+  - name: Lopez-Corona L
+    member_id: lopez-lina
+  - name: Linders K
+    member_id: linders-kyle
+  - name: Sun G
+    member_id: sun-guangchao
+  - name: Mural RV
+    member_id: mural-ravi
+  - name: Schnable JC
+    member_id: schnable-james
+  status: published
+  type: article
+  journal: The Plant Phenome Journal
+  doi: 10.1002/ppj2.70013
+  url: https://doi.org/10.1002/ppj2.70013
+  notes:
+  - bioRxiv: 10.1101/2024.07.22.604683
+  first_author_is_lab_member: true
+  lab_author_count: 9
+- id: 2025-w-quantitative-genetics-of
+  year: 2025
+  title: Quantitative genetics of photosynthetic trait variation in maize.
+  authors:
+  - name: Ali W
+    member_id: ali-waqar
+  - name: Grzybowski M
+    member_id: grzybowski-marcin
+  - name: Torres-Rodriguez JV
+    member_id: torres-rodriguez-vladimir
+  - name: Li F
+    member_id: li-fangyi
+  - name: Shrestha N
+    member_id: shrestha-nikee
+  - name: Mathivanan RK
+    member_id: mathivanan-ramesh
+  - name: de Bernardeaux G
+  - name: Hoang K
+  - name: Mural R
+  - name: Roston RL
+  - name: Schnable JC
+  - name: Sahay S
+  status: published
+  type: article
+  journal: Journal of Experimental Botany
+  doi: 10.1093/jxb/eraf198
+  url: https://doi.org/10.1093/jxb/eraf198
+  notes:
+  - bioRxiv: 10.1101/2024.11.25.625283
+  first_author_is_lab_member: true
+  lab_author_count: 6
+- id: 2025-h-genes-and-pathways
+  year: 2025
+  title: Genes and pathways determining flowering time variation in temperate adapted sorghum.
+  authors:
+  - name: Mangal H
+    member_id: mangal-harshita
+  - name: Linders K
+    member_id: linders-kyle
+  - name: Turkus J
+    member_id: turkus-jon
+  - name: Shrestha N
+    member_id: shrestha-nikee
+  - name: Long B
+  - name: Kuang X
+  - name: Cebert E
+  - name: Torres-Rodriguez JV
+  - name: Schnable JC
+    member_id: schnable-james
+  status: published
+  type: article
+  journal: The Plant Journal
+  doi: 10.1111/tpj.70250
+  url: https://doi.org/10.1111/tpj.70250
+  notes:
+  - bioRxiv: 10.1101/2024.12.12.628249
+  first_author_is_lab_member: true
+  lab_author_count: 5
+- id: 2025-d-heritability-heterosis-and
+  year: 2025
+  title: Heritability, heterosis, and hybrid/inbred classification ability of maize leaf hyperspectral signals under changing
+    soil nitrogen.
+  authors:
+  - name: Istipliler D
+    member_id: istipliler-deniz
+  - name: Tross MC
+    member_id: tross-michael
+  - name: Bouwens B
+    member_id: bouwens-brooke
+  - name: Jin H
+    member_id: jin-hongyu
+  - name: Yufeng Ge
+  - name: Yang J
+  - name: Mural RV
+  - name: Schnable JC
+    member_id: schnable-james
+  status: published
+  type: article
+  journal: Crop Science
+  doi: 10.1002/csc2.70073
+  url: https://doi.org/10.1002/csc2.70073
+  first_author_is_lab_member: true
+  lab_author_count: 5
+- id: 2025-n-plotlevel-satellite-imagery
+  year: 2025
+  title: Plot-level satellite imagery can substitute for UAVs in assessing maize phenotypes across multistate field trials.
+  authors:
+  - name: Shrestha N
+    member_id: shrestha-nikee
+  - name: Powadi A
+  - name: Davis J
+  - name: Ayanlade TT
+  - name: Liu H
+  - name: Tross MC
+  - name: Mathivanan RK
+    member_id: mathivanan-ramesh
+  - name: Bares J
+    member_id: bares-jordan
+  - name: Lopez-Corona L
+    member_id: lopez-lina
+  - name: Turkus J
+    member_id: turkus-jon
+  - name: Coffey L
+  - name: Tubery TZ
+  - name: Ge Y
+  - name: Sarkar S
+  - name: Schnable JC
+  - name: Ganapathysubramanian B
+  - name: Schnable PS
+  status: published
+  type: article
+  journal: Plants Planet People
+  doi: 10.1002/ppp3.10613
+  url: https://doi.org/10.1002/ppp3.10613
+  notes:
+  - agriRxiv: 10.31220/agriRxiv.2024.00251
+  first_author_is_lab_member: true
+  lab_author_count: 5
+- id: 2025-jm-assessing-the-impact
+  year: 2025
+  title: Assessing the impact of yield plasticity on hybrid performance in maize.
+  authors:
+  - name: Davis JM
+    member_id: davis-jensina
+  - name: Coffey LM
+  - name: Turkus J
+  - name: López-Corona L
+    member_id: lopez-lina
+  - name: Linders K
+    member_id: linders-kyle
+  - name: Ullagaddi C
+    member_id: ullagaddi-chidanand
+  - name: Santra DK
+  - name: Schnable PS
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Physiologia Plantarum
+  doi: 10.1111/ppl.70278
+  url: https://doi.org/10.1111/ppl.70278
+  notes:
+  - bioRxiv: 10.1101/2025.01.21.634104
+  first_author_is_lab_member: true
+  lab_author_count: 4
+- id: 2025-rk-transcripts-and-genomic
+  year: 2025
+  title: Transcripts and genomic intervals associated with variation in metabolite abundance in maize leaves under field conditions.
+  authors:
+  - name: Mathivanan RK
+    member_id: mathivanan-ramesh
+  - name: Pedersen C
+  - name: Turkus J
+  - name: Shrestha N
+    member_id: shrestha-nikee
+  - name: Torres-Rodriguez JV
+    member_id: torres-rodriguez-vladimir
+  - name: Mural RV
+    member_id: mural-ravi
+  - name: Obata T
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: BMC Genomics
+  doi: 10.1186/s12864-025-11580-3
+  url: https://doi.org/10.1186/s12864-025-11580-3
+  notes:
+  - bioRxiv: 10.1101/2024.08.26.609532
+  first_author_is_lab_member: true
+  lab_author_count: 4
+- id: 2025-jm-d-reconstruction-enables
+  year: 2025
+  title: 3D reconstruction enables high-throughput phenotyping and quantitative genetic analysis of phyllotaxy.
+  authors:
+  - name: Davis JM
+    member_id: davis-jensina
+  - name: Gaillard M
+  - name: Tross MC
+  - name: Shrestha N
+    member_id: shrestha-nikee
+  - name: Ostermann I
+  - name: Grove RJ
+  - name: Li B
+  - name: Benes B
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Plant Phenomics
+  doi: 10.1016/j.plaphe.2025.100023
+  url: https://doi.org/10.1016/j.plaphe.2025.100023
+  notes:
+  - bioRxiv: 10.1101/2024.10.03.616344
+  first_author_is_lab_member: true
+  lab_author_count: 2
+- id: 2025-f-nighttime-fluorescence-phenotyping
+  year: 2025
+  title: Nighttime fluorescence phenotyping reduces environmental variability for photosynthetic traits and enables the identification
+    of candidate loci in maize.
+  authors:
+  - name: Li F
+    member_id: li-fangyi
+  - name: Grzybowski M
+    member_id: grzybowski-marcin
+  - name: Roston RL
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Frontiers in Plant Science
+  doi: 10.3389/fpls.2025.1595339
+  url: https://doi.org/10.3389/fpls.2025.1595339
+  first_author_is_lab_member: true
+  lab_author_count: 2
+- id: 2025-jv-evolving-best-practices
+  year: 2025
+  title: Evolving best practices for transcriptome-wide association studies accelerate discovery of gene-phenotype links.
+  authors:
+  - name: Torres-Rodriguez JV
+    member_id: torres-rodriguez-vladimir
+  - name: Li D
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Current Opinion in Plant Biology
+  doi: 10.1016/j.pbi.2024.102670
+  url: https://doi.org/10.1016/j.pbi.2024.102670
+  first_author_is_lab_member: true
+  lab_author_count: 1
+- id: 2025-h-nitrogen-response-and
+  year: 2025
+  title: Nitrogen response and growth trajectory of sorghum CRISPR-Cas9 mutants using high-throughput phenotyping.
+  authors:
+  - name: Jin H
+    member_id: jin-hongyu
+  - name: Park A
+  - name: Sreedasyam A
+  - name: Li G
+  - name: Ge Y
+  - name: Swaminathan K
+  - name: Schmutz J
+  - name: Clemente TE
+  - name: Schnable JC
+  - name: Yang J
+  status: published
+  type: article
+  journal: Genomics Communications
+  doi: 10.48130/gcomm-0025-0011
+  url: https://doi.org/10.48130/gcomm-0025-0011
+  notes:
+  - bioRxiv: 10.1101/2024.12.13.624727
+  first_author_is_lab_member: true
+  lab_author_count: 1
+- id: 2025-zhongjie-scalable-methods-for
+  year: 2025
+  title: Scalable methods for quantifying the stay green ability of corn for yield prediction by using satellite images.
+  authors:
+  - name: Ji Zhongjie
+    member_id: ji-zhongjie
+  - name: Ge Y
+  - name: Schnable JC
+  status: preprint
+  type: article
+  doi: 10.31220/agriRxiv.2025.00339
+  url: https://doi.org/10.31220/agriRxiv.2025.00339
+  notes:
+  - agriRxiv: 10.31220/agriRxiv.2025.00339
+  first_author_is_lab_member: true
+  lab_author_count: 1
+- id: 2025-h-maizeearsam-zeroshot-maize
+  year: 2025
+  title: 'MaizeEar-SAM: Zero-shot maize ear phenotyping.'
+  authors:
+  - name: Zaremehrjerdi H
+  - name: Coffey L
+  - name: Jubery T
+  - name: Liu H
+  - name: Turkus J
+    member_id: turkus-jon
+  - name: Linders K
+    member_id: linders-kyle
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Schnable PS
+  - name: Ganapathysubramanian B
+  status: preprint
+  type: preprint
+  journal: arXiv
+  doi: 10.48550/arXiv.2502.13399
+  url: https://doi.org/10.48550/arXiv.2502.13399
+  first_author_is_lab_member: false
+  lab_author_count: 3
+- id: 2025-a-enhancing-yield-prediction
+  year: 2025
+  title: Enhancing yield prediction from plot-level satellite imagery through genotype and environment feature disentanglement.
+  authors:
+  - name: Powadi A
+  - name: Jubery T
+  - name: Tross M
+    member_id: tross-michael
+  - name: Shrestha N
+    member_id: shrestha-nikee
+  - name: Coffey L
+  - name: Schnable JC
+  - name: Schnable PS
+  - name: Ganapathysubramanian B
+  status: published
+  type: article
+  journal: Frontiers in Plant Science
+  doi: 10.3389/fpls.2025.1617831
+  url: https://doi.org/10.3389/fpls.2025.1617831
+  first_author_is_lab_member: false
+  lab_author_count: 2
+- id: 2025-jo-designing-a-nitrogen
+  year: 2025
+  title: Designing a nitrogen efficient cold tolerant maize for modern agricultural systems.
+  authors:
+  - name: Ojeda-Rivera JO
+  - name: Barnes A
+  - name: Ainsworth EA
+  - truncated: true
+  - name: Schnable JC
+    member_id: schnable-james
+  - truncated: true
+  - name: Zou J
+  - name: Buckler ES
+  status: published
+  type: article
+  journal: The Plant Cell
+  doi: 10.1093/plcell/koaf139
+  url: https://doi.org/10.1093/plcell/koaf139
+  author_note: Schnable JC is 48 of 56 authors
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2025-k-employing-spectral-features
+  year: 2025
+  title: Employing spectral features to accelerate sorghum phenotyping against sap-feeding aphids.
+  authors:
+  - name: Shrestha K
+  - name: Thapa K
+  - name: Kaler E
+  - name: Taniguchi M
+  - name: Sattler S
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Louis J
+  status: published
+  type: article
+  journal: Plant Direct
+  doi: 10.1002/pld3.70092
+  url: https://doi.org/10.1002/pld3.70092
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2025-tn-in-context-promoter
+  year: 2025
+  title: In context promoter bashing of the Sorghum bicolor gene models functionally annotated as bundle sheath cell preferred
+    expressing phosphoenolpyruvate carboxykinase and alanine aminotransferase.
+  authors:
+  - name: Quach TN
+  - name: Guo M
+  - name: Nazarenus T
+  - name: Sato SJ
+  - name: Wang M
+  - name: Zhang T
+  - name: Nersesian N
+  - name: Ge Z
+  - name: Ullagaddi C
+    member_id: ullagaddi-chidanand
+  - name: Yu B
+  - name: Schnable JC
+  - name: Clemente TE
+  status: published
+  type: article
+  journal: Sorghum bicolor
+  doi: 10.1002/csc2.70039
+  url: https://doi.org/10.1002/csc2.70039
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2025-f-phenotypic-plasticity-in
+  year: 2025
+  title: 'Phenotypic plasticity in maize grain yield: genetic and environmental insights of response to environmental gradients.'
+  authors:
+  - name: Ozair F
+  - name: Adak A
+  - name: Murray S
+  - truncated: true
+  - name: Schnable JC
+    member_id: schnable-james
+  - truncated: true
+  - name: Thompson A
+  - name: Weldekidan T
+  - name: Xu W
+  status: published
+  type: article
+  journal: The Plant Genome
+  doi: 10.1002/tpg2.70078
+  url: https://doi.org/10.1002/tpg2.70078
+  author_note: Schnable JC is 11 of 16 authors
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2025-p-positioning-accuracy-of
+  year: 2025
+  title: Positioning accuracy of RTK-GNSS-enabled drones and their performance in agricultural crop sensing.
+  authors:
+  - name: Izere P
+  - name: Zhao B
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Ge Y
+  - name: Shi Y
+  status: published
+  type: article
+  journal: Journal of the ASABE
+  doi: 10.13031/ja.16306
+  url: https://elibrary.asabe.org/abstract.asp?AID=55510&t=3&dabs=Y&redir=&redirType=
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2025-a-unveiling-shared-genetic
+  year: 2025
+  title: Unveiling shared genetic regulators for plant architectural and biomass yield traits in sorghum.
+  authors:
+  - name: Singh A
+  - name: Newton L
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Thompson AM
+  status: published
+  type: article
+  journal: Journal of Experimental Botany
+  doi: 10.1093/jxb/eraf012
+  url: https://doi.org/10.1093/jxb/eraf012
+  notes:
+  - bioRxiv: 10.1101/2024.03.13.584802
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2024-jv-population-level-gene
+  year: 2024
+  title: Population level gene expression can repeatedly link genes to functions in maize.
+  authors:
+  - name: Torres-Rodriguez JV
+    member_id: torres-rodriguez-vladimir
+  - name: Li D
+  - name: Turkus J
+  - name: Newton L
+  - name: Davis J
+  - name: Lopez-Corona L
+    member_id: lopez-lina
+  - name: Ali W
+    member_id: ali-waqar
+  - name: Sun G
+    member_id: sun-guangchao
+  - name: Mural RV
+    member_id: mural-ravi
+  - name: Grzybowski M
+    member_id: grzybowski-marcin
+  - name: Zamft B
+  - name: Thompson AM
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: The Plant Journal
+  doi: 10.1101/2023.10.31.565032
+  url: https://doi.org/10.1111/tpj.16801
+  notes:
+  - bioRxiv: 10.1101/2023.10.31.565032
+  first_author_is_lab_member: true
+  lab_author_count: 6
+- id: 2024-mc-data-driven-discovery
+  year: 2024
+  title: Data driven discovery and quantification of hyperspectral leaf reflectance phenotypes across a maize diversity panel.
+  authors:
+  - name: Tross MC
+    member_id: tross-michael
+  - name: Grzybowski M
+    member_id: grzybowski-marcin
+  - name: Jubery TZ
+  - name: Grove RJ
+  - name: Nishimwe AV
+    member_id: nishimwe-aime
+  - name: Torres-Rodriguez JV
+    member_id: torres-rodriguez-vladimir
+  - name: Sun G
+    member_id: sun-guangchao
+  - name: Ganapathysubramanian B
+  - name: Ge Y
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: The Plant Phenome Journal
+  doi: 10.1002/ppj2.20106
+  url: https://doi.org/10.1002/ppj2.20106
+  notes:
+  - bioRxiv: 10.1101/2023.12.15.571950
+  first_author_is_lab_member: true
+  lab_author_count: 5
+- id: 2024-n-genomic-colocalization-of
+  year: 2024
+  title: Genomic co-localization of variation affecting agronomic and human gut microbiome traits in a meta-analysis of diverse
+    sorghum.
+  authors:
+  - name: Korth N
+    member_id: korth-nate
+  - name: Yang Q
+  - name: Van Haute MJ
+  - name: Tross MC
+  - name: Peng B
+  - name: Shrestha N
+  - name: Zwiener M
+    member_id: zwiener-mackenzie
+  - name: Mural RV
+    member_id: mural-ravi
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Benson AK
+  status: published
+  type: article
+  doi: 10.1093/g3journal/jkae145
+  url: https://doi.org/10.1093/g3journal/jkae145
+  notes:
+  - bioRxiv: 10.1101/2023.09.20.558616
+  first_author_is_lab_member: true
+  lab_author_count: 4
+- id: 2024-h-imitating-the-breeders
+  year: 2024
+  title: 'Imitating the "breeder’s eye": predicting grain yield from measurements of non-yield traits.'
+  authors:
+  - name: Jin H
+    member_id: jin-hongyu
+  - name: Tross MC
+    member_id: tross-michael
+  - name: Tan R
+  - name: Newton L
+  - name: Mural RV
+  - name: Yang J
+  - name: Thompson AM
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: The Plant Phenome Journal
+  doi: 10.1002/ppj2.20102
+  url: https://doi.org/10.1002/ppj2.20102
+  notes:
+  - bioRxiv: 10.1101/2023.11.29.568906
+  first_author_is_lab_member: true
+  lab_author_count: 2
+- id: 2024-mc-models-trained-to
+  year: 2024
+  title: Models trained to predict differential expression across plant organs identify distal and proximal regulatory regions.
+  authors:
+  - name: Tross MC
+    member_id: tross-michael
+  - name: Duggan G
+  - name: Shrestha N
+  - name: Schnable JC
+    member_id: schnable-james
+  status: preprint
+  type: article
+  doi: 10.1101/2024.06.04.597477
+  url: https://doi.org/10.1101/2024.06.04.597477
+  notes:
+  - bioRxiv: 10.1101/2024.06.04.597477
+  first_author_is_lab_member: true
+  lab_author_count: 2
+- id: 2024-skk-rhythmic-lipid-and
+  year: 2024
+  title: Rhythmic lipid and gene expression responses to chilling in panicoid grasses.
+  authors:
+  - name: Raju SKK
+    member_id: raju-sunil
+  - name: Zhang Y
+    member_id: zhang-yang
+  - name: Mahboub S
+  - name: Ngu DW
+  - name: Qiu Y
+  - name: Harmon FG
+  - name: Schnable JC
+  - name: Roston RL
+  status: published
+  type: article
+  journal: Journal of Experimental Botany
+  doi: 10.1093/jxb/erae247
+  url: https://doi.org/10.1093/jxb/erae247
+  notes:
+  - bioRxiv: 10.1101/2023.09.29.560160
+  first_author_is_lab_member: true
+  lab_author_count: 2
+- id: 2024-h-thi-gene-evolutionary
+  year: 2024
+  title: 'THI1 gene evolutionary trends: A comprehensive plant-focused Assessment via data Mining and large-scale analysis.'
+  authors:
+  - name: Moura Dias H
+    member_id: dias-henrique
+  - name: de Teledo NA
+  - name: Mural RV
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Van Sluys MA
+  status: published
+  type: article
+  journal: Genome Biology and Evolution
+  doi: 10.1093/gbe/evae212
+  url: https://doi.org/10.1093/gbe/evae212
+  first_author_is_lab_member: true
+  lab_author_count: 2
+- id: 2024-km-variation-in-leaf
+  year: 2024
+  title: Variation in leaf chlorophyll concentration in response to nitrogen application across maize hybrids in contrasting
+    environments.
+  authors:
+  - name: Linders KM
+    member_id: linders-kyle
+  - name: Santra D
+  - name: Schnable JC
+  - name: Sigmon B
+    member_id: sigmon-brandi
+  status: published
+  type: article
+  journal: microPublication Biology
+  doi: 10.17912/micropub.biology.001115
+  url: https://doi.org/10.17912/micropub.biology.001115
+  first_author_is_lab_member: true
+  lab_author_count: 2
+- id: 2024-d-twas-facilitates-genescale
+  year: 2024
+  title: TWAS facilitates gene-scale trait genetic dissection through gene expression, structural variations, and alternative
+    splicing in soybean.
+  authors:
+  - name: Li D
+    member_id: li-delin
+  - name: Wang Q
+  - name: Tian Y
+  - name: Lyu X
+  - name: Zhang H
+  - name: Sun Y
+  - name: Hong H
+  - name: Gao H
+  - name: Li Y
+  - name: Zhao C
+  - name: Wang J
+  - name: Wang R
+  - name: Yang J
+  - name: Liu B
+  - name: Schnable PS
+  - name: Schnable JC
+  - name: Li Y
+  - name: Qiu L
+  status: published
+  type: article
+  journal: Plant Communications
+  doi: 10.1016/j.xplc.2024.101010
+  url: https://doi.org/10.1016/j.xplc.2024.101010
+  notes:
+  - bioRxiv: 10.1101/2023.07.03.545230
+  first_author_is_lab_member: true
+  lab_author_count: 1
+- id: 2024-s-nonphotochemical-quenching-kinetics
+  year: 2024
+  title: Nonphotochemical quenching kinetics GWAS in sorghum identifies genes that may play conserved roles in maize and Arabidopsis
+    thaliana photoprotection.
+  authors:
+  - name: Sahay S
+  - name: Shrestha N
+    member_id: shrestha-nikee
+  - name: Moura Dias H
+    member_id: dias-henrique
+  - name: Mural RV
+    member_id: mural-ravi
+  - name: Grzybowski M
+    member_id: grzybowski-marcin
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Glowacka K
+  status: published
+  type: article
+  journal: The Plant Journal
+  doi: 10.1111/tpj.16967
+  url: https://doi.org/10.1111/tpj.16967
+  notes:
+  - bioRxiv: 10.1101/2023.08.29.555201
+  first_author_is_lab_member: false
+  lab_author_count: 5
+- id: 2024-i-sorghum-segmentation-and
+  year: 2024
+  title: Sorghum segmentation and leaf counting using an in silico trained deep neural model.
+  authors:
+  - name: Ostermann I
+  - name: Benes B
+  - name: Gaillard M
+  - name: Li B
+  - name: Davis J
+    member_id: davis-jensina
+  - name: Grove RJ
+    member_id: grove-ryleigh
+  - name: Shrestha N
+    member_id: shrestha-nikee
+  - name: Tross MC
+    member_id: tross-michael
+  - name: Schnable JC
+    member_id: schnable-james
+  status: published
+  type: article
+  journal: in silico
+  doi: 10.1002/ppj2.70002
+  url: https://doi.org/10.1002/ppj2.70002
+  first_author_is_lab_member: false
+  lab_author_count: 5
+- id: 2024-a-disentangling-genotype-and
+  year: 2024
+  title: Disentangling genotype and environment specific latent features for improved trait prediction using a compositional
+    autoencoder.
+  authors:
+  - name: Powadi A
+  - name: Jubery TZ
+  - name: Tross M
+    member_id: tross-michael
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Ganapathysubramanian B
+  status: published
+  type: article
+  journal: Frontiers in Plant Science
+  doi: 10.3389/fpls.2024.1476070
+  url: https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1476070/abstract
+  first_author_is_lab_member: false
+  lab_author_count: 2
+- id: 2024-s-genotypespecific-nonphotochemical-quenching
+  year: 2024
+  title: Genotype-specific nonphotochemical quenching responses to nitrogen deficit are linked to chlorophyll a to b ratios.
+  authors:
+  - name: Sahay S
+  - name: Grzybowski M
+    member_id: grzybowski-marcin
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Glowacka K
+  status: published
+  type: article
+  journal: Journal of Plant Physiology
+  doi: 10.1016/j.jplph.2024.154261
+  url: https://doi.org/10.1016/j.jplph.2024.154261
+  first_author_is_lab_member: false
+  lab_author_count: 2
+- id: 2024-y-dissecting-the-genetic
+  year: 2024
+  title: Dissecting the genetic architecture of sunflower disc diameter using genome-wide association study.
+  authors:
+  - name: Delen Y
+  - name: Mural RV
+    member_id: mural-ravi
+  - name: Xu G
+  - name: Delen SP
+  - name: Schnable JC
+  - name: Dweikat I
+  - name: Yang J
+  status: published
+  type: article
+  journal: Plant Direct
+  doi: 10.1002/pld3.70010
+  url: https://doi.org/10.1002/pld3.70010
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2024-j-genetic-and-environmental
+  year: 2024
+  title: Genetic and environmental patterns underlying phenotypic plasticity in flowering time and plant height in sorghum.
+  authors:
+  - name: Wei J
+  - name: Guo T
+  - name: Mu Q
+  - name: Alladassi M
+  - name: Mural RV
+    member_id: mural-ravi
+  - name: Boyles RE
+  - name: Hoffman L
+  - name: Hayes CM
+  - name: Sigmon B
+  - name: Thompson AM
+  - name: Salas-Fernandez M
+  - name: Rooney WL
+  - name: Kresovich S
+  - name: Schnable JC
+  - name: Li X
+  - name: Yu J
+  status: published
+  type: article
+  journal: Plant, Cell and Environment
+  doi: 10.1111/pce.15213
+  url: https://doi.org/10.1111/pce.15213
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2024-r-genomewide-association-study
+  year: 2024
+  title: Genome-wide association study reveals marker-trait associations for major agronomic traits in proso millet (Panicum
+    miliaceum L.).
+  authors:
+  - name: Khound R
+  - name: Rajput SG
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Mani V
+  - name: Dipak SK
+  status: published
+  type: article
+  journal: Panicum miliaceum
+  doi: 10.1007/s00425-024-04465-4
+  url: https://doi.org/10.1007/s00425-024-04465-4
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2024-l-gwas-analysis-for
+  year: 2024
+  title: GWAS analysis for plant height and stem diameter in sorghum using multiple phenotyping approaches.
+  authors:
+  - name: Boatwright L
+  - name: Thudi M
+  - name: Sangiredday MKR
+  - name: Coffin AW
+  - name: Tadesse HK
+  - name: Vutla S
+  - name: Harris-Shultz K
+  - name: Knoll JE
+  - name: Cuevas H
+  - name: Kumar N
+  - name: Soman C
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Punnuri SM
+  status: published
+  type: article
+  journal: The Plant Phenome Journal
+  doi: 10.1002/ppj2.70008
+  url: https://doi.org/10.1002/ppj2.70008
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2024-g-highthroughput-physiological-phenotyping
+  year: 2024
+  title: High-throughput physiological phenotyping of crop evapotranspiration at the plot scale.
+  authors:
+  - name: Bai G
+  - name: Barker B
+  - name: Scoby D
+  - name: Irmak S
+  - name: Luck JD
+  - name: Neale CMU
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Awada T
+  - name: Kustas WP
+  - name: Ge Y
+  status: published
+  type: article
+  journal: Field Crop Research
+  doi: 10.1016/j.fcr.2024.109507
+  url: https://doi.org/10.1016/j.fcr.2024.109507
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2024-e-image-filtering-to
+  year: 2024
+  title: Image filtering to improve maize tassel detection accuracy using machine learning algorithms.
+  authors:
+  - name: Rodene E
+  - name: Fernando GD
+  - name: Piyush V
+  - name: Ge Y
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Ghosh S
+  - name: Yang J
+  status: published
+  type: article
+  journal: Sensors
+  doi: 10.3390/s24072172
+  url: https://doi.org/10.3390/s24072172
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2024-r-optimizing-feature-selection
+  year: 2024
+  title: Optimizing feature selection with gradient boosting machines in PLS regression for predicting moisture and protein
+    in multi-Country corn kernels via NIR spectroscopy.
+  authors:
+  - name: Zheng R
+  - name: Jia Y
+  - name: Ullagaddi C
+    member_id: ullagaddi-chidanand
+  - name: Allen C
+  - name: Rausch K
+  - name: Singh V
+  - name: Schnable JC
+  - name: Kamruzzaman M
+  status: published
+  type: article
+  journal: Food Chemistry
+  doi: 10.1016/j.foodchem.2024.140062
+  url: https://doi.org/10.1016/j.foodchem.2024.140062
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2024-a-plantsegnet-d-point
+  year: 2024
+  title: 'PlantSegNet: 3D point cloud instance segmentation of nearby plant organs with identical semantics.'
+  authors:
+  - name: Zarei A
+  - name: Li B
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Lyons E
+  - name: Pauli D
+  - name: Benes B
+  - name: Barnard K
+  status: published
+  type: article
+  journal: Computers and Electronics in Agriculture
+  doi: 10.1016/j.compag.2024.108922
+  url: https://doi.org/10.1016/j.compag.2024.108922
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2023-g-a-role-for
+  year: 2023
+  title: A role for heritable transcriptomic variation in maize adaptation to temperate environments.
+  authors:
+  - name: Sun G
+    member_id: sun-guangchao
+  - name: Yu H
+  - name: Wang P
+  - name: Lopez-Guerrero MG
+  - name: Mural RV
+  - name: Mizero ON
+    member_id: mizero-olivier
+  - name: Grzybowski M
+    member_id: grzybowski-marcin
+  - name: Song B
+  - name: van Dijk K
+  - name: Schachtman DP
+  - name: Zhang C
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Genome Biology
+  doi: 10.1186/s13059-023-02891-3
+  url: https://doi.org/10.1186/s13059-023-02891-3
+  notes:
+  - bioRxiv: 10.1101/2022.01.28.478212
+  first_author_is_lab_member: true
+  lab_author_count: 3
+- id: 2023-m-a-common-resequencingbased
+  year: 2023
+  title: A common resequencing-based genetic marker dataset for global maize diversity.
+  authors:
+  - name: Grzybowski M
+    member_id: grzybowski-marcin
+  - name: Mural RV
+    member_id: mural-ravi
+  - name: Xu G
+  - name: Turkus
+  - name: J
+  - name: Yang Jinliang
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: The Plant Journal
+  doi: 10.1111/tpj.16123
+  url: https://doi.org/10.1111/tpj.16123
+  first_author_is_lab_member: true
+  lab_author_count: 2
+- id: 2023-s-genetic-control-of
+  year: 2023
+  title: Genetic control of photoprotection and photosystem II operating efficiency in plants.
+  authors:
+  - name: Sahay S
+  - name: Grzybowski M
+    member_id: grzybowski-marcin
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Glowacka K
+  status: published
+  type: article
+  journal: New Phytologist
+  doi: 10.1111/nph.18980
+  url: https://doi.org/10.1111/nph.18980
+  first_author_is_lab_member: false
+  lab_author_count: 2
+- id: 2023-m-multiview-triangulation-without
+  year: 2023
+  title: Multi-view triangulation without correspondences.
+  authors:
+  - name: Gaillard M
+  - name: Benes B
+  - name: Tross MC
+    member_id: tross-michael
+  - name: Schnable JC
+    member_id: schnable-james
+  status: published
+  type: article
+  journal: Computers and Electronics in Agriculture
+  doi: 10.1016/j.compag.2023.107688
+  url: https://doi.org/10.1016/j.compag.2023.107688
+  first_author_is_lab_member: false
+  lab_author_count: 2
+- id: 2023-j-phenotypic-variation-in
+  year: 2023
+  title: Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites.
+  authors:
+  - name: Engelhorn J
+  - name: Snodgrass S
+  - name: Kok A
+  - name: Seetharam A
+  - name: Schneider M
+  - name: Kiwit T
+  - name: Singh A
+  - name: Banf M
+  - name: Khaipho-Burch M
+  - name: Runcie D
+  - name: Camargo V
+  - name: Torres-Rodriguez JV
+    member_id: torres-rodriguez-vladimir
+  - name: Sun G
+    member_id: sun-guangchao
+  - name: Stam M
+  - name: Fiorani F
+  - name: Schnable JC
+  - name: Bass H
+  - name: Hufford M
+  - name: Stich B
+  - name: Frommer W
+  - name: Ross-Ibarra J
+  - name: Hartwig T
+  status: preprint
+  type: article
+  doi: 10.1101/2023.08.08.551183
+  url: https://doi.org/10.1101/2023.08.08.551183
+  notes:
+  - bioRxiv: 10.1101/2023.08.08.551183
+  first_author_is_lab_member: false
+  lab_author_count: 2
+- id: 2023-dc-field-seasons-of
+  year: 2023
+  title: 2018–2019 field seasons of the Maize Genomes to Fields (G2F) G x E project.
+  authors:
+  - name: Lima DC
+  - name: Aviles AC
+  - name: Alphers RT
+  - truncated: true
+  - name: Schnable JC
+    member_id: schnable-james
+  - truncated: true
+  - name: Wisser RJ
+  - name: Xu W
+  - name: de Leon N
+  status: published
+  type: article
+  journal: BMC Genomic Data
+  doi: 10.1186/s12863-023-01129-2
+  url: https://doi.org/10.1186/s12863-023-01129-2
+  author_note: Schnable JC is 26 of 37 authors
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2023-dc-field-seasons-of
+  year: 2023
+  title: 2020-2021 field seasons of Maize GxE project within the Genomes to Fields Initiative.
+  authors:
+  - name: Lima DC
+  - name: Aviles AC
+  - name: Alpers RT
+  - truncated: true
+  - name: Schnable JC
+    member_id: schnable-james
+  - truncated: true
+  - name: Weldekidan T
+  - name: Xu W
+  - name: de Leon N
+  status: published
+  type: article
+  doi: 10.1186/s13104-023-06430-y
+  url: https://doi.org/10.1186/s13104-023-06430-y
+  author_note: Schnable JC is 24 of 35 authors
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2023-j-a-complete-telomeretotelomere
+  year: 2023
+  title: A complete telomere-to-telomere assembly of the maize genome.
+  authors:
+  - name: Chen J
+  - name: Wang Z
+  - name: Tan K
+  - name: Huang W
+  - name: Shi J
+  - name: Li T
+  - name: Hu KJ
+  - name: Wang K
+  - name: Wang C
+  - name: Xin B
+  - name: Zhao H
+  - name: Song W
+  - name: Hufford MB
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Jin W
+  - name: Lai J
+  status: published
+  type: article
+  journal: Nature Genetics
+  doi: 10.1038/s41588-023-01419-6
+  url: https://doi.org/10.1038/s41588-023-01419-6
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2023-nk-a-leaflevel-spectral
+  year: 2023
+  title: 'A leaf-level spectral library to support high throughput plant phenotyping: Predictive accuracy and model transfer.'
+  authors:
+  - name: Wijewardane NK
+  - name: Zhang H
+  - name: Yang J
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Schachtman DP
+  - name: Ge Y
+  status: published
+  type: article
+  journal: Journal of Experimental Botany
+  doi: 10.1093/jxb/erad129
+  url: https://doi.org/10.1093/jxb/erad129
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2023-m-localization-of-crop
+  year: 2023
+  title: Localization of crop damage utilizing a wake up gas sensor network.
+  authors:
+  - name: Noh M
+  - name: Sium F
+  - name: Tope S
+  - name: Khan S
+  - name: Karkhanis M
+  - name: Wang L
+  - name: Deshpande A
+  - name: Dalapati R
+  - name: Mural RV
+    member_id: mural-ravi
+  - name: Mastrangelo C
+  - name: Zang L
+  - name: Ji M
+  - name: Schnable JC
+  - name: Kim H
+  status: published
+  type: article
+  journal: Transducers 2023
+  url: https://ieeexplore.ieee.org/abstract/document/10516771
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2023-r-multiple-highly-expressed
+  year: 2023
+  title: Multiple highly expressed phosphoenolpyruvate carboxylase genes have divergent enzyme kinetic properties in two C4
+    grasses.
+  authors:
+  - name: DiMario R
+  - name: Kophs A
+  - name: Apalla A
+  - name: Schnable JS
+    member_id: schnable-james
+  - name: Cousins A
+  status: published
+  type: article
+  journal: Annals Of Botany
+  doi: 10.1093/aob/mcad116
+  url: https://doi.org/10.1093/aob/mcad116
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2023-ac-oligogalactolipid-production-during
+  year: 2023
+  title: Oligogalactolipid production during cold challenge is conserved in early diverging lineages.
+  authors:
+  - name: Barnes AC
+  - name: Myers JL
+  - name: Surber SM
+  - name: Liang Z
+    member_id: liang-zhikai
+  - name: Mower JP
+  - name: Schnable JC
+  - name: Roston RL
+  status: published
+  type: article
+  journal: Journal of Experimental Botany
+  doi: 10.1093/jxb/erad241
+  url: https://doi.org/10.1093/jxb/erad241
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2023-c-role-of-the
+  year: 2023
+  title: Role of the genomics–phenomics–agronomy paradigm in plant breeding.
+  authors:
+  - name: Chen C
+  - name: Rutkoski J
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Murray S
+  - name: Wang L
+  - name: Jin X
+  - name: Stich B
+  - name: Crossa J
+  - name: Hayes B Zhang Z
+  status: published
+  type: article
+  journal: Plant Breeding Reviews
+  doi: 10.1002/9781119874157.ch10
+  url: https://doi.org/10.1002/9781119874157.ch10
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2023-d-yield-prediction-through
+  year: 2023
+  title: Yield prediction through integration of genetic, environment, and management data through deep learning.
+  authors:
+  - name: Kick D
+  - name: Wallace J
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Kolkman JM
+  - name: Alaca B
+  - name: Beissinger TM
+  - name: Ertl D
+  - name: Flint-Garcia S
+  - name: Gage JL
+  - name: Hirsch CN
+  - name: Knoll JE
+  - name: de Leon N
+  - name: Lima DC
+  - name: Moreta D
+  - name: Singh MP
+  - name: Weldekidan T
+  - name: Washburn JD
+  status: published
+  type: article
+  doi: 10.1093/g3journal/jkad006
+  url: https://doi.org/10.1093/g3journal/jkad006
+  notes:
+  - bioRxiv: 10.1101/2022.07.29.502051
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2022-rv-association-mapping-across
+  year: 2022
+  title: Association mapping across a multitude of traits collected in diverse environments identifies pleiotropic loci in
+    maize.
+  authors:
+  - name: Mural RV
+    member_id: mural-ravi
+  - name: Sun G
+    member_id: sun-guangchao
+  - name: Grzybowski M
+    member_id: grzybowski-marcin
+  - name: Tross MC
+    member_id: tross-michael
+  - name: Jin H
+    member_id: jin-hongyu
+  - name: Smith C
+    member_id: smith-christine
+  - name: Newton L
+  - name: Andorf CM
+  - name: Woodhouse MR
+  - name: Thompson AM
+  - name: Sigmon B
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Gigascience
+  doi: 10.1093/gigascience/giac080
+  url: https://doi.org/10.1093/gigascience/giac080
+  notes:
+  - bioRxiv: 10.1101/2022.02.25.480753
+  first_author_is_lab_member: true
+  lab_author_count: 6
+- id: 2022-g-genome-of-paspalum
+  year: 2022
+  title: Genome of Paspalum vaginatum and the role of trehalose mediated autophagy in increasing maize biomass.
+  authors:
+  - name: Sun G
+    member_id: sun-guangchao
+  - name: Wase N
+  - name: Su S
+  - name: Jenkins J
+  - name: Zhou B
+  - name: Torres-Rodriguez JT
+  - truncated: true
+  - name: Foltz A
+    member_id: foltz-ashley
+  - truncated: true
+  - name: Sigmon B
+    member_id: sigmon-brandi
+  - name: Yu B
+  - name: Obata T
+  - name: Schmutz J
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Paspalum vaginatum
+  doi: 10.1038/s41467-022-35507-8
+  url: https://doi.org/10.1038/s41467-022-35507-8
+  notes:
+  - bioRxiv: 10.1101/2021.08.18.456832
+  author_note: Foltz A is 17 of 26 authors
+  first_author_is_lab_member: true
+  lab_author_count: 3
+- id: 2022-m-variation-in-morphophysiological
+  year: 2022
+  title: Variation in morpho-physiological and metabolic responses to low nitrogen stress across the sorghum association panel.
+  authors:
+  - name: Grzybowski M
+    member_id: grzybowski-marcin
+  - name: Zweiner M
+  - name: Jin H
+    member_id: jin-hongyu
+  - name: Wijewardane NK
+  - name: Atefi A
+  - name: Naldrett MJ
+  - name: Alvarez S
+  - name: Ge Y
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: BMC Plant Biology
+  doi: 10.1101/2022.06.08.495271
+  url: https://doi.org/10.1186/s12870-022-03823-2
+  notes:
+  - bioRxiv: 10.1101/2022.06.08.495271
+  first_author_is_lab_member: true
+  lab_author_count: 2
+- id: 2022-rv-can-the-grains
+  year: 2022
+  title: Can the grains offer each other helping hands? Convergent molecular mechanisms associated with domestication and
+    crop improvement in rice and maize.
+  authors:
+  - name: Mural RV
+    member_id: mural-ravi
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Molecular Plant
+  doi: 10.1016/j.molp.2022.04.003
+  url: https://doi.org/10.1016/j.molp.2022.04.003
+  first_author_is_lab_member: true
+  lab_author_count: 1
+- id: 2022-n-the-unique-seed
+  year: 2022
+  title: The unique seed protein composition of quality protein popcorn promotes growth of beneficial bacteria from the human
+    gut microbiome.
+  authors:
+  - name: Korth N
+    member_id: korth-nate
+  - name: Parsons L
+  - name: Van Haute M
+  - name: Yang Q
+  - name: Hurst JP
+  - name: Schnable JC
+  - name: Holding DR
+  - name: Benson AK
+  status: published
+  type: article
+  journal: Frontiers in Microbiology
+  doi: 10.3389/fmicb.2022.921456
+  url: https://www.frontiersin.org/articles/10.3389/fmicb.2022.921456/abstract
+  first_author_is_lab_member: true
+  lab_author_count: 1
+- id: 2022-r-snp-discovery-in
+  year: 2022
+  title: SNP Discovery in Proso millet (Panicum miliaceum L.) using low-pass genome sequencing.
+  authors:
+  - name: Khound R
+  - name: Sun G
+    member_id: sun-guangchao
+  - name: Mural RV
+    member_id: mural-ravi
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Santra D
+  status: published
+  type: article
+  journal: Panicum miliaceum
+  doi: 10.1002/pld3.447
+  url: https://doi.org/10.1002/pld3.447
+  first_author_is_lab_member: false
+  lab_author_count: 3
+- id: 2022-m-maize-rootassociated-microbes
+  year: 2022
+  title: Maize root-associated microbes likely under adaptive selection by the host to enhance phenotypic performance.
+  authors:
+  - name: Meier M
+  - name: Xu G
+  - name: Lopez-Guerrero
+  - name: Li G
+  - name: Smith C
+    member_id: smith-christine
+  - name: Sigmon B
+    member_id: sigmon-brandi
+  - name: Herr J
+  - name: Alfano J
+  - name: Ge Y
+  - name: Schnable JC
+  - name: Yang J
+  status: published
+  type: article
+  journal: eLife
+  doi: 10.7554/eLife.75790
+  url: https://doi.org/10.7554/eLife.75790
+  notes:
+  - bioRxiv: 10.1101/2021.11.01.466815
+  first_author_is_lab_member: false
+  lab_author_count: 2
+- id: 2022-h-pervasive-misannotation-of
+  year: 2022
+  title: Pervasive misannotation of microexons that are evolutionarily conserved and crucial for gene function in plants.
+  authors:
+  - name: Yu H
+  - name: Li M
+  - name: Sandhu J
+  - name: Sun G
+    member_id: sun-guangchao
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Walia H
+  - name: Xie W
+  - name: Yu B
+  - name: Mower JP
+  - name: Zhang C
+  status: published
+  type: article
+  journal: Nature Communications
+  doi: 10.1038/s41467-022-28449-8
+  url: https://doi.org/10.1038/s41467-022-28449-8
+  first_author_is_lab_member: false
+  lab_author_count: 2
+- id: 2022-l-sorghum-association-panel
+  year: 2022
+  title: Sorghum association panel whole-genome sequencing establishes pivotal resource for dissecting genomic diversity.
+  authors:
+  - name: Boatwright L
+  - name: Sapkota S
+  - name: Jin H
+    member_id: jin-hongyu
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Brenton Z
+  - name: Boyles R
+  - name: Kresovich S
+  status: published
+  type: article
+  journal: The Plant Journal
+  doi: 10.1111/tpj.15853
+  url: https://doi.org/10.1111/tpj.15853
+  first_author_is_lab_member: false
+  lab_author_count: 2
+- id: 2022-e-a-uavbased-highthroughput
+  year: 2022
+  title: A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify traits associated
+    genetic components in maize.
+  authors:
+  - name: Rodene E
+  - name: Xu G
+  - name: Delen SP
+  - name: Smith C
+    member_id: smith-christine
+  - name: Ge Y
+  - name: Schnable JC
+  - name: Yang J
+  status: published
+  type: article
+  journal: The Plant Phenome Journal
+  doi: 10.1002/ppj2.20030
+  url: https://doi.org/10.1002/ppj2.20030
+  notes:
+  - bioRxiv: 10.1101/2021.05.24.445447
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2022-sh-field-deployment-of
+  year: 2022
+  title: Field deployment of a nanogap gas sensor for crop damage detection.
+  authors:
+  - name: Khan SH
+  - name: Karkhanis M
+  - name: Hatasaka B
+  - name: Tope S
+  - name: Noh S
+  - name: Dalapati R
+  - name: Bulbul A
+  - name: Mural RV
+    member_id: mural-ravi
+  - name: Banerjee A
+  - name: Kim KH
+  - name: Schnable JC
+  - name: Ji M
+  - name: Mastrangelo CH
+  - name: Zang L
+  - name: Kim H
+  status: published
+  type: article
+  journal: MEMS 2022
+  doi: 10.1109/MEMS51670.2022.9699614
+  url: https://doi.org/10.1109/MEMS51670.2022.9699614
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2022-q-genetic-analysis-of
+  year: 2022
+  title: Genetic analysis of seed traits in Sorghum bicolor that affect the human gut microbiome.
+  authors:
+  - name: Yang Q
+  - name: Van Haute M
+  - name: Korth N
+    member_id: korth-nate
+  - name: Sattler S
+  - name: Toy J
+  - name: Rose D
+  - name: Schnable JC
+  - name: Benson A
+  status: published
+  type: article
+  journal: Nature Communications
+  doi: 10.1038/s41467-022-33419-1
+  url: https://doi.org/10.1038/s41467-022-33419-1
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2022-k-the-genome-of
+  year: 2022
+  title: The genome of Orychophragmus violaceus provides genomic insights into the evolution of Brassicaceae polyploidization
+    and its distinct traits.
+  authors:
+  - name: Zhang K
+  - name: Yang Y
+  - name: Zhang X
+  - name: Zhang L
+  - name: Fu Y
+  - name: Guo Z
+  - name: Chen S
+  - name: Wu J
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Yi K
+  - name: Wang X
+  - name: Cheng F
+  status: published
+  type: article
+  journal: Orychophragmus violaceus
+  doi: 10.1016/j.xplc.2022.100431
+  url: https://doi.org/10.1016/j.xplc.2022.100431
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2022-d-time-series-canopy
+  year: 2022
+  title: Time series canopy phenotyping enables the identification of genetic variants controlling dynamic phenotypes in soybean.
+  authors:
+  - name: Li D
+  - name: Bai D
+  - name: Tian Y
+  - name: Li Y
+  - name: Zhao C
+  - name: Wang Q
+  - name: Gou S
+  - name: Gu Y
+  - name: Luan X
+  - name: Wang R
+  - name: Yang J
+  - name: Hawkesford MJ
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Jin X
+  - name: Qiu L
+  status: published
+  type: article
+  journal: Journal of Integrative Plant Biology
+  doi: 10.1111/jipb.13380
+  url: https://doi.org/10.1111/jipb.13380
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2021-x-predicting-transcriptional-responses
+  year: 2021
+  title: Predicting transcriptional responses to cold stress across plant species.
+  authors:
+  - name: Meng X
+    member_id: meng-xiaoxi
+  - name: Liang Z
+    member_id: liang-zhikai
+  - name: Dai X
+    member_id: dai-xiuru
+  - name: Zhang Y
+    member_id: zhang-yang
+  - name: Mahboub S
+  - name: Ngu DW
+  - name: Roston RL
+  - name: Schnable JC
+  status: published
+  type: conference
+  journal: Proceedings of the National Academy of Sciences
+  doi: 10.1073/pnas.2026330118
+  url: https://doi.org/10.1073/pnas.2026330118
+  notes:
+  - bioRxiv: 10.1101/2020.08.25.266635
+  first_author_is_lab_member: true
+  lab_author_count: 4
+- id: 2021-mc-d-reconstruction-identifies
+  year: 2021
+  title: 3D reconstruction identifies loci linked to variation in angle of individual sorghum leaves.
+  authors:
+  - name: Tross MC
+    member_id: tross-michael
+  - name: Gaillard M
+  - name: Zweiner M
+  - name: Miao C
+    member_id: miao-chenyong
+  - name: Grove RJ
+    member_id: grove-ryleigh
+  - name: Li B
+  - name: Benes B
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: PeerJ
+  doi: 10.7717/peerj.12628
+  url: https://doi.org/10.7717/peerj.12628
+  notes:
+  - bioRxiv: 10.1101/2021.06.15.448566
+  first_author_is_lab_member: true
+  lab_author_count: 3
+- id: 2021-rv-metaanalysis-identifies-pleiotropic
+  year: 2021
+  title: Meta-analysis identifies pleiotropic loci controlling phenotypic trade-offs in sorghum.
+  authors:
+  - name: Mural RV
+    member_id: mural-ravi
+  - name: Grzybowski M
+    member_id: grzybowski-marcin
+  - name: Miao C
+    member_id: miao-chenyong
+  - name: Damke A
+  - name: Sapkota S
+  - name: Boyles RE
+  - name: Salas Fernandez MG
+  - name: Schnable PS
+  - name: Sigmon B
+  - name: Kresovich S
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Genetics
+  doi: 10.1093/genetics/iyab087
+  url: https://doi.org/10.1093/genetics/iyab087
+  notes:
+  - bioRxiv: 10.1101/2020.10.27.355495
+  first_author_is_lab_member: true
+  lab_author_count: 3
+- id: 2021-g-quantitative-resistance-loci
+  year: 2021
+  title: Quantitative resistance loci to southern rust mapped in a temperate maize diversity panel.
+  authors:
+  - name: Sun G
+    member_id: sun-guangchao
+  - name: Mural RV
+    member_id: mural-ravi
+  - name: Turkus JD
+    member_id: turkus-jon
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Phytopathology
+  doi: 10.1101/2021.04.02.438220
+  url: https://doi.org/10.1094/PHYTO-04-21-0160-R
+  notes:
+  - bioRxiv: 10.1101/2021.04.02.438220
+  first_author_is_lab_member: true
+  lab_author_count: 3
+- id: 2021-x-hour-diurnal-rnaseq
+  year: 2021
+  title: 72-hour diurnal RNA-seq analysis of fully expanded third leaves from maize, sorghum, and foxtail millet at 3-hour
+    resolution.
+  authors:
+  - name: Lai X
+    member_id: lai-xianjun
+  - name: Bendix C
+  - name: Zhang Y
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Harmon FG
+  status: published
+  type: article
+  journal: BMC Research Notes
+  doi: 10.1186/s13104-020-05431-5
+  url: https://doi.org/10.1186/s13104-020-05431-5
+  first_author_is_lab_member: true
+  lab_author_count: 2
+- id: 2021-c-automation-of-leaf
+  year: 2021
+  title: Automation of leaf counting in maize and sorghum using deep learning.
+  authors:
+  - name: Miao C
+    member_id: miao-chenyong
+  - name: Guo A
+    member_id: guo-alice
+  - name: Thompson AM
+  - name: Yang J
+  - name: Ge Y
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: The Plant Phenome Journal
+  doi: 10.1002/ppj2.20022
+  url: https://doi.org/10.1002/ppj2.20022
+  notes:
+  - bioRxiv: 10.1101/2020.12.19.423626
+  first_author_is_lab_member: true
+  lab_author_count: 2
+- id: 2021-m-hyperspectral-reflectancebased-phenotyping
+  year: 2021
+  title: 'Hyperspectral reflectance-based phenotyping for quantitative genetics in crops: progress and challenges.'
+  authors:
+  - name: Grzybowski M
+    member_id: grzybowski-marcin
+  - name: Wijewardane NK
+  - name: Atefi A
+  - name: Ge Y
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Plant Communications
+  doi: 10.1016/j.xplc.2021.100209
+  url: https://doi.org/10.1016/j.xplc.2021.100209
+  first_author_is_lab_member: true
+  lab_author_count: 1
+- id: 2021-dd-comparative-transcriptome-analysis
+  year: 2021
+  title: Comparative transcriptome analysis reveals genetic mechanisms of sugarcane aphid resistance in grain sorghum.
+  authors:
+  - name: Serb DD
+  - name: Meng X
+    member_id: meng-xiaoxi
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Bashir E
+  - name: Michaud JP
+  - name: Vara Prasad PV
+  - name: Perumal R
+  status: published
+  type: article
+  journal: International Journal of Molecular Sciences
+  doi: 10.3390/ijms22137129
+  url: https://doi.org/10.3390/ijms22137129
+  first_author_is_lab_member: false
+  lab_author_count: 2
+- id: 2021-l-a-coopted-steroid
+  year: 2021
+  title: A co-opted steroid synthesis gene, maintained in sorghum but not maize, is associated with a divergence in leaf wax
+    chemistry.
+  authors:
+  - name: Busta L
+  - name: Schmitz E
+  - name: Kosma D
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Cahoon EB
+  status: published
+  type: conference
+  journal: Proceedings of the National Academy of Sciences of the United States of America
+  doi: 10.1073/pnas.2022982118
+  url: https://doi.org/10.1073/pnas.2022982118
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2021-s-can-high-resolution
+  year: 2021
+  title: Can high resolution satellite imagery be used in high-throughput field phenotyping.
+  authors:
+  - name: Sankaran S
+  - name: Marzougui A
+  - name: Hurst JP
+    member_id: hurst-j
+  - name: Zhang C
+  - name: Schnable JC
+  - name: Shi Y
+  status: published
+  type: article
+  journal: Transactions of the ASABE
+  doi: 10.13031/trans.14197
+  url: https://doi.org/10.13031/trans.14197
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2021-y-continuous-in-situ
+  year: 2021
+  title: 'Continuous in situ soil nitrate sensors: a comparison with conventional measurements and the value of high temporal
+    resolution measurements.'
+  authors:
+  - name: Zhu Y
+  - name: Chen Y
+  - name: Ali Md. A
+  - name: Dong L
+  - name: Wang X
+  - name: Archontoulis SV
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Castellano MJ
+  status: published
+  type: article
+  journal: in situ
+  doi: 10.1002/saj2.20226
+  url: https://doi.org/10.1002/saj2.20226
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2021-s-dct-a-new
+  year: 2021
+  title: DCT4 - a new member of the dicarboxylate transporter family in C4 grasses.
+  authors:
+  - name: Weissmann S
+  - name: Huang P
+  - name: Wiechert M
+  - name: Furoyama
+  - name: K Brutnell TP
+  - name: Taniguchi M
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Mockler TC
+  status: published
+  type: article
+  journal: Genome Biology and Evolution
+  doi: 10.1093/gbe/evaa251
+  url: https://academic.oup.com/gbe/article/doi/10.1093/gbe/evaa251/6126432?guestAccessKey=1ceb8d04-4e02-4ff3-89b5-705479ae4e47
+  notes:
+  - bioRxiv: 10.1101/762724
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2021-sh-development-of-a
+  year: 2021
+  title: Development of a gas sensor for green leaf volatile detection.
+  authors:
+  - name: Khan SH
+  - name: Tope S
+  - name: Dalpati R
+  - name: Kim KH
+  - name: Noh S
+  - name: Bulbul A
+  - name: Mural RV
+    member_id: mural-ravi
+  - name: Banerjee A
+  - name: Schnable JC
+  - name: Ji M
+  - name: Mastrangelo C
+  - name: Zang L
+  - name: Kim H  “
+  status: published
+  type: article
+  journal: Transducers 2021
+  doi: 10.1109/Transducers50396.2021.9495597
+  url: https://doi.org/10.1109/Transducers50396.2021.9495597
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2021-x-genomewide-dna-polymorphism
+  year: 2021
+  title: Genome-wide DNA polymorphism analysis and molecular marker development for the Setaria italica variety ‘SSR41’ and
+    positional cloning of the Setaria white leaf sheath gene SiWLS1.
+  authors:
+  - name: Diao X
+  - name: Zhang H
+  - name: Tang S
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: He Q
+  - name: Gao Y
+  - name: Luo M
+  - name: Jia G
+  - name: Feng B
+  - name: Zhi H
+  status: published
+  type: article
+  journal: Setaria italica
+  doi: 10.3389/fpls.2021.743782
+  url: https://doi.org/10.3389/fpls.2021.743782
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2021-m-genomic-resources-in
+  year: 2021
+  title: Genomic resources in plant breeding for sustainable agriculture.
+  authors:
+  - name: Thudi M
+  - name: Palakurthi R
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Chitikineni A
+  - name: Dreisigacker S
+  - name: Mace E
+  - name: Srivastava RK
+  - name: Satyavathi CT
+  - name: Odeny D
+  - name: Tiwari VK
+  - name: Lam HM
+  - name: Hong YB
+  - name: Singh VK
+  - name: Li G
+  - name: Xu Y
+  - name: Chen X
+  - name: Nguyen H
+  - name: Sivasankar S
+  - name: Close TJ
+  - name: Stein N
+  - name: Jackson SA
+  - name: Shubo W
+  - name: Varshney RK
+  status: published
+  type: article
+  journal: Journal of Plant Physiology
+  doi: 10.1016/j.jplph.2020.153351
+  url: https://doi.org/10.1016/j.jplph.2020.153351
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2021-y-identification-and-utilization
+  year: 2021
+  title: Identification and utilization of genetic determinants of trait measurement errors in image-based, high-throughput
+    phenotyping.
+  authors:
+  - name: Zhou Y
+  - name: Kusmec A
+  - name: Mirnezami SV
+  - name: Srinivasan L
+  - name: Jubery TZ
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Salas-Fernandez MG
+  - name: Nettleton D
+  - name: Ganapathysubramanian B
+  - name: Schnable PS
+  status: published
+  type: article
+  journal: The Plant Cell
+  doi: 10.1093/plcell/koab134
+  url: https://doi.org/10.1093/plcell/koab134
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2021-a-maize-tassel-detection
+  year: 2021
+  title: Maize tassel detection from UAV imagery using deep learning.
+  authors:
+  - name: Alzadjali A
+  - name: Veeranampalayam-Sivakumar A
+  - name: Alali MH
+  - name: Deogun JS
+  - name: Scott S
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Shi Y
+  status: published
+  type: article
+  journal: Frontiers in Robotics and AI
+  doi: 10.3389/frobt.2021.600410
+  url: https://www.frontiersin.org/articles/10.3389/frobt.2021.600410/abstract
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2021-rj-phosphoenolpyruvate-carboxylase-kinetic
+  year: 2021
+  title: Phosphoenolpyruvate carboxylase kinetic variation provides opportunity to enhance C4 photosynthetic efficiency.
+  authors:
+  - name: DiMario RJ
+  - name: Kophs AN
+  - name: Pathare VS
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Cousins AB
+  status: published
+  type: article
+  journal: enol
+  doi: 10.1111/tpj.15141
+  url: https://doi.org/10.1111/tpj.15141
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2021-ma-rhizosphere-microbiomes-in
+  year: 2021
+  title: Rhizosphere microbiomes in a historical maize/soybean rotation system respond to host species and nitrogen fertilization
+    at genus and sub-genus levels.
+  authors:
+  - name: Meier MA
+  - name: Lopenz-Guerrero MG
+  - name: Guo M
+  - name: Schmer MR
+  - name: Herr JR
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Alfano JR
+  - name: Yang J
+  status: published
+  type: article
+  journal: Applied and Environmental Microbiology
+  doi: 10.1128/AEM.03132-20
+  url: https://doi.org/10.1128/AEM.03132-20
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2021-ar-the-importance-of
+  year: 2021
+  title: The importance of dominance and genotype-by-environment interactions on grain yield variation in a large-scale public
+    cooperative maize experiment.
+  authors:
+  - name: Rogers AR
+  - name: Dunne JC
+  - name: Romay C
+  - truncated: true
+  - name: Schnable JC
+    member_id: schnable-james
+  - truncated: true
+  - name: Kaeppler S
+  - name: De Leon N
+  - name: Holland JB
+  status: published
+  type: article
+  journal: G3:Genes\|Genomes\|Genetics
+  doi: 10.1093/g3journal/jkaa050
+  url: https://doi.org/10.1093/g3journal/jkaa050
+  author_note: Schnable JC is 24 of 39 authors
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2021-d-utility-of-climatic
+  year: 2021
+  title: Utility of climatic information via combining ability models to improve genomic prediction for yield within the Genomes
+    to Fields maize project.
+  authors:
+  - name: Jarquin D
+  - name: de Leon N
+  - name: Romay C
+  - truncated: true
+  - name: Schnable JC
+    member_id: schnable-james
+  - truncated: true
+  - name: Wisser RJ
+  - name: Xu W
+  - name: Lorenz A
+  status: published
+  type: article
+  journal: Frontiers in Genetics
+  doi: 10.3389/fgene.2020.592769
+  url: https://doi.org/10.3389/fgene.2020.592769
+  author_note: Schnable JC is 24 of 33 authors
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2021-mr-qteller-a-tool
+  year: 2021
+  title: 'qTeller: A tool for comparative multi-genomic gene expression analysis.'
+  authors:
+  - name: Woodhouse MR
+  - name: Sen S
+  - name: Schott D
+  - name: Portwood JL
+  - name: Freeling M
+  - name: JWalley JW
+  - name: Andorf CM
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Bioinformatics
+  doi: 10.1093/bioinformatics/btab604
+  url: https://doi.org/10.1093/bioinformatics/btab604
+  first_author_is_lab_member: false
+  lab_author_count: 0
+- id: 2021-a-robotic-technologies-for
+  year: 2021
+  title: 'Robotic technologies for high-throughput plant phenotyping: reviews and perspectives.'
+  authors:
+  - name: Atefi A
+  - name: Ge Y
+  - name: Pitla S
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Frontiers in Plant Science
+  doi: 10.3389/fpls.2021.611940
+  url: https://www.frontiersin.org/articles/10.3389/fpls.2021.611940
+  first_author_is_lab_member: false
+  lab_author_count: 0
+- id: 2020-x-interspecific-analysis-of
+  year: 2020
+  title: Interspecific analysis of diurnal gene regulation in panicoid grasses identifies known and novel regulatory motifs.
+  authors:
+  - name: Lai X
+    member_id: lai-xianjun
+  - name: Bendix C
+  - name: Yan L
+  - name: Zhang Y
+    member_id: zhang-yang
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Harmon F
+  status: published
+  type: article
+  journal: BMC Genomics
+  doi: 10.1186/s12864-020-06824-3
+  url: https://doi.org/10.1186/s12864-020-06824-3
+  first_author_is_lab_member: true
+  lab_author_count: 3
+- id: 2020-ds-isoseq-transcriptome-assembly
+  year: 2020
+  title: IsoSeq transcriptome assembly of C3 panicoid grasses provides tools to study evolutionary change in the Panicoideae.
+  authors:
+  - name: Carvalho DS
+    member_id: carvalho-daniel
+  - name: Nishimwe A
+    member_id: nishimwe-aime
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Plant Direct
+  doi: 10.1002/pld3.203
+  url: https://doi.org/10.1002/pld3.203
+  notes:
+  - bioRxiv: 10.1101/689356
+  first_author_is_lab_member: true
+  lab_author_count: 2
+- id: 2020-skk-leaf-angle-extractor
+  year: 2020
+  title: Leaf Angle eXtractor - A high throughput image processing framework for leaf angle measurement in maize and sorghum.
+  authors:
+  - name: Raju SKK
+    member_id: raju-sunil
+  - name: Atkins M
+  - name: Enerson A
+  - name: Carvalho DS
+    member_id: carvalho-daniel
+  - name: Studer AJ
+  - name: Ganapathysubramanian B
+  - name: Schnable PS
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Applications in Plant Sciences
+  doi: 10.1002/aps3.11385
+  url: https://doi.org/10.1002/aps3.11385
+  first_author_is_lab_member: true
+  lab_author_count: 2
+- id: 2020-c-semantic-segmentation-of
+  year: 2020
+  title: Semantic segmentation of sorghum using hyperspectral data identifies genetic associations.
+  authors:
+  - name: Miao C
+    member_id: miao-chenyong
+  - name: Pages A
+    member_id: pages-alejandro
+  - name: Xu Z
+  - name: Rodene E
+  - name: Yang J
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Plant Phenomics
+  doi: 10.34133/2020/4216373
+  url: https://doi.org/10.34133/2020/4216373
+  first_author_is_lab_member: true
+  lab_author_count: 2
+- id: 2020-z-genomephenome-wide-association
+  year: 2020
+  title: Genome-phenome wide association in maize and arabidopsis identifies a common molecular and evolutionary signature.
+  authors:
+  - name: Liang Z
+    member_id: liang-zhikai
+  - name: Qiu Y
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Molecular Plant
+  doi: 10.1016/j.molp.2020.03.003
+  url: https://doi.org/10.1016/j.molp.2020.03.003
+  notes:
+  - bioRxiv: 10.1101/534503
+  first_author_is_lab_member: true
+  lab_author_count: 1
+- id: 2020-c-increased-power-and
+  year: 2020
+  title: Increased power and accuracy of causal locus identification in time-series genome-wide association in sorghum.
+  authors:
+  - name: Miao C
+    member_id: miao-chenyong
+  - name: Xu Y
+  - name: Liu S
+  - name: Schnable PS
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Plant Physiology
+  doi: 10.1104/pp.20.00277
+  url: https://doi.org/10.1104/pp.20.00277
+  notes:
+  - bioRxiv: 10.1101/2020.02.16.951467<br>[First
+  first_author_is_lab_member: true
+  lab_author_count: 1
+- id: 2020-x-nonhomologybased-prediction-of
+  year: 2020
+  title: Non-homology-based prediction of gene functions.
+  authors:
+  - name: Dai X
+    member_id: dai-xiuru
+  - name: Xu Z
+  - name: Liang Z
+  - name: Tu X
+  - name: Zhong S
+  - name: Schnable JC
+  - name: Li P
+  status: published
+  type: article
+  journal: The Plant Genome
+  doi: 10.1002/tpg2.20015
+  url: https://doi.org/10.1002/tpg2.20015
+  notes:
+  - bioRxiv: 10.1101/730473
+  first_author_is_lab_member: true
+  lab_author_count: 1
+- id: 2020-z-shared-genetic-control
+  year: 2020
+  title: Shared genetic control of root system architecture between Zea mays and Sorghum bicolor.
+  authors:
+  - name: Zheng Z
+  - name: Hey S
+  - name: Jubery T
+  - name: Liu T
+  - name: Yang Y
+  - name: Coffey L
+  - name: Miao C
+    member_id: miao-chenyong
+  - name: Sigmon B
+    member_id: sigmon-brandi
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Hochholdinger F
+  - name: Ganapathysubramanian B
+  - name: Schnable PS
+  status: published
+  type: article
+  journal: Zea mays
+  doi: 10.1104/pp.19.00752
+  url: https://doi.org/10.1104/pp.19.00752
+  first_author_is_lab_member: false
+  lab_author_count: 3
+- id: 2020-m-voxel-carving-based
+  year: 2020
+  title: Voxel carving based 3D reconstruction of sorghum identifies genetic determinants of radiation interception efficiency.
+  authors:
+  - name: Gaillard M
+  - name: Miao C
+    member_id: miao-chenyong
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Benes B
+  status: published
+  type: article
+  journal: Plant Direct
+  doi: 10.1002/pld3.255
+  url: https://doi.org/10.1002/pld3.255
+  notes:
+  - bioRxiv: 10.1101/2020.04.06.028605
+  first_author_is_lab_member: false
+  lab_author_count: 2
+- id: 2020-r-a-highthroughput-phenotyping
+  year: 2020
+  title: A high-throughput phenotyping pipeline for image processing and functional growth curve analysis.
+  authors:
+  - name: Wang R
+  - name: Qiu Y
+  - name: Zhou Y
+  - name: Liang Z
+    member_id: liang-zhikai
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Plant Phenomics
+  doi: 10.34133/2020/7481687
+  url: https://doi.org/10.34133/2020/7481687
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2020-b-advancing-multiscale-crop
+  year: 2020
+  title: Advancing multi-scale crop modeling for agricultural climate change adaptation assessment.
+  authors:
+  - name: Peng B
+  - name: Guan K
+  - name: Ainsworth EA
+  - name: Asseng S
+  - name: Bernacchi CJ
+  - name: Cooper M
+  - name: Delucia EH
+  - name: Elliot JW
+  - name: Ewert F
+  - name: Grant RF
+  - name: Gustafson DI
+  - name: Hammer GL
+  - name: Jin Z
+  - name: Jones JW
+  - name: Kimm H
+  - name: Lawrence DM
+  - name: Li Y
+  - name: Lombardozzi DL
+  - name: Marshall-Colon A
+  - name: Messina CD
+  - name: Ort DR
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Tang J
+  - name: Vallejos CE
+  - name: Wu A
+  - name: Yin X
+  - name: Zhou W
+  status: published
+  type: article
+  journal: Nature Plants
+  doi: 10.1038/s41477-020-0625-3
+  url: https://t.co/rl4ywzzDhy?amp=1
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2020-d-enhancing-hybrid-prediction
+  year: 2020
+  title: Enhancing hybrid prediction in pearl millet using genomic and/or multi-environment phenotypic information of inbreds.
+  authors:
+  - name: Jarquin D
+  - name: Howard R
+  - name: Liang Z
+    member_id: liang-zhikai
+  - name: Gupta SK
+  - name: Schnable JC
+  - name: Crossa J
+  status: published
+  type: article
+  journal: Frontiers in Genetics
+  doi: 10.3389/fgene.2019.01294
+  url: https://doi.org/10.3389/fgene.2019.01294
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2020-j-genomewide-characterization-of
+  year: 2020
+  title: Genome-wide characterization of DNase I-hypersensitive sites and cold response regulatory landscapes in grasses.
+  authors:
+  - name: Han J
+  - name: Wang P
+  - name: Wang Q
+  - name: Lin Q
+  - name: Yu G
+  - name: Miao C
+    member_id: miao-chenyong
+  - name: Dao Y
+  - name: Wu R
+  - name: Schnable JC
+  - name: Tang H
+  - name: Wang K
+  status: published
+  type: article
+  journal: The Plant Cell
+  doi: 10.1105/tpc.19.00716
+  url: https://doi.org/10.1105/tpc.19.00716
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2020-s-investigating-the-potential
+  year: 2020
+  title: Investigating the potential of satellite imagery for high-throughput field phenotyping applications.
+  authors:
+  - name: Sankaran S
+  - name: Zhang C
+  - name: Hurst JP
+    member_id: hurst-j
+  - name: Marzougui A
+  - name: Sivakumar ANV
+  - name: Li J
+  - name: Schnable JC
+  - name: Shi Y
+  status: published
+  type: article
+  journal: SPIE Defense + Commercial Sensing
+  doi: 10.1117/12.2558729
+  url: https://doi.org/10.1117/12.2558729
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2020-b-multiscale-computational-models
+  year: 2020
+  title: Multiscale computational models can guide experimentation and targeted measurements for crop improvement.
+  authors:
+  - name: Benes B
+  - name: Guan K
+  - name: Lang M
+  - name: Long S
+  - name: Lynch J
+  - name: Marshall-Colon A
+  - name: Peng B
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Sweetlove L
+  - name: Turk M
+  status: published
+  type: article
+  journal: The Plant Journal
+  doi: 10.1111/tpj.14722
+  url: https://doi.org/10.1111/tpj.14722
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2020-g-rgpdb-database-of
+  year: 2020
+  title: 'RGPDB: Database of root-associated genes and promoters in maize, soybean, and sorghum.'
+  authors:
+  - name: Moisseyev G
+  - name: Park K
+  - name: Cui X
+  - name: Freitas D
+  - name: Rajagopa D
+  - name: Konda A
+  - name: Martin-Olenski M
+  - name: Mcham M
+  - name: Liu K
+  - name: Du Q
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Moriyama E
+  - name: Cahoon E
+  - name: Chi Z
+  status: published
+  type: article
+  journal: Database
+  doi: 10.1093/database/baaa038
+  url: https://doi.org/10.1093/database/baaa038
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2020-m-sorghum-segmentation-by
+  year: 2020
+  title: Sorghum Segmentation by Skeleton Extraction.
+  authors:
+  - name: Gaillard M
+  - name: Benes B
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Miao C
+  status: published
+  type: article
+  journal: CVPPP 2020
+  url: Pubs/CVPPP2020_Sorghum.pdf
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2020-skk-advances-in-plant
+  year: 2020
+  title: 'Advances in plant phenomics: From data and algorithms to biological insights.'
+  authors:
+  - name: Raju SKK
+  - name: Thompson AM
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Applications in Plant Sciences
+  doi: 10.1002/aps3.11386
+  url: https://doi.org/10.1002/aps3.11386
+  first_author_is_lab_member: false
+  lab_author_count: 0
+- id: 2020-a-fasterrcnn-based-deep
+  year: 2020
+  title: Faster-R-CNN based deep learning for locating corn tassels in UAV imagery.
+  authors:
+  - name: Al-Zadjali A
+  - name: Shi Y
+  - name: Scott S
+  - name: Deogun JS
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: SPIE Defense + Commercial Sensing
+  doi: 10.1117/12.2560596
+  url: https://doi.org/10.1117/12.2560596
+  first_author_is_lab_member: false
+  lab_author_count: 0
+- id: 2020-ba-maize-genomes-to
+  year: 2020
+  title: 'Maize Genomes to Fields (G2F): 2014 –2017 field seasons’ genotype, phenotype, climatic, soil and inbred ear image
+    datasets.'
+  authors:
+  - name: McFarland BA
+  - name: AlKhalifah N
+  - name: Bohn
+  - truncated: true
+  - name: Schnable JC .. Xu W
+  - name: Yeh CT
+  - name: de Leon N
+  status: published
+  type: article
+  journal: BMC Research Notes
+  doi: 10.1186/s13104-020-4922-8
+  url: https://doi.org/10.1186/s13104-020-4922-8
+  author_note: Schnable JC is 34 of 51 authors
+  first_author_is_lab_member: false
+  lab_author_count: 0
+- id: 2020-j-plant-segmentation-by
+  year: 2020
+  title: Plant segmentation by supervised machine learning methods.
+  authors:
+  - name: Adams J
+  - name: Qiu Y
+  - name: Xu Y
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: The Plant Phenome Journal
+  doi: 10.1002/ppj2.20001
+  url: http://dx.doi.org/10.1002/ppj2.20001
+  first_author_is_lab_member: false
+  lab_author_count: 0
+- id: 2020-a-robotic-detection-and
+  year: 2020
+  title: 'Robotic detection and grasp of maize and sorghum: stem measurement with contact.'
+  authors:
+  - name: Atefi A
+  - name: Ge Y
+  - name: Pitla S
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Robotics
+  doi: 10.3390/robotics9030058
+  url: https://doi.org/10.3390/robotics9030058
+  first_author_is_lab_member: false
+  lab_author_count: 0
+- id: 2019-l-parallel-natural-selection
+  year: 2019
+  title: Parallel natural selection in the cold-adapted crop-wild relative Tripsacum dactyloides and artificial selection
+    in temperate adapted maize.
+  authors:
+  - name: Yan L
+    member_id: yan-lang
+  - name: Raju SKK
+    member_id: raju-sunil
+  - name: Lai X
+    member_id: lai-xianjun
+  - name: Zhang Y
+    member_id: zhang-yang
+  - name: Dai X
+    member_id: dai-xiuru
+  - name: Rodriguez O
+  - name: Mahboub S
+  - name: Roston RL
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Tripsacum dactyloides
+  doi: 10.1111/tpj.14376
+  url: https://doi.org/10.1111/tpj.14376
+  notes:
+  - bioRxiv: 10.1101/187575
+  first_author_is_lab_member: true
+  lab_author_count: 5
+- id: 2019-ma-continuous-monitoring-of
+  year: 2019
+  title: Continuous Monitoring of Soil Nitrate Using a Miniature Sensor with Poly(3-octyl-thiophene) and Molybdenum Disulfide
+    Nanocomposite.
+  authors:
+  - name: Ali MA
+  - name: Wang X
+  - name: Chen Y
+  - name: Jiao Y
+  - name: Mahal NK
+  - name: Satyanarayana M
+  - name: Castellano MJ
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Schnable PS
+  - name: Dong L
+  status: published
+  type: article
+  journal: ACS Applied Materials & Interfaces
+  doi: 10.1021/acsami.9b07120
+  url: https://doi.org/10.1021/acsami.9b07120
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2019-p-high-density-genetic
+  year: 2019
+  title: High density genetic maps of seashore paspalum using genotyping-by-sequencing and their relationship to the Sorghum
+    bicolor genome.
+  authors:
+  - name: Qi P
+  - name: Eudy D
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Schmutz J
+  - name: Raymer P
+  - name: Devos KM
+  status: published
+  type: article
+  journal: Sorghum bicolor
+  doi: 10.1038/s41598-019-48257-3
+  url: https://doi.org/10.1038/s41598-019-48257-3
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2019-y-highthroughput-analysis-of
+  year: 2019
+  title: 'High-throughput analysis of leaf physiological and chemical traits with VIS-NIR-SWIR spectroscopy: A case study
+    with a maize diversity panel.'
+  authors:
+  - name: Ge Y
+  - name: Atefi A
+  - name: Zhang H
+  - name: Miao C
+    member_id: miao-chenyong
+  - name: Ramamurthy RK
+  - name: Sigmon B
+  - name: Yang J
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Plant Methods
+  doi: 10.1186/s13007-019-0450-8
+  url: https://doi.org/10.1186/s13007-019-0450-8
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2019-y-identification-of-loci
+  year: 2019
+  title: Identification of Loci Controlling Adaptation in Chinese Soybean Landraces via a Combination of Conventional and
+    Bioclimatic GWAS.
+  authors:
+  - name: Li Y
+  - name: Li D
+    member_id: li-delin
+  - name: Jiao Y
+  - name: Schnable JC
+  - name: Li Y
+  - name: Li H
+  - name: Chen H
+  - name: Hong H
+  - name: Zhang T
+  - name: Liu B
+  - name: Liu Z
+  - name: You Q
+  - name: Tian Y
+  - name: Gou Y
+  - name: Guan R
+  - name: Zhang L
+  - name: Chang R
+  - name: Zhang Z
+  - name: Reif J
+  - name: Zhou X
+  - name: Schnable PS
+  - name: Qiu L
+  status: published
+  type: article
+  journal: Plant Biotechnology Journal
+  doi: 10.1111/pbi.13206
+  url: https://doi.org/10.1111/pbi.13206
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2019-y-inplanta-nitrate-detection
+  year: 2019
+  title: In-planta nitrate detection using insertable plant microsensor.
+  authors:
+  - name: Jiao Y
+  - name: Wang X
+  - name: Chen Y
+  - name: Castellano MJ
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Schnable PS
+  - name: Dong L
+  status: published
+  type: conference
+  journal: 20th International Conference on Solid-State Sensors, Actuators and Microsystems
+  doi: 10.1109/TRANSDUCERS.2019.8808527
+  url: https://doi.org/10.1109/TRANSDUCERS.2019.8808527
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2019-ma-novel-allsolidstate-soil
+  year: 2019
+  title: Novel all-solid-state soil nutrient sensor using nanocomposite of poly(3-octyl-thiophene) and molybdenum sulfate.
+  authors:
+  - name: Ali MA
+  - name: Wang X
+  - name: Chen Y
+  - name: Jiao Y
+  - name: Castellano MJ
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Schnable PS
+  - name: Dong L
+  status: published
+  type: conference
+  journal: 20th International Conference on Solid-State Sensors, Actuators and Microsystems
+  doi: 10.1109/TRANSDUCERS.2019.8808341
+  url: https://doi.org/10.1109/TRANSDUCERS.2019.8808341
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2019-g-nuspidercam-a-largescale
+  year: 2019
+  title: 'NU-Spidercam: A large-scale, cable-driven, integrated sensing and robotic system for precision phenotyping, remote
+    sensing, and agronomic research.'
+  authors:
+  - name: Bai G
+  - name: Ge Y
+  - name: Scoby D
+  - name: Leavit B
+  - name: Irmak S
+  - name: Graef G
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Awada T
+  status: published
+  type: article
+  journal: Computers and Electronics in Agriculture
+  doi: 10.1016/j.compag.2019.03.009
+  url: https://authors.elsevier.com/sd/article/S0168169918314170
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2019-l-qtl-identification-and
+  year: 2019
+  title: QTL identification and epistatic effect analysis of seed size- and weight-related traits in Zea mays L.
+  authors:
+  - name: Li L
+  - name: Li X
+  - name: Li L
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Gu R
+  - name: J Wang
+  status: published
+  type: article
+  journal: Zea mays
+  doi: 10.1007/s11032-019-0981-8
+  url: https://doi.org/10.1007/s11032-019-0981-8
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2019-c-the-genome-of
+  year: 2019
+  title: The genome of broomcorn millet.
+  authors:
+  - name: Zou C
+  - name: Miki D
+  - name: Li D
+    member_id: li-delin
+  - name: Tang Q
+  - name: Xiao L
+  - name: Rajput S
+  - name: Deng P
+  - name: Peng L
+  - name: Huang R
+  - name: Zhang M
+  - name: Sun Y
+  - name: Hu J
+  - name: Fu X
+  - name: Schnable P
+  - name: Li F
+  - name: Zhang H
+  - name: Feng B
+  - name: Zhu X
+  - name: Liu R
+  - name: Schnable JC
+  - name: Zhu JK
+  - name: Zhang H
+  status: published
+  type: article
+  journal: Nature Communications
+  doi: 10.1038/s41467-019-08409-5
+  url: https://doi.org/10.1038/s41467-019-08409-5
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2019-jc-genes-and-gene
+  year: 2019
+  title: Genes and Gene Models, an Important Distinction.
+  authors:
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: New Phytologist
+  doi: 10.1111/nph.16011
+  url: https://doi.org/10.1111/nph.16011
+  first_author_is_lab_member: false
+  lab_author_count: 0
+- id: 2019-a-in-vivo-humanlike
+  year: 2019
+  title: In vivo human-like robotic phenotyping of leaf traits in maize and sorghum.
+  authors:
+  - name: Atefi A
+  - name: Ge Y
+  - name: Pitla S
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: In vivo
+  doi: 10.1016/j.compag.2019.104854
+  url: https://doi.org/10.1016/j.compag.2019.104854
+  first_author_is_lab_member: false
+  lab_author_count: 0
+- id: 2018-z-phenotypic-data-from
+  year: 2018
+  title: Phenotypic data from inbred parents can improve genomic prediction in pearl millet hybrids.
+  authors:
+  - name: Liang Z
+    member_id: liang-zhikai
+  - name: Gupta SK
+  - name: Yeh CT
+  - name: Zhang Y
+    member_id: zhang-yang
+  - name: Ngu DW
+    member_id: ngu-daniel
+  - name: Kumar R
+  - name: Patil HT
+  - name: Mungra KD
+  - name: Yadav DV
+  - name: Rathore A
+  - name: Srivastava RK
+  - name: Gupkta R
+  - name: Yang J
+    member_id: yang-jinliang
+  - name: Varshney RK
+  - name: Schnable PS
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: 'G3: Genes Genomes Genetics'
+  doi: 10.1534/g3.118.200242
+  url: https://doi.org/10.1534/g3.118.200242
+  first_author_is_lab_member: true
+  lab_author_count: 4
+- id: 2018-c-genotypecorrector-improved-genotype
+  year: 2018
+  title: 'Genotype-Corrector: improved genotype calls for genetic mapping.'
+  authors:
+  - name: Miao C
+    member_id: miao-chenyong
+  - name: Fang J
+  - name: Li D
+  - name: Liang P
+  - name: Zhang X
+  - name: Yang J
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Tang H
+  status: published
+  type: article
+  journal: Scientific Reports
+  doi: 10.1038/s41598-018-28294-0
+  url: https://doi.org/10.1038/s41598-018-28294-0
+  first_author_is_lab_member: true
+  lab_author_count: 2
+- id: 2018-ds-integrating-phylogenetic-and
+  year: 2018
+  title: 'Integrating phylogenetic and network approaches to study gene family evolution: the case of the AGAMOUS family of
+    floral genes.'
+  authors:
+  - name: Carvalho DS
+    member_id: carvalho-daniel
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Almeida AMR
+  status: published
+  type: article
+  journal: Evolutionary Bioinformatics
+  doi: 10.1177/1176934318764683
+  url: https://doi.org/10.1177/1176934318764683
+  first_author_is_lab_member: true
+  lab_author_count: 2
+- id: 2018-x-largely-unlinked-gene
+  year: 2018
+  title: Largely unlinked gene sets targeted by selection for domestication syndrome phenotypes in maize and sorghum.
+  authors:
+  - name: Lai X
+    member_id: lai-xianjun
+  - name: Yan L
+    member_id: yan-lang
+  - name: Lu Y
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: The Plant Journal
+  doi: 10.1111/tpj.13806
+  url: https://doi.org/10.1111/tpj.13806
+  first_author_is_lab_member: true
+  lab_author_count: 2
+- id: 2018-c-optimizing-the-identification
+  year: 2018
+  title: Optimizing the identification of causal variants across varying genetic architectures in crops.
+  authors:
+  - name: Miao C
+    member_id: miao-chenyong
+  - name: Yang J
+    member_id: yang-jinliang
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Plant Biotechnology Journal
+  doi: 10.1111/pbi.13023
+  url: https://doi.org/10.1111/pbi.13023
+  first_author_is_lab_member: true
+  lab_author_count: 2
+- id: 2018-z-functional-divergence-between
+  year: 2018
+  title: Functional Divergence Between Subgenomes and Gene Pairs After Whole Genome Duplications.
+  authors:
+  - name: Liang Z
+    member_id: liang-zhikai
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Molecular Plant
+  doi: 10.1016/j.molp.2017.12.010
+  url: https://doi.org/10.1016/j.molp.2017.12.010
+  first_author_is_lab_member: true
+  lab_author_count: 1
+- id: 2018-skk-lowtemperature-tolerance-in
+  year: 2018
+  title: 'Low-temperature tolerance in land plants: Are transcript and membrane responses conserved?.'
+  authors:
+  - name: Raju SKK
+    member_id: raju-sunil
+  - name: Barnes A
+  - name: Schnable JC
+  - name: Roston RL
+  status: published
+  type: article
+  journal: Plant Science
+  doi: 10.1016/j.plantsci.2018.08.002
+  url: https://doi.org/10.1016/j.plantsci.2018.08.002
+  first_author_is_lab_member: true
+  lab_author_count: 1
+- id: 2018-s-intragenic-meiotic-crossovers
+  year: 2018
+  title: Intragenic Meiotic Crossovers Generate Novel Alleles with Transgressive Expression Levels.
+  authors:
+  - name: Liu S
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Ott A
+  - name: Yeh CT
+  - name: Springer NM
+  - name: Yu J
+  - name: Meuhbauer G
+  - name: Timmermans MCP
+  - name: Scanlon MJ
+  - name: Schnable PS
+  status: published
+  type: article
+  journal: Molecular Biology and Evolution
+  doi: 10.1093/molbev/msy174
+  url: https://academic.oup.com/mbe/article/35/11/2762/5090457?guestAccessKey=c8f71ef2-4f29-4078-9c73-b62a8874d62a
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2018-a-linked-read-technology
+  year: 2018
+  title: Linked read technology for assembling large complex and polyploid genomes.
+  authors:
+  - name: Ott A
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Yeh CT
+  - name: Wu L
+  - name: Liu C
+  - name: Hu HC
+  - name: Dolgard CL
+  - name: Sarkar S
+  - name: Schnable PS
+  status: published
+  type: article
+  journal: BMC Genomics
+  doi: 10.1186/s12864-018-5040-z
+  url: https://doi.org/10.1186/s12864-018-5040-z
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2018-tf-location-of-low
+  year: 2018
+  title: Location of low copy genes in chromosomes of Brachiaria spp.
+  authors:
+  - name: Nani TF
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Washburn JD
+  - name: Albert P
+  - name: Pereira WA
+  - name: Sobrinho FS
+  - name: Birchler JA
+  - name: Techia VH
+  status: published
+  type: article
+  journal: Molecular Biology Reports
+  doi: 10.1007/s11033-018-4144-5
+  url: https://doi.org/10.1007/s11033-018-4144-5
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2018-n-maize-genomes-to
+  year: 2018
+  title: 'Maize Genomes to Fields: 2014 and 2015 field season genotype, phenotype, environment, and inbred ear image datasets.'
+  authors:
+  - name: Alkhalifah N
+  - name: Campbell DA
+  - name: Falcon CM
+  - truncated: true
+  - name: Schnable JC
+    member_id: schnable-james
+  - truncated: true
+  - name: Spalding EP
+  - name: Edwards J
+  - name: Lawrence-Dill CJ
+  status: published
+  type: article
+  journal: BMC Research Notes
+  url: https://doi.org/10.1186/s13104-018-3508-1
+  author_note: Schnable JC is 31 of 44 authors
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2018-y-functional-modeling-of
+  year: 2018
+  title: Functional Modeling of Plant Growth Dynamics.
+  authors:
+  - name: Xu Y
+  - name: Qiu Y
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: The Plant Phenome Journal
+  doi: 10.2135/tppj2017.09.0007
+  url: https://dl.sciencesocieties.org/publications/tppj/abstracts/1/1/170007
+  first_author_is_lab_member: false
+  lab_author_count: 0
+- id: 2017-y-differentially-regulated-orthologs
+  year: 2017
+  title: Differentially regulated orthologs in sorghum and the subgenomes of maize.
+  authors:
+  - name: Zhang Y
+    member_id: zhang-yang
+  - name: Ngu DW
+    member_id: ngu-daniel
+  - name: Carvalho D
+    member_id: carvalho-daniel
+  - name: Liang Z
+    member_id: liang-zhikai
+  - name: Qiu Y
+  - name: Roston RL
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: The Plant Cell
+  doi: 10.1105/tpc.17.00354
+  url: http://dx.doi.org/10.1105/tpc.17.00354
+  first_author_is_lab_member: true
+  lab_author_count: 4
+- id: 2017-x-genomewide-characterization-of
+  year: 2017
+  title: Genome-Wide Characterization of Non-Reference Transposable Elements Insertion Polymorphisms Reveals Genetic Diversity
+    in Tropical and Temperate Maize.
+  authors:
+  - name: Lai X
+    member_id: lai-xianjun
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Liao Z
+  - name: Xu J
+  - name: Zhang G
+  - name: Li C
+  - name: Hu E
+  - name: Rong T
+  - name: Xu Y
+  - name: Lu Y
+  status: published
+  type: article
+  journal: BMC Genomics
+  doi: 10.1186/s12864-017-4103-x
+  url: https://doi.org/10.1186/s12864-017-4103-x
+  first_author_is_lab_member: true
+  lab_author_count: 2
+- id: 2017-z-conventional-and-hyperspectral
+  year: 2017
+  title: Conventional and hyperspectral time-series imaging of maize lines widely used in field trials.
+  authors:
+  - name: Liang Z
+    member_id: liang-zhikai
+  - name: Pandey P
+  - name: Stoerger V
+  - name: Xu Y
+  - name: Qiu Y
+  - name: Ge Y
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: GigaScience
+  doi: 10.1093/gigascience/gix117
+  url: https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix117/4656251?guestAccessKey=71c1c32f-78fd-42c0-99a3-38e6c4fd8100
+  first_author_is_lab_member: true
+  lab_author_count: 1
+- id: 2017-x-harnessing-the-potential
+  year: 2017
+  title: Harnessing the potential of the tea tree genome.
+  authors:
+  - name: Lai X
+    member_id: lai-xianjun
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Molecular Plant
+  doi: 10.1016/j.molp.2017.05.009
+  url: https://doi.org/10.1016/j.molp.2017.05.009
+  first_author_is_lab_member: true
+  lab_author_count: 1
+- id: 2017-jd-genomeguided-phylotranscriptomics
+  year: 2017
+  title: Genome-Guided Phylo-Transcriptomics.
+  authors:
+  - name: Washburn JD
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Brutnell TP
+  - name: Shao Y
+  - name: Zhang Y
+    member_id: zhang-yang
+  - name: Ludwig M
+  - name: Davidse G
+  - name: Pires JC
+  status: published
+  type: article
+  journal: Scientific Reports
+  doi: 10.1038/s41598-017-13236-z
+  url: https://doi.org/10.1038/s41598-017-13236-z
+  first_author_is_lab_member: false
+  lab_author_count: 2
+- id: 2017-w-a-comprehensive-analysis
+  year: 2017
+  title: A comprehensive analysis of alternative splicing in paleopolyploid maize.
+  authors:
+  - name: Mei W
+  - name: Liu S
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Yeh C
+  - name: Springer NM
+  - name: Schnable PS
+  - name: Barbazuk WB
+  status: published
+  type: article
+  journal: Frontiers in Plant Science
+  doi: 10.3389/fpls.2017.00694
+  url: https://doi.org/10.3389/fpls.2017.00694
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2017-s-dice-discovery-of
+  year: 2017
+  title: 'DiCE: Discovery of Conserved Noncoding Sequences Efficiently.'
+  authors:
+  - name: Behera S
+  - name: Deogun JS
+  - name: Lai X
+    member_id: lai-xianjun
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: IEEE BIBM
+  doi: 10.1109/BIBM.2017.8217628
+  url: http://doi.org/10.1109/BIBM.2017.8217628
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2017-w-evolutionarily-conserved-alternative
+  year: 2017
+  title: Evolutionarily conserved alternative splicing across monocots.
+  authors:
+  - name: Mei W
+  - name: Boatwright L
+  - name: Feng G
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Barbazuk WB
+  status: published
+  type: article
+  journal: Genetics
+  doi: 10.1534/genetics.117.300189
+  url: https://doi.org/10.1534/genetics.117.300189
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2017-p-high-throughput-in
+  year: 2017
+  title: High throughput in vivo analysis of plant leaf chemical properties using hyperspectral imaging.
+  authors:
+  - name: Pandey P
+  - name: Ge Y
+  - name: Stoerger V
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Frontiers in Plant Science
+  doi: 10.3389/fpls.2017.01348
+  url: http://dx.doi.org/10.3389/fpls.2017.01348
+  first_author_is_lab_member: false
+  lab_author_count: 0
+- id: 2017-z-stagcns-an-orderaware
+  year: 2017
+  title: 'STAG-CNS: An order-aware conserved noncoding sequence discovery tool for arbitrary numbers of species.'
+  authors:
+  - name: Lai X, Behera S, Liang Z
+  - name: Lu Y
+  - name: Deogun JS
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Molecular Plant
+  doi: 10.1016/j.molp.2017.05.010
+  url: http://dx.doi.org/10.1016/j.molp.2017.05.010
+  first_author_is_lab_member: false
+  lab_author_count: 0
+- id: 2017-j-the-effect-of
+  year: 2017
+  title: The effect of artificial selection on phenotypic plasticity in maize.
+  authors:
+  - name: Gage J
+  - name: Jarquin D
+  - name: Romay M
+  - truncated: true
+  - name: Schnable JC  .. Yu J
+  - name: de Leon N
+  status: published
+  type: article
+  journal: Nature Communications
+  doi: 10.1038/s41467-017-01450-2
+  url: https://doi.org/10.1038/s41467-017-01450-2
+  author_note: Schnable JC is 29 of 40 authors
+  first_author_is_lab_member: false
+  lab_author_count: 0
+- id: 2017-jc-tunable-genotypingbysequencing-tgbs
+  year: 2017
+  title: Tunable Genotyping-By-Sequencing (tGBS) enables reliable genotyping of heterozygous loci.
+  authors:
+  - name: Ott A, Liu S, Schnable JC
+  - name: Yeh CT
+  - name: Wang C
+  - name: Schnable PS
+  status: published
+  type: article
+  journal: Nucleic Acids Research
+  doi: 10.1093/nar/gkx853
+  url: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx853/4210942/tGBS-genotypingbysequencing-enables-reliable?guestAccessKey=0ba723ae-c6b2-4d7f-841e-cd46b4bf68f9
+  first_author_is_lab_member: false
+  lab_author_count: 0
+- id: 2016-z-rnaseq-based-analysis
+  year: 2016
+  title: RNA-seq based analysis of population structure within the maize inbred B73.
+  authors:
+  - name: Liang Z
+    member_id: liang-zhikai
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: PLoS One
+  doi: 10.1371/journal.pone.0157942
+  url: http://dx.doi.org/10.1371/journal.pone.0157942
+  first_author_is_lab_member: true
+  lab_author_count: 1
+- id: 2016-sd-automated-vegetative-stage
+  year: 2016
+  title: Automated vegetative stage phenotyping analysis of maize plants using visible light images.
+  authors:
+  - name: Chaudhury SD
+  - name: Steorger V
+  - name: Samal A
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Liang Z
+    member_id: liang-zhikai
+  - name: Yu J
+  status: published
+  type: article
+  journal: 'KDD: Data Science for Food, Energy, and Water'
+  url: Pubs/Sruti_KDD_FEWS.pdf
+  first_author_is_lab_member: false
+  lab_author_count: 2
+- id: 2016-p-cross-species-selection
+  year: 2016
+  title: Cross species selection scans identify components of C4 photosynthesis in the grasses.
+  authors:
+  - name: Huang P
+  - name: Studer AJ
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Kellog EA
+  - name: Brutnell TP
+  status: published
+  type: article
+  journal: Journal of Experimental Botany
+  doi: 10.1093/jxb/erw256
+  url: http://dx.doi.org/10.1093/jxb/erw256
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2016-f-epigenetic-regulation-of
+  year: 2016
+  title: Epigenetic regulation of subgenome dominance following whole genome triplication in Brassica rapa.
+  authors:
+  - name: Cheng F
+  - name: Sun C
+  - name: Wu J
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Woodhouse MR
+  - name: Liang J
+  - name: Cai C
+  - name: Freeling M
+  - name: Wang X
+  status: published
+  type: article
+  journal: New Phytologist
+  doi: 10.1111/nph.13884
+  url: http://dx.doi.org/10.1111/nph.13884
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2016-bl-fractbias-a-graphical
+  year: 2016
+  title: 'FractBias: a graphical tool for assessing fractionation bias after whole genome duplications.'
+  authors:
+  - name: Joyce BL
+  - name: Huag-Baltzell A
+  - name: Davey S
+  - name: Bomhoff M
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Lyons E
+  status: published
+  type: article
+  journal: Bioinformatics
+  doi: 10.1093/bioinformatics/btw666
+  url: http://dx.doi.org/10.1093/bioinformatics/btw666
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2016-z-integration-of-omic
+  year: 2016
+  title: Integration of omic networks in a developmental atlas of maize.
+  authors:
+  - name: Walley JW, Sartor RC, Shen Z
+  - name: Schmitz RJ
+  - name: Wu KJ
+  - name: Urich MA
+  - name: Nery JR
+  - name: Smith LG
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Ecker JR
+  - name: Briggs SP
+  status: published
+  type: article
+  journal: Science
+  doi: 10.1126/science.aag1125
+  url: http://dx.doi.org/10.1126/science.aag1125
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2016-x-the-cterminal-motif
+  year: 2016
+  title: The C-terminal motif of SiAGO1b is required for the regulation of growth, development and stress responses in foxtail
+    millet [Setaria italica (L.) P. Beauv].
+  authors:
+  - name: Liu X
+  - name: Tang S
+  - name: Jia G
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Su X
+  - name: Tang C
+  - name: Zhi H
+  - name: Diao X.  "The C-terminal motif of SiAGO1b is required for the regulation of growth
+  - name: development
+  - name: stress responses in foxtail millet
+  status: published
+  type: article
+  journal: Journal of Experimental Botany
+  doi: 10.1093/jxb/erw135
+  url: http://dx.doi.org/10.1093/jxb/erw135
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2016-sg-mapping-qtls-for
+  year: 2016
+  title: Mapping QTLs for morpho-agronomic traits in proso millet (Panicum miliaceum L.).
+  authors:
+  - name: Rajput SG
+  - name: Santra DK
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Molecular Breeding
+  doi: 10.1007/s11032-016-0460-4
+  url: http://dx.doi.org/10.1007/s11032-016-0460-4
+  first_author_is_lab_member: false
+  lab_author_count: 0
+- id: 2016-y-temporal-dynamics-of
+  year: 2016
+  title: Temporal dynamics of maize plant growth, water use, and plant water content using automated high throughput RGB and
+    hyperspectral imaging.
+  authors:
+  - name: Ge Y
+  - name: Bai G
+  - name: Stoerger V
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Computers and Electronics in Agriculture
+  doi: 10.1016/j.compag.2016.07.028
+  url: http://dx.doi.org/10.1016/j.compag.2016.07.028
+  first_author_is_lab_member: false
+  lab_author_count: 0
+- id: 2016-s-the-draft-genome
+  year: 2016
+  title: 'The draft genome of Dichanthelium oligosanthes: A C3 panicoid grass species.'
+  authors:
+  - name: Studer AJ, Schnable JC, Weissmann S
+  - name: Kolbe AR
+  - name: McKain MR
+  - name: Shao Y
+  - name: Cousins AB
+  - name: Kellogg EA
+  - name: Brutnell TP
+  status: published
+  type: article
+  journal: Genome Biology
+  doi: 10.1186/s13059-016-1080-3
+  url: http://dx.doi.org/10.1186/s13059-016-1080-3
+  first_author_is_lab_member: false
+  lab_author_count: 0
+- id: 2015-h-allmaps-robust-scaffold
+  year: 2015
+  title: 'ALLMAPS: robust scaffold ordering based on multiple maps.'
+  authors:
+  - name: Tang H
+  - name: Zhang X
+  - name: Miao C
+    member_id: miao-chenyong
+  - name: Zhang J
+  - name: Ming R
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Schnable PS
+  - name: Lyons E
+  - name: Lu Jianguo
+  status: published
+  type: article
+  journal: Genome Biology
+  doi: 10.1186/s13059-014-0573-1
+  url: http://dx.doi.org/10.1186/s13059-014-0573-1
+  first_author_is_lab_member: false
+  lab_author_count: 2
+- id: 2015-s-impacts-of-whole
+  year: 2015
+  title: Impacts of Whole Genome Triplication on MIRNA Evolution in Brassica rapa.
+  authors:
+  - name: Chao S
+  - name: Wu J
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Yang W
+  - name: Cheng F
+  - name: Wang X
+  status: published
+  type: article
+  journal: Genome Biology and Evolution
+  doi: 10.1093/gbe/evv206
+  url: http://dx.doi.org/10.1093/gbe/evv206
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2015-g-microsatellite-variations-of
+  year: 2015
+  title: Microsatellite Variations of Elite Setaria Varieties Released during Last Six Decades in China.
+  authors:
+  - name: Jia G
+  - name: Liu X
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Niu Z
+  - name: Wang C
+  - name: Li Y
+  - name: Wang Sh
+  - name: Wang Su
+  - name: Liu J
+  - name: Gou E
+  - name: Diao X
+  status: published
+  type: article
+  journal: PLoS One
+  doi: 10.1371/journal.pone.0125688
+  url: http://dx.doi.org/10.1371/journal.pone.0125688
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2015-jd-phylogeny-and-photosynthesis
+  year: 2015
+  title: Phylogeny and photosynthesis of the grass tribe Paniceae.
+  authors:
+  - name: Washburn JD
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Davidse G
+  - name: Pires JC
+  status: published
+  type: article
+  journal: American Journal of Botany
+  doi: 10.3732/ajb.1500222
+  url: http://dx.doi.org/10.3732/ajb.1500222
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2015-h-synfind-compiling-syntenic
+  year: 2015
+  title: 'SynFind: compiling syntenic regions across any set of genomes on demand.'
+  authors:
+  - name: Tang H
+  - name: Bamhoff MD
+  - name: Briones E
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Lyons E
+  status: published
+  type: article
+  journal: Genome Biology and Evolution
+  doi: 10.1093/gbe/evv219
+  url: http://dx.doi.org/10.1093/gbe/evv219
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2015-jc-genome-evolution-in
+  year: 2015
+  title: 'Genome evolution in maize: from genomes back to genes.'
+  authors:
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Annual Review of Plant Biology
+  doi: 10.1146/annurev-arplant-043014-115604
+  url: http://dx.doi.org/10.1146/annurev-arplant-043014-115604
+  first_author_is_lab_member: false
+  lab_author_count: 0
+- id: 2014-ja-a-near-complete
+  year: 2014
+  title: A near complete snapshot of the Zea mays seedling transcriptome revealed from ultra-deep sequencing.
+  authors:
+  - name: Martin JA
+  - name: Johnson NV
+  - name: Gross SM
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Meng X
+  - name: Wang M
+  - name: Coleman-Derr D
+  - name: Lindquist E
+  - name: Wei C
+  - name: Kaeppler S
+  - name: Chen F
+  - name: Wang Z
+  status: published
+  type: article
+  journal: Scientific Reports
+  doi: 10.1038/srep04519
+  url: http://www.nature.com/srep/2014/140331/srep04519/full/srep04519.html
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2014-amr-cooption-of-the
+  year: 2014
+  title: Co-option of the polarity gene network shapes filament morphology in angiosperms.
+  authors:
+  - name: Almeida AMR
+  - name: Yockteng R
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Alvarez-Buylla ER
+  - name: Freeling M
+  - name: Specht CD
+  status: published
+  type: article
+  journal: Scientific Reports
+  doi: 10.1038/srep06194
+  url: http://dx.doi.org/10.1038/srep06194
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2014-x-initiation-of-setaria
+  year: 2014
+  title: Initiation of Setaria as a model plant.
+  authors:
+  - name: Diao X
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Bennetzen JL
+  - name: Li J
+  status: published
+  type: article
+  journal: Frontiers of Agricultural Science and Engineering
+  doi: 10.15302/J-FASE-2014011
+  url: http://engineering.cae.cn/fase/EN/10.15302/J-FASE-2014011
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2014-l-mapping-of-quantitative
+  year: 2014
+  title: Mapping of Quantitative Trait Locus (QTLs) that Contribute to Germination and Early Seedling Drought Tolerance in
+    the Interspecific Cross Setaria italica x Setaria viridis.
+  authors:
+  - name: Qie L
+  - name: Jia G
+  - name: Zhang W
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Shang Z
+  - name: Li W
+  - name: Liu B
+  - name: Li M
+  - name: Chai
+  - name: Y
+  - name: Zhi H
+  - name: Diao X
+  status: published
+  type: article
+  journal: PLoS One
+  doi: 10.1371/journal.pone.0101868
+  url: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0101868
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2014-a-nonsyntenic-genes-drive
+  year: 2014
+  title: Nonsyntenic Genes Drive Highly Dynamic Complementation of Gene Expression in Maize Hybrids.
+  authors:
+  - name: Paschold A
+  - name: Larson NB
+  - name: Marcon C
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Yeh C
+  - name: Lanz C
+  - name: Nettleton D
+  - name: Piepho H
+  - name: Schnable PS
+  - name: Hochholdinger F
+  status: published
+  type: article
+  journal: Plant Cell
+  doi: 10.1105/tpc.114.130948
+  url: http://dx.doi.org/10.1105/tpc.114.130948
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2013-g-automated-conserved-noncoding
+  year: 2013
+  title: Automated conserved noncoding sequence (CNS) discovery reveals differences in gene content and promoter evolution
+    among the grasses.
+  authors:
+  - name: Turco G
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Bedersen B
+  - name: Freeling M
+  status: published
+  type: article
+  journal: Frontiers in Plant Sciences
+  doi: 10.3389/fpls.2013.00170
+  url: http://dx.doi.org/10.3389/fpls.2013.00170
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2013-a-two-evolutionarily-distinct
+  year: 2013
+  title: Two Evolutionarily Distinct Classes of Paleopolyploidy.
+  authors:
+  - name: Garsmeur O, Schnable JC, Almeida A
+  - name: Jourda C
+  - name: D'Hont A
+  - name: Freeling M
+  status: published
+  type: article
+  journal: Molecular Biology and Evolution
+  doi: 10.1093/molbev/mst230
+  url: http://dx.doi.org/10.1093/molbev/mst230
+  first_author_is_lab_member: false
+  lab_author_count: 0
+- id: 2012-jc-escape-from-preferential
+  year: 2012
+  title: Escape from preferential retention following repeated whole genome duplication in plants.
+  authors:
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Wang X
+  - name: Pires JC
+  - name: Freeling M
+  status: published
+  type: article
+  journal: Frontiers in Plant Science
+  doi: 10.3389/fpls.2012.00094
+  url: http://dx.doi.org/10.3389/fpls.2012.00094
+  first_author_is_lab_member: true
+  lab_author_count: 1
+- id: 2012-jc-genomewide-analysis-of
+  year: 2012
+  title: Genome-wide analysis of syntenic gene deletion in the grasses.
+  authors:
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Freeling M
+  - name: Lyons E
+  status: published
+  type: article
+  journal: Genome Biology and Evolution
+  doi: 10.1093/gbe/evs009
+  url: http://dx.doi.org/10.1093/gbe/evs009
+  first_author_is_lab_member: true
+  lab_author_count: 1
+- id: 2012-h-altered-patterns-of
+  year: 2012
+  title: Altered patterns of fractionation and exon deletions in Brassica rapa support a two-step model of paleohexaploidy.
+  authors:
+  - name: Tang H
+  - name: Woodhouse MR
+  - name: Cheng F
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Pedersen BS
+  - name: Conant GC
+  - name: Wang X
+  - name: Freeling M
+  - name: Pires JC
+  status: published
+  type: article
+  journal: Genetics
+  doi: 10.1534/genetics.111.137349
+  url: http://dx.doi.org/10.1534/genetics.111.137349
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2012-w-highresolution-mapping-of
+  year: 2012
+  title: High-resolution mapping of open chromatin in the rice genome.
+  authors:
+  - name: Zhang W
+  - name: Wu Y
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Zeng Z
+  - name: Freeling M
+  - name: Crawford GE
+  - name: Jiang J
+  status: published
+  type: article
+  journal: Genome Research
+  doi: 10.1101/gr.131342.111
+  url: http://dx.doi.org/10.1101/gr.131342.111
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2012-m-fractionation-mutagenesis-and
+  year: 2012
+  title: Fractionation mutagenesis and similar consequences of mechanisms removing dispensable or less-expressed DNA in plants.
+  authors:
+  - name: Freeling M
+  - name: Woodhouse MR
+  - name: Subramaniam S
+  - name: Turco G
+  - name: Lisch D
+  - name: Schnable JC
+  status: published
+  type: article
+  journal: Current Opinion in Plant Biology
+  doi: 10.1016/j.pbi.2012.01.015
+  url: http://dx.doi.org/10.1016/j.pbi.2012.01.015
+  first_author_is_lab_member: false
+  lab_author_count: 0
+- id: 2011-jc-comparative-genomics-with
+  year: 2011
+  title: 'Comparative genomics with maize and other grasses: from genes to genomes.'
+  authors:
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Lyons E
+  status: published
+  type: article
+  journal: Maydica
+  url: http://www.schnablelab.org/Pubs/56_183.pdf
+  first_author_is_lab_member: true
+  lab_author_count: 1
+- id: 2011-jc-differentiation-of-the
+  year: 2011
+  title: Differentiation of the maize subgenomes by genome dominance and both ancient and ongoing gene loss.
+  authors:
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Springer NM
+  - name: Freeling M
+  status: published
+  type: article
+  journal: PNAS
+  doi: 10.1073/pnas.1101368108
+  url: http://www.pnas.org/content/108/10/4069.abstract
+  first_author_is_lab_member: true
+  lab_author_count: 1
+- id: 2011-jc-dosesensitivity-conserved-noncoding
+  year: 2011
+  title: Dose-sensitivity, conserved noncoding sequences and duplicate gene retention through multiple tetraploidies in the
+    grasses.
+  authors:
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Pedersen BS
+  - name: Subramaniam S
+  - name: Freeling M
+  status: published
+  type: article
+  journal: Frontiers in Plant Science
+  doi: 10.3389/fpls.2011.00002
+  url: http://www.frontiersin.org/plant_genetics_and_genomics/10.3389/fpls.2011.00002/abstract
+  first_author_is_lab_member: true
+  lab_author_count: 1
+- id: 2011-jc-genes-identified-by
+  year: 2011
+  title: Genes identified by visible mutant phenotypes show increased bias towards one of two maize subgenomes.
+  authors:
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Freeling M
+  status: published
+  type: article
+  journal: PLoS One
+  doi: 10.1371/journal.pone.0017855
+  url: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0017855
+  first_author_is_lab_member: true
+  lab_author_count: 1
+- id: 2011-h-screening-synteny-blocks
+  year: 2011
+  title: Screening synteny blocks in pairwise genome comparisons through integer programming.
+  authors:
+  - name: Tang H
+  - name: Lyons E
+  - name: Pedersen B
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Paterson AH
+  - name: Freeling M
+  status: published
+  type: article
+  journal: BMC Bioinformatics
+  doi: 10.1186/1471-2105-12-102
+  url: http://www.biomedcentral.com/1471-2105/12/102/abstract
+  first_author_is_lab_member: false
+  lab_author_count: 1
+- id: 2011-jc-heritable-epigenetic-variation
+  year: 2011
+  title: Heritable epigenetic variation among maize inbreds.
+  authors:
+  - name: Eichten SR, Swanson-Wagner RA, Schnable JC
+  - name: Waters AJ
+  - name: Hermanson PJ
+  - name: Liu S
+  - name: Yeh C
+  - name: Jia Y
+  - name: Gendler K
+  - name: Freeling M
+  - name: Schnable PS
+  - name: Vaughn MW
+  - name: Springer NM
+  status: published
+  type: article
+  journal: PLoS Genetics
+  doi: 10.1371/journal.pgen.1002372
+  url: http://dx.doi.org/10.1371/journal.pgen.1002372
+  first_author_is_lab_member: false
+  lab_author_count: 0
+- id: 2010-bs-following-tetraploidy-in
+  year: 2010
+  title: Following tetraploidy in maize, a short deletion mechanism removed genes preferentially from one of the two homeologs.
+  authors:
+  - name: Woodhouse MR, Schnable JC, Pedersen BS
+  - name: Lyons E
+  - name: Lisch D
+  - name: Subramaniam S
+  - name: Freeling M
+  status: published
+  type: article
+  journal: PLoS Biology
+  doi: 10.1371/journal.pbio.1000409
+  url: http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000409
+  first_author_is_lab_member: false
+  lab_author_count: 0
+- id: 2010-initiative-genome-sequencing-and
+  year: 2010
+  title: Genome sequencing and analysis of the model grass Brachypodium distachyon.
+  authors:
+  - name: The International Brachypodium Initiative
+  status: published
+  type: article
+  journal: Nature
+  doi: 10.1038/nature08747
+  url: http://dx.doi.org/10.1038/nature08747
+  first_author_is_lab_member: false
+  lab_author_count: 0

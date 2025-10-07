@@ -1,0 +1,165 @@
+---
+layout: default
+---
+
+{% assign page_path = page.path %}
+{% assign page_url = page.url %}
+{% assign person_entry = site.data.people | where: "page_path", page_path | first %}
+{% assign person_scope = "current" %}
+{% assign person_category = "" %}
+{% assign person_role = "" %}
+{% assign person_status = "" %}
+{% assign person_image = nil %}
+{% assign person_cv = nil %}
+{% assign person_orcid = nil %}
+{% assign person_scholar = nil %}
+{% assign person_socials = nil %}
+{% assign person_tenure = nil %}
+{% assign person_current_role = nil %}
+
+{% if person_entry %}
+  {% assign person_category = person_entry.category %}
+  {% assign person_role = person_entry.role %}
+  {% assign person_status = person_entry.status %}
+  {% assign person_image = person_entry.image %}
+  {% assign person_cv = person_entry.cv %}
+  {% assign person_orcid = person_entry.orcid %}
+  {% assign person_scholar = person_entry.scholar %}
+  {% assign person_socials = person_entry.socials %}
+  {% assign person_tenure = person_entry.tenure %}
+  {% assign person_current_role = person_entry.current %}
+{% else %}
+  {% assign person_scope = "alumni" %}
+  {% assign person_category = "" %}
+  {% assign person_role = "" %}
+  {% assign person_status = "alumni" %}
+  {% assign person_image = nil %}
+  {% assign person_cv = nil %}
+  {% assign person_orcid = nil %}
+  {% assign person_socials = nil %}
+  {% assign person_tenure = nil %}
+  {% assign person_current_role = nil %}
+  {% assign normalized_link = page_url %}
+  {% assign fallback_link = '/' | append: page_path | replace: '.md', '/' %}
+  {% for cohort in site.data.alumni %}
+    {% assign match = cohort.people | where: "link", normalized_link | first %}
+    {% if match == nil %}
+      {% assign match = cohort.people | where: "link", fallback_link | first %}
+    {% endif %}
+    {% if match == nil %}
+      {% assign normalized_fallback = fallback_link | replace: '//', '/' %}
+      {% if fallback_link != normalized_fallback %}
+        {% assign match = cohort.people | where: "link", normalized_fallback | first %}
+      {% endif %}
+    {% endif %}
+    {% if match %}
+      {% assign person_entry = match %}
+      {% assign person_category = cohort.title %}
+      {% assign person_role = match.role %}
+      {% assign person_status = "alumni" %}
+      {% assign person_image = match.image %}
+      {% assign person_cv = match.cv %}
+      {% assign person_orcid = match.orcid %}
+      {% assign person_scholar = match.scholar %}
+      {% assign person_socials = match.socials %}
+      {% assign person_tenure = match.tenure %}
+      {% assign person_current_role = match.current %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+{% assign photo_src = person_image | default: "/images/optimized/People_Images/placeholder.jpg" %}
+{% assign photo_alt = page.title %}
+{% assign photo_href = photo_src %}
+{% unless photo_href contains '://' %}
+  {% assign photo_href = photo_href | relative_url %}
+{% endunless %}
+
+{% assign normalized_paths = '' | split: '' %}
+{% assign normalized_paths = normalized_paths | push: page_path %}
+{% assign variant = '/' | append: page_path %}
+{% assign normalized_paths = normalized_paths | push: variant %}
+{% assign slug = page_path | replace: '.md', '' %}
+{% assign normalized_paths = normalized_paths | push: slug %}
+{% assign variant = '/' | append: slug %}
+{% assign normalized_paths = normalized_paths | push: variant %}
+{% assign variant = variant | append: '/' %}
+{% assign normalized_paths = normalized_paths | push: variant %}
+{% assign normalized_paths = normalized_paths | push: page_url %}
+{% assign normalized_paths_lower = '' | split: '' %}
+{% for variant in normalized_paths %}
+  {% assign lowered = variant | downcase %}
+  {% assign normalized_paths_lower = normalized_paths_lower | push: lowered %}
+{% endfor %}
+
+{% assign lab_author = nil %}
+{% for author in site.data.lab_authors %}
+  {% if author.people_page %}
+    {% assign normalized_author = author.people_page | replace: '//', '/' %}
+    {% assign normalized_author_lower = normalized_author | downcase %}
+    {% if normalized_paths_lower contains normalized_author_lower %}
+      {% assign lab_author = author %}
+      {% break %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+<article class="person">
+  <header class="person__header">
+    <div class="person__media">
+      <img src="{{ photo_href }}" alt="{{ photo_alt | escape }}" class="person__photo" />
+    </div>
+    <div class="person__summary">
+      <h1 class="person__name">{{ page.title }}</h1>
+      {% if person_role %}<p class="person__role">{{ person_role }}</p>{% endif %}
+      <ul class="person__meta">
+        {% if person_category and person_scope != 'current' %}
+          <li><strong>Cohort</strong> <span>{{ person_category }}</span></li>
+        {% endif %}
+        {% if person_status and person_scope == 'current' %}<li><strong>Status</strong> <span>{{ person_status | capitalize }}</span></li>{% endif %}
+        {% if person_tenure %}<li><strong>Tenure</strong> <span>{{ person_tenure }}</span></li>{% endif %}
+        {% if person_current_role %}<li><strong>Now</strong> <span>{{ person_current_role }}</span></li>{% endif %}
+        {% if person_cv %}
+          {% assign cv_href = person_cv %}
+          {% unless cv_href contains '://' %}
+            {% assign cv_href = cv_href | relative_url %}
+          {% endunless %}
+          <li><strong>CV</strong> <a class="person__link" href="{{ cv_href }}">Download PDF</a></li>
+        {% endif %}
+        {% if person_orcid %}
+          {% assign orcid_url = person_orcid %}
+          {% unless person_orcid contains 'http' %}
+            {% assign orcid_url = 'https://orcid.org/' | append: person_orcid %}
+          {% endunless %}
+          <li><strong>ORCID</strong> <a class="person__link" href="{{ orcid_url }}">{{ person_orcid | replace: 'https://orcid.org/', '' }}</a></li>
+        {% endif %}
+        {% if person_scholar %}
+          {% assign scholar_url = person_scholar %}
+          {% unless scholar_url contains '://' %}
+            {% assign scholar_url = 'https://scholar.google.com/citations?user=' | append: person_scholar %}
+          {% endunless %}
+          <li><strong>Google Scholar</strong> <a class="person__link" href="{{ scholar_url }}">View Profile</a></li>
+        {% endif %}
+      </ul>
+      {% if person_socials %}
+        <ul class="person__socials">
+          {% for social in person_socials %}
+            <li><a href="{{ social.url }}">{{ social.label }}</a></li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+  </header>
+  <div class="person__body">
+    {% assign clean_content = content | strip %}
+    {% if clean_content %}
+      {{ content }}
+    {% else %}
+      <p class="person__placeholder">We're gathering more about {{ page.title | split: ' ' | first }}'s story. Check back soon!</p>
+    {% endif %}
+  </div>
+  {% if lab_author %}
+    {% include person-publications.html member_id=lab_author.id limit=20 %}
+  {% endif %}
+</article>

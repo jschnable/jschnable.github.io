@@ -18,7 +18,7 @@ Research in the Schnable Lab@UNL in an interdisciplinary business. Here are thre
 
 Research in this area focuses on utilizing cross species comparisons to separate out the functional and functionless portions of plant genomes and then prediction the functions of the apparently functional bits.
 
-![CompGen](/images/Science_Images/CompGenMerged.jpg)
+![CompGen](/images/optimized/Science_Images/CompGenMerged.jpg)
 
 ### Recent Lab Publications on Comparative Genomics
 
@@ -45,7 +45,7 @@ Research in this area focuses on utilizing cross species comparisons to separate
 
 This area focuses on developing and deploying new algorithms, tools, and datasets for high throughput plant phenotyping. On the development side we collaborate closely with engineers and statisticians both here at UNL and at other univerisities around the world.
 
-![CompGen](/images/Science_Images/HTPMerged.jpg)
+![CompGen](/images/optimized/Science_Images/HTPMerged.jpg)
 
 ### Recent Lab Publications on High Throughput Phenotyping
 
@@ -77,7 +77,7 @@ This area focuses on developing and deploying new algorithms, tools, and dataset
 
 At its most basic, this area ensures that graduates of the Schnable lab are familiar with modern algorithms to perform basic quantitative genetic tasks including GWAS and genomic selection. However, more advanced work in this area involves developing and applying new statistical approaches that either leverage either the unique features of new phenotypic datasets (for example time-series data from whole mapping populations collected using HTP technologies) or sharing data across related species.
 
-![CompGen](/images/Science_Images/QGMerged.jpg)
+![CompGen](/images/optimized/Science_Images/QGMerged.jpg)
 
 ### Recent Lab Publications on Quantitative Genetics
 

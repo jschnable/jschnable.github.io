@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: person
 title: Conflict of Interest Disclosure
 ---
 

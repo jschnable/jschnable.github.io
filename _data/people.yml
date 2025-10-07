@@ -1,149 +1,144 @@
 - name: James Schnable
   role: Professor
-  category: Faculty
   status: current
-  image: /images/People_Images/jamesschnable.jpg
+  image: /images/optimized/People_Images/jamesschnable.jpg
   page_path: peoplepages/jschnable.md
   cv: /CVs/JSchnable.pdf
   orcid: 0000-0001-6739-5527
+  scholar: https://scholar.google.com/citations?user=cik4JVYAAAAJ&hl=en&oi=ao
   socials:
-    - label: Twitter
-      url: https://twitter.com/szintri
-
+  - label: Twitter
+    url: https://twitter.com/szintri
+  category: Faculty
 - name: Vladimir Torres-Rodriguez
   role: Research Assistant Professor
-  category: Faculty
   status: current
-  image: /images/People_Images/vlad2.jpg
+  image: /images/optimized/People_Images/vlad2.jpg
   page_path: peoplepages/Vlad.md
   cv: /CVs/CV_Vladimir3.pdf
   orcid: 0000-0001-6056-3452
-
+  scholar: https://scholar.google.com/citations?user=a9p6MWsAAAAJ&hl=en&oi=ao
+  category: Faculty
 - name: Zhongjie Ji
   role: Heuermann Research Fellow
-  category: Research Staff
   status: current
-  image: /images/People_Images/Zhongjie.jpg
+  image: /images/optimized/People_Images/Zhongjie.jpg
   page_path: peoplepages/ZhongjieJ.md
   cv: /CVs/CV_ZhongjieJ.pdf
   orcid: 0009-0006-1448-305X
-
+  scholar: https://scholar.google.com/citations?user=n6JlWJQAAAAJ&hl=en&oi=ao
+  category: Research Staff
 - name: Jon Turkus
   role: Lab Manager
-  category: Research Staff
   status: current
-  image: /images/People_Images/JonT.jpg
+  image: /images/optimized/People_Images/JonT.jpg
   page_path: peoplepages/JonT.md
   orcid: 0000-0002-2006-0137
-
+  category: Research Staff
 - name: Rossy Bedolla
   role: Office Associate
-  category: Professional Staff
   status: current
-  image: /images/People_Images/RossyB2.jpg
+  image: /images/optimized/People_Images/RossyB2.jpg
   page_path: peoplepages/Rossy.md
   cv: /CVs/CV-RossyB.pdf
-
-- name: 'Chidanand "Chidu" Ullagaddi'
+  category: Professional Staff
+- name: Chidanand "Chidu" Ullagaddi
   role: Technician
-  category: Research Staff
   status: current
-  image: /images/People_Images/Chidanand.JPG
+  image: /images/optimized/People_Images/Chidanand.JPG
   page_path: peoplepages/Chidu.md
   cv: /CVs/CV_Chidanand.pdf
   orcid: 0009-0009-4005-3282
-
+  scholar: https://scholar.google.com/citations?user=O_LrPogAAAAJ&hl=en&oi=ao
+  category: Research Staff
 - name: Jensina Davis
   role: PhD Student
-  category: Graduate Students
   status: current
-  image: /images/People_Images/JensinaD2.jpg
+  image: /images/optimized/People_Images/JensinaD2.jpg
   page_path: peoplepages/Jensina.md
   cv: /CVs/CV_JensinaDavis-2.pdf
   orcid: 0009-0000-3638-9482
-
+  scholar: https://scholar.google.com/citations?user=Y5Gk5zwAAAAJ&hl=en&oi=ao
+  category: Graduate Students
 - name: Nikee Shrestha
   role: PhD Student
-  category: Graduate Students
   status: current
-  image: /images/People_Images/NikeeS.PNG
+  image: /images/optimized/People_Images/NikeeS.PNG
   page_path: peoplepages/Nikee.md
   cv: /CVs/CV_NikeeS.pdf
   orcid: 0000-0003-4195-7549
-
+  scholar: https://scholar.google.com/citations?user=iIFpXjAAAAAJ&hl=en&oi=ao
+  category: Graduate Students
 - name: Waqar Ali
   role: PhD Student
-  category: Graduate Students
   status: current
-  image: /images/People_Images/WaqarAli2.jpg
+  image: /images/optimized/People_Images/WaqarAli2.jpg
   page_path: peoplepages/Waqar.md
   cv: /CVs/WaqarAliCV.pdf
   orcid: 0009-0001-8822-0950
-
+  scholar: https://scholar.google.com/citations?user=Qxyc8R4AAAAJ&hl=en&oi=ao
+  category: Graduate Students
 - name: Harshita Mangal
   role: PhD Student
-  category: Graduate Students
   status: current
-  image: /images/People_Images/HarshitaM2.jpg
+  image: /images/optimized/People_Images/HarshitaM2.jpg
   page_path: peoplepages/HarshitaM.md
   cv: /CVs/CV_HarshitaM.pdf
   orcid: 0009-0002-8424-6026
-
+  scholar: https://scholar.google.com/citations?user=NSkbSfQAAAAJ&hl=en&oi=ao
+  category: Graduate Students
 - name: Amany Gomaa
   role: PhD Student (co-advised)
-  category: Graduate Students
   status: current
-  image: /images/People_Images/Amany.jfif
+  image: /images/optimized/People_Images/Amany.jfif
   page_path: peoplepages/Amany.md
   cv: /CVs/CV_AmanyG.pdf
   orcid: 0000-0002-7309-5229
-
-- name: Karla Cuéllar
-  role: PhD Student
   category: Graduate Students
+- name: "Karla Cu\xE9llar"
+  role: PhD Student
   status: current
-  image: /images/People_Images/KarlaC.jpeg
+  image: /images/optimized/People_Images/KarlaC.jpeg
   page_path: peoplepages/KarlaC2.md
   cv: /CVs/CV_KarlaC.pdf
   orcid: 0009-0001-2851-6370
-
+  category: Graduate Students
 - name: Ozgur Altundas
   role: PhD Student
-  category: Graduate Students
   status: current
-  image: /images/People_Images/OzgurA.jpg
+  image: /images/optimized/People_Images/OzgurA.jpg
   page_path: peoplepages/OzgurA.md
   cv: /CVs/CV_OzgurA.pdf
   orcid: 0000-0002-4579-599X
-
+  scholar: https://scholar.google.com/citations?user=xqjVHMIAAAAJ&hl=en&oi=ao
+  category: Graduate Students
 - name: Sofiya Arora
   role: MS Student
-  category: Graduate Students
   status: current
-  image: /images/People_Images/Sofiya.png
+  image: /images/optimized/People_Images/Sofiya.png
   page_path: peoplepages/Sofiya.md
   cv: /CVs/CV_SofiyaA2.pdf
   orcid: 0009-0004-5357-6094
-
+  category: Graduate Students
 - name: Hadiya Kounsar
   role: MS Student
-  category: Graduate Students
   status: current
-  image: /images/People_Images/HadiyaK2.jpg
+  image: /images/optimized/People_Images/HadiyaK2.jpg
   page_path: peoplepages/HadiyaK.md
   cv: /CVs/CV_HadiyaK.pdf
   orcid: 0009-0001-5087-7690
-
+  scholar: https://scholar.google.com/citations?user=lmiqBhcAAAAJ&hl=en&oi=ao
+  category: Graduate Students
 - name: Ryleigh Kirby
   role: Undergraduate Researcher (UCARE)
-  category: Undergraduate Researchers
   status: current
-  image: /images/People_Images/RyleighK.jpg
+  image: /images/optimized/People_Images/RyleighK.jpg
   page_path: peoplepages/RyleighK.md
   cv: /CVs/CV_RyleighK.pdf
-
+  scholar: https://scholar.google.com/citations?user=0TTcJesAAAAJ&hl=en&oi=ao
+  category: Undergraduate Researchers
 - name: Jordan Bares
   role: Undergraduate Research Assistant
-  category: Undergraduate Researchers
   status: current
-  image: /images/People_Images/Jordan.jpeg
+  image: /images/optimized/People_Images/Jordan.jpeg
+  category: Undergraduate Researchers

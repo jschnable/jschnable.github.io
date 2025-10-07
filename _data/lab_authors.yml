@@ -1,0 +1,1464 @@
+- id: agarwal-bhushit
+  name: Bhushit Agarwal
+  aliases:
+  - Agarwal B
+  - Agarwal B.
+  - Agarwal, B
+  - Agarwal, B.
+  - Agarwal, Bhushit
+  - B. Agarwal
+  active: false
+- id: airori-aldi
+  name: Aldi Airori
+  aliases:
+  - A. Airori
+  - Airori A
+  - Airori A.
+  - Airori, A
+  - Airori, A.
+  - Airori, Aldi
+  active: false
+- id: ali-waqar
+  name: Waqar Ali
+  aliases:
+  - Ali W
+  - Ali W.
+  - Ali, W
+  - Ali, W.
+  - Ali, Waqar
+  - W. Ali
+  active: true
+  people_page: peoplepages/Waqar.md
+  orcid: 0009-0001-8822-0950
+- id: altundas-ozgur
+  name: Ozgur Altundas
+  aliases:
+  - Altundas O
+  - Altundas O.
+  - Altundas, O
+  - Altundas, O.
+  - Altundas, Ozgur
+  - O. Altundas
+  active: true
+  people_page: peoplepages/OzgurA.md
+  orcid: 0000-0002-4579-599X
+- id: andreasen-nate
+  name: Nate Andreasen
+  aliases:
+  - Andreasen N
+  - Andreasen N.
+  - Andreasen, N
+  - Andreasen, N.
+  - Andreasen, Nate
+  - N. Andreasen
+  active: false
+- id: arora-sofiya
+  name: Sofiya Arora
+  aliases:
+  - Arora S
+  - Arora S.
+  - Arora, S
+  - Arora, S.
+  - Arora, Sofiya
+  - S. Arora
+  active: true
+  people_page: peoplepages/Sofiya.md
+  orcid: 0009-0004-5357-6094
+- id: askey-bryce
+  name: Bryce Askey
+  aliases:
+  - Askey B
+  - Askey B.
+  - Askey, B
+  - Askey, B.
+  - Askey, Bryce
+  - B. Askey
+  active: false
+- id: aydt-abaigeal
+  name: Abaigeal Aydt
+  aliases:
+  - A. Aydt
+  - Aydt A
+  - Aydt A.
+  - Aydt, A
+  - Aydt, A.
+  - Aydt, Abaigeal
+  active: false
+- id: bares-jordan
+  name: Jordan Bares
+  aliases:
+  - Bares J
+  - Bares J.
+  - Bares, J
+  - Bares, J.
+  - Bares, Jordan
+  - J. Bares
+  active: true
+- id: barnoskie-kahheetah
+  name: Kahheetah Barnoskie
+  aliases:
+  - Barnoskie K
+  - Barnoskie K.
+  - Barnoskie, K
+  - Barnoskie, K.
+  - Barnoskie, Kahheetah
+  - K. Barnoskie
+  active: false
+- id: bashyam-srinidhi
+  name: Srinidhi Bashyam
+  aliases:
+  - Bashyam S
+  - Bashyam S.
+  - Bashyam, S
+  - Bashyam, S.
+  - Bashyam, Srinidhi
+  - S. Bashyam
+  active: false
+- id: bedolla-rossy
+  name: Rossy Bedolla
+  aliases:
+  - Bedolla R
+  - Bedolla R.
+  - Bedolla, R
+  - Bedolla, R.
+  - Bedolla, Rossy
+  - R. Bedolla
+  active: true
+  people_page: peoplepages/Rossy.md
+- id: belz-natalie
+  name: Natalie Belz
+  aliases:
+  - Belz N
+  - Belz N.
+  - Belz, N
+  - Belz, N.
+  - Belz, Natalie
+  - N. Belz
+  active: false
+- id: bouwens-brooke
+  name: Brooke Bouwens
+  aliases:
+  - B. Bouwens
+  - Bouwens B
+  - Bouwens B.
+  - Bouwens, B
+  - Bouwens, B.
+  - Bouwens, Brooke
+  active: false
+- id: bradley-alexandra
+  name: Alexandra Bradley
+  aliases:
+  - A. Bradley
+  - Bradley A
+  - Bradley A.
+  - Bradley, A
+  - Bradley, A.
+  - Bradley, Alexandra
+  active: false
+- id: butera-christian
+  name: Christian Butera
+  aliases:
+  - Butera C
+  - Butera C.
+  - Butera, C
+  - Butera, C.
+  - Butera, Christian
+  - C. Butera
+  active: false
+- id: carey-grace
+  name: Grace Carey
+  aliases:
+  - Carey G
+  - Carey G.
+  - Carey, G
+  - Carey, G.
+  - Carey, Grace
+  - G. Carey
+  active: false
+- id: carvalho-daniel
+  name: Daniel Carvalho
+  aliases:
+  - Carvalho D
+  - Carvalho D.
+  - Carvalho DS
+  - Carvalho, D
+  - Carvalho, D.
+  - Carvalho, Daniel
+  - D. Carvalho
+  active: false
+  people_page: /peoplepages/Daniel_Carvalho/
+  orcid: 0000-0001-6590-4287
+- id: changa-taity
+  name: Taity Changa
+  aliases:
+  - Changa T
+  - Changa T.
+  - Changa, T
+  - Changa, T.
+  - Changa, Taity
+  - T. Changa
+  active: false
+- id: christenson-clay
+  name: Clay Christenson
+  aliases:
+  - C. Christenson
+  - Christenson C
+  - Christenson C.
+  - Christenson, C
+  - Christenson, C.
+  - Christenson, Clay
+  active: false
+- id: colvin-charlie
+  name: Charlie Colvin
+  aliases:
+  - C. Colvin
+  - Colvin C
+  - Colvin C.
+  - Colvin, C
+  - Colvin, C.
+  - Colvin, Charlie
+  active: false
+  people_page: /peoplepages/Charlie-Colvin.md/
+- id: conway-sierra
+  name: Sierra Conway
+  aliases:
+  - Conway S
+  - Conway S.
+  - Conway, S
+  - Conway, S.
+  - Conway, Sierra
+  - S. Conway
+  active: false
+- id: cullar-karla
+  name: Karla Cuéllar
+  aliases:
+  - Cuéllar K
+  - Cuéllar K.
+  - Cuéllar, K
+  - Cuéllar, K.
+  - Cuéllar, Karla
+  - K. Cuéllar
+  active: true
+  people_page: peoplepages/KarlaC2.md
+  orcid: 0009-0001-2851-6370
+- id: dai-xiuru
+  name: Xiuru Dai
+  aliases:
+  - Dai X
+  - Dai X.
+  - Dai, X
+  - Dai, X.
+  - Dai, Xiuru
+  - X. Dai
+  active: false
+  orcid: 0000-0002-2516-1068
+- id: davis-jensina
+  name: Jensina Davis
+  aliases:
+  - Davis J
+  - Davis J.
+  - Davis JM
+  - Davis, J
+  - Davis, J.
+  - Davis, Jensina
+  - J. Davis
+  active: true
+  people_page: peoplepages/Jensina.md
+  orcid: 0009-0000-3638-9482
+- id: dias-henrique
+  name: Henrique Moura Dias
+  aliases:
+  - Dias H
+  - Dias H M
+  - Dias H.
+  - Dias HM
+  - Dias, H
+  - Dias, H.
+  - Dias, HM
+  - Dias, Henrique
+  - Dias, Henrique Moura
+  - H M Dias
+  - H. M. Dias
+  - Moura Dias H
+  active: false
+- id: duryee-logan
+  name: Logan Duryee
+  aliases:
+  - Duryee L
+  - Duryee L.
+  - Duryee, L
+  - Duryee, L.
+  - Duryee, Logan
+  - L. Duryee
+  active: false
+- id: enersen-alex
+  name: Alex Enersen
+  aliases:
+  - A. Enersen
+  - Enersen A
+  - Enersen A.
+  - Enersen, A
+  - Enersen, A.
+  - Enersen, Alex
+  active: false
+- id: faber-maddy
+  name: Maddy Faber
+  aliases:
+  - Faber M
+  - Faber M.
+  - Faber, M
+  - Faber, M.
+  - Faber, Maddy
+  - M. Faber
+  active: false
+- id: finch-alexis
+  name: Alexis Finch
+  aliases:
+  - A. Finch
+  - Finch A
+  - Finch A.
+  - Finch, A
+  - Finch, A.
+  - Finch, Alexis
+  active: false
+- id: foltz-ashley
+  name: Ashley Foltz
+  aliases:
+  - A. Foltz
+  - Foltz A
+  - Foltz A.
+  - Foltz, A
+  - Foltz, A.
+  - Foltz, Ashley
+  active: false
+- id: frost-elijah
+  name: Elijah Frost
+  aliases:
+  - E. Frost
+  - Frost E
+  - Frost E.
+  - Frost, E
+  - Frost, E.
+  - Frost, Elijah
+  active: false
+- id: gomaa-amany
+  name: Amany Gomaa
+  aliases:
+  - A. Gomaa
+  - Gomaa A
+  - Gomaa A.
+  - Gomaa, A
+  - Gomaa, A.
+  - Gomaa, Amany
+  active: true
+  people_page: peoplepages/Amany.md
+  orcid: 0000-0002-7309-5229
+- id: grace-sofia
+  name: Sofia Grace
+  aliases:
+  - Grace S
+  - Grace S.
+  - Grace, S
+  - Grace, S.
+  - Grace, Sofia
+  - S. Grace
+  active: false
+- id: grove-ryleigh
+  name: Ryleigh Grove
+  aliases:
+  - Grove R
+  - Grove R.
+  - Grove RJ
+  - Grove, R
+  - Grove, R.
+  - Grove, Ryleigh
+  - R. Grove
+  active: false
+- id: grzybowski-marcin
+  name: Marcin Grzybowski
+  aliases:
+  - Grzybowski M
+  - Grzybowski M.
+  - Grzybowski, M
+  - Grzybowski, M.
+  - Grzybowski, Marcin
+  - M. Grzybowski
+  active: false
+  people_page: /peoplepages/Marcin_Grzybowski/
+  orcid: 0000-0002-6303-5433
+- id: guo-alice
+  name: Alice Guo
+  aliases:
+  - A. Guo
+  - Guo A
+  - Guo A.
+  - Guo, A
+  - Guo, A.
+  - Guo, Alice
+  active: false
+- id: hamad-shurouk
+  name: Shurouk Hamad
+  aliases:
+  - Hamad S
+  - Hamad S.
+  - Hamad, S
+  - Hamad, S.
+  - Hamad, Shurouk
+  - S. Hamad
+  active: false
+- id: hirwa-remy
+  name: Remy Hirwa
+  aliases:
+  - Hirwa R
+  - Hirwa R.
+  - Hirwa, R
+  - Hirwa, R.
+  - Hirwa, Remy
+  - R. Hirwa
+  active: false
+- id: hoang-khang
+  name: Khang Hoang
+  aliases:
+  - Hoang K
+  - Hoang K.
+  - Hoang, K
+  - Hoang, K.
+  - Hoang, Khang
+  - K. Hoang
+  active: false
+- id: hoban-thomas
+  name: Thomas Hoban
+  aliases:
+  - Hoban T
+  - Hoban T.
+  - Hoban, T
+  - Hoban, T.
+  - Hoban, Thomas
+  - T. Hoban
+  active: false
+  orcid: 0000-0001-7607-1903
+- id: hochstein-jill
+  name: Jill Hochstein
+  aliases:
+  - Hochstein J
+  - Hochstein J.
+  - Hochstein, J
+  - Hochstein, J.
+  - Hochstein, Jill
+  - J. Hochstein
+  people_page: peoplepages/Jill_Hochstein.md
+- id: hollander-nicole
+  name: Nicole Hollander
+  aliases:
+  - Hollander N
+  - Hollander N.
+  - Hollander, N
+  - Hollander, N.
+  - Hollander, Nicole
+  - N. Hollander
+  active: false
+- id: horanituze-jocelyne
+  name: Jocelyne Horanituze
+  aliases:
+  - Horanituze J
+  - Horanituze J.
+  - Horanituze, J
+  - Horanituze, J.
+  - Horanituze, Jocelyne
+  - J. Horanituze
+  active: false
+- id: horn-taylor
+  name: Taylor Horn
+  aliases:
+  - Horn T
+  - Horn T.
+  - Horn, T
+  - Horn, T.
+  - Horn, Taylor
+  - T. Horn
+  active: false
+- id: hurst-preston
+  name: Preston Hurst
+  aliases:
+  - Hurst JP
+  - Hurst P
+  - Hurst P.
+  - Hurst, P
+  - Hurst, P.
+  - Hurst, Preston
+  - P. Hurst
+  active: false
+  people_page: /peoplepages/Preston_Hurst/
+- id: hurst-j
+  name: J. Preston Hurst
+  aliases:
+  - Hurst J
+  - Hurst J P
+  - Hurst J.
+  - Hurst JP
+  - Hurst, J
+  - Hurst, J.
+  - Hurst, J. Preston
+  - Hurst, JP
+  - J P Hurst
+  - J. P. Hurst
+  people_page: peoplepages/Preston_Hurst.md
+- id: hussaini-mohamed
+  name: Mohamed Al Hussaini]
+  aliases:
+  - Hussaini] M
+  - Hussaini] M A
+  - Hussaini] M.
+  - Hussaini] MA
+  - Hussaini], M
+  - Hussaini], M.
+  - Hussaini], MA
+  - Hussaini], Mohamed
+  - Hussaini], Mohamed Al
+  - M A Hussaini]
+  - M. A. Hussaini]
+  active: false
+- id: igiraneza-alliance
+  name: Alliance Igiraneza
+  aliases:
+  - A. Igiraneza
+  - Igiraneza A
+  - Igiraneza A.
+  - Igiraneza, A
+  - Igiraneza, A.
+  - Igiraneza, Alliance
+  active: false
+- id: istipliler-deniz
+  name: Deniz Istipliler
+  aliases:
+  - D. Istipliler
+  - Istipliler D
+  - Istipliler D.
+  - Istipliler, D
+  - Istipliler, D.
+  - Istipliler, Deniz
+  active: false
+  people_page: /peoplepages/Deniz_Istipiller/
+  orcid: 0000-0002-0887-1121
+- id: ji-zhongjie
+  name: Zhongjie Ji
+  aliases:
+  - Ji Z
+  - Ji Z.
+  - Ji Zhongjie
+  - Ji, Z
+  - Ji, Z.
+  - Ji, Zhongjie
+  - Z. Ji
+  active: true
+  people_page: peoplepages/ZhongjieJ.md
+  orcid: 0009-0006-1448-305X
+- id: jin-hongyu
+  name: Hongyu Jin
+  aliases:
+  - H. Jin
+  - Jin H
+  - Jin H.
+  - Jin, H
+  - Jin, H.
+  - Jin, Hongyu
+  active: false
+  people_page: /peoplepages/Hongyu_Jin/
+- id: johnson-kyle
+  name: Kyle Johnson
+  aliases:
+  - Johnson K
+  - Johnson K.
+  - Johnson, K
+  - Johnson, K.
+  - Johnson, Kyle
+  - K. Johnson
+  active: false
+- id: johnson-sarah
+  name: Sarah Johnson
+  aliases:
+  - Johnson S
+  - Johnson S.
+  - Johnson, S
+  - Johnson, S.
+  - Johnson, Sarah
+  - S. Johnson
+  active: false
+- id: kabbakki-preethi
+  name: Preethi Jagadish Gowda Kabbakki
+  aliases:
+  - Kabbakki P
+  - Kabbakki P JG
+  - Kabbakki P.
+  - Kabbakki PJG
+  - Kabbakki, P
+  - Kabbakki, P.
+  - Kabbakki, PJG
+  - Kabbakki, Preethi
+  - Kabbakki, Preethi Jagadish Gowda
+  - P JG Kabbakki
+  - P. JG. Kabbakki
+  active: false
+  people_page: /peoplepages/Preethi.md/
+- id: kagaba-lionel
+  name: Lionel Kagaba
+  aliases:
+  - Kagaba L
+  - Kagaba L.
+  - Kagaba, L
+  - Kagaba, L.
+  - Kagaba, Lionel
+  - L. Kagaba
+  active: false
+- id: kirby-ryleigh
+  name: Ryleigh Kirby
+  aliases:
+  - Kirby R
+  - Kirby R.
+  - Kirby, R
+  - Kirby, R.
+  - Kirby, Ryleigh
+  - R. Kirby
+  active: true
+  people_page: peoplepages/RyleighK.md
+- id: kohrell-annaliese
+  name: Annaliese Kohrell
+  aliases:
+  - A. Kohrell
+  - Kohrell A
+  - Kohrell A.
+  - Kohrell, A
+  - Kohrell, A.
+  - Kohrell, Annaliese
+  active: false
+- id: korth-nate
+  name: Nate Korth
+  aliases:
+  - Korth N
+  - Korth N.
+  - Korth, N
+  - Korth, N.
+  - Korth, Nate
+  - N. Korth
+  active: false
+- id: kounsar-hadiya
+  name: Hadiya Kounsar
+  aliases:
+  - H. Kounsar
+  - Kounsar H
+  - Kounsar H.
+  - Kounsar, H
+  - Kounsar, H.
+  - Kounsar, Hadiya
+  active: true
+  people_page: peoplepages/HadiyaK.md
+  orcid: 0009-0001-5087-7690
+- id: kyavuma-oddine
+  name: Oddine Kyavuma
+  aliases:
+  - Kyavuma O
+  - Kyavuma O.
+  - Kyavuma, O
+  - Kyavuma, O.
+  - Kyavuma, Oddine
+  - O. Kyavuma
+  active: false
+- id: lai-xianjun
+  name: Xianjun Lai
+  aliases:
+  - Lai X
+  - Lai X.
+  - Lai, X
+  - Lai, X.
+  - Lai, Xianjun
+  - X. Lai
+  active: false
+  people_page: /peoplepages/Xianjun_Lai/
+  orcid: 0000-0001-9795-3358
+- id: li-delin
+  name: Delin Li
+  aliases:
+  - D. Li
+  - Li D
+  - Li D.
+  - Li, D
+  - Li, D.
+  - Li, Delin
+  active: false
+- id: li-fangyi
+  name: Fangyi Li
+  aliases:
+  - F. Li
+  - Li F
+  - Li F.
+  - Li, F
+  - Li, F.
+  - Li, Fangyi
+  active: false
+  people_page: /peoplepages/FangyiLi/
+- id: li-xiangjun
+  name: Xiangjun Li
+  aliases:
+  - Li X
+  - Li X.
+  - Li, X
+  - Li, X.
+  - Li, Xiangjun
+  - X. Li
+  active: false
+- id: liang-zhikai
+  name: Zhikai Liang
+  aliases:
+  - Liang Z
+  - Liang Z.
+  - Liang, Z
+  - Liang, Z.
+  - Liang, Zhikai
+  - Z. Liang
+  active: false
+  people_page: /peoplepages/zliang/
+  orcid: 0000-0002-9963-8631
+- id: linders-kyle
+  name: Kyle Linders
+  aliases:
+  - K. Linders
+  - Linders K
+  - Linders K.
+  - Linders KM
+  - Linders, K
+  - Linders, K.
+  - Linders, Kyle
+  active: false
+  people_page: peoplepages/KyleL.md
+- id: liu-xiangdong
+  name: Xiangdong "Brian" Liu
+  aliases:
+  - Liu X
+  - Liu X B
+  - Liu X.
+  - Liu XB
+  - Liu, X
+  - Liu, X.
+  - Liu, XB
+  - Liu, Xiangdong
+  - Liu, Xiangdong Brian
+  - X B Liu
+  - X. B. Liu
+  active: false
+- id: lopez-lina
+  name: Lina López-Corona
+  aliases:
+  - L. Lopez
+  - L. López-Corona
+  - Lopez L
+  - Lopez L.
+  - Lopez, L
+  - Lopez, L.
+  - Lopez, Lina
+  - Lopez-Corona L
+  - Lopez-Corona L.
+  - Lopez-Corona, L
+  - Lopez-Corona, L.
+  - López-Corona L
+  - López-Corona L.
+  - López-Corona, L
+  - López-Corona, L.
+  - López-Corona, Lina
+  active: false
+  people_page: /peoplepages/LinaLopez/
+- id: lowry-matthew
+  name: Matthew Lowry
+  aliases:
+  - Lowry M
+  - Lowry M.
+  - Lowry, M
+  - Lowry, M.
+  - Lowry, Matthew
+  - M. Lowry
+  active: false
+- id: mangal-harshita
+  name: Harshita Mangal
+  aliases:
+  - H. Mangal
+  - Mangal H
+  - Mangal H.
+  - Mangal, H
+  - Mangal, H.
+  - Mangal, Harshita
+  active: true
+  people_page: peoplepages/HarshitaM.md
+  orcid: 0009-0002-8424-6026
+- id: mathivanan-ramesh
+  name: Ramesh Kanna Mathivanan
+  aliases:
+  - Mathivanan R
+  - Mathivanan R K
+  - Mathivanan R.
+  - Mathivanan RK
+  - Mathivanan, R
+  - Mathivanan, R.
+  - Mathivanan, RK
+  - Mathivanan, Ramesh
+  - Mathivanan, Ramesh Kanna
+  - R K Mathivanan
+  - R. K. Mathivanan
+  active: false
+  people_page: /peoplepages/Ramesh/
+- id: medlock-henry
+  name: Henry "Hank" Medlock
+  aliases:
+  - H H Medlock
+  - H. H. Medlock
+  - Medlock H
+  - Medlock H H
+  - Medlock H.
+  - Medlock HH
+  - Medlock, H
+  - Medlock, H.
+  - Medlock, HH
+  - Medlock, Henry
+  - Medlock, Henry Hank
+  active: false
+- id: meng-xiaoxi
+  name: Xiaoxi "Peggy" Meng
+  aliases:
+  - Meng X
+  - Meng X P
+  - Meng X.
+  - Meng XP
+  - Meng, X
+  - Meng, X.
+  - Meng, XP
+  - Meng, Xiaoxi
+  - Meng, Xiaoxi Peggy
+  - X P Meng
+  - X. Meng
+  - X. P. Meng
+  active: false
+  people_page: /peoplepages/Xiaoxi_Meng/
+  orcid: 0000-0001-7217-2037
+- id: miao-chenyong
+  name: Chenyong Miao
+  aliases:
+  - C. Miao
+  - Miao C
+  - Miao C.
+  - Miao, C
+  - Miao, C.
+  - Miao, Chenyong
+  active: false
+  people_page: /peoplepages/Chenyong_Miao/
+  orcid: 0000-0002-0904-3707
+- id: micek-luke
+  name: Luke Micek
+  aliases:
+  - L. Micek
+  - Micek L
+  - Micek L.
+  - Micek, L
+  - Micek, L.
+  - Micek, Luke
+  active: false
+- id: miller-aleah
+  name: Aleah Miller
+  aliases:
+  - A. Miller
+  - Miller A
+  - Miller A.
+  - Miller, A
+  - Miller, A.
+  - Miller, Aleah
+  active: false
+- id: mizero-olivier
+  name: Olivier N Mizero
+  aliases:
+  - Mizero O
+  - Mizero O N
+  - Mizero O.
+  - Mizero ON
+  - Mizero, O
+  - Mizero, O.
+  - Mizero, ON
+  - Mizero, Olivier
+  - Mizero, Olivier N
+  - O N Mizero
+  - O. Mizero
+  - O. N. Mizero
+  active: false
+  people_page: /peoplepages/Olivier/
+  orcid: 0000-0003-0675-6936
+- id: molnar-alex
+  name: Alex Molnar
+  aliases:
+  - A. Molnar
+  - Molnar A
+  - Molnar A.
+  - Molnar, A
+  - Molnar, A.
+  - Molnar, Alex
+  active: false
+- id: mural-ravi
+  name: Ravi Mural
+  aliases:
+  - Mural R
+  - Mural R.
+  - Mural RV
+  - Mural, R
+  - Mural, R.
+  - Mural, Ravi
+  - R. Mural
+  active: false
+  people_page: /peoplepages/Ravi_Mural/
+  orcid: 0000-0002-5489-9918
+- id: mushimiyimana-carine
+  name: Carine Mushimiyimana
+  aliases:
+  - C. Mushimiyimana
+  - Mushimiyimana C
+  - Mushimiyimana C.
+  - Mushimiyimana, C
+  - Mushimiyimana, C.
+  - Mushimiyimana, Carine
+  active: false
+- id: nanjaraju-trisha
+  name: Trisha Nanjaraju
+  aliases:
+  - Nanjaraju T
+  - Nanjaraju T.
+  - Nanjaraju, T
+  - Nanjaraju, T.
+  - Nanjaraju, Trisha
+  - T. Nanjaraju
+  active: false
+  people_page: /peoplepages/TrishaN.md/
+- id: ngiruwonsanga-prince
+  name: Prince Ngiruwonsanga
+  aliases:
+  - Ngiruwonsanga P
+  - Ngiruwonsanga P.
+  - Ngiruwonsanga, P
+  - Ngiruwonsanga, P.
+  - Ngiruwonsanga, Prince
+  - P. Ngiruwonsanga
+  active: false
+- id: ngu-daniel
+  name: Daniel Ngu
+  aliases:
+  - D. Ngu
+  - Ngu D
+  - Ngu D.
+  - Ngu DW
+  - Ngu, D
+  - Ngu, D.
+  - Ngu, Daniel
+  active: false
+- id: nguyen-natasha
+  name: Natasha Nguyen
+  aliases:
+  - N. Nguyen
+  - Nguyen N
+  - Nguyen N.
+  - Nguyen, N
+  - Nguyen, N.
+  - Nguyen, Natasha
+  active: false
+- id: nishimwe-aime
+  name: Aime Nishimwe
+  aliases:
+  - A. Nishimwe
+  - Nishimwe A
+  - Nishimwe A.
+  - Nishimwe AV
+  - Nishimwe, A
+  - Nishimwe, A.
+  - Nishimwe, Aime
+  active: false
+- id: niyingenera-marthe
+  name: Marthe Niyingenera
+  aliases:
+  - M. Niyingenera
+  - Niyingenera M
+  - Niyingenera M.
+  - Niyingenera, M
+  - Niyingenera, M.
+  - Niyingenera, Marthe
+  active: false
+- id: nolan-alexa
+  name: Alexa Nolan
+  aliases:
+  - A. Nolan
+  - Nolan A
+  - Nolan A.
+  - Nolan, A
+  - Nolan, A.
+  - Nolan, Alexa
+  active: false
+- id: olson-logan
+  name: Logan Olson
+  aliases:
+  - L. Olson
+  - Olson L
+  - Olson L.
+  - Olson, L
+  - Olson, L.
+  - Olson, Logan
+  active: false
+- id: pages-alejandro
+  name: Alejandro Pages
+  aliases:
+  - A. Pages
+  - Pages A
+  - Pages A.
+  - Pages, A
+  - Pages, A.
+  - Pages, Alejandro
+  active: false
+- id: pedersen-connor
+  name: Connor Pedersen
+  aliases:
+  - C. Pedersen
+  - Pedersen C
+  - Pedersen C.
+  - Pedersen, C
+  - Pedersen, C.
+  - Pedersen, Connor
+  active: false
+- id: pester-nate
+  name: Nate Pester
+  aliases:
+  - N. Pester
+  - Pester N
+  - Pester N.
+  - Pester, N
+  - Pester, N.
+  - Pester, Nate
+  active: false
+- id: podliska-holly
+  name: Holly Podliska
+  aliases:
+  - H. Podliska
+  - Podliska H
+  - Podliska H.
+  - Podliska, H
+  - Podliska, H.
+  - Podliska, Holly
+  active: false
+- id: pokhrel-niranjan
+  name: Niranjan Pokhrel
+  aliases:
+  - N. Pokhrel
+  - Pokhrel N
+  - Pokhrel N.
+  - Pokhrel, N
+  - Pokhrel, N.
+  - Pokhrel, Niranjan
+  active: false
+  people_page: /peoplepages/Niranjan.md/
+- id: rajput-santosh
+  name: Santosh Rajput
+  aliases:
+  - Rajput S
+  - Rajput S.
+  - Rajput SG
+  - Rajput, S
+  - Rajput, S.
+  - Rajput, SG
+  - Rajput, Santosh
+  - S. Rajput
+  - SG Rajput
+  active: false
+- id: raju-sunil
+  name: Sunil KK Raju
+  aliases:
+  - Raju S
+  - Raju S K
+  - Raju S.
+  - Raju SK
+  - Raju SKK
+  - Raju, S
+  - Raju, S.
+  - Raju, SK
+  - Raju, Sunil
+  - Raju, Sunil KK
+  - S K Raju
+  - S. K. Raju
+  active: false
+  people_page: /peoplepages/Sunil_Raju/
+- id: rangira-sam
+  name: Sam Rangira
+  aliases:
+  - Rangira S
+  - Rangira S.
+  - Rangira, S
+  - Rangira, S.
+  - Rangira, Sam
+  - S. Rangira
+  active: false
+- id: richter-michael
+  name: Michael Richter
+  aliases:
+  - M. Richter
+  - Richter M
+  - Richter M.
+  - Richter, M
+  - Richter, M.
+  - Richter, Michael
+  active: false
+  orcid: 0000-0001-9702-4292
+- id: ruester-chessie
+  name: Chessie Ruester
+  aliases:
+  - C. Ruester
+  - Ruester C
+  - Ruester C.
+  - Ruester, C
+  - Ruester, C.
+  - Ruester, Chessie
+  active: false
+- id: schnable-james
+  name: James Schnable
+  aliases:
+  - J. Schnable
+  - Schnable J
+  - Schnable J.
+  - Schnable JC
+  - Schnable JS
+  - Schnable, J
+  - Schnable, J.
+  - Schnable, James
+  active: true
+  people_page: peoplepages/jschnable.md
+  orcid: 0000-0001-6739-5527
+- id: shotkoski-kelsey
+  name: Kelsey Shotkoski
+  aliases:
+  - K. Shotkoski
+  - Shotkoski K
+  - Shotkoski K.
+  - Shotkoski, K
+  - Shotkoski, K.
+  - Shotkoski, Kelsey
+  active: false
+- id: shrestha-nikee
+  name: Nikee Shrestha
+  aliases:
+  - N. Shrestha
+  - Shrestha N
+  - Shrestha N.
+  - Shrestha, N
+  - Shrestha, N.
+  - Shrestha, Nikee
+  active: true
+  people_page: peoplepages/Nikee.md
+  orcid: 0000-0003-4195-7549
+- id: sigmon-isabel
+  name: Isabel Sigmon
+  aliases:
+  - I. Sigmon
+  - Sigmon I
+  - Sigmon I.
+  - Sigmon, I
+  - Sigmon, I.
+  - Sigmon, Isabel
+  active: false
+- id: sigmon-brandi
+  name: Brandi Sigmon
+  aliases:
+  - B. Sigmon
+  - Sigmon B
+  - Sigmon B.
+  - Sigmon, B
+  - Sigmon, B.
+  - Sigmon, Brandi
+  people_page: peoplepages/Brandi_Sigmon.md
+- id: smith-christine
+  name: Christine Smith
+  aliases:
+  - C. Smith
+  - Smith C
+  - Smith C.
+  - Smith, C
+  - Smith, C.
+  - Smith, Christine
+  active: false
+- id: snell-seth
+  name: Seth Snell
+  aliases:
+  - S. Snell
+  - Snell S
+  - Snell S.
+  - Snell, S
+  - Snell, S.
+  - Snell, Seth
+  active: false
+- id: stevens-isaac
+  name: Isaac Stevens
+  aliases:
+  - I. Stevens
+  - Stevens I
+  - Stevens I.
+  - Stevens, I
+  - Stevens, I.
+  - Stevens, Isaac
+  active: false
+- id: sun-guangchao
+  name: Guangchao Sun
+  aliases:
+  - G. Sun
+  - Sun G
+  - Sun G.
+  - Sun, G
+  - Sun, G.
+  - Sun, Guangchao
+  active: false
+  people_page: /peoplepages/Guangchao_Sun/
+  orcid: 0000-0003-3942-6175
+- id: syed-kashish
+  name: Kashish Syed
+  aliases:
+  - K. Syed
+  - Syed K
+  - Syed K.
+  - Syed, K
+  - Syed, K.
+  - Syed, Kashish
+  active: false
+- id: thapa-ranjita
+  name: Ranjita Thapa
+  aliases:
+  - R. Thapa
+  - Thapa R
+  - Thapa R.
+  - Thapa, R
+  - Thapa, R.
+  - Thapa, Ranjita
+  active: false
+- id: tian-lei
+  name: Lei Tian
+  aliases:
+  - L. Tian
+  - Tian L
+  - Tian L.
+  - Tian, L
+  - Tian, L.
+  - Tian, Lei
+  active: false
+- id: torres-rodriguez-vladimir
+  name: Vladimir Torres-Rodriguez
+  aliases:
+  - Torres-Rodriguez JT
+  - Torres-Rodriguez JV
+  - Torres-Rodriguez V
+  - Torres-Rodriguez V.
+  - Torres-Rodriguez, V
+  - Torres-Rodriguez, V.
+  - Torres-Rodriguez, Vladimir
+  - V. Torres-Rodriguez
+  active: true
+  people_page: peoplepages/Vlad.md
+  orcid: 0000-0001-6056-3452
+- id: townsend-lou
+  name: Lou Townsend
+  aliases:
+  - L. Townsend
+  - Townsend L
+  - Townsend L.
+  - Townsend, L
+  - Townsend, L.
+  - Townsend, Lou
+  active: false
+- id: tran-han
+  name: Han Tran
+  aliases:
+  - H. Tran
+  - Tran H
+  - Tran H.
+  - Tran, H
+  - Tran, H.
+  - Tran, Han
+  active: false
+- id: tross-michael
+  name: Michael Tross
+  aliases:
+  - M. Tross
+  - Tross M
+  - Tross M.
+  - Tross MC
+  - Tross, M
+  - Tross, M.
+  - Tross, Michael
+  active: false
+  people_page: /peoplepages/Michael_Tross/
+  orcid: 0000-0002-4410-9679
+- id: tumusiine-daniella
+  name: Daniella Norah Tumusiine
+  aliases:
+  - D N Tumusiine
+  - D. N. Tumusiine
+  - Tumusiine D
+  - Tumusiine D N
+  - Tumusiine D.
+  - Tumusiine DN
+  - Tumusiine, D
+  - Tumusiine, D.
+  - Tumusiine, DN
+  - Tumusiine, Daniella
+  - Tumusiine, Daniella Norah
+  active: false
+- id: tunnell-madison
+  name: Madison Tunnell
+  aliases:
+  - M. Tunnell
+  - Tunnell M
+  - Tunnell M.
+  - Tunnell, M
+  - Tunnell, M.
+  - Tunnell, Madison
+  active: false
+- id: turkus-jon
+  name: Jon Turkus
+  aliases:
+  - J. Turkus
+  - Turkus J
+  - Turkus J.
+  - Turkus JD
+  - Turkus, J
+  - Turkus, J.
+  - Turkus, Jon
+  active: true
+  people_page: peoplepages/JonT.md
+  orcid: 0000-0002-2006-0137
+- id: ullagaddi-chidanand
+  name: Chidanand "Chidu" Ullagaddi
+  aliases:
+  - C C Ullagaddi
+  - C. C. Ullagaddi
+  - Ullagaddi C
+  - Ullagaddi C C
+  - Ullagaddi C.
+  - Ullagaddi CC
+  - Ullagaddi, C
+  - Ullagaddi, C.
+  - Ullagaddi, CC
+  - Ullagaddi, Chidanand
+  - Ullagaddi, Chidanand Chidu
+  active: true
+  people_page: peoplepages/Chidu.md
+  orcid: 0009-0009-4005-3282
+- id: wheeler-leighton
+  name: Leighton Wheeler
+  aliases:
+  - L. Wheeler
+  - Wheeler L
+  - Wheeler L.
+  - Wheeler, L
+  - Wheeler, L.
+  - Wheeler, Leighton
+  active: false
+- id: yan-lang
+  name: Lang Yan
+  aliases:
+  - L. Yan
+  - Yan L
+  - Yan L.
+  - Yan, L
+  - Yan, L.
+  - Yan, Lang
+  active: false
+- id: yang-jinliang
+  name: Jinliang Yang
+  aliases:
+  - J. Yang
+  - Yang J
+  - Yang J.
+  - Yang, J
+  - Yang, J.
+  - Yang, Jinliang
+  active: false
+- id: yavuz-caner
+  name: Caner Yavuz
+  aliases:
+  - C. Yavuz
+  - Yavuz C
+  - Yavuz C.
+  - Yavuz, C
+  - Yavuz, C.
+  - Yavuz, Caner
+  active: false
+- id: ye-xiaoyang
+  name: Xiaoyang (Chloe) Ye
+  aliases:
+  - X ( Ye
+  - X. (. Ye
+  - Ye X
+  - Ye X (
+  - Ye X(
+  - Ye X.
+  - Ye, X
+  - Ye, X(
+  - Ye, X.
+  - Ye, Xiaoyang
+  - Ye, Xiaoyang (Chloe)
+  active: false
+- id: yenandy-santos
+  name: Santos Yenandy
+  aliases:
+  - S. Yenandy
+  - Yenandy S
+  - Yenandy S.
+  - Yenandy, S
+  - Yenandy, S.
+  - Yenandy, Santos
+  active: false
+- id: zhang-yang
+  name: Yang Zhang
+  aliases:
+  - Y. Zhang
+  - Zhang Y
+  - Zhang Y.
+  - Zhang, Y
+  - Zhang, Y.
+  - Zhang, Yang
+  active: false
+  people_page: /peoplepages/Yang_Zhang/
+- id: zhang-rongqing
+  name: Rongqing Zhang
+  aliases:
+  - R. Zhang
+  - Zhang R
+  - Zhang R.
+  - Zhang, R
+  - Zhang, R.
+  - Zhang, Rongqing
+  active: false
+- id: zhang-luyang
+  name: Luyang Zhang
+  aliases:
+  - L. Zhang
+  - Zhang L
+  - Zhang L.
+  - Zhang, L
+  - Zhang, L.
+  - Zhang, Luyang
+  active: false
+- id: zhang-shuying
+  name: Shuying Zhang
+  aliases:
+  - S. Zhang
+  - Zhang S
+  - Zhang S.
+  - Zhang, S
+  - Zhang, S.
+  - Zhang, Shuying
+  active: false
+- id: zwiener-mackenzie
+  name: Mackenzie Zwiener
+  aliases:
+  - M. Zwiener
+  - Zwiener M
+  - Zwiener M.
+  - Zwiener, M
+  - Zwiener, M.
+  - Zwiener, Mackenzie
+  active: false
+  people_page: /peoplepages/Mackenzie_Zwiener/
