@@ -1,11 +1,8 @@
 ---
-layout: page
+layout: person
 title: James Schnable
 ---
 
-![James Schnable](/images/People_Images/jamesschnable.jpg){:align="middle"}|
-
-**ORCID ID:** 0000-0001-6739-5527
 <br><br>
 Prof. James Schnable the Nebraska Corn Checkoff Presidential Chair at the University of Nebraska. His research group focuses on integrating new technologies and capabilities from engineering, computer science, and statistics into maize and sorghum genetic and genomic research.
 <br><br>

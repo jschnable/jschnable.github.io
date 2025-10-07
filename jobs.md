@@ -5,7 +5,7 @@ subtitle: Hypothesis Driven Research in Plant Genomics and Phenomics
 
 googlefonts: ["Monoton", "Lobster"]
 bigimg:
-  - "/images/Front_Page_Images/header.png" : ""
+  - "/images/optimized/Front_Page_Images/header.png" : ""
 ---
 
 # Why Work Here?
@@ -16,7 +16,7 @@ Our final goal isn't papers but making sure trainees end up with good jobs that 
 <br><br>
 Our alumni are employed as professors at nine universities across four countries and at all three of the major seed companies.
 
-![Alumni](/images/Alumni.png){:width="600" align="middle"}
+![Alumni](/images/optimized/Alumni.png){:width="600" align="middle"}
 
 # Postdoc Positions
 

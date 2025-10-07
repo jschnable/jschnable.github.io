@@ -33,7 +33,7 @@ googlefonts: ["Monoton", "Lobster"]
     {% assign person_url = person.page %}
   {% endif %}
   {% assign detail_url = nil %}
-  {% assign portrait = person.image | default: '/images/People_Images/placeholder.jpg' %}
+  {% assign portrait = person.image | default: '/images/optimized/People_Images/placeholder.jpg' %}
   {% if portrait contains '://' %}
     {% assign portrait_path = portrait %}
   {% else %}
@@ -72,7 +72,7 @@ googlefonts: ["Monoton", "Lobster"]
 <ul class="people-grid">
 {% for person in group.people %}
   {% assign person_url = person.link %}
-  {% assign portrait = person.image | default: '/images/People_Images/placeholder.jpg' %}
+  {% assign portrait = person.image | default: '/images/optimized/People_Images/placeholder.jpg' %}
   {% assign detail_url = nil %}
   {% if portrait contains '://' %}
     {% assign portrait_path = portrait %}

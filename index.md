@@ -5,21 +5,16 @@ subtitle: Hypothesis Driven Research in Plant Genomics and Phenomics
 
 googlefonts: ["Monoton", "Lobster"]
 bigimg:
-  - "/images/Front_Page_Images/header.png" : ""
+  - "/images/optimized/Front_Page_Images/header.png" : ""
 ---
 
 <script type="application/ld+json">{% include schema-organization.json %}</script>
 
-![The Schnable Lab](/images/lab2022_v2.jpg){:width="900" align="middle" }
+![The Schnable Lab](/images/optimized/lab2022_v2.jpg){:width="900" align="middle" }
 
 <div class="hero-banner">
   <h2>Hypothesis-driven research in plant genomics and phenomics</h2>
-  <p>The Schnable Lab blends field experiments, molecular biology, and computational analytics to understand how crops adapt, thrive, and feed the world.</p>
-  <div class="hero-actions">
-    <a href="{{ '/research/' | relative_url }}">Explore our research</a>
-    <a class="secondary" href="#join">Join the lab</a>
-  </div>
-</div>
+  <p>The Schnable Lab blends field experiments, molecular biology, and computational analytics understand how the genetics of our worlds most important crops.</p>
 
 ## What We Study
 
@@ -55,11 +50,5 @@ We are always interested in motivated scientists:
 - **Graduate students and postdocs** should reach out with a CV and a short statement of interests; opportunities shift with grant availability.
 
 Check current openings on the [Join the Lab]({{ '/jobs/' | relative_url }}) page, or email Dr. Schnable to start a conversation.
-
-## Contact
-
-Schnable Lab — University of Nebraska-Lincoln<br />
-1900 Vine Street, Lincoln, NE 68588, USA<br />
-Connect with us on [Twitter](https://twitter.com/schnablelab).
 
 Looking for the Iowa State group led by Dr. Patrick Schnable? [Visit their site](https://schnablelab.plantgenomics.iastate.edu/).
