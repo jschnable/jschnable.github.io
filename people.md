@@ -29,14 +29,18 @@ Meet the scientists, students, and staff who power discovery in the Schnable Lab
       {% assign person_url = person.page %}
     {% endif %}
     {% assign portrait = person.image | default: '/images/optimized/People_Images/placeholder.jpg' %}
+    {% assign safe_name = person.name | escape %}
     <li class="people-card">
-      {% if person_url %}<a class="people-card__image-link" href="{{ person_url | relative_url }}">{% endif %}
-      <img class="people-card__image" src="{{ portrait | relative_url }}" alt="{{ person.name | escape }}" />
+      {% if person_url %}<a class="people-card__image-link" href="{{ person_url | relative_url }}" aria-label="View profile for {{ safe_name }}">{% endif %}
+      <img class="people-card__image" src="{{ portrait | relative_url }}" alt="{{ safe_name }}" />
       {% if person_url %}</a>{% endif %}
       <h3 class="people-card__name">
-        {% if person_url %}<a href="{{ person_url | relative_url }}">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}
+        {% if person_url %}<a href="{{ person_url | relative_url }}">{{ safe_name }}</a>{% else %}{{ safe_name }}{% endif %}
       </h3>
-      <p class="people-card__role">{{ person.role }}</p>
+      <p class="people-card__role">{{ person.role | escape }}</p>
+      {% if person_url %}
+        <a class="people-card__cta" href="{{ person_url | relative_url }}">View profile →</a>
+      {% endif %}
       {% assign link_count = 0 %}
       {% if person.cv %}{% assign link_count = link_count | plus: 1 %}{% endif %}
       {% if person.orcid %}{% assign link_count = link_count | plus: 1 %}{% endif %}

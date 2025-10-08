@@ -14,7 +14,8 @@ bigimg:
 
 <div class="hero-banner">
   <h2>Hypothesis-driven research in plant genomics and phenomics</h2>
-  <p>The Schnable Lab blends field experiments, molecular biology, and computational analytics understand how the genetics of our worlds most important crops.</p>
+  <p>The Schnable Lab blends field experiments, molecular biology, and computational analytics to understand how the genetics of our world's most important crops drives performance in the field.</p>
+</div>
 
 ## What We Study
 
