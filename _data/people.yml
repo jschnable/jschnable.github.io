@@ -137,3 +137,15 @@
   cv: /CVs/CV_RyleighK.pdf
   scholar: https://scholar.google.com/citations?user=0TTcJesAAAAJ&hl=en&oi=ao
   category: Undergraduate Researchers
+- name: Sophie Rohlfing
+  role: Undergraduate Research Assistant
+  status: current
+  image: /images/optimized/People_Images/SophieR.jpg
+  page_path: peoplepages/SophieR.md
+  category: Undergraduate Researchers
+- name: Sawyer Johnson
+  role: Undergraduate Research Assistant
+  status: current
+  image: /images/optimized/People_Images/SawyerJ.jpg
+  page_path: peoplepages/SawyerJ.md
+  category: Undergraduate Researchers
