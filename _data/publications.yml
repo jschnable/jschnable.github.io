@@ -298,7 +298,8 @@
   - name: Schnable JC
     member_id: schnable-james
   status: preprint
-  type: article
+  type: preprint
+  journal: agriRxiv
   doi: 10.31220/agriRxiv.2025.00339
   url: https://doi.org/10.31220/agriRxiv.2025.00339
   notes:
@@ -411,7 +412,7 @@
   - name: Clemente TE
   status: published
   type: article
-  journal: Sorghum bicolor
+  journal: Crop Science
   doi: 10.1002/csc2.70039
   url: https://doi.org/10.1002/csc2.70039
   first_author_is_lab_member: false
@@ -455,6 +456,28 @@
   url: https://elibrary.asabe.org/abstract.asp?AID=55510&t=3&dabs=Y&redir=&redirType=
   first_author_is_lab_member: false
   lab_author_count: 1
+- id: 2025-mc-predicting-complex-phenotypes
+  year: 2025
+  title: Predicting complex phenotypes using multi-omics data in maize.
+  authors:
+  - name: Creach M
+  - name: Webster B
+  - name: Newton L
+  - name: Turkus J
+    member_id: turkus-jon
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Thompson AM
+  - name: VanBuren R
+  status: preprint
+  type: preprint
+  journal: bioRxiv
+  doi: 10.1101/2025.09.30.679283
+  url: https://doi.org/10.1101/2025.09.30.679283
+  notes:
+  - bioRxiv: 10.1101/2025.09.30.679283
+  first_author_is_lab_member: false
+  lab_author_count: 2
 - id: 2025-a-unveiling-shared-genetic
   year: 2025
   title: Unveiling shared genetic regulators for plant architectural and biomass yield traits in sorghum.
