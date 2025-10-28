@@ -8,11 +8,6 @@
     image: /images/optimized/People_Images/Khang.png
     role: Visiting Scientist
     tenure: '2024'
-  - name: Hongyu Jin
-    link: /peoplepages/Hongyu_Jin/
-    image: /images/optimized/People_Images/Hongyu.jpg
-    role: Postdoctoral
-    tenure: '2024'
   - name: Ravi Mural
     link: /peoplepages/Ravi_Mural/
     image: /images/optimized/People_Images/Ravi.jpg
@@ -82,6 +77,11 @@
     image: /images/optimized/People_Images/Fangyi.jpg
     role: PhD Student (co-advised)
     tenure: '2024'
+  - name: Hongyu Jin
+    link: /peoplepages/Hongyu_Jin/
+    image: /images/optimized/People_Images/Hongyu.jpg
+    role: PhD Student (co-advised)
+    tenure: 2019-2024
   - name: Michael Tross
     link: /peoplepages/Michael_Tross/
     image: /images/optimized/People_Images/MichaelT.jpg
@@ -172,6 +172,11 @@
     current: Systems Software Developer, University of Nebraska-Lincoln
 - title: Bachelors Students
   people:
+  - name: Jordan Bares
+    link: /peoplepages/Charlie-Colvin.md/
+    image: /images/optimized/People_Images/Jordan.jpeg
+    role: Undergraduate Research Assistant
+    tenure: '2024-2025'
   - name: Charlie Colvin
     link: /peoplepages/Charlie-Colvin.md/
     image: /images/optimized/People_Images/Charlie-C.jpg
