@@ -31,7 +31,8 @@ bigimg:
   <li class="news-list__item">
     <time datetime="{{ item.date | date: '%Y-%m-%d' }}">{{ item.date | date: '%B %d, %Y' }}</time>
     <strong>{{ item.title }}</strong><br />
-    {{ item.summary }}
+    {% assign summary_html = item.summary | markdownify | strip_newlines | replace: '<p>', '' | replace: '</p>', '' %}
+    {{ summary_html }}
     {% if item.link %}<br /><a href="{{ item.link }}">Learn more</a>{% endif %}
   </li>
 {% endfor %}

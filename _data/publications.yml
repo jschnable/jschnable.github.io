@@ -51,6 +51,7 @@
   - name: Mural R
   - name: Roston RL
   - name: Schnable JC
+    member_id: schnable-james
   - name: Sahay S
   status: published
   type: article
@@ -137,6 +138,7 @@
   - name: Ge Y
   - name: Sarkar S
   - name: Schnable JC
+    member_id: schnable-james
   - name: Ganapathysubramanian B
   - name: Schnable PS
   status: published
@@ -165,6 +167,7 @@
   - name: Santra DK
   - name: Schnable PS
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Physiologia Plantarum
@@ -190,6 +193,7 @@
     member_id: mural-ravi
   - name: Obata T
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: BMC Genomics
@@ -214,6 +218,7 @@
   - name: Li B
   - name: Benes B
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Plant Phenomics
@@ -234,6 +239,7 @@
     member_id: grzybowski-marcin
   - name: Roston RL
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Frontiers in Plant Science
@@ -249,6 +255,7 @@
     member_id: torres-rodriguez-vladimir
   - name: Li D
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Current Opinion in Plant Biology
@@ -270,6 +277,7 @@
   - name: Schmutz J
   - name: Clemente TE
   - name: Schnable JC
+    member_id: schnable-james
   - name: Yang J
   status: published
   type: article
@@ -288,6 +296,7 @@
     member_id: ji-zhongjie
   - name: Ge Y
   - name: Schnable JC
+    member_id: schnable-james
   status: preprint
   type: article
   doi: 10.31220/agriRxiv.2025.00339
@@ -331,6 +340,7 @@
     member_id: shrestha-nikee
   - name: Coffey L
   - name: Schnable JC
+    member_id: schnable-james
   - name: Schnable PS
   - name: Ganapathysubramanian B
   status: published
@@ -397,6 +407,7 @@
     member_id: ullagaddi-chidanand
   - name: Yu B
   - name: Schnable JC
+    member_id: schnable-james
   - name: Clemente TE
   status: published
   type: article
@@ -462,6 +473,44 @@
   - bioRxiv: 10.1101/2024.03.13.584802
   first_author_is_lab_member: false
   lab_author_count: 1
+- id: 2023-j-phenotypic-variation-in
+  year: 2025
+  title: Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites.
+  authors:
+  - name: Engelhorn J
+  - name: Snodgrass S
+  - name: Kok A
+  - name: Seetharam A
+  - name: Schneider M
+  - name: Kiwit T
+  - name: Singh A
+  - name: Banf M
+  - name: Khaipho-Burch M
+  - name: Runcie D
+  - name: Camargo V
+  - name: Torres-Rodriguez JV
+    member_id: torres-rodriguez-vladimir
+  - name: Sun G
+    member_id: sun-guangchao
+  - name: Stam M
+  - name: Fiorani F
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Bass H
+  - name: Hufford M
+  - name: Stich B
+  - name: Frommer W
+  - name: Ross-Ibarra J
+  - name: Hartwig T
+  status: published
+  type: article
+  journal: Nature Genetics
+  doi: 10.1038/s41588-025-02246-7
+  url: https://doi.org/10.1038/s41588-025-02246-7
+  notes:
+  - bioRxiv: 10.1101/2023.08.08.551183
+  first_author_is_lab_member: false
+  lab_author_count: 2
 - id: 2024-jv-population-level-gene
   year: 2024
   title: Population level gene expression can repeatedly link genes to functions in maize.
@@ -485,6 +534,7 @@
   - name: Zamft B
   - name: Thompson AM
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: The Plant Journal
@@ -513,6 +563,7 @@
   - name: Ganapathysubramanian B
   - name: Ge Y
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: The Plant Phenome Journal
@@ -563,6 +614,7 @@
   - name: Yang J
   - name: Thompson AM
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: The Plant Phenome Journal
@@ -603,6 +655,7 @@
   - name: Qiu Y
   - name: Harmon FG
   - name: Schnable JC
+    member_id: schnable-james
   - name: Roston RL
   status: published
   type: article
@@ -640,6 +693,7 @@
     member_id: linders-kyle
   - name: Santra D
   - name: Schnable JC
+    member_id: schnable-james
   - name: Sigmon B
     member_id: sigmon-brandi
   status: published
@@ -671,6 +725,7 @@
   - name: Liu B
   - name: Schnable PS
   - name: Schnable JC
+    member_id: schnable-james
   - name: Li Y
   - name: Qiu L
   status: published
@@ -779,6 +834,7 @@
   - name: Xu G
   - name: Delen SP
   - name: Schnable JC
+    member_id: schnable-james
   - name: Dweikat I
   - name: Yang J
   status: published
@@ -807,6 +863,7 @@
   - name: Rooney WL
   - name: Kresovich S
   - name: Schnable JC
+    member_id: schnable-james
   - name: Li X
   - name: Yu J
   status: published
@@ -913,6 +970,7 @@
   - name: Rausch K
   - name: Singh V
   - name: Schnable JC
+    member_id: schnable-james
   - name: Kamruzzaman M
   status: published
   type: article
@@ -959,6 +1017,7 @@
   - name: Schachtman DP
   - name: Zhang C
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Genome Biology
@@ -981,6 +1040,7 @@
   - name: J
   - name: Yang Jinliang
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: The Plant Journal
@@ -1020,42 +1080,6 @@
   journal: Computers and Electronics in Agriculture
   doi: 10.1016/j.compag.2023.107688
   url: https://doi.org/10.1016/j.compag.2023.107688
-  first_author_is_lab_member: false
-  lab_author_count: 2
-- id: 2023-j-phenotypic-variation-in
-  year: 2023
-  title: Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites.
-  authors:
-  - name: Engelhorn J
-  - name: Snodgrass S
-  - name: Kok A
-  - name: Seetharam A
-  - name: Schneider M
-  - name: Kiwit T
-  - name: Singh A
-  - name: Banf M
-  - name: Khaipho-Burch M
-  - name: Runcie D
-  - name: Camargo V
-  - name: Torres-Rodriguez JV
-    member_id: torres-rodriguez-vladimir
-  - name: Sun G
-    member_id: sun-guangchao
-  - name: Stam M
-  - name: Fiorani F
-  - name: Schnable JC
-  - name: Bass H
-  - name: Hufford M
-  - name: Stich B
-  - name: Frommer W
-  - name: Ross-Ibarra J
-  - name: Hartwig T
-  status: preprint
-  type: article
-  doi: 10.1101/2023.08.08.551183
-  url: https://doi.org/10.1101/2023.08.08.551183
-  notes:
-  - bioRxiv: 10.1101/2023.08.08.551183
   first_author_is_lab_member: false
   lab_author_count: 2
 - id: 2023-dc-field-seasons-of
@@ -1165,6 +1189,7 @@
   - name: Zang L
   - name: Ji M
   - name: Schnable JC
+    member_id: schnable-james
   - name: Kim H
   status: published
   type: article
@@ -1201,6 +1226,7 @@
     member_id: liang-zhikai
   - name: Mower JP
   - name: Schnable JC
+    member_id: schnable-james
   - name: Roston RL
   status: published
   type: article
@@ -1283,6 +1309,7 @@
   - name: Thompson AM
   - name: Sigmon B
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Gigascience
@@ -1313,6 +1340,7 @@
   - name: Obata T
   - name: Schmutz J
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Paspalum vaginatum
@@ -1338,6 +1366,7 @@
   - name: Alvarez S
   - name: Ge Y
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: BMC Plant Biology
@@ -1355,6 +1384,7 @@
   - name: Mural RV
     member_id: mural-ravi
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Molecular Plant
@@ -1374,6 +1404,7 @@
   - name: Yang Q
   - name: Hurst JP
   - name: Schnable JC
+    member_id: schnable-james
   - name: Holding DR
   - name: Benson AK
   status: published
@@ -1418,6 +1449,7 @@
   - name: Alfano J
   - name: Ge Y
   - name: Schnable JC
+    member_id: schnable-james
   - name: Yang J
   status: published
   type: article
@@ -1483,6 +1515,7 @@
     member_id: smith-christine
   - name: Ge Y
   - name: Schnable JC
+    member_id: schnable-james
   - name: Yang J
   status: published
   type: article
@@ -1509,6 +1542,7 @@
   - name: Banerjee A
   - name: Kim KH
   - name: Schnable JC
+    member_id: schnable-james
   - name: Ji M
   - name: Mastrangelo CH
   - name: Zang L
@@ -1532,6 +1566,7 @@
   - name: Toy J
   - name: Rose D
   - name: Schnable JC
+    member_id: schnable-james
   - name: Benson A
   status: published
   type: article
@@ -1608,6 +1643,7 @@
   - name: Ngu DW
   - name: Roston RL
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: conference
   journal: Proceedings of the National Academy of Sciences
@@ -1632,6 +1668,7 @@
   - name: Li B
   - name: Benes B
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: PeerJ
@@ -1659,6 +1696,7 @@
   - name: Sigmon B
   - name: Kresovich S
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Genetics
@@ -1679,6 +1717,7 @@
   - name: Turkus JD
     member_id: turkus-jon
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Phytopathology
@@ -1719,6 +1758,7 @@
   - name: Yang J
   - name: Ge Y
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: The Plant Phenome Journal
@@ -1738,6 +1778,7 @@
   - name: Atefi A
   - name: Ge Y
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Plant Communications
@@ -1793,6 +1834,7 @@
     member_id: hurst-j
   - name: Zhang C
   - name: Schnable JC
+    member_id: schnable-james
   - name: Shi Y
   status: published
   type: article
@@ -1858,6 +1900,7 @@
     member_id: mural-ravi
   - name: Banerjee A
   - name: Schnable JC
+    member_id: schnable-james
   - name: Ji M
   - name: Mastrangelo C
   - name: Zang L
@@ -2065,6 +2108,7 @@
   - name: JWalley JW
   - name: Andorf CM
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Bioinformatics
@@ -2080,6 +2124,7 @@
   - name: Ge Y
   - name: Pitla S
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Frontiers in Plant Science
@@ -2116,6 +2161,7 @@
   - name: Nishimwe A
     member_id: nishimwe-aime
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Plant Direct
@@ -2139,6 +2185,7 @@
   - name: Ganapathysubramanian B
   - name: Schnable PS
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Applications in Plant Sciences
@@ -2158,6 +2205,7 @@
   - name: Rodene E
   - name: Yang J
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Plant Phenomics
@@ -2173,6 +2221,7 @@
     member_id: liang-zhikai
   - name: Qiu Y
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Molecular Plant
@@ -2192,6 +2241,7 @@
   - name: Liu S
   - name: Schnable PS
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Plant Physiology
@@ -2212,6 +2262,7 @@
   - name: Tu X
   - name: Zhong S
   - name: Schnable JC
+    member_id: schnable-james
   - name: Li P
   status: published
   type: article
@@ -2277,6 +2328,7 @@
   - name: Liang Z
     member_id: liang-zhikai
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Plant Phenomics
@@ -2333,6 +2385,7 @@
     member_id: liang-zhikai
   - name: Gupta SK
   - name: Schnable JC
+    member_id: schnable-james
   - name: Crossa J
   status: published
   type: article
@@ -2355,6 +2408,7 @@
   - name: Dao Y
   - name: Wu R
   - name: Schnable JC
+    member_id: schnable-james
   - name: Tang H
   - name: Wang K
   status: published
@@ -2376,6 +2430,7 @@
   - name: Sivakumar ANV
   - name: Li J
   - name: Schnable JC
+    member_id: schnable-james
   - name: Shi Y
   status: published
   type: article
@@ -2454,6 +2509,7 @@
   - name: Raju SKK
   - name: Thompson AM
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Applications in Plant Sciences
@@ -2470,6 +2526,7 @@
   - name: Scott S
   - name: Deogun JS
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: SPIE Defense + Commercial Sensing
@@ -2505,6 +2562,7 @@
   - name: Qiu Y
   - name: Xu Y
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: The Plant Phenome Journal
@@ -2520,6 +2578,7 @@
   - name: Ge Y
   - name: Pitla S
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Robotics
@@ -2546,6 +2605,7 @@
   - name: Mahboub S
   - name: Roston RL
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Tripsacum dactyloides
@@ -2611,6 +2671,7 @@
   - name: Sigmon B
   - name: Yang J
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Plant Methods
@@ -2628,6 +2689,7 @@
     member_id: li-delin
   - name: Jiao Y
   - name: Schnable JC
+    member_id: schnable-james
   - name: Li Y
   - name: Li H
   - name: Chen H
@@ -2756,6 +2818,7 @@
   - name: Zhu X
   - name: Liu R
   - name: Schnable JC
+    member_id: schnable-james
   - name: Zhu JK
   - name: Zhang H
   status: published
@@ -2770,6 +2833,7 @@
   title: Genes and Gene Models, an Important Distinction.
   authors:
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: New Phytologist
@@ -2785,6 +2849,7 @@
   - name: Ge Y
   - name: Pitla S
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: In vivo
@@ -2816,6 +2881,7 @@
   - name: Varshney RK
   - name: Schnable PS
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: 'G3: Genes Genomes Genetics'
@@ -2871,6 +2937,7 @@
     member_id: yan-lang
   - name: Lu Y
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: The Plant Journal
@@ -2887,6 +2954,7 @@
   - name: Yang J
     member_id: yang-jinliang
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Plant Biotechnology Journal
@@ -2901,6 +2969,7 @@
   - name: Liang Z
     member_id: liang-zhikai
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Molecular Plant
@@ -2916,6 +2985,7 @@
     member_id: raju-sunil
   - name: Barnes A
   - name: Schnable JC
+    member_id: schnable-james
   - name: Roston RL
   status: published
   type: article
@@ -3015,6 +3085,7 @@
   - name: Xu Y
   - name: Qiu Y
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: The Plant Phenome Journal
@@ -3037,6 +3108,7 @@
   - name: Qiu Y
   - name: Roston RL
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: The Plant Cell
@@ -3080,6 +3152,7 @@
   - name: Qiu Y
   - name: Ge Y
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: GigaScience
@@ -3094,6 +3167,7 @@
   - name: Lai X
     member_id: lai-xianjun
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Molecular Plant
@@ -3150,6 +3224,7 @@
   - name: Lai X
     member_id: lai-xianjun
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: IEEE BIBM
@@ -3182,6 +3257,7 @@
   - name: Ge Y
   - name: Stoerger V
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Frontiers in Plant Science
@@ -3197,6 +3273,7 @@
   - name: Lu Y
   - name: Deogun JS
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Molecular Plant
@@ -3244,6 +3321,7 @@
   - name: Liang Z
     member_id: liang-zhikai
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: PLoS One
@@ -3376,6 +3454,7 @@
   - name: Rajput SG
   - name: Santra DK
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Molecular Breeding
@@ -3392,6 +3471,7 @@
   - name: Bai G
   - name: Stoerger V
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Computers and Electronics in Agriculture
@@ -3518,6 +3598,7 @@
   title: 'Genome evolution in maize: from genomes back to genes.'
   authors:
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Annual Review of Plant Biology
@@ -3743,6 +3824,7 @@
   - name: Turco G
   - name: Lisch D
   - name: Schnable JC
+    member_id: schnable-james
   status: published
   type: article
   journal: Current Opinion in Plant Biology

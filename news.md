@@ -21,7 +21,8 @@ googlefonts: ["Monoton", "Lobster"]
   <li class="news-list__item">
     <time datetime="{{ item.date | date: '%Y-%m-%d' }}">{{ item.date | date: '%B %d, %Y' }}</time>
     <strong>{{ item.title }}</strong><br />
-    {{ item.summary }}
+    {% assign summary_html = item.summary | markdownify | strip_newlines | replace: '<p>', '' | replace: '</p>', '' %}
+    {{ summary_html }}
   </li>
 {% endfor %}
 </ul>
@@ -41,12 +42,13 @@ googlefonts: ["Monoton", "Lobster"]
 ### {{ group.name }}
   <ul class="news-list">
   {% for entry in group.items %}
-    <li class="news-list__item">
-      <strong>{{ entry.title }}</strong><br />
-      {{ entry.summary }}
-    </li>
-  {% endfor %}
-  </ul>
+      <li class="news-list__item">
+        <strong>{{ entry.title }}</strong><br />
+        {% assign entry_summary = entry.summary | markdownify | strip_newlines | replace: '<p>', '' | replace: '</p>', '' %}
+        {{ entry_summary }}
+      </li>
+    {% endfor %}
+    </ul>
   {% assign archive_headings_displayed = archive_headings_displayed | plus: 1 %}
   {% else %}
   <details>
@@ -55,7 +57,8 @@ googlefonts: ["Monoton", "Lobster"]
     {% for entry in group.items %}
       <li class="news-list__item">
         <strong>{{ entry.title }}</strong><br />
-        {{ entry.summary }}
+        {% assign entry_summary = entry.summary | markdownify | strip_newlines | replace: '<p>', '' | replace: '</p>', '' %}
+        {{ entry_summary }}
       </li>
     {% endfor %}
     </ul>
