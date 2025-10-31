@@ -7,7 +7,7 @@ googlefonts: ["Monoton", "Lobster"]
 
 Meet the scientists, students, and staff who power discovery in the Schnable Lab.
 
-{% assign category_labels = 'Faculty|Research Staff|Professional Staff|Graduate Students|Undergraduate Researchers' | split: '|' %}
+{% assign category_labels = 'Faculty|Research Staff|Professional Staff|Graduate Students|Undergraduate Researchers|High-school intern' | split: '|' %}
 {% for label in category_labels %}
   {% assign singles = site.data.people | where: 'category', label %}
   {% assign multi_candidates = site.data.people | where_exp: 'person', 'person.categories' %}
