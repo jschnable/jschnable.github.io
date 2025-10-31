@@ -149,3 +149,10 @@
   image: /images/optimized/People_Images/SawyerJ.jpg
   page_path: peoplepages/SawyerJ.md
   category: Undergraduate Researchers
+- name: Ha Quach
+  role: High-school intern from Lincoln Southwest High School
+  status: current
+  image: /images/optimized/People_Images/HaQ.jpg
+  page_path: peoplepages/HaQuach.md
+  cv: /CVs/CV_HaQ.pdf
+  category: High-school intern
