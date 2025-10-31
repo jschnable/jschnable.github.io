@@ -45,6 +45,7 @@ Meet the scientists, students, and staff who power discovery in the Schnable Lab
       {% if person.cv %}{% assign link_count = link_count | plus: 1 %}{% endif %}
       {% if person.orcid %}{% assign link_count = link_count | plus: 1 %}{% endif %}
       {% if person.scholar %}{% assign link_count = link_count | plus: 1 %}{% endif %}
+      {% if person.GitHub %}{% assign link_count = link_count | plus: 1 %}{% endif %}
       {% if person.socials %}{% assign link_count = link_count | plus: person.socials.size %}{% endif %}
       {% if link_count > 0 %}
       <ul class="people-card__links">
