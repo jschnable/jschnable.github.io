@@ -25,6 +25,7 @@ layout: default
   {% assign person_cv = person_entry.cv %}
   {% assign person_orcid = person_entry.orcid %}
   {% assign person_scholar = person_entry.scholar %}
+  {% assign person_github = person_entry.github %}
   {% assign person_socials = person_entry.socials %}
   {% assign person_tenure = person_entry.tenure %}
   {% assign person_current_role = person_entry.current %}
@@ -140,6 +141,13 @@ layout: default
             {% assign scholar_url = 'https://scholar.google.com/citations?user=' | append: person_scholar %}
           {% endunless %}
           <li><strong>Google Scholar</strong> <a class="person__link" href="{{ scholar_url }}">View Profile</a></li>
+        {% endif %}
+        {% if person_github %}
+          {% assign github_url = person_github %}
+          {% unless github_url contains '://' %}
+            {% assign github_url = 'https://github.com/' | append: person_github %}
+          {% endunless %}
+          <li><strong>GitHub</strong> <a class="person__link" href="{{ github_url }}">View Profile</a></li>
         {% endif %}
       </ul>
       {% if person_socials %}
