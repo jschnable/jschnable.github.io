@@ -14,6 +14,4 @@ James holds a BA in Biology from Cornell University (2008) and a PhD in Plant Bi
 <br><br>
 [Complete CV](/CVs/JSchnable.pdf)
 <br><br>
-[Google Scholar Profile](https://scholar.google.com/citations?user=cik4JVYAAAAJ)
-<br><br>
 [Conflict of Interest Disclosure](/peoplepages/coi/)
