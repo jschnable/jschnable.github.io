@@ -58,6 +58,13 @@ Meet the scientists, students, and staff who power discovery in the Schnable Lab
           {% endunless %}
           <li><a href="{{ scholar_url }}">Google Scholar</a></li>
         {% endif %}
+        {% if person.GitHub %}    
+          {% assign github_url = person.GitHub %}    
+          {% unless github_url contains '://' %}      
+            {% assign github_url = 'https://github.com/' | append: person.GitHub %}    
+          {% endunless %}    
+          <li>{{ github_url }}GitHub</a></li>
+        {% endif %}
         {% if person.socials %}
           {% for social in person.socials %}
             <li><a href="{{ social.url }}">{{ social.label }}</a></li>
