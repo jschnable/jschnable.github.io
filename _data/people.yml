@@ -18,6 +18,8 @@
   cv: /CVs/CV_Vladimir3.pdf
   orcid: 0000-0001-6056-3452
   scholar: https://scholar.google.com/citations?user=a9p6MWsAAAAJ&hl=en&oi=ao
+  github: https://github.com/corn2code
+  linkedin: vladimir-torres-36b76b1ba
   category: Faculty
 - name: Zhongjie Ji
   role: Heuermann Research Fellow
@@ -41,6 +43,7 @@
   image: /images/optimized/People_Images/RossyB2.jpg
   page_path: peoplepages/Rossy.md
   cv: /CVs/CV-RossyB.pdf
+  linkedin: rosa-bedolla-gaxiola-9a9096171
   category: Professional Staff
 - name: Chidanand "Chidu" Ullagaddi
   role: Technician
@@ -60,7 +63,7 @@
   orcid: 0009-0000-3638-9482
   scholar: https://scholar.google.com/citations?user=Y5Gk5zwAAAAJ&hl=en&oi=ao
   github: https://github.com/jdavis-132
-  linkedin: https://www.linkedin.com/in/jensina-davis
+  linkedin: jensina-davis
   category: Graduate Students
 - name: Nikee Shrestha
   role: PhD Student
