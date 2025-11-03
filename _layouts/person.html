@@ -149,6 +149,13 @@ layout: default
           {% endunless %}
           <li><strong>GitHub</strong> <a class="person__link" href="{{ github_url }}">View Profile</a></li>
         {% endif %}
+        {% if person.linkedin %}
+          {% assign linkedin_url = person.linkedin %}
+          {% unless linkedin_url contains '://' %}
+            {% assign linkedin_url = 'https://www.linkedin.com/in/' | append: person.linkedin %}
+          {% endunless %}
+          <li><a href="{{ linkedin_url }}" target="_blank" rel="noopener">LinkedIn</a></li>
+        {% endif %}
       </ul>
       {% if person_socials %}
         <ul class="person__socials">
