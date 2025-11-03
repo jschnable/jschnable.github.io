@@ -78,6 +78,7 @@
   - name: Kuang X
   - name: Cebert E
   - name: Torres-Rodriguez JV
+    member_id: torres-rodriguez-vladimir
   - name: Schnable JC
     member_id: schnable-james
   status: published
@@ -158,6 +159,7 @@
     member_id: davis-jensina
   - name: Coffey LM
   - name: Turkus J
+    member_id: turkus-jon
   - name: López-Corona L
     member_id: lopez-lina
   - name: Linders K
@@ -185,6 +187,7 @@
     member_id: mathivanan-ramesh
   - name: Pedersen C
   - name: Turkus J
+    member_id: turkus-jon
   - name: Shrestha N
     member_id: shrestha-nikee
   - name: Ali W
@@ -217,6 +220,7 @@
     member_id: shrestha-nikee
   - name: Ostermann I
   - name: Grove RJ
+    member_id: grove-ryleigh
   - name: Li B
   - name: Benes B
   - name: Schnable JC
