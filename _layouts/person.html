@@ -26,6 +26,7 @@ layout: default
   {% assign person_orcid = person_entry.orcid %}
   {% assign person_scholar = person_entry.scholar %}
   {% assign person_github = person_entry.github %}
+  {% assign person_linkedin = person_entry.linkedin %}
   {% assign person_socials = person_entry.socials %}
   {% assign person_tenure = person_entry.tenure %}
   {% assign person_current_role = person_entry.current %}
@@ -152,9 +153,9 @@ layout: default
         {% if person_linkedin %}
           {% assign linkedin_url = person_linkedin %}
           {% unless linkedin_url contains '://' %}
-            {% assign linkedin_url = 'https://www.linkedin.com/in/' | append: person.linkedin %}
+            {% assign linkedin_url = 'https://www.linkedin.com/in/' | append: person_linkedin %}
           {% endunless %}
-          <li><a href="{{ linkedin_url }}" target="_blank" rel="noopener">LinkedIn</a></li>
+          <li><strong>LinkedIn</strong> <a class="person__link" href="{{ linkedin_url }}" target="_blank" rel="noopener">View Profile</a></li>
         {% endif %}
       </ul>
       {% if person_socials %}
