@@ -1,6 +1,7 @@
 ---
 layout: person
 title: Daniel Carvalho
+permalink: /peoplepages/Daniel_Carvalho/
 ---
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>

@@ -1,6 +1,7 @@
 ---
 layout: person
 title: James Schnable
+permalink: /peoplepages/jschnable/
 ---
 
 <br><br>

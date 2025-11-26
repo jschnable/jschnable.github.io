@@ -1,6 +1,7 @@
 ---
 layout: person
 title: Charlie Colvin
+permalink: /peoplepages/Charlie-Colvin/
 ---
 
 Charlie Colvin joined the Schnable Lab in summer 2025 as an undergraduate researcher through the Crop-to-Food Innovation REEU Program. His work focuses on analyzing RNA-seq data from large-scale abiotic stress experiments in maize to understand genotype-by-environment interactions. He contributes to ongoing efforts to identify gene expression-based predictors of grain yield, flowering time, and plant height, as well as supporting data processing for high-throughput field experiments.

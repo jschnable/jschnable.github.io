@@ -18,6 +18,9 @@
   cv: /CVs/CV_Vladimir3.pdf
   orcid: 0000-0001-6056-3452
   scholar: https://scholar.google.com/citations?user=a9p6MWsAAAAJ&hl=en&oi=ao
+  socials:
+  - label: Twitter
+    url: https://twitter.com/vla_torres
   category: Faculty
 - name: Zhongjie Ji
   role: Heuermann Research Fellow
@@ -27,6 +30,9 @@
   cv: /CVs/CV_ZhongjieJ.pdf
   orcid: 0009-0006-1448-305X
   scholar: https://scholar.google.com/citations?user=n6JlWJQAAAAJ&hl=en&oi=ao
+  socials:
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/zhongjie-ji-5095b2226/
   category: Research Staff
 - name: Jon Turkus
   role: Lab Manager
@@ -34,6 +40,11 @@
   image: /images/optimized/People_Images/JonT.jpg
   page_path: peoplepages/JonT.md
   orcid: 0000-0002-2006-0137
+  socials:
+  - label: Twitter
+    url: https://twitter.com/JonathanTurkus
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/jonathanturkus/
   category: Research Staff
 - name: Rossy Bedolla
   role: Office Associate
@@ -50,6 +61,11 @@
   cv: /CVs/CV_Chidanand.pdf
   orcid: 0009-0009-4005-3282
   scholar: https://scholar.google.com/citations?user=O_LrPogAAAAJ&hl=en&oi=ao
+  socials:
+  - label: Twitter
+    url: https://twitter.com/Chidu_ullagaddi
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/chidanand-ullagaddi-31647226/
   category: Research Staff
 - name: Jensina Davis
   role: PhD Student
@@ -59,6 +75,11 @@
   cv: /CVs/CV_JensinaDavis-2.pdf
   orcid: 0009-0000-3638-9482
   scholar: https://scholar.google.com/citations?user=Y5Gk5zwAAAAJ&hl=en&oi=ao
+  socials:
+  - label: Twitter
+    url: https://twitter.com/JensinaDavis
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/jensina-davis/
   category: Graduate Students
 - name: Nikee Shrestha
   role: PhD Student
@@ -68,6 +89,9 @@
   cv: /CVs/CV_NikeeS.pdf
   orcid: 0000-0003-4195-7549
   scholar: https://scholar.google.com/citations?user=iIFpXjAAAAAJ&hl=en&oi=ao
+  socials:
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/nikeeshrestha/
   category: Graduate Students
 - name: Waqar Ali
   role: PhD Student
@@ -77,6 +101,11 @@
   cv: /CVs/WaqarAliCV.pdf
   orcid: 0009-0001-8822-0950
   scholar: https://scholar.google.com/citations?user=Qxyc8R4AAAAJ&hl=en&oi=ao
+  socials:
+  - label: Twitter
+    url: https://twitter.com/WaqarAli325
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/waqar-ali-a81318aa/
   category: Graduate Students
 - name: Harshita Mangal
   role: PhD Student
@@ -86,6 +115,11 @@
   cv: /CVs/CV_HarshitaM.pdf
   orcid: 0009-0002-8424-6026
   scholar: https://scholar.google.com/citations?user=NSkbSfQAAAAJ&hl=en&oi=ao
+  socials:
+  - label: Twitter
+    url: https://twitter.com/Harshita17_
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/harshitamangal/
   category: Graduate Students
 - name: Amany Gomaa
   role: PhD Student (co-advised)
@@ -102,6 +136,9 @@
   page_path: peoplepages/KarlaC2.md
   cv: /CVs/CV_KarlaC.pdf
   orcid: 0009-0001-2851-6370
+  socials:
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/karla-montserrat-cu%C3%A9llar-p%C3%A9rez-a949ab263/
   category: Graduate Students
 - name: Ozgur Altundas
   role: PhD Student
@@ -111,6 +148,11 @@
   cv: /CVs/CV_OzgurA.pdf
   orcid: 0000-0002-4579-599X
   scholar: https://scholar.google.com/citations?user=xqjVHMIAAAAJ&hl=en&oi=ao
+  socials:
+  - label: Twitter
+    url: https://twitter.com/AltundasOzgur
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/%C3%B6zg%C3%BCraltundas/
   category: Graduate Students
 - name: Sofiya Arora
   role: MS Student
@@ -119,6 +161,11 @@
   page_path: peoplepages/Sofiya.md
   cv: /CVs/CV_SofiyaA2.pdf
   orcid: 0009-0004-5357-6094
+  socials:
+  - label: Twitter
+    url: https://twitter.com/Sofiya_arora
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/sofiya-arora-4857902b4/
   category: Graduate Students
 - name: Hadiya Kounsar
   role: MS Student
@@ -128,6 +175,9 @@
   cv: /CVs/CV_HadiyaK.pdf
   orcid: 0009-0001-5087-7690
   scholar: https://scholar.google.com/citations?user=lmiqBhcAAAAJ&hl=en&oi=ao
+  socials:
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/hadiya-kounsar-29a3b7220/
   category: Graduate Students
 - name: Ryleigh Kirby
   role: Undergraduate Researcher (UCARE)
@@ -136,6 +186,10 @@
   page_path: peoplepages/RyleighK.md
   cv: /CVs/CV_RyleighK.pdf
   scholar: https://scholar.google.com/citations?user=0TTcJesAAAAJ&hl=en&oi=ao
+  orcid: 0000-0002-3336-7728
+  socials:
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/ryleigh-kirby/
   category: Undergraduate Researchers
 - name: Jordan Bares
   role: Undergraduate Research Assistant
