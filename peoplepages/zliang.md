@@ -1,6 +1,7 @@
 ---
 layout: person
 title: Zhikai Liang
+permalink: /peoplepages/zliang/
 ---
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>

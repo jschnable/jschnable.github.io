@@ -1,6 +1,7 @@
 ---
 layout: person
 title: Ryleigh Kirby
+permalink: /peoplepages/RyleighK/
 ---
 
 Ryleigh J. Kirby is a Plant Biology major at the University of Nebraska-Lincoln and an undergraduate researcher in the Schnable Lab. Since joining the lab in 2022, she has contributed to multiple projects at the intersection of plant genetics, comparative genomics, and high-throughput phenotyping. Ryleigh has co-authored peer-reviewed publications in The Plant Phenome Journal and PeerJ, and her work has been presented at national conferences including the Maize Genetics Meeting and the National Corn Congress. She also gained industry experience as a North American Discovery Breeding Intern with Syngenta in 2023, where she collaborated with breeders and senior scientists on pipeline optimization.

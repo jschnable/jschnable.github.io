@@ -1,6 +1,7 @@
 ---
 layout: person
 title: Harshita Mangal
+permalink: /peoplepages/Harshita/
 ---
 
 Harshita Mangal is a Agronomy PhD student. She received her Bachelors of Science from Integral University in Lucknow, India. Her research focuses

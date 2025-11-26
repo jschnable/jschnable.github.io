@@ -4,6 +4,7 @@
     image: /images/optimized/People_Images/Caner.jpg
     role: Visiting Scientist
     tenure: '2025'
+    current: Assistant Professor, NOHU (Turkey)
   - name: Khang Hoang
     image: /images/optimized/People_Images/Khang.png
     role: Visiting Scientist
@@ -87,9 +88,11 @@
     image: /images/optimized/People_Images/MichaelT.jpg
     role: PhD Student
     tenure: '2024'
+    current: AI Developer, Corteva Agriscience
   - name: Henrique Moura Dias
     image: /images/optimized/People_Images/Henrique.jpg
     role: Visiting PhD Student
+    current: Postdoctoral Researcher, South Dakota State University
   - name: Nate Korth
     image: /images/optimized/People_Images/Nate_small.jpg
     role: PhD Student/FFAR Fellow
@@ -144,10 +147,11 @@
     role: MS Student
     tenure: 2021-2022
   - name: Kyle Linders
+    link: /peoplepages/KyleL/
     image: /images/optimized/People_Images/KyleL.jpg
-    role: MS Student
-    tenure: 2020-2022
-    current: Research Technologist, UNL
+    role: Undergraduate & MS Student (co-advised with Brandi Sigmon)
+    tenure: 2020-2023
+    current: Research Agronomist, PivotBio
   - name: Mackenzie Zwiener
     link: /peoplepages/Mackenzie_Zwiener/
     image: /images/optimized/People_Images/Mackenzie.jpeg
@@ -173,17 +177,17 @@
 - title: Bachelors Students
   people:
   - name: Charlie Colvin
-    link: /peoplepages/Charlie-Colvin.md/
+    link: /peoplepages/Charlie-Colvin/
     image: /images/optimized/People_Images/Charlie-C.jpg
     role: Crop-to-Food Innovation REEU Program
     tenure: '2025'
   - name: Trisha Nanjaraju
-    link: /peoplepages/TrishaN.md/
+    link: /peoplepages/TrishaN/
     image: /images/optimized/People_Images/TrishaN.jpg
     role: Undergraduate Student from India
     tenure: '2025'
   - name: Preethi Jagadish Gowda Kabbakki
-    link: /peoplepages/Preethi.md/
+    link: /peoplepages/Preethi/
     image: /images/optimized/People_Images/PreethiJK.jpg
     role: Undergraduate Student from India
     tenure: '2025'
@@ -411,7 +415,9 @@
     tenure: '2023'
   - name: Luyang Zhang
     image: /images/optimized/People_Images/LuyangZhangpicture.jpeg
-    role: REU Intern
+    role: REU Intern (UC Berkeley Plant & Microbial Biology)
+    tenure: Summer 2024
+    current: PhD Student, Washington University in St. Louis
   - name: Matthew Lowry
     image: /images/optimized/People_Images/Matthew.jpeg.jpg
     role: Undergraduate Research Assistant
@@ -462,10 +468,11 @@
 - title: Professional Staff
   people:
   - name: Kyle Linders
-    link: /peoplepages/KyleL.md/
+    link: /peoplepages/KyleL/
     image: /images/optimized/People_Images/KyleL.jpg
-    role: Technician
+    role: Research Technologist
     tenure: 2023-2025
+    current: Research Agronomist, PivotBio
   - name: Lina López-Corona
     link: /peoplepages/LinaLopez/
     image: /images/optimized/People_Images/Lina.jpg
@@ -484,7 +491,7 @@
 - title: All Others
   people:
   - name: Niranjan Pokhrel
-    link: /peoplepages/Niranjan.md/
+    link: /peoplepages/Niranjan/
     image: /images/optimized/People_Images/Niranjan.jpeg
     role: Rotating PhD Student Complex Biosystems
     tenure: Fall 2024

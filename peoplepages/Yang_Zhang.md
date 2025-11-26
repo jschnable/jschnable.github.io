@@ -1,6 +1,7 @@
 ---
 layout: person
 title: Yang Zhang
+permalink: /peoplepages/Yang_Zhang/
 ---
 
 Yang was the very first member of the Schnable lab and was a postdoc in our lab from 2014 to 2017. Prior to moving to Nebraska, Yang was a postdoc with our collaborator Pinghua Li from Shandong Agricultural University, having completed her PhD studying cassava at the Chinese Academy of Tropical Agricultural Sciences in Hainan, China.

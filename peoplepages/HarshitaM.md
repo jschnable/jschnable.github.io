@@ -1,6 +1,7 @@
 ---
 layout: person
 title: Harshita Mangal
+permalink: /peoplepages/HarshitaM/
 ---
 
 Harshita Mangal from India is a PhD student in the Department of Agronomy and Horticulture. Her research focuses on dissecting complex traits in Sorghum bicolor, with a primary focus on flowering time regulation and nitrogen use efficiency. She works at the intersection of field-based phenotyping, genomics, and computational biology, integrating resequencing data, RNA-seq, and multi-environment field trials.
