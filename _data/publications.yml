@@ -30,6 +30,35 @@
   - bioRxiv: 10.1101/2024.07.22.604683
   first_author_is_lab_member: true
   lab_author_count: 9
+- id: 2025-v-genetic-variation-and-historical
+  year: 2025
+  title: Genetic variation and historical breeding patterns in common bean (Phaseolus vulgaris L.) affect fermentation patterns
+    by the human gut microbiome.
+  authors:
+  - name: Van Haute M
+  - name: Yang Q
+  - name: Korth N
+    member_id: korth-nate
+  - name: Happ M
+  - name: Kok CR
+  - name: Miao C
+    member_id: miao-chenyong
+  - name: Clarke J
+  - name: Karnik K
+  - name: Eskridge K
+  - name: Urrea CA
+  - name: Hyten DL
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Rose D
+  - name: Benson A
+  status: published
+  type: article
+  journal: Communications Biology
+  doi: 10.1038/s42003-025-09089-2
+  url: https://doi.org/10.1038/s42003-025-09089-2
+  first_author_is_lab_member: false
+  lab_author_count: 3
 - id: 2025-w-quantitative-genetics-of
   year: 2025
   title: Quantitative genetics of photosynthetic trait variation in maize.
