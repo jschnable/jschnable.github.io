@@ -7,7 +7,7 @@
   orcid: 0000-0001-6739-5527
   scholar: https://scholar.google.com/citations?user=cik4JVYAAAAJ&hl=en&oi=ao
   socials:
-  - label: Twitter
+  - label: X
     url: https://twitter.com/szintri
   category: Faculty
 - name: Vladimir Torres-Rodriguez
@@ -18,6 +18,8 @@
   cv: /CVs/CV_Vladimir3.pdf
   orcid: 0000-0001-6056-3452
   scholar: https://scholar.google.com/citations?user=a9p6MWsAAAAJ&hl=en&oi=ao
+  github: https://github.com/corn2code
+  linkedin: vladimir-torres-36b76b1ba
   socials:
   - label: Twitter
     url: https://twitter.com/vla_torres
@@ -30,9 +32,8 @@
   cv: /CVs/CV_ZhongjieJ.pdf
   orcid: 0009-0006-1448-305X
   scholar: https://scholar.google.com/citations?user=n6JlWJQAAAAJ&hl=en&oi=ao
-  socials:
-  - label: LinkedIn
-    url: https://www.linkedin.com/in/zhongjie-ji-5095b2226/
+  github:
+  linkedin: zhongjie-ji-5095b2226
   category: Research Staff
 - name: Jon Turkus
   role: Lab Manager
@@ -40,11 +41,10 @@
   image: /images/optimized/People_Images/JonT.jpg
   page_path: peoplepages/JonT.md
   orcid: 0000-0002-2006-0137
+  linkedin: jonathanturkus
   socials:
   - label: Twitter
     url: https://twitter.com/JonathanTurkus
-  - label: LinkedIn
-    url: https://www.linkedin.com/in/jonathanturkus/
   category: Research Staff
 - name: Rossy Bedolla
   role: Office Associate
@@ -52,6 +52,7 @@
   image: /images/optimized/People_Images/RossyB2.jpg
   page_path: peoplepages/Rossy.md
   cv: /CVs/CV-RossyB.pdf
+  linkedin: rosa-bedolla-gaxiola-9a9096171
   category: Professional Staff
 - name: Chidanand "Chidu" Ullagaddi
   role: Technician
@@ -61,11 +62,10 @@
   cv: /CVs/CV_Chidanand.pdf
   orcid: 0009-0009-4005-3282
   scholar: https://scholar.google.com/citations?user=O_LrPogAAAAJ&hl=en&oi=ao
+  linkedin: chidanand-ullagaddi-31647226
   socials:
   - label: Twitter
     url: https://twitter.com/Chidu_ullagaddi
-  - label: LinkedIn
-    url: https://www.linkedin.com/in/chidanand-ullagaddi-31647226/
   category: Research Staff
 - name: Jensina Davis
   role: PhD Student
@@ -75,11 +75,11 @@
   cv: /CVs/CV_JensinaDavis-2.pdf
   orcid: 0009-0000-3638-9482
   scholar: https://scholar.google.com/citations?user=Y5Gk5zwAAAAJ&hl=en&oi=ao
+  github: https://github.com/jdavis-132
+  linkedin: jensina-davis
   socials:
   - label: Twitter
     url: https://twitter.com/JensinaDavis
-  - label: LinkedIn
-    url: https://www.linkedin.com/in/jensina-davis/
   category: Graduate Students
 - name: Nikee Shrestha
   role: PhD Student
@@ -101,11 +101,11 @@
   cv: /CVs/WaqarAliCV.pdf
   orcid: 0009-0001-8822-0950
   scholar: https://scholar.google.com/citations?user=Qxyc8R4AAAAJ&hl=en&oi=ao
+  github: https://github.com/waqarali1994
+  linkedin: waqar-ali-a81318aa
   socials:
   - label: Twitter
     url: https://twitter.com/WaqarAli325
-  - label: LinkedIn
-    url: https://www.linkedin.com/in/waqar-ali-a81318aa/
   category: Graduate Students
 - name: Harshita Mangal
   role: PhD Student
@@ -115,11 +115,11 @@
   cv: /CVs/CV_HarshitaM.pdf
   orcid: 0009-0002-8424-6026
   scholar: https://scholar.google.com/citations?user=NSkbSfQAAAAJ&hl=en&oi=ao
+  github: https://github.com/harshita9817
+  linkedin: harshitamangal
   socials:
   - label: Twitter
     url: https://twitter.com/Harshita17_
-  - label: LinkedIn
-    url: https://www.linkedin.com/in/harshitamangal/
   category: Graduate Students
 - name: Amany Gomaa
   role: PhD Student (co-advised)
@@ -136,9 +136,7 @@
   page_path: peoplepages/KarlaC2.md
   cv: /CVs/CV_KarlaC.pdf
   orcid: 0009-0001-2851-6370
-  socials:
-  - label: LinkedIn
-    url: https://www.linkedin.com/in/karla-montserrat-cu%C3%A9llar-p%C3%A9rez-a949ab263/
+  linkedin: karla-montserrat-cuéllar-pérez-a949ab263
   category: Graduate Students
 - name: Ozgur Altundas
   role: PhD Student
@@ -148,11 +146,10 @@
   cv: /CVs/CV_OzgurA.pdf
   orcid: 0000-0002-4579-599X
   scholar: https://scholar.google.com/citations?user=xqjVHMIAAAAJ&hl=en&oi=ao
+  linkedin: özgüraltundas
   socials:
   - label: Twitter
     url: https://twitter.com/AltundasOzgur
-  - label: LinkedIn
-    url: https://www.linkedin.com/in/%C3%B6zg%C3%BCraltundas/
   category: Graduate Students
 - name: Sofiya Arora
   role: MS Student
@@ -161,11 +158,10 @@
   page_path: peoplepages/Sofiya.md
   cv: /CVs/CV_SofiyaA2.pdf
   orcid: 0009-0004-5357-6094
+  linkedin: sofiya-arora-4857902b4
   socials:
   - label: Twitter
     url: https://twitter.com/Sofiya_arora
-  - label: LinkedIn
-    url: https://www.linkedin.com/in/sofiya-arora-4857902b4/
   category: Graduate Students
 - name: Hadiya Kounsar
   role: MS Student
@@ -175,9 +171,7 @@
   cv: /CVs/CV_HadiyaK.pdf
   orcid: 0009-0001-5087-7690
   scholar: https://scholar.google.com/citations?user=lmiqBhcAAAAJ&hl=en&oi=ao
-  socials:
-  - label: LinkedIn
-    url: https://www.linkedin.com/in/hadiya-kounsar-29a3b7220/
+  linkedin: hadiya-kounsar-29a3b7220
   category: Graduate Students
 - name: Ryleigh Kirby
   role: Undergraduate Researcher (UCARE)
@@ -187,12 +181,24 @@
   cv: /CVs/CV_RyleighK.pdf
   scholar: https://scholar.google.com/citations?user=0TTcJesAAAAJ&hl=en&oi=ao
   orcid: 0000-0002-3336-7728
-  socials:
-  - label: LinkedIn
-    url: https://www.linkedin.com/in/ryleigh-kirby/
+  linkedin: ryleigh-kirby
   category: Undergraduate Researchers
-- name: Jordan Bares
+- name: Sophie Rohlfing
   role: Undergraduate Research Assistant
   status: current
-  image: /images/optimized/People_Images/Jordan.jpeg
+  image: /images/optimized/People_Images/SophieR.jpg
+  page_path: peoplepages/SophieR.md
   category: Undergraduate Researchers
+- name: Sawyer Johnson
+  role: Undergraduate Research Assistant
+  status: current
+  image: /images/optimized/People_Images/SawyerJ.jpg
+  page_path: peoplepages/SawyerJ.md
+  category: Undergraduate Researchers
+- name: Ha Quach
+  role: High-school intern from Lincoln Southwest High School
+  status: current
+  image: /images/optimized/People_Images/HaQ.jpg
+  page_path: peoplepages/HaQuach.md
+  cv: /CVs/CV_HaQ.pdf
+  category: High-school intern
