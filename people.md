@@ -7,7 +7,7 @@ googlefonts: ["Monoton", "Lobster"]
 
 Meet the scientists, students, and staff who power discovery in the Schnable Lab.
 
-{% assign category_labels = 'Faculty|Research Staff|Professional Staff|Graduate Students|Undergraduate Researchers' | split: '|' %}
+{% assign category_labels = 'Faculty|Research Staff|Professional Staff|Graduate Students|Undergraduate Researchers|High-school intern' | split: '|' %}
 {% for label in category_labels %}
   {% assign singles = site.data.people | where: 'category', label %}
   {% assign multi_candidates = site.data.people | where_exp: 'person', 'person.categories' %}
@@ -45,6 +45,7 @@ Meet the scientists, students, and staff who power discovery in the Schnable Lab
       {% if person.cv %}{% assign link_count = link_count | plus: 1 %}{% endif %}
       {% if person.orcid %}{% assign link_count = link_count | plus: 1 %}{% endif %}
       {% if person.scholar %}{% assign link_count = link_count | plus: 1 %}{% endif %}
+      {% if person.github %}{% assign link_count = link_count | plus: 1 %}{% endif %}
       {% if person.socials %}{% assign link_count = link_count | plus: person.socials.size %}{% endif %}
       {% if link_count > 0 %}
       <ul class="people-card__links">
@@ -56,6 +57,13 @@ Meet the scientists, students, and staff who power discovery in the Schnable Lab
             {% assign scholar_url = 'https://scholar.google.com/citations?user=' | append: person.scholar %}
           {% endunless %}
           <li><a href="{{ scholar_url }}">Google Scholar</a></li>
+        {% endif %}
+        {% if person.github %}    
+          {% assign github_url = person.github %}    
+          {% unless github_url contains '://' %}      
+            {% assign github_url = 'https://github.com/' | append: person.github %}    
+          {% endunless %}    
+          <li><a href="{{ github_url }}">GitHub</a></li>
         {% endif %}
         {% if person.socials %}
           {% for social in person.socials %}
