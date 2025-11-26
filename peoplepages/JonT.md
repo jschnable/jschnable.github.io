@@ -1,6 +1,7 @@
 ---
 layout: person
 title: Jon Turkus
+permalink: /peoplepages/JonT/
 ---
 
 Jonathan Turkus is a High-Throughput Molecular Biology Technician and the Research Manager for the Schnable Lab at the University of Nebraska–Lincoln (UNL). He holds a B.S. in Biology from Hope College and an M.S. in Plant Breeding, Genetics, and Biotechnology from the Michigan State University, where he work on wheat breeding and genetics.

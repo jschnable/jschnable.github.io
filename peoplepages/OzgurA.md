@@ -1,6 +1,7 @@
 ---
 layout: person
 title: Ozgur Altundas
+permalink: /peoplepages/OzgurA/
 ---
 
 Ozgur Altundas is an agricultural genetic engineer and a Ph.D. candidate in Plant Breeding and Genetics at the University of Nebraska–Lincoln. His doctoral studies are supported by the YLSY scholarship from the Republic of Türkiye.

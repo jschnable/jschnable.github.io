@@ -1,6 +1,7 @@
 ---
 layout: person
 title: Waqar Ali
+permalink: /peoplepages/Waqar/
 ---
 
 Waqar Ali is a graduate student in the Complex Biosystems program at the University of Nebraska–Lincoln (UNL), specializing in Computational Biology and Integrated Plant Biology. He holds a B.Sc. (Hons.) and M.Sc. (Hons.) in Agriculture, focusing on Plant Breeding and Genetics from the University of Agriculture, Faisalabad, Pakistan. His master’s research, under the supervision of Dr. Zaheer Ahmed at the Center for Advanced Studies (CAS), combined morphometric trait analysis and gene expression profiling to evaluate drought tolerance in wheat genotypes.

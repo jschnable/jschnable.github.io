@@ -1,6 +1,7 @@
 ---
 layout: person
 title: Ravi Mural
+permalink: /peoplepages/Ravi_Mural/
 ---
 
 Ravi V. Mural is a Research Assistant Professor affiliated with the Schnable Lab within the Center for Plant Science Innovation. Ravi joined the lab as a postdoc in 2019 after completing his PhD working in soybean breeding. He leads our collaboration with the Hanseup Lab at the University of Utah working on field deployable microsensors. In addition, Ravi is working to study pleiotropy and genotype by environment interactions by mining data from widely used association populations.  

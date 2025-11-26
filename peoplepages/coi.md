@@ -1,6 +1,7 @@
 ---
 layout: person
 title: Conflict of Interest Disclosure
+permalink: /peoplepages/coi/
 ---
 
 <b>James Schnable's Conflict of Interest Disclosure:</b>
