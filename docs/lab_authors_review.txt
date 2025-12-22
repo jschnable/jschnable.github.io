@@ -1,63 +1,208 @@
-Loading lab_authors.yml...
-Loaded 130 authors
-
-================================================================================
-CHECKING FOR ISSUES
+LAB AUTHORS REVIEW REPORT
 ================================================================================
 
-Found 23 potential issues:
-
-
-MIDDLE INITIAL VARIANTS (23):
---------------------------------------------------------------------------------
-  • Different initial patterns: D, DS in variants: Carvalho D, Carvalho D., Carvalho DS
-  • Different initial patterns: J, JM in variants: Davis J, Davis J., Davis JM
-  • Different initial patterns: H, HM in variants: Dias H, Dias H., Dias HM
-  • Different initial patterns: R, RJ in variants: Grove R, Grove R., Grove RJ
-  • Different initial patterns: JP, P in variants: Hurst JP, Hurst P, Hurst P.
-  • Different initial patterns: J, JP in variants: Hurst J, Hurst J., Hurst JP
-  • Different initial patterns: P, PJG in variants: Kabbakki P, Kabbakki P., Kabbakki PJG
-  • Different initial patterns: K, KM in variants: Linders K, Linders K., Linders KM
-  • Different initial patterns: X, XB in variants: Liu X, Liu X., Liu XB
-  • Different initial patterns: R, RK in variants: Mathivanan R, Mathivanan R., Mathivanan RK
-  • Different initial patterns: H, HH in variants: Medlock H, Medlock H., Medlock HH
-  • Different initial patterns: X, XP in variants: Meng X, Meng X., Meng XP
-  • Different initial patterns: O, ON in variants: Mizero O, Mizero O., Mizero ON
-  • Different initial patterns: R, RV in variants: Mural R, Mural R., Mural RV
-  • Different initial patterns: D, DW in variants: Ngu D, Ngu D., Ngu DW
-  • Different initial patterns: A, AV in variants: Nishimwe A, Nishimwe A., Nishimwe AV
-  • Different initial patterns: S, SG in variants: Rajput S, Rajput S., Rajput SG
-  • Different initial patterns: S, SK, SKK in variants: Raju S, Raju S., Raju SK, Raju SKK
-  • Different initial patterns: J, JC, JS in variants: Schnable J, Schnable J., Schnable JC, Schnable JS
-  • Different initial patterns: M, MC in variants: Tross M, Tross M., Tross MC
-  • Different initial patterns: D, DN in variants: Tumusiine D, Tumusiine D., Tumusiine DN
-  • Different initial patterns: J, JD in variants: Turkus J, Turkus J., Turkus JD
-  • Different initial patterns: C, CC in variants: Ullagaddi C, Ullagaddi C., Ullagaddi CC
-
-================================================================================
-CROSS-REFERENCE WITH PAPERS.MD
+FULL AUTHOR LIST
 ================================================================================
 
-✓ Matched 0 bold-tagged names
+ID: agarwal-bhushit
+Name: Bhushit Agarwal
+Active: False
+Aliases:
+  - Agarwal B
+  - Agarwal B.
+  - Agarwal, B
+  - Agarwal, B.
+  - Agarwal, Bhushit
+  - B. Agarwal
 
-================================================================================
-STATISTICS
-================================================================================
+ID: airori-aldi
+Name: Aldi Airori
+Active: False
+Aliases:
+  - A. Airori
+  - Airori A
+  - Airori A.
+  - Airori, A
+  - Airori, A.
+  - Airori, Aldi
 
-Total authors: 130
-  - Active members: 17
-  - Alumni: 110
-  - Status unknown: 3
+ID: ali-waqar
+Name: Waqar Ali
+Active: True
+Page: peoplepages/Waqar.md
+ORCID: 0009-0001-8822-0950
+Aliases:
+  - Ali W
+  - Ali W.
+  - Ali, W
+  - Ali, W.
+  - Ali, Waqar
+  - W. Ali
+  - Waqar Ali
 
-With people pages: 43
-With ORCID: 28
+ID: altundas-ozgur
+Name: Ozgur Altundas
+Active: True
+Page: peoplepages/OzgurA.md
+ORCID: 0000-0002-4579-599X
+Aliases:
+  - Altundas O
+  - Altundas O.
+  - Altundas, O
+  - Altundas, O.
+  - Altundas, Ozgur
+  - O. Altundas
 
-Average aliases per author: 6.7
+ID: andreasen-nate
+Name: Nate Andreasen
+Active: False
+Aliases:
+  - Andreasen N
+  - Andreasen N.
+  - Andreasen, N
+  - Andreasen, N.
+  - Andreasen, Nate
+  - N. Andreasen
 
-================================================================================
+ID: arora-sofiya
+Name: Sofiya Arora
+Active: True
+Page: peoplepages/Sofiya.md
+ORCID: 0009-0004-5357-6094
+Aliases:
+  - Arora S
+  - Arora S.
+  - Arora, S
+  - Arora, S.
+  - Arora, Sofiya
+  - S. Arora
 
-Detailed report written to: /Users/jamesschnable/Projects/jschnable.github.io/docs/lab_authors_review.txt
-aniel_Carvalho/
+ID: askey-bryce
+Name: Bryce Askey
+Active: False
+Aliases:
+  - Askey B
+  - Askey B.
+  - Askey, B
+  - Askey, B.
+  - Askey, Bryce
+  - B. Askey
+
+ID: aydt-abaigeal
+Name: Abaigeal Aydt
+Active: False
+Aliases:
+  - A. Aydt
+  - Aydt A
+  - Aydt A.
+  - Aydt, A
+  - Aydt, A.
+  - Aydt, Abaigeal
+
+ID: bares-jordan
+Name: Jordan Bares
+Active: True
+Aliases:
+  - Bares J
+  - Bares J.
+  - Bares, J
+  - Bares, J.
+  - Bares, Jordan
+  - J. Bares
+
+ID: barnoskie-kahheetah
+Name: Kahheetah Barnoskie
+Active: False
+Aliases:
+  - Barnoskie K
+  - Barnoskie K.
+  - Barnoskie, K
+  - Barnoskie, K.
+  - Barnoskie, Kahheetah
+  - K. Barnoskie
+
+ID: bashyam-srinidhi
+Name: Srinidhi Bashyam
+Active: False
+Aliases:
+  - Bashyam S
+  - Bashyam S.
+  - Bashyam, S
+  - Bashyam, S.
+  - Bashyam, Srinidhi
+  - S. Bashyam
+
+ID: bedolla-rossy
+Name: Rossy Bedolla
+Active: True
+Page: peoplepages/Rossy.md
+Aliases:
+  - Bedolla R
+  - Bedolla R.
+  - Bedolla, R
+  - Bedolla, R.
+  - Bedolla, Rossy
+  - R. Bedolla
+
+ID: belz-natalie
+Name: Natalie Belz
+Active: False
+Aliases:
+  - Belz N
+  - Belz N.
+  - Belz, N
+  - Belz, N.
+  - Belz, Natalie
+  - N. Belz
+
+ID: bouwens-brooke
+Name: Brooke Bouwens
+Active: False
+Aliases:
+  - B. Bouwens
+  - Bouwens B
+  - Bouwens B.
+  - Bouwens, B
+  - Bouwens, B.
+  - Bouwens, Brooke
+
+ID: bradley-alexandra
+Name: Alexandra Bradley
+Active: False
+Aliases:
+  - A. Bradley
+  - Bradley A
+  - Bradley A.
+  - Bradley, A
+  - Bradley, A.
+  - Bradley, Alexandra
+
+ID: butera-christian
+Name: Christian Butera
+Active: False
+Aliases:
+  - Butera C
+  - Butera C.
+  - Butera, C
+  - Butera, C.
+  - Butera, Christian
+  - C. Butera
+
+ID: carey-grace
+Name: Grace Carey
+Active: False
+Aliases:
+  - Carey G
+  - Carey G.
+  - Carey, G
+  - Carey, G.
+  - Carey, Grace
+  - G. Carey
+
+ID: carvalho-daniel
+Name: Daniel Carvalho
+Active: False
+Page: /peoplepages/Daniel_Carvalho/
 ORCID: 0000-0001-6590-4287
 Aliases:
   - Carvalho D
