@@ -50,6 +50,13 @@
 - Use the planned helper page at `/tools/bibtex-to-yaml` (or the spec’s examples until that page lands) to convert BibTeX into the required YAML structure.
 - After making changes, run `python scripts/review_lab_authors.py` for alias validation and `bundle exec jekyll build` to confirm the Liquid templates still render.
 
+### Adding a new publication (quick recipe)
+- Copy the BibTeX for the paper from the journal or preprint server.
+- In your browser, open `/tools/bibtex-to-yaml` (once available) and paste the BibTeX to generate a YAML block; until then, follow the examples in `docs/publications-data-spec.md` and existing entries in `_data/publications.yml`.
+- Append the YAML block to `_data/publications.yml` under the correct year, keeping IDs unique and consistent with the existing `YYYY-key-phrase` pattern.
+- Only edit `_data/lab_authors.yml` if the paper introduces a new lab-affiliated person or a new spelling/initials variant for an existing lab member; external collaborators do not need `member_id`s.
+- After updating the data files, run `python3 scripts/review_lab_authors.py > docs/lab_authors_review.txt` and then `bundle exec jekyll build`; fix any reported issues before committing.
+
 ## Commit & Pull Request Guidelines
 - Use concise, imperative commit messages (e.g., `Add Deniz profile` or `Refresh maize phenotyping copy`) and group related edits together.
 - Reference the touched page or asset in the first line of the PR description and include a local preview link (`http://127.0.0.1:4000/path/`) plus screenshots when visual changes matter.

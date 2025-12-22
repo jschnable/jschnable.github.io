@@ -9,6 +9,7 @@
     image: /images/optimized/People_Images/Khang.png
     role: Visiting Scientist
     tenure: '2024'
+    current: Genetic Data Analyst at PlantEdits
   - name: Ravi Mural
     link: /peoplepages/Ravi_Mural/
     image: /images/optimized/People_Images/Ravi.jpg
@@ -92,6 +93,7 @@
   - name: Henrique Moura Dias
     image: /images/optimized/People_Images/Henrique.jpg
     role: Visiting PhD Student
+    tenure: '2023'
     current: Postdoctoral Researcher, South Dakota State University
   - name: Nate Korth
     image: /images/optimized/People_Images/Nate_small.jpg
@@ -531,9 +533,11 @@
     image: /images/optimized/People_Images/Clay.jpg
     role: Tech
     tenure: 2019-2022
+    current: PhD student, Pauli Lab, University of Arizona
   - name: Olivier Mizero
     link: /peoplepages/Olivier/
     image: /images/optimized/People_Images/Olivier.jpg
     role: Post-Bac Student
     tenure: 2022-2023
+    current: Data Engineer, Lozafina
     orcid: 0000-0003-0675-6936
