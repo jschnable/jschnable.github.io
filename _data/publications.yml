@@ -1,3 +1,20 @@
+- id: 2026-m-food-as-medicine
+  year: 2026
+  title: 'Food as Medicine: Enhancing Crop Breeding and Food Processing to Shift the Gut Microbiome for Prevention and Treatment
+    of Chronic Diseases.'
+  authors:
+  - name: Mannon PJ
+  - name: Benson AK
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Ding W
+  - name: Juritsch AF
+  - name: Rose D
+  status: accepted
+  type: article
+  journal: Journal of Nutrition
+  first_author_is_lab_member: false
+  lab_author_count: 1
 - id: 2025-n-offtheshelf-image-analysis
   year: 2025
   title: Off-the-shelf image analysis models outperform human visual assessment in identifying genes controlling seed color
@@ -513,6 +530,28 @@
   - bioRxiv: 10.1101/2025.09.30.679283
   first_author_is_lab_member: false
   lab_author_count: 2
+- id: 2025-n-sequence-based-classifier
+  year: 2025
+  title: A sequence-based classifier distinguishes phenotype-associated genes from other gene models in plants
+  authors:
+  - name: Shrestha N
+    member_id: shrestha-nikee
+  - name: Ji Zhongjie
+    member_id: ji-zhongjie
+  - name: Dai X
+    member_id: dai-xiuru
+  - name: Li P
+  - name: Schnable JC
+    member_id: schnable-james
+  status: preprint
+  type: preprint
+  journal: bioRxiv
+  doi: 10.64898/2025.11.30.691407
+  url: https://doi.org/10.64898/2025.11.30.691407
+  notes:
+  - bioRxiv: 10.64898/2025.11.30.691407
+  first_author_is_lab_member: true
+  lab_author_count: 4
 - id: 2025-a-unveiling-shared-genetic
   year: 2025
   title: Unveiling shared genetic regulators for plant architectural and biomass yield traits in sorghum.
