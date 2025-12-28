@@ -1,5 +1,5 @@
-- id: 2026-m-food-as-medicine
-  year: 2026
+- id: 2025-m-food-as-medicine
+  year: 2025
   title: 'Food as Medicine: Enhancing Crop Breeding and Food Processing to Shift the Gut Microbiome for Prevention and Treatment
     of Chronic Diseases.'
   authors:
@@ -10,9 +10,11 @@
   - name: Ding W
   - name: Juritsch AF
   - name: Rose D
-  status: accepted
+  status: published
   type: article
-  journal: Journal of Nutrition
+  journal: The Journal of Nutrition
+  doi: 10.1016/j.tjnut.2025.101298
+  url: https://doi.org/10.1016/j.tjnut.2025.101298
   first_author_is_lab_member: false
   lab_author_count: 1
 - id: 2025-n-offtheshelf-image-analysis
