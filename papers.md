@@ -6,7 +6,7 @@ title: Schnable Lab Papers
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 {% assign preprints = site.data.publications | where: "status", "preprint" | sort: "year" | reverse %}
-{% assign published = site.data.publications | where: "status", "published" %}
+{% assign published = site.data.publications | where_exp: "pub", "pub.status != 'preprint'" %}
 {% assign grouped = published | group_by: "year" | sort: "name" | reverse %}
 
 {% comment %} Year Navigation Bar {% endcomment %}
