@@ -1005,7 +1005,7 @@
   - name: Dipak SK
   status: published
   type: article
-  journal: Panicum miliaceum
+  journal: Planta
   doi: 10.1007/s00425-024-04465-4
   url: https://doi.org/10.1007/s00425-024-04465-4
   first_author_is_lab_member: false
@@ -1462,7 +1462,7 @@
     member_id: schnable-james
   status: published
   type: article
-  journal: Paspalum vaginatum
+  journal: Nature Communications
   doi: 10.1038/s41467-022-35507-8
   url: https://doi.org/10.1038/s41467-022-35507-8
   notes:
@@ -1547,7 +1547,7 @@
   - name: Santra D
   status: published
   type: article
-  journal: Panicum miliaceum
+  journal: Plant Direct
   doi: 10.1002/pld3.447
   url: https://doi.org/10.1002/pld3.447
   first_author_is_lab_member: false
@@ -1714,7 +1714,7 @@
   - name: Cheng F
   status: published
   type: article
-  journal: Orychophragmus violaceus
+  journal: Plant Communications
   doi: 10.1016/j.xplc.2022.100431
   url: https://doi.org/10.1016/j.xplc.2022.100431
   first_author_is_lab_member: false
@@ -1978,7 +1978,7 @@
   - name: Castellano MJ
   status: published
   type: article
-  journal: in situ
+  journal: SSSA Journal
   doi: 10.1002/saj2.20226
   url: https://doi.org/10.1002/saj2.20226
   first_author_is_lab_member: false
@@ -2049,7 +2049,7 @@
   - name: Zhi H
   status: published
   type: article
-  journal: Setaria italica
+  journal: Frontiers in Plant Science
   doi: 10.3389/fpls.2021.743782
   url: https://doi.org/10.3389/fpls.2021.743782
   first_author_is_lab_member: false
@@ -2143,7 +2143,7 @@
   - name: Cousins AB
   status: published
   type: article
-  journal: enol
+  journal: The Plant Journal
   doi: 10.1111/tpj.15141
   url: https://doi.org/10.1111/tpj.15141
   first_author_is_lab_member: false
@@ -2413,7 +2413,7 @@
   - name: Schnable PS
   status: published
   type: article
-  journal: Zea mays
+  journal: Plant Physiology
   doi: 10.1104/pp.19.00752
   url: https://doi.org/10.1104/pp.19.00752
   first_author_is_lab_member: false
@@ -2727,7 +2727,7 @@
     member_id: schnable-james
   status: published
   type: article
-  journal: Tripsacum dactyloides
+  journal: The Plant Journal
   doi: 10.1111/tpj.14376
   url: https://doi.org/10.1111/tpj.14376
   notes:
@@ -2771,7 +2771,7 @@
   - name: Devos KM
   status: published
   type: article
-  journal: Sorghum bicolor
+  journal: Scientific Reports
   doi: 10.1038/s41598-019-48257-3
   url: https://doi.org/10.1038/s41598-019-48257-3
   first_author_is_lab_member: false
@@ -2907,7 +2907,7 @@
   - name: J Wang
   status: published
   type: article
-  journal: Zea mays
+  journal: Molecular Breeding
   doi: 10.1007/s11032-019-0981-8
   url: https://doi.org/10.1007/s11032-019-0981-8
   first_author_is_lab_member: false
@@ -2971,7 +2971,7 @@
     member_id: schnable-james
   status: published
   type: article
-  journal: In vivo
+  journal: Computers and Electronics in Agriculture
   doi: 10.1016/j.compag.2019.104854
   url: https://doi.org/10.1016/j.compag.2019.104854
   first_author_is_lab_member: false
