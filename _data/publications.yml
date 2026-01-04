@@ -1,3 +1,23 @@
+- id: 2026-qc-genomes-to-fields-competition
+  year: 2026
+  title: Genomes to Fields 2024 Maize Genotype by Environment Prediction Competition
+  authors:
+  - name: Chen Q
+  - name: Washburn JD
+  - name: Romay MC
+  - truncated: true
+  - name: Schnable JC
+    member_id: schnable-james
+  - truncated: true
+  - name: Weldekidan T
+  - name: Xu W
+  - name: de Leon N
+  status: accepted
+  type: article
+  journal: BMC Research Notes
+  author_note: Schnable JC is 27 of 36 authors
+  first_author_is_lab_member: false
+  lab_author_count: 1
 - id: 2025-m-food-as-medicine
   year: 2025
   title: 'Food as Medicine: Enhancing Crop Breeding and Food Processing to Shift the Gut Microbiome for Prevention and Treatment
