@@ -351,10 +351,11 @@ def parse_papers_md(papers_file, alias_to_id):
 
             if title and url:  # Valid publication
                 # Extract journal from part after the title link to avoid italics in titles
-                # For Markdown: after ](url)
+                # For Markdown: after the first markdown link
                 # For HTML: after </a>
-                if '[' in full_line and '](' in full_line:
-                    after_title = full_line.split(')', 1)[1] if ')' in full_line else full_line
+                md_link = re.search(r'\[[^\]]+\]\([^)]+\)', full_line)
+                if md_link:
+                    after_title = full_line[md_link.end():]
                 elif '</a>' in full_line:
                     after_title = full_line.split('</a>', 1)[1] if '</a>' in full_line else full_line
                 else:
