@@ -376,8 +376,6 @@
   journal: agriRxiv
   doi: 10.31220/agriRxiv.2025.00339
   url: https://doi.org/10.31220/agriRxiv.2025.00339
-  notes:
-  - agriRxiv: 10.31220/agriRxiv.2025.00339
   first_author_is_lab_member: true
   lab_author_count: 1
 - id: 2025-h-maizeearsam-zeroshot-maize
@@ -548,8 +546,6 @@
   journal: bioRxiv
   doi: 10.1101/2025.09.30.679283
   url: https://doi.org/10.1101/2025.09.30.679283
-  notes:
-  - bioRxiv: 10.1101/2025.09.30.679283
   first_author_is_lab_member: false
   lab_author_count: 2
 - id: 2025-n-sequence-based-classifier
@@ -570,8 +566,6 @@
   journal: bioRxiv
   doi: 10.64898/2025.11.30.691407
   url: https://doi.org/10.64898/2025.11.30.691407
-  notes:
-  - bioRxiv: 10.64898/2025.11.30.691407
   first_author_is_lab_member: true
   lab_author_count: 4
 - id: 2025-a-unveiling-shared-genetic
@@ -757,8 +751,6 @@
   type: article
   doi: 10.1101/2024.06.04.597477
   url: https://doi.org/10.1101/2024.06.04.597477
-  notes:
-  - bioRxiv: 10.1101/2024.06.04.597477
   first_author_is_lab_member: true
   lab_author_count: 2
 - id: 2024-skk-rhythmic-lipid-and
