@@ -12,17 +12,13 @@ bigimg:
 
 ## Trainee Outcomes
 
-Former trainees now hold faculty positions at 11 institutions across 4 countries. We list 12
-former postdocs and visiting scientists with documented next positions, including 8 now
-assistant/associate/full professors and several placements at major institutions.
-
-The Schnable Lab@UNL has an outstanding record of trainee success. The typical PhD student in our lab graduates in slightly less than 5 years while being an author on an average of eight papers and first author on between two and five papers. The average postdoc who remains in the lab for at least two years will be an author on than nine papers, including roughly three as first author.
+The Schnable Lab@UNL has an outstanding record of trainee success. The typical PhD student in our lab graduates in slightly less than 5 years while being first author on between two and five papers with an average of eight papers overall. The average postdoc who remains in the lab for at least two years will be an author on than nine papers, including roughly three as first author.
 <br><br>
 Our final goal isn't papers but making sure trainees end up with good jobs that make them happy. We ensure students and postdocs gain domain expertise skills in genetics, genomics and/or phenotyping, data science skills in statistics and computer science, and soft skills in how to effectively participate in and lead multi-disciplinary and multi-cultural teams. This combination of skillsets makes trainees competitive for future roles in academia, industry or entrepreneurship.
 <br><br>
-Our alumni are employed as professors at nine universities across four countries and at all three of the major seed companies.
+Our alumni are employed as professors at eleven universities across four countries, as research scientists at all three of the major seed companies, and at multiple plant biotechnology startups.
 
-![Alumni](/images/optimized/Alumni.png){:width="600" align="middle"}
+![Alumni](/images/Alumnitrimmed.png){:width="600" align="middle"}
 
 # Postdoc Positions
 
