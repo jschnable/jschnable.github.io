@@ -12,7 +12,7 @@ bigimg:
 
 ## Trainee Outcomes
 
-The Schnable Lab@UNL has an outstanding record of trainee success. The typical PhD student in our lab graduates in slightly less than 5 years while being first author on between two and five papers with an average of eight papers overall. The average postdoc who remains in the lab for at least two years will be an author on than nine papers, including roughly three as first author.
+The Schnable Lab@UNL has an outstanding record of trainee success. The typical PhD student in our lab graduates in slightly less than 5 years while being first author on between two and five papers with an average of eight papers overall. The average postdoc who remains in the lab for at least two years will be an author on more than nine papers, including roughly three as first author.
 <br><br>
 Our final goal isn't papers but making sure trainees end up with good jobs that make them happy. We ensure students and postdocs gain domain expertise skills in genetics, genomics and/or phenotyping, data science skills in statistics and computer science, and soft skills in how to effectively participate in and lead multi-disciplinary and multi-cultural teams. This combination of skillsets makes trainees competitive for future roles in academia, industry or entrepreneurship.
 <br><br>
@@ -32,13 +32,13 @@ Several postdoc fellowship programs are available within the USA:
 
 # PhD Student Positions
 
-The Schnable Lab currently accepts PhD students through two PhD programs: [Complex Biosystems](https://cbio.unl.edu/) (Integrated Plant Biology) and [Agronomy and Horticulture](https://agronomy.unl.edu/graduate-programs) (Plant Breeding and Genetics). If you apply to either program and are interesting in joining our lab, send Prof. Schnable an e-mail after you submit to let him know to look for your application in the online system.
+The Schnable Lab currently accepts PhD students through two PhD programs: [Complex Biosystems](https://cbio.unl.edu/) (Integrated Plant Biology) and [Agronomy and Horticulture](https://agronomy.unl.edu/graduate-programs) (Plant Breeding and Genetics). If you apply to either program and are interested in joining our lab, send Prof. Schnable an e-mail after you submit to let him know to look for your application in the online system.
 <br><br>
 If you are interested in discussing the potential to do graduate research in the lab before applying including both potential funding sources and potential research projects you can e-mail Prof. Schnable including the phrase "Codeword Pineapple" in the subject of your e-mail. Read more about [ongoing projects in the lab](/research/).
 <br><br>
 Several PhD fellowship programs are available within the USA:
 * National Science Foundation [Graduate Research Fellowship](https://www.nsfgrfp.org/). US Citizens and Permanent Residents. You can apply for this your last year of college/undergrad.
-* Foundation for Food and Agricultural Research [Fellows Program](https://ffarfellows.org/). Open to PhD students regardless of citzenship. You can apply for this the year before you join the lab, whether you are completing your undergraduate degree or masters degree.
+* Foundation for Food and Agricultural Research [Fellows Program](https://ffarfellows.org/). Open to PhD students regardless of citizenship. You can apply for this the year before you join the lab, whether you are completing your undergraduate degree or masters degree.
 
 # Opportunities for Undergraduates
 
