@@ -21,7 +21,7 @@
   github: https://github.com/corn2code
   linkedin: vladimir-torres-36b76b1ba
   socials:
-  - label: Twitter
+  - label: X
     url: https://twitter.com/vla_torres
   category: Faculty
 - name: Zhongjie Ji
@@ -40,10 +40,11 @@
   status: current
   image: /images/optimized/People_Images/JonT.jpg
   page_path: peoplepages/JonT.md
+  cv: /CVs/CV_JonathanT.pdf
   orcid: 0000-0002-2006-0137
   linkedin: jonathanturkus
   socials:
-  - label: Twitter
+  - label: X
     url: https://twitter.com/JonathanTurkus
   category: Research Staff
 - name: Rossy Bedolla
@@ -64,7 +65,7 @@
   scholar: https://scholar.google.com/citations?user=O_LrPogAAAAJ&hl=en&oi=ao
   linkedin: chidanand-ullagaddi-31647226
   socials:
-  - label: Twitter
+  - label: X
     url: https://twitter.com/Chidu_ullagaddi
   category: Research Staff
 - name: Jensina Davis
@@ -78,7 +79,7 @@
   github: https://github.com/jdavis-132
   linkedin: jensina-davis
   socials:
-  - label: Twitter
+  - label: X
     url: https://twitter.com/JensinaDavis
   category: Graduate Students
 - name: Nikee Shrestha
@@ -104,7 +105,7 @@
   github: https://github.com/waqarali1994
   linkedin: waqar-ali-a81318aa
   socials:
-  - label: Twitter
+  - label: X
     url: https://twitter.com/WaqarAli325
   category: Graduate Students
 - name: Harshita Mangal
@@ -118,7 +119,7 @@
   github: https://github.com/harshita9817
   linkedin: harshitamangal
   socials:
-  - label: Twitter
+  - label: X
     url: https://twitter.com/Harshita17_
   category: Graduate Students
 - name: Amany Gomaa
@@ -148,8 +149,38 @@
   scholar: https://scholar.google.com/citations?user=xqjVHMIAAAAJ&hl=en&oi=ao
   linkedin: özgüraltundas
   socials:
-  - label: Twitter
+  - label: X
     url: https://twitter.com/AltundasOzgur
+  category: Graduate Students
+- name: Ryleigh Kirby
+  role: PhD Student
+  status: current
+  image: /images/optimized/People_Images/RyleighK.jpg
+  page_path: peoplepages/RyleighK.md
+  cv: /CVs/CV_RyleighK.pdf
+  scholar: https://scholar.google.com/citations?user=0TTcJesAAAAJ&hl=en&oi=ao
+  orcid: 0000-0002-3336-7728
+  linkedin: ryleigh-kirby
+  category: Graduate Students
+- name: Hira Aslam
+  role: Visiting PhD Student
+  status: current
+  image: /images/optimized/People_Images/HiraA.jpg
+  page_path: peoplepages/HiraA.md
+  cv: /CVs/CV_HiraA.pdf
+  orcid: 0009-0003-2406-4519
+  scholar: https://scholar.google.com/citations?user=ogMvlCkAAAAJ&hl=en
+  linkedin: hiraaslamm
+  category: Graduate Students
+- name: Surya Krishna Sakthivel
+  role: Rotating PhD Student
+  status: current
+  image: /images/optimized/People_Images/SuryaK.jpg
+  page_path: peoplepages/SuryaK.md
+  cv: /CVs/CV_SuryaK.pdf
+  orcid: 0009-0006-9656-7643
+  scholar:  https://scholar.google.com/citations?hl=en&user=fBc01YYAAAAJ
+  linkedin: surya-krishna-sakthivel-11859220b
   category: Graduate Students
 - name: Sofiya Arora
   role: MS Student
@@ -173,16 +204,6 @@
   scholar: https://scholar.google.com/citations?user=lmiqBhcAAAAJ&hl=en&oi=ao
   linkedin: hadiya-kounsar-29a3b7220
   category: Graduate Students
-- name: Ryleigh Kirby
-  role: Undergraduate Researcher (UCARE)
-  status: current
-  image: /images/optimized/People_Images/RyleighK.jpg
-  page_path: peoplepages/RyleighK.md
-  cv: /CVs/CV_RyleighK.pdf
-  scholar: https://scholar.google.com/citations?user=0TTcJesAAAAJ&hl=en&oi=ao
-  orcid: 0000-0002-3336-7728
-  linkedin: ryleigh-kirby
-  category: Undergraduate Researchers
 - name: Sophie Rohlfing
   role: Undergraduate Research Assistant
   status: current
@@ -195,10 +216,3 @@
   image: /images/optimized/People_Images/SawyerJ.jpg
   page_path: peoplepages/SawyerJ.md
   category: Undergraduate Researchers
-- name: Ha Quach
-  role: High-school intern from Lincoln Southwest High School
-  status: current
-  image: /images/optimized/People_Images/HaQ.jpg
-  page_path: peoplepages/HaQuach.md
-  cv: /CVs/CV_HaQ.pdf
-  category: High-school intern
