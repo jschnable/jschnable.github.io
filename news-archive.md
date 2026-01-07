@@ -442,7 +442,7 @@ googlefonts: ["Monoton", "Lobster"]
 *Thank you to Bryce Askey for the photo*
 
 
-* On August 23, 2019, Aime Valentin Nishimwe presented his [UCARE](https://ucare.unl.edu/about) summer 2019 research project with the title, ["Understanding Rwanda's Soil Quality and Management Practices"](/images/optimized/News_Images/poster.pdf) with [Dr. Rebecca Young](https://agronomy.unl.edu/young) as his advisor.
+* On August 23, 2019, Aime Valentin Nishimwe presented his [UCARE](https://ucare.unl.edu/about) summer 2019 research project with the title, ["Understanding Rwanda's Soil Quality and Management Practices"](/News/ucare-soil-quality-poster-2019.pdf) with [Dr. Rebecca Young](https://agronomy.unl.edu/young) as his advisor.
 
 ![CUSP Experiential Learning Expo](/images/optimized/News_Images/aimeucare.png){:width="800" align="middle"}
 
