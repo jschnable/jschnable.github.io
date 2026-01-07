@@ -19,11 +19,13 @@ bigimg:
 
 ## What We Study
 
-- **Phenotyping at scale** – pairing field robotics, imaging, and classical agronomy to monitor trait development across environments.
-- **Genomics that matters** – linking DNA variation to stress resilience, yield components, and gene regulation in maize and sorghum.
-- **Collaborative solutions** – working with breeders, engineers, and data scientists to turn discoveries into deployable tools.
+- **Phenotyping** – developing and testing new approaches to measure plants, from greenhouses to fields to satellites.
+- **Quantitative genetics** – collecting genetic, molecular, and trait data from large populations in multiple environments to understand how genes and environment shape plant phenotypes.
+- **Genomics** – using comparative genomics to figure out how to engineer more stress-tolerant and resource-use-efficient plants.
 
-## Recent Highlights
+Each lab member gains experience coding, building field equipment, running molecular assays, and communicating results to scientific and public audiences. The cross-training keeps our science grounded in real-world challenges and ensures discoveries translate beyond the lab.
+
+## Recent Lab News
 
 {% assign highlights = site.data.news | sort: 'date' | reverse | slice: 0, 3 %}
 <ul class="news-list">
@@ -39,18 +41,5 @@ bigimg:
 </ul>
 
 [See all news]({{ '/news/' | relative_url }})
-
-## Training Across Disciplines
-
-Each lab member gains experience coding, building field equipment, running molecular assays, and communicating results to scientific and public audiences. The cross-training keeps our science grounded in real-world challenges and ensures discoveries translate beyond the lab.
-
-## Join the Lab {#join}
-
-We are always interested in motivated scientists:
-
-- **Undergraduates** can contribute to funded projects or propose UCARE research within our focus areas.
-- **Graduate students and postdocs** should reach out with a CV and a short statement of interests; opportunities shift with grant availability.
-
-Check current openings on the [Join the Lab]({{ '/jobs/' | relative_url }}) page, or email Dr. Schnable to start a conversation.
 
 Looking for the Iowa State group led by Dr. Patrick Schnable? [Visit their site](https://schnablelab.plantgenomics.iastate.edu/).

@@ -33,14 +33,17 @@ layout: default
 {% else %}
   {% assign person_scope = "alumni" %}
   {% assign person_category = "" %}
-  {% assign person_role = "" %}
+  {% assign person_role = page.role %}
   {% assign person_status = "alumni" %}
-  {% assign person_image = nil %}
-  {% assign person_cv = nil %}
-  {% assign person_orcid = nil %}
-  {% assign person_socials = nil %}
-  {% assign person_tenure = nil %}
-  {% assign person_current_role = nil %}
+  {% assign person_image = page.image %}
+  {% assign person_cv = page.cv %}
+  {% assign person_orcid = page.orcid %}
+  {% assign person_scholar = page.scholar %}
+  {% assign person_github = page.github %}
+  {% assign person_linkedin = page.linkedin %}
+  {% assign person_socials = page.socials %}
+  {% assign person_tenure = page.tenure %}
+  {% assign person_current_role = page.current %}
   {% assign normalized_link = page_url %}
   {% assign fallback_link = '/' | append: page_path | replace: '.md', '/' %}
   {% for cohort in site.data.alumni %}
@@ -107,10 +110,27 @@ layout: default
   {% endif %}
 {% endfor %}
 
+{% assign person_news = '' | split: '' %}
+{% for entry in site.data.news %}
+  {% if entry.people %}
+    {% assign matched = false %}
+    {% for person_ref in entry.people %}
+      {% assign ref_normalized = person_ref | replace: '//', '/' | downcase %}
+      {% if normalized_paths_lower contains ref_normalized %}
+        {% assign matched = true %}
+      {% endif %}
+    {% endfor %}
+    {% if matched %}
+      {% assign person_news = person_news | push: entry %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+{% assign person_news = person_news | sort: 'date' | reverse %}
+
 <article class="person">
   <header class="person__header">
     <div class="person__media">
-      <img src="{{ photo_href }}" alt="{{ photo_alt | escape }}" class="person__photo" />
+      <img src="{{ photo_href }}" alt="{{ photo_alt | escape }}" class="person__photo" loading="lazy" decoding="async" />
     </div>
     <div class="person__summary">
       <h1 class="person__name">{{ page.title }}</h1>
@@ -157,14 +177,12 @@ layout: default
           {% endunless %}
           <li><strong>LinkedIn</strong> <a class="person__link" href="{{ linkedin_url }}" target="_blank" rel="noopener">View Profile</a></li>
         {% endif %}
-      </ul>
-      {% if person_socials %}
-        <ul class="person__socials">
+        {% if person_socials %}
           {% for social in person_socials %}
-            <li><a href="{{ social.url }}">{{ social.label }}</a></li>
+            <li><strong>{{ social.label }}</strong> <a class="person__link" href="{{ social.url }}">View Profile</a></li>
           {% endfor %}
-        </ul>
-      {% endif %}
+        {% endif %}
+      </ul>
     </div>
   </header>
   <div class="person__body">
@@ -175,6 +193,21 @@ layout: default
       <p class="person__placeholder">We're gathering more about {{ page.title | split: ' ' | first }}'s story. Check back soon!</p>
     {% endif %}
   </div>
+  {% if person_news and person_news.size > 0 %}
+    <section class="person__news">
+      <h2>In the News</h2>
+      <ul class="news-list">
+      {% for item in person_news limit: 6 %}
+        <li class="news-list__item">
+          <time datetime="{{ item.date | date: '%Y-%m-%d' }}">{{ item.date | date: '%B %d, %Y' }}</time>
+          <strong>{{ item.title }}</strong><br />
+          {% assign summary_html = item.summary | markdownify | strip_newlines | replace: '<p>', '' | replace: '</p>', '' %}
+          {{ summary_html }}
+        </li>
+      {% endfor %}
+      </ul>
+    </section>
+  {% endif %}
   {% if lab_author %}
     {% include person-publications.html member_id=lab_author.id limit=20 %}
   {% endif %}

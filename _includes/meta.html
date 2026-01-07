@@ -1,18 +1,48 @@
     <meta charset="utf-8" />
-    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    {% if page.excerpt %}
-    <meta name="description" content="{{ page.excerpt| strip_html }}" />
-    <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
-    {% else %}
-    <meta name="description" content="{{ site.description }}">
-    <meta property="og:description" content="{{ site.description }}" />
-    {% endif %}
+    {% assign meta_description = page.excerpt | default: site.description | strip_html | strip_newlines | escape %}
+    <meta name="description" content="{{ meta_description }}" />
+    <meta property="og:description" content="{{ meta_description }}" />
+    <meta name="twitter:description" content="{{ meta_description }}" />
     <meta name="author" content="{{ site.name }}" />
+    <meta property="og:site_name" content="{{ site.name }}" />
+    <meta property="og:locale" content="en_US" />
+    {% assign og_type = "website" %}
+    {% if page.layout == "post" %}
+      {% assign og_type = "article" %}
+    {% endif %}
+    <meta property="og:type" content="{{ og_type }}" />
+
+    {% if site.url %}
+      {% assign canonical_url = site.url | append: site.baseurl | append: page.url %}
+      <link rel="canonical" href="{{ canonical_url }}" />
+      <meta property="og:url" content="{{ canonical_url }}" />
+    {% endif %}
+
+    {% if site.avatar %}
+      {% assign icon_href = site.avatar | relative_url %}
+      <link rel="icon" href="{{ icon_href }}" />
+      <link rel="apple-touch-icon" href="{{ icon_href }}" />
+    {% endif %}
+
+    {% if site.url and site.avatar %}
+      {% assign og_image = site.avatar %}
+      {% unless og_image contains '://' %}
+        {% assign og_image = site.url | append: og_image %}
+      {% endunless %}
+      <meta property="og:image" content="{{ og_image }}" />
+      <meta name="twitter:image" content="{{ og_image }}" />
+    {% endif %}
 
     {% if page.title %}
-    <meta property="og:title" content="{{ page.title }}" />
-    <meta property="twitter:title" content="{{ page.title }}" />
+      <meta property="og:title" content="{{ page.title }}" />
+      <meta property="twitter:title" content="{{ page.title }}" />
     {% endif %}
+    <meta name="twitter:card" content="{% if site.avatar %}summary_large_image{% else %}summary{% endif %}" />
+    {% if site.footer-links.twitter %}
+      <meta name="twitter:site" content="@{{ site.footer-links.twitter }}" />
+    {% endif %}
+    <meta name="theme-color" content="#d00000" />
