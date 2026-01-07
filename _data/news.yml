@@ -11,18 +11,12 @@
     - /peoplepages/SuryaK/
     - /peoplepages/HiraA/
 - date: '2025-10-21'
-  title: Genomes to fields harvesting 
-  summary: We are pleased to have completed our Genome to Fields Harvesting and look forward to the next steps. 
-- date: '2024-01-12'
-  title: Grower committee presentation
-  summary: Jensina Davis presented to the National Corn Growers Association grower
-    committee meetings.
-  people:
-    - /peoplepages/Jensina/
+  title: End of the 2025 field season 
+  summary: Thank you to everyone from our lab, and our collaborators in the Benson and Kim labs, who showed up on a cold Saturday morning to complete the hand harvest of our lab field for 2025. Now time to start planning 2026 fields. 
 - date: '2024-01-22'
-  title: Plant and Animal Genome conference talks
-  summary: Vladimir Torres, Nikee Shrestha, and Jensina Davis gave talks at PAG 2024
-    in San Diego.
+  title: Plant and Animal Genome 2024
+  summary: Vladimir Torres, Nikee Shrestha, and Jensina Davis were each invited to present at PAG 2024
+    in San Diego. Great job!
   people:
     - /peoplepages/Vlad/
     - /peoplepages/Nikee/
@@ -348,6 +342,7 @@
     - /peoplepages/OzgurA/
 - date: '2025-10-27'
   title: Hackathon wins at Bayer Agriculture Data
+  image: /images/News_Images/Hackathon.jpg
   summary: "[Ryleigh Kirby](/peoplepages/RyleighK/), [Harshita Mangal](/peoplepages/HarshitaM/), [Sofiya Arora](/peoplepages/Sofiya/), [Jensina Davis](/peoplepages/Jensina/), [Hadiya Kounsar](/peoplepages/HadiyaK/), [Ozgur Altundas](/peoplepages/OzgurA/), [Amany Gomaa](/peoplepages/Amany/), and [Karla Cuéllar](/peoplepages/KarlaC2/) joined the Bayer Agriculture Data Hackathon, where Sofiya's team won first place, Hadiya and Ryleigh's team took second, Jensina's team placed third, and Ozgur's team earned the social engagement award."
   people:
     - /peoplepages/RyleighK/
@@ -360,16 +355,27 @@
     - /peoplepages/KarlaC2/
 - date: '2025-10-30'
   title: TPJ Outstanding Paper award for Vladimir Torres-Rodríguez
-  summary: "[Vladimir Torres-Rodríguez](/peoplepages/Vlad/) and co-authors received The Plant Journal’s SEB-Wiley Outstanding Original Article award for 2024 honoring their paper [*Population-level gene expression can repeatedly link genes to functions in maize*](https://doi.org/10.1111/tpj.16801)."
+  image: /images/News_Images/TPJAward.jpg
+  summary: "[Vladimir Torres-Rodríguez](/peoplepages/Vlad/) received The Plant Journal's Outstanding Original Article award for our 2024 paper [*Population-level gene expression can repeatedly link genes to functions in maize*](https://doi.org/10.1111/tpj.16801)."
   people:
     - /peoplepages/Vlad/
 - date: '2025-11-04'
-  title: Jonathan Turkus Wins 2025 Outstanding Employee Award
-  summary: "We are thrilled to celebrate [Jonathan Turkus](/peoplepages/JonT/), our exceptional Lab Manager at the Schnable Lab, for being named the recipient of the 2025 Outstanding Employee Award by the Institute of Agriculture and Natural Resources at the University of Nebraska. Jonathan’s dedication, leadership, and unwavering commitment to excellence have made a lasting impact on our lab and the community. His tireless efforts and positive spirit inspire us all, and we are incredibly proud to see his contributions recognized at such a prestigious level. Congratulations, Jon — this honor is so well deserved."
+  title: JonTurkus Wins 2025 Outstanding Employee Award
+  image: /images/News_Images/TurkusAward.jpg
+  summary: "Our exceptional lab manager [Jonathan Turkus](/peoplepages/JonT/) named the 2025 Outstanding Employee. Jon's determination and creativity have made just a big impact not only on our lab, but on groups across the country over the past five years. Congratulations, Jon!"
   people:
     - /peoplepages/JonT/
+- date: '2025-11-24'
+  title: Presenting to Corn Growers
+  image: /images/News_Images/CornBoardPosters.jpg
+  summary: "Jensina, Sofiya, and Harshita had the chance to meet with members of the Nebraska Corn Growers Association and talk about their work on lab projects related to crop breeding, optimizing nitrogen use, and using artificial intelligence to study leaf diseases in new ways."
+  people:
+    - /peoplepages/Jensina/
+    - /peoplepages/Sofiya/
+    - /peoplepages/HarshitaM/
 - date: '2025-12-03'
   title: UNL graduate fellowship honors for lab students
+  image: /images/News_Images/GradAwards.jpg
   summary: "Three students in our lab were honored as UNL graduate fellowship recipients. Congratulations to [Jensina Davis](/peoplepages/Jensina/) (Hardin Fellow), [Nikee Shrestha](/peoplepages/Nikee/), and [Sofiya Arora](/peoplepages/Sofiya/) (Widaman Fellows)."
   people:
     - /peoplepages/Jensina/

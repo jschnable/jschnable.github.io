@@ -25,17 +25,26 @@ bigimg:
 
 Each lab member gains experience coding, building field equipment, running molecular assays, and communicating results to scientific and public audiences. The cross-training keeps our science grounded in real-world challenges and ensures discoveries translate beyond the lab.
 
+## Where Our Trainees Go
+
+Our alumni are employed as professors at eleven universities across four countries, as research scientists at all three of the major seed companies, and at multiple plant biotechnology startups.
+
+![Alumni map](/images/Alumnitrimmed.png){:width="600" align="middle"}
+
 ## Recent Lab News
 
 {% assign highlights = site.data.news | sort: 'date' | reverse | slice: 0, 3 %}
 <ul class="news-list">
 {% for item in highlights %}
-  <li class="news-list__item">
-    <time datetime="{{ item.date | date: '%Y-%m-%d' }}">{{ item.date | date: '%B %d, %Y' }}</time>
-    <strong>{{ item.title }}</strong><br />
-    {% assign summary_html = item.summary | markdownify | strip_newlines | replace: '<p>', '' | replace: '</p>', '' %}
-    {{ summary_html }}
-    {% if item.link %}<br /><a href="{{ item.link }}">Learn more</a>{% endif %}
+  <li class="news-list__item{% if item.image %} news-list__item--has-image{% endif %}">
+    {% if item.image %}<img src="{{ item.image }}" alt="{{ item.title }}" class="news-list__image" />{% endif %}
+    <div class="news-list__content">
+      <time datetime="{{ item.date | date: '%Y-%m-%d' }}">{{ item.date | date: '%B %d, %Y' }}</time>
+      <strong>{{ item.title }}</strong><br />
+      {% assign summary_html = item.summary | markdownify | strip_newlines | replace: '<p>', '' | replace: '</p>', '' %}
+      {{ summary_html }}
+      {% if item.link %}<br /><a href="{{ item.link }}">Learn more</a>{% endif %}
+    </div>
   </li>
 {% endfor %}
 </ul>

@@ -1,0 +1,42 @@
+# =============================================================================
+# News Item Template - Copy and paste into _data/news.yml
+# =============================================================================
+#
+# Required fields: date, title, summary
+# Optional fields: image, people, link
+#
+# Tips:
+#   - Newer items should go at the TOP of news.yml
+#   - Images go in /images/News_Images/
+#   - Use markdown in summary for links: [Name](/peoplepages/PersonID/)
+#   - Wrap summary in quotes if it contains colons or special characters
+#
+# =============================================================================
+
+# --- Minimal example (no image) ---
+- date: '2026-01-15'
+  title: Your News Title Here
+  summary: "Brief description of the news item."
+
+# --- With image ---
+- date: '2026-01-15'
+  title: Your News Title Here
+  image: /images/News_Images/your-image.jpg
+  summary: "Brief description of the news item."
+
+# --- With people links ---
+- date: '2026-01-15'
+  title: Your News Title Here
+  summary: "Congratulations to [Person Name](/peoplepages/PersonID/) on their achievement."
+  people:
+    - /peoplepages/PersonID/
+
+# --- Full example with all fields ---
+- date: '2026-01-15'
+  title: Lab Celebrates Major Milestone
+  image: /images/News_Images/milestone-2026.jpg
+  summary: "The Schnable Lab reached a significant milestone this month. [Alice](/peoplepages/Alice/) and [Bob](/peoplepages/Bob/) led the effort."
+  link: https://example.com/full-story
+  people:
+    - /peoplepages/Alice/
+    - /peoplepages/Bob/
