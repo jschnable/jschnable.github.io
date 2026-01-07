@@ -8,36 +8,30 @@ bigimg:
   - "/images/optimized/Front_Page_Images/header.png" : ""
 ---
 
-# Why Work Here?
+There are two primary tracks to joining the lab: coming in with your own funding (e.g. a fellowship) or being hired with existing grant funds in the lab. 
 
-## Trainee Outcomes
+# Fellowship Applications
 
-The Schnable Lab@UNL has an outstanding record of trainee success. The typical PhD student in our lab graduates in slightly less than 5 years while being first author on between two and five papers with an average of eight papers overall. The average postdoc who remains in the lab for at least two years will be an author on more than nine papers, including roughly three as first author.
-<br><br>
-Our final goal isn't papers but making sure trainees end up with good jobs that make them happy. We ensure students and postdocs gain domain expertise skills in genetics, genomics and/or phenotyping, data science skills in statistics and computer science, and soft skills in how to effectively participate in and lead multi-disciplinary and multi-cultural teams. This combination of skillsets makes trainees competitive for future roles in academia, industry or entrepreneurship.
+* For US citizens, there are a number of fellowship programs available at the graduate level we highly encourage you to explore, specifically NSF GRFP and USDA Pre-doc, and our lab can often provide support in assembling a competitive proposal and application. At the postdoctoral level there are also a number of fellowship programs including through NSF, USDA, and LSRF and we also encourage you to reach out to Prof. Schnable if you'd like to discuss putting together an application for any of these programs.
 
-# Postdoc Positions
+* For citizens of other countries, there are sometimes fellowships offered by either international programs like Fulbright or your home country that can support your training/research in our lab. We're not always experts in all of these programs, but we still encourage you to reach out about how we can support you in these applications. It is very important to make it clear whether you are asking for support in a fellowship application or asking about the availability of a grant funding position.
 
-Openings for postdocs without their own funding fluctuate based on the availability of grant funds. Please include the phrase "Codeword Pineapple" in the subject line of your e-mail [when e-mailing Prof. Schnable](https://agronomy.unl.edu/schnable).
-<br><br>
-Several postdoc fellowship programs are available within the USA:
+# Funded Positions
 
-* The [Plant Genome Postdoc Fellowship offered by the National Science Foundation](https://new.nsf.gov/funding/opportunities/postdoctoral-research-fellowships-biology-prfb) as part of their Postdoctoral Research Fellowships in Biology program.
+Our home university does not provide any baseline funding for graduate positions, nor do we have access to teaching assistant positions to support graduate students. Openings for funded positions fluctuate based on our lab's success in winning federal awards as well as the timing of current lab members getting hired for their next (and better) jobs. 
 
-* The [USDA NIFA postdoc fellowship program](https://www.nifa.usda.gov/sites/default/files/resources/FY-2020-EWD-FAQ-Predocs-Postdocs.pdf). This link describes both pre-doc (grad student) and postdoc fellowship programs.
+I know writing cold e-mails is hard. Most of them don't get answers. Most of the answers you'll receive are "I don't have funding." At the same time, the sad reality is that our lab receives far more applications from people hoping to be hired as graduate research assistants than we have capacity to review in detail. Things you can do to make your e-mail stand out:
 
-# PhD Student Positions
+* Easiest: Make it clear you did background research before writing your e-mail. One of the simplest ways to do this is to include the phrase "Codeword Pineapple" in the subject line of your e-mail [when e-mailing Prof. Schnable](https://agronomy.unl.edu/schnable) which shows you read through our website and found this sentence.
 
-The Schnable Lab currently accepts PhD students through two PhD programs: [Complex Biosystems](https://cbio.unl.edu/) (Integrated Plant Biology) and [Agronomy and Horticulture](https://agronomy.unl.edu/graduate-programs) (Plant Breeding and Genetics). If you apply to either program and are interested in joining our lab, send Prof. Schnable an e-mail after you submit to let him know to look for your application in the online system.
-<br><br>
-If you are interested in discussing the potential to do graduate research in the lab before applying including both potential funding sources and potential research projects you can e-mail Prof. Schnable including the phrase "Codeword Pineapple" in the subject of your e-mail. Read more about [ongoing projects in the lab](/research/).
-<br><br>
-Several PhD fellowship programs are available within the USA:
-* National Science Foundation [Graduate Research Fellowship](https://www.nsfgrfp.org/). US Citizens and Permanent Residents. You can apply for this your last year of college/undergrad.
-* Foundation for Food and Agricultural Research [Fellows Program](https://ffarfellows.org/). Open to PhD students regardless of citizenship. You can apply for this the year before you join the lab, whether you are completing your undergraduate degree or masters degree.
+* If you have a reason you're interested specifically in coming to our lab, whatever that reason might be, mention that. 
+
+* If you've already talked to a current or former lab member about our lab's culture/research focus, mention that. 
+
+* None of our graduate programs currently require the GRE to apply. However, if you HAVE taken the GRE, mention that you have and your scores prominently in the e-mail. 
+
+* If you've worked with or know a collaborator, co-author, or current/former trainee in the lab, mention that. *Important corollary, if you've already met Prof. Schnable, remind him when and in what context when you send the e-mail.*
 
 # Opportunities for Undergraduates
 
 The Schnable Lab is always recruiting promising undergraduates who either wish to gain experience in computational or molecular biology techniques working as paid assistants on existing research projects, or who wish to develop and carry out independent research projects within our areas of investigation through the [University of Nebraska's UCARE program](https://ucare.unl.edu/apply-ucare).
-<br><br>
-During the summer the lab also hosts undergraduates through two [NSF Research Experience for Undergraduate programs](https://www.unl.edu/summerprogram/home): Bioenergy Systems and Plant and Microbiome. Selection for both of these programs is performed by a committee, but if you are really interested in specifically working in the Schnable Lab, send an e-mail to Professor Schnable after you submit your application talking about why you'd like to work with us.
