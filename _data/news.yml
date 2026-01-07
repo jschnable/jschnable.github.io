@@ -1,3 +1,15 @@
+- date: '2026-01-05'
+  title: Welcome New Lab Members!
+  summary: "Welcome, [Ryleigh Kirby](/peoplepages/RyleighK/), [Surya Krishna Sakthivel](/peoplepages/SuryaK/),
+    and [Hira Aslam](/peoplepages/HiraA/). Hira joins us as a visiting PhD student from Pakistan who
+    is studying the regulation of seed mineral content in maize. Surya is a rotating graduate student
+    figuring out how to optimize maize photosynthesis using genomes of crop wild relatives. Ryleigh
+    joined our lab as a high school student, continued as an undergrad, and is now a PhD student
+    integrating high throughput leaf phenotyping with undergraduate science education."
+  people:
+    - /peoplepages/RyleighK/
+    - /peoplepages/SuryaK/
+    - /peoplepages/HiraA/
 - date: '2025-10-21'
   title: Genomes to fields harvesting 
   summary: We are pleased to have completed our Genome to Fields Harvesting and look forward to the next steps. 
@@ -5,10 +17,16 @@
   title: Grower committee presentation
   summary: Jensina Davis presented to the National Corn Growers Association grower
     committee meetings.
+  people:
+    - /peoplepages/Jensina/
 - date: '2024-01-22'
   title: Plant and Animal Genome conference talks
   summary: Vladimir Torres, Nikee Shrestha, and Jensina Davis gave talks at PAG 2024
     in San Diego.
+  people:
+    - /peoplepages/Vlad/
+    - /peoplepages/Nikee/
+    - /peoplepages/Jensina/
 - date: '2024-02-12'
   title: Maize Genome Conference presentations
   summary: The lab delivered talks and posters at the maize genome conference in Raleigh,
@@ -16,13 +34,19 @@
 - date: '2024-03-15'
   title: Hongyu Jin paper accepted
   summary: Hongyu Jin’s first-author manuscript as a lab member was accepted for publication.
+  people:
+    - /peoplepages/Hongyu_Jin/
 - date: '2024-03-22'
   title: Michael Tross defends PhD
   summary: Congratulations to Dr. Michael Tross on defending his PhD thesis.
+  people:
+    - /peoplepages/Michael_Tross/
 - date: '2024-04-08'
   title: Harshita Mangal wins symposium awards
   summary: Harshita Mangal earned lightning talk and poster awards at the 2024 Corteva-Nebraska
     Plant Science Symposium.
+  people:
+    - /peoplepages/HarshitaM/
 - date: '2024-04-12'
   title: Nebraska Plant Science Symposium talks
   summary: Lab members presented talks and posters at the 2024 Nebraska Plant Science
@@ -30,61 +54,95 @@
 - date: '2024-04-20'
   title: James Schnable reaches 10K citations
   summary: Dr. Schnable surpassed 10,000 Google Scholar citations.
+  people:
+    - /peoplepages/jschnable/
 - date: '2024-04-28'
   title: Zhongjie Ji named Heuermann scholar
   summary: Zhongjie Ji joined the lab as the UNL-PSI Heuermann postdoctoral scholar.
+  people:
+    - /peoplepages/ZhongjieJ/
 - date: '2024-05-10'
   title: Michael Tross profiled on AI for agriculture
   summary: Midwest Messenger highlighted Michael Tross’s work on AI for agriculture.
+  people:
+    - /peoplepages/Michael_Tross/
 - date: '2024-05-15'
   title: Hongyu Jin defends PhD
   summary: Congratulations to Dr. Hongyu Jin on a successful PhD defense.
+  people:
+    - /peoplepages/Hongyu_Jin/
 - date: '2024-05-18'
   title: UNL recognition for supporting postdocs
   summary: Dr. Schnable was honored by UNL for supporting diverse postdoctoral projects
     and skills.
+  people:
+    - /peoplepages/jschnable/
 - date: '2024-05-25'
   title: Schnable Lab turns ten
   summary: The lab marked its tenth anniversary with the James Schnable Fest.
+  people:
+    - /peoplepages/jschnable/
 - date: '2024-06-05'
   title: Harshita Mangal hits one-year milestone
   summary: Congratulations to Harshita Mangal on one year with the lab.
+  people:
+    - /peoplepages/HarshitaM/
 - date: '2024-06-20'
   title: Zhongjie Ji seminar on canopy modeling
   summary: Zhongjie Ji presented “Advanced Canopy Architecture Modeling in Maize”
     for the CROPS seminar series.
+  people:
+    - /peoplepages/ZhongjieJ/
 - date: '2024-07-05'
   title: Corn gene discovery celebration
   summary: Prof. Vladimir Torres-Rodriguez led a discovery of a new corn gene with
     promising applications.
+  people:
+    - /peoplepages/Vlad/
 - date: '2024-07-10'
   title: Ryleigh Grove earns summer stipend
-  summary: Ryleigh Grove received support for a summer research project at UNL.
+  summary: "[Ryleigh Grove](/peoplepages/RyleighK/) (now Ryleigh Kirby) received support for a summer research project at UNL."
+  people:
+    - /peoplepages/RyleighK/
 - date: '2024-07-15'
   title: Rossy Bedolla joins as office associate
   summary: Rossy Bedolla joined the lab as the new office associate.
+  people:
+    - /peoplepages/Rossy/
 - date: '2024-07-22'
   title: Karla Cuéllar internship underway
   summary: Karla Cuéllar started her internship with the Schnable Lab.
+  people:
+    - /peoplepages/KarlaC2/
 - date: '2024-07-28'
   title: Ramesh Kanna defends MSc
   summary: Congratulations to Ramesh Kanna on a successful MSc defense.
+  people:
+    - /peoplepages/Ramesh/
 - date: '2024-08-08'
   title: MS student Sofiya Arora joins the lab
   summary: The lab welcomed MS student Sofiya Arora.
+  people:
+    - /peoplepages/Sofiya/
 - date: '2024-08-15'
   title: Khang Hoang joins as visiting scientist
   summary: Welcome to Dr. Khang Hoang, visiting scientist collaborating with the lab.
 - date: '2024-08-22'
   title: Nikee Shrestha passes candidacy exam
   summary: Nikee Shrestha advanced to candidacy in the PhD program.
+  people:
+    - /peoplepages/Nikee/
 - date: '2024-09-04'
   title: Nebraska Corn Checkoff Presidential Chair
   summary: Dr. Schnable was named the Nebraska Corn Checkoff Presidential Chair.
+  people:
+    - /peoplepages/jschnable/
 - date: '2024-09-12'
   title: Niranjan Pokhrel rotation
   summary: PhD student Niranjan Pokhrel began a Complex Biosystems rotation with the
     lab.
+  people:
+    - /peoplepages/Niranjan/
 - date: '2024-09-18'
   title: Digital twin grant secured
   summary: The lab earned a grant to develop a digital twin of cornfields for hybrid
@@ -95,10 +153,15 @@
 - date: '2024-10-05'
   title: CSU Plant Adaptation Symposium talk
   summary: Dr. Schnable presented recent lab work at the CSU Plant Adaptation Symposium.
+  people:
+    - /peoplepages/jschnable/
 - date: '2024-10-12'
   title: Alumni engagement weekend
   summary: Alumni Dr. Zhikai Liang and Dr. Deniz İştipliler shared career journeys
     with the team.
+  people:
+    - /peoplepages/zliang/
+    - /peoplepages/Deniz_Istipiller/
 - date: '2024-10-15'
   title: Conference doubleheader at MLCAS and IPPS8
   summary: The lab presented research at MLCAS 2024 and IPPS8 2024.
@@ -111,18 +174,26 @@
 - date: '2024-10-25'
   title: Jensina Davis advances to candidacy
   summary: Congratulations to Jensina Davis on advancing to PhD candidacy.
+  people:
+    - /peoplepages/Jensina/
 - date: '2024-11-10'
   title: Precision agriculture lecture at SDSU
   summary: Prof. Schnable delivered the Distinguished Lecture in Precision Agriculture
     at South Dakota State University.
+  people:
+    - /peoplepages/jschnable/
 - date: '2024-11-16'
   title: ARPA-E Summit keynote
   summary: Prof. Schnable addressed the ARPA-E Agricultural Portfolio Summit in San
     Antonio, Texas.
+  people:
+    - /peoplepages/jschnable/
 - date: '2024-11-22'
   title: Fangyi Li defends PhD
   summary: Dr. Fangyi Li defended her Complex Biosystems PhD thesis on photosynthesis
     and cold tolerance.
+  people:
+    - /peoplepages/FangyiLi/
 - date: '2024-12-15'
   title: Celebrating a productive 2024
   summary: The lab thanked collaborators and celebrated shared successes to close
@@ -134,10 +205,14 @@
   title: Satellite phenotyping spotlight
   summary: Nikee Shrestha’s USDA NIFA-supported project on satellite-based corn phenotyping
     was featured in Plant People Planet.
+  people:
+    - /peoplepages/Nikee/
 - date: '2025-01-24'
   title: PAG 2025 invited talk
   summary: Dr. James Schnable delivered an invited talk on scaling trait discovery
     at the PAG Conference.
+  people:
+    - /peoplepages/jschnable/
 - date: '2025-01-28'
   title: New preprint on yield plasticity
   summary: The lab released “Assessing the impact of yield plasticity on hybrid performance
@@ -150,6 +225,9 @@
   title: Nature Genetics publication
   summary: Drs. Vladimir Torres-Rodriguez and Guangchao Sun contributed to a Nature
     Genetics paper.
+  people:
+    - /peoplepages/Vlad/
+    - /peoplepages/Guangchao_Sun/
 - date: '2025-03-08'
   title: Nebraska Plant Science Symposium contributions
   summary: Lab members contributed to discussions on advancing plant science research
@@ -162,14 +240,21 @@
   title: Nebraska Sorghum Symposium presentation
   summary: Dr. Schnable shared the lab’s latest sorghum research at the Nebraska Sorghum
     Symposium in Grand Island.
+  people:
+    - /peoplepages/jschnable/
 - date: '2025-03-18'
   title: Baker Plant Breeding Symposium talk
   summary: Dr. James Schnable presented on scaling trait discovery at the Baker Plant
     Breeding Symposium.
+  people:
+    - /peoplepages/jschnable/
 - date: '2025-03-21'
   title: ARPA-E Summit representation
   summary: Jon Turkus and Chidu Ullagaddi highlighted the lab’s ARPA-E project at
     the 2025 ARPA-E Summit in Washington, DC.
+  people:
+    - /peoplepages/JonT/
+    - /peoplepages/Chidu/
 - date: '2025-03-24'
   title: Schnable Lab at ASPB Midwest 2025
   summary: Undergraduates, graduate students, and postdocs represented the lab at
@@ -177,6 +262,8 @@
 - date: '2025-03-28'
   title: Deniz İştipliler returns for seminar
   summary: Dr. Deniz İştipliler visited UNL to discuss efficient water use in agriculture.
+  people:
+    - /peoplepages/Deniz_Istipiller/
 - date: '2025-04-08'
   title: 2025 planting season begins
   summary: The team kicked off planting season with new experiments and ongoing field
@@ -185,26 +272,40 @@
   title: Heuermann Award for Jensina Davis
   summary: Jensina Davis earned a Heuermann Award from the Center for Plant Science
     Innovation.
+  people:
+    - /peoplepages/Jensina/
 - date: '2025-06-05'
   title: Sorghum flowering paper published
   summary: Harshita Mangal and collaborators published “Genes and pathways determining
     flowering time variation in temperate-adapted sorghum.”
+  people:
+    - /peoplepages/HarshitaM/
 - date: '2025-07-16'
   title: Hardin fellowship for Jensina Davis
   summary: Jensina Davis received the Hardin Distinguished Graduate Fellowship Award
     from UNL’s Agricultural Research Division.
+  people:
+    - /peoplepages/Jensina/
 - date: '2025-07-18'
   title: Widaman fellowship for Nikee Shrestha
   summary: Nikee Shrestha received the Widaman Distinguished Graduate Fellowship Award
     from UNL’s Agricultural Research Division.
+  people:
+    - /peoplepages/Nikee/
 - date: '2025-07-20'
   title: Widaman fellowship for Sofiya Arora
   summary: Sofiya Arora received the Widaman Distinguished Graduate Fellowship Award
     from UNL’s Agricultural Research Division.
+  people:
+    - /peoplepages/Sofiya/
 - date: '2025-08-10'
   title: New graduate cohort joins the lab
   summary: Welcome to PhD candidates Karla Cuéllar and Ozgur Altundas, and MS student
     Hadiya Kounsar—we are thrilled to collaborate with you.
+  people:
+    - /peoplepages/KarlaC2/
+    - /peoplepages/OzgurA/
+    - /peoplepages/HadiyaK/
 - date: '2025-08-20'
   title: Lab gears up for Fall 2025
   summary: The Schnable Lab is excited to start the fall semester with new members
@@ -214,35 +315,63 @@
   summary: 'James Schnable delivered “From Breeder’s Eye to Silicon Eyes: New Tools
     for an Old Challenge” at the 9th International Meeting on Plant Breeding in Piracicaba,
     São Paulo, Brazil.'
+  people:
+    - /peoplepages/jschnable/
 - date: '2025-09-15'
   title: Polish Society keynote on form and function
   summary: 'James Schnable presented “What We Can See, We Can Change: Linking Plant
     Form to Gene Function” at the XII Conference of the Polish Society of Experimental
     Plant Biology in Warsaw.'
+  people:
+    - /peoplepages/jschnable/
 - date: '2025-09-22'
   title: CSA News highlights hyperspectral heterosis study
   summary: "Deniz İştipliler’s paper on how maize hybrid leaf spectra differ from their inbred parents was featured in [CSA News](https://www.sciencesocieties.org/publications/csa-news/2025/october/leaf-spectra-maize-hybrid-vigor)."
+  people:
+    - /peoplepages/Deniz_Istipiller/
 - date: '2025-10-10'
   title: Trio presents at Nebraska Plant Science Symposium
   summary: Jensina Davis, Harshita Mangal, and Sofiya Arora each presented research at the University of Nebraska Plant Science Symposium.
+  people:
+    - /peoplepages/Jensina/
+    - /peoplepages/HarshitaM/
+    - /peoplepages/Sofiya/
 - date: '2025-10-15'
   title: Berkeley seminar on plant and microbial biology
   summary: Prof. Schnable presented to the Department of Plant and Microbial Biology at the University of California, Berkeley.
+  people:
+    - /peoplepages/jschnable/
 - date: '2025-10-24'
   title: Ozgur Altundas earns Agronomy Elevator Pitch award
-  summary: Ozgur Altundas won second prize at the UNL Agronomy Elevator Pitch competition.
+  summary: "[Ozgur Altundas](/peoplepages/OzgurA/) won second prize at the UNL Agronomy Elevator Pitch competition."
+  people:
+    - /peoplepages/OzgurA/
 - date: '2025-10-27'
   title: Hackathon wins at Bayer Agriculture Data
-  summary: "Ryleigh Kirby, Harshita Mangal, Sofiya Arora, Jensina Davis, Hadiya Kounsar, Ozgur Altundas, Amany Gomaa, and Karla Cuéllar joined the Bayer Agriculture Data Hackathon, where Sofiya's team won first place, Hadiya and Ryleigh's team took second, Jensina's team placed third, and Ozgur's team earned the social engagement award."
+  summary: "[Ryleigh Kirby](/peoplepages/RyleighK/), [Harshita Mangal](/peoplepages/HarshitaM/), [Sofiya Arora](/peoplepages/Sofiya/), [Jensina Davis](/peoplepages/Jensina/), [Hadiya Kounsar](/peoplepages/HadiyaK/), [Ozgur Altundas](/peoplepages/OzgurA/), [Amany Gomaa](/peoplepages/Amany/), and [Karla Cuéllar](/peoplepages/KarlaC2/) joined the Bayer Agriculture Data Hackathon, where Sofiya's team won first place, Hadiya and Ryleigh's team took second, Jensina's team placed third, and Ozgur's team earned the social engagement award."
+  people:
+    - /peoplepages/RyleighK/
+    - /peoplepages/HarshitaM/
+    - /peoplepages/Sofiya/
+    - /peoplepages/Jensina/
+    - /peoplepages/HadiyaK/
+    - /peoplepages/OzgurA/
+    - /peoplepages/Amany/
+    - /peoplepages/KarlaC2/
 - date: '2025-10-30'
   title: TPJ Outstanding Paper award for Vladimir Torres-Rodríguez
-  summary: "Vladimir Torres-Rodríguez and co-authors received The Plant Journal’s SEB-Wiley Outstanding Original Article award for 2024 honoring their paper [*Population-level gene expression can repeatedly link genes to functions in maize*](https://doi.org/10.1111/tpj.16801)."
+  summary: "[Vladimir Torres-Rodríguez](/peoplepages/Vlad/) and co-authors received The Plant Journal’s SEB-Wiley Outstanding Original Article award for 2024 honoring their paper [*Population-level gene expression can repeatedly link genes to functions in maize*](https://doi.org/10.1111/tpj.16801)."
+  people:
+    - /peoplepages/Vlad/
 - date: '2025-11-04'
   title: Jonathan Turkus Wins 2025 Outstanding Employee Award
-  summary: "We are thrilled to celebrate Jonathan Turkus, our exceptional Lab Manager at the Schnable Lab, for being named the recipient of the 2025 Outstanding Employee Award by the Institute of Agriculture and Natural Resources at the University of Nebraska. Jonathan’s dedication, leadership, and unwavering commitment to excellence have made a lasting impact on our lab and the community. His tireless efforts and positive spirit inspire us all, and we are incredibly proud to see his contributions recognized at such a prestigious level. Congratulations, Jon — this honor is so well deserved."
-- date: '2025-11-14'
-  title: 15th Annual Plant Sciences Symposium
-  summary: "Ozgur Altundas, our PhD student, participated in the 15th Annual Plant Sciences Symposium at the University of Wisconsin–Madison, themed “Bridging the Plant Sciences: Our Collaborative Future in Research."
-- date: '2025-12-23'
-  title: Happy Holidays from the Schnable Lab!
-  summary: "As we wrap up another year of discovery, innovation, and collaboration, we extend our warmest wishes to our colleagues, partners, and the scientific community. May your holidays be restful and inspiring. We look forward to another year of advancing plant science together in 2026!"
+  summary: "We are thrilled to celebrate [Jonathan Turkus](/peoplepages/JonT/), our exceptional Lab Manager at the Schnable Lab, for being named the recipient of the 2025 Outstanding Employee Award by the Institute of Agriculture and Natural Resources at the University of Nebraska. Jonathan’s dedication, leadership, and unwavering commitment to excellence have made a lasting impact on our lab and the community. His tireless efforts and positive spirit inspire us all, and we are incredibly proud to see his contributions recognized at such a prestigious level. Congratulations, Jon — this honor is so well deserved."
+  people:
+    - /peoplepages/JonT/
+- date: '2025-12-03'
+  title: UNL graduate fellowship honors for lab students
+  summary: "Three students in our lab were honored as UNL graduate fellowship recipients. Congratulations to [Jensina Davis](/peoplepages/Jensina/) (Hardin Fellow), [Nikee Shrestha](/peoplepages/Nikee/), and [Sofiya Arora](/peoplepages/Sofiya/) (Widaman Fellows)."
+  people:
+    - /peoplepages/Jensina/
+    - /peoplepages/Nikee/
+    - /peoplepages/Sofiya/

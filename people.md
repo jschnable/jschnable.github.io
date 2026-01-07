@@ -32,7 +32,7 @@ Meet the scientists, students, and staff who power discovery in the Schnable Lab
     {% assign safe_name = person.name | escape %}
     <li class="people-card">
       {% if person_url %}<a class="people-card__image-link" href="{{ person_url | relative_url }}" aria-label="View profile for {{ safe_name }}">{% endif %}
-      <img class="people-card__image" src="{{ portrait | relative_url }}" alt="{{ safe_name }}" />
+      <img class="people-card__image" src="{{ portrait | relative_url }}" alt="{{ safe_name }}" loading="lazy" decoding="async" />
       {% if person_url %}</a>{% endif %}
       <h3 class="people-card__name">
         {% if person_url %}<a href="{{ person_url | relative_url }}">{{ safe_name }}</a>{% else %}{{ safe_name }}{% endif %}
