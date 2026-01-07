@@ -1147,9 +1147,9 @@
   - name: Mural RV
     member_id: mural-ravi
   - name: Xu G
-  - name: Turkus
-  - name: J
-  - name: Yang Jinliang
+  - name: Turkus J
+    member_id: turkus-jon
+  - name: Yang J
   - name: Schnable JC
     member_id: schnable-james
   status: published
