@@ -11,7 +11,8 @@
     - /peoplepages/SuryaK/
     - /peoplepages/HiraA/
 - date: '2025-10-21'
-  title: End of the 2025 field season 
+  title: End of the 2025 field season
+  image: /images/News_Images/EndOfHarvest.jpeg
   summary: Thank you to everyone from our lab, and our collaborators in the Benson and Kim labs, who showed up on a cold Saturday morning to complete the hand harvest of our lab field for 2025. Now time to start planning 2026 fields. 
 - date: '2024-01-22'
   title: Plant and Animal Genome 2024
@@ -274,6 +275,26 @@
     flowering time variation in temperate-adapted sorghum.”
   people:
     - /peoplepages/HarshitaM/
+- date: '2025-06-08'
+  title: Corteva genotyping tour and lab visit
+  image: /images/News_Images/CortevaVisit.jpeg
+  summary: "Michael Tross, who earned his PhD in Plant Science in our lab and now works as an AI data scientist at Corteva, arranged for nearly the entire lab to drive from Lincoln to Johnston to talk science with Corteva researchers and tour their impressive high-throughput genotyping facilities."
+  people:
+    - /peoplepages/Michael_Tross/
+- date: '2025-07-01'
+  title: Plants People Planet cover feature
+  image: /images/News_Images/PlantsPlanetPeopleCover.jpeg
+  summary: "Michael Tross and a paper led by Nikee Shrestha are featured on the cover of *Plants, People, Planet*. Read the [cover write-up](https://nph.onlinelibrary.wiley.com/doi/10.1002/ppp3.10528), which links to the paper."
+  people:
+    - /peoplepages/Michael_Tross/
+    - /peoplepages/Nikee/
+- date: '2025-07-14'
+  title: Bayer Crop Science campus talk
+  image: /images/News_Images/BayerTalk.jpeg
+  summary: "James Schnable gave a talk at Bayer’s main Crop Science campus in St. Louis. He caught up with lab alum [Chenyong Miao](/peoplepages/Chenyong_Miao/), now a genomic data scientist at Bayer, and briefly met Bayer CEO Bill Anderson (in passing, in an elevator) during the visit."
+  people:
+    - /peoplepages/jschnable/
+    - /peoplepages/Chenyong_Miao/
 - date: '2025-07-16'
   title: Hardin fellowship for Jensina Davis
   summary: Jensina Davis received the Hardin Distinguished Graduate Fellowship Award
@@ -292,6 +313,14 @@
     from UNL’s Agricultural Research Division.
   people:
     - /peoplepages/Sofiya/
+- date: '2025-07-22'
+  title: Corteva New Frontiers symposium
+  image: /images/News_Images/CortevaConference.jpg
+  summary: "Jensina Davis, Sofiya Arora, and James Schnable were invited attendees and presenters at the Corteva-organized New Frontiers symposium in Johnston, Iowa."
+  people:
+    - /peoplepages/Jensina/
+    - /peoplepages/Sofiya/
+    - /peoplepages/jschnable/
 - date: '2025-08-10'
   title: New graduate cohort joins the lab
   summary: Welcome to PhD candidates Karla Cuéllar and Ozgur Altundas, and MS student
@@ -300,12 +329,13 @@
     - /peoplepages/KarlaC2/
     - /peoplepages/OzgurA/
     - /peoplepages/HadiyaK/
-- date: '2025-08-20'
-  title: Lab gears up for Fall 2025
-  summary: The Schnable Lab is excited to start the fall semester with new members
-    and fresh research directions.
+- date: '2025-08-15'
+  title: Ha Truyen presents summer research
+  image: /images/News_Images/HaSummerResearchTalk.jpeg
+  summary: "Ha Truyen, a summer high school researcher in our lab, presented her project on identifying genes with opposite effects on flowering time in Nebraska and Michigan at the Nebraska Summer Research Symposium."
 - date: '2025-09-12'
   title: International Meeting on Plant Breeding talk
+  image: /images/News_Images/BrazilTalk.jpeg
   summary: 'James Schnable delivered “From Breeder’s Eye to Silicon Eyes: New Tools
     for an Old Challenge” at the 9th International Meeting on Plant Breeding in Piracicaba,
     São Paulo, Brazil.'
@@ -313,6 +343,7 @@
     - /peoplepages/jschnable/
 - date: '2025-09-15'
   title: Polish Society keynote on form and function
+  image: /images/News_Images/PolandTalk.jpeg
   summary: 'James Schnable presented “What We Can See, We Can Change: Linking Plant
     Form to Gene Function” at the XII Conference of the Polish Society of Experimental
     Plant Biology in Warsaw.'
@@ -320,23 +351,29 @@
     - /peoplepages/jschnable/
 - date: '2025-09-22'
   title: CSA News highlights hyperspectral heterosis study
+  image: /images/News_Images/DenizCSA.jpg
   summary: "Deniz İştipliler’s paper on how maize hybrid leaf spectra differ from their inbred parents was featured in [CSA News](https://www.sciencesocieties.org/publications/csa-news/2025/october/leaf-spectra-maize-hybrid-vigor)."
   people:
     - /peoplepages/Deniz_Istipiller/
+- date: '2025-10-05'
+  title: NCSU Genetics and Genomics Academy seminar
+  image: /images/News_Images/NCSUTalk.jpeg
+  summary: "James Schnable was invited to deliver a seminar for the North Carolina State Genetics and Genomics Academy. While there, he caught up with lab alumni [Nate Korth](/peoplepages/NateKorth/) (now a postdoc with Joe Gage) and [Lina Lopez](/peoplepages/LinaLopez/) (now a field manager with Jim Holland)."
+  people:
+    - /peoplepages/jschnable/
+    - /peoplepages/NateKorth/
+    - /peoplepages/LinaLopez/
 - date: '2025-10-10'
   title: Trio presents at Nebraska Plant Science Symposium
+  image: /images/News_Images/PSI_Conference.jpg
   summary: Jensina Davis, Harshita Mangal, and Sofiya Arora each presented research at the University of Nebraska Plant Science Symposium.
   people:
     - /peoplepages/Jensina/
     - /peoplepages/HarshitaM/
     - /peoplepages/Sofiya/
-- date: '2025-10-15'
-  title: Berkeley seminar on plant and microbial biology
-  summary: Prof. Schnable presented to the Department of Plant and Microbial Biology at the University of California, Berkeley.
-  people:
-    - /peoplepages/jschnable/
 - date: '2025-10-24'
   title: Ozgur Altundas earns Agronomy Elevator Pitch award
+  image: /images/News_Images/OzgurElevator.jpeg
   summary: "[Ozgur Altundas](/peoplepages/OzgurA/) won second prize at the UNL Agronomy Elevator Pitch competition."
   people:
     - /peoplepages/OzgurA/
