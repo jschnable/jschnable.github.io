@@ -161,7 +161,7 @@ def main() -> None:
   for web_path in web_paths:
     source_rel = web_path.lstrip("/")
     source_file = (REPO_ROOT / source_rel).resolve()
-    if not source_file.exists():
+    if not source_file.exists() or source_file.is_dir():
       continue
     dest_file = OUTPUT_DIR / Path(source_rel).relative_to("images")
     suffix = source_file.suffix.lower()
