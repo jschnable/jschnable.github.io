@@ -1,5 +1,5 @@
 - date: '2026-01-05'
-  title: Welcome New Lab Members!
+  title: New students join for spring 2026
   summary: "Welcome, [Ryleigh Kirby](/peoplepages/RyleighK/), [Surya Krishna Sakthivel](/peoplepages/SuryaK/),
     and [Hira Aslam](/peoplepages/HiraA/). Hira joins us as a visiting PhD student from Pakistan who
     is studying the regulation of seed mineral content in maize. Surya is a rotating graduate student
@@ -11,7 +11,7 @@
     - /peoplepages/SuryaK/
     - /peoplepages/HiraA/
 - date: '2025-10-21'
-  title: End of the 2025 field season
+  title: Wrapping up our 2026 field season
   image: /images/News_Images/EndOfHarvest.jpeg
   summary: Thank you to everyone from our lab, and our collaborators in the Benson and Kim labs, who showed up on a cold Saturday morning to complete the hand harvest of our lab field for 2025. Now time to start planning 2026 fields. 
 - date: '2024-01-22'
@@ -37,23 +37,14 @@
   people:
     - /peoplepages/Michael_Tross/
 - date: '2024-04-08'
-  title: Harshita Mangal wins symposium awards
+  title: Harshita wins two awards at NPSS
   summary: Harshita Mangal earned lightning talk and poster awards at the 2024 Corteva-Nebraska
     Plant Science Symposium.
   people:
     - /peoplepages/HarshitaM/
-- date: '2024-04-12'
-  title: Nebraska Plant Science Symposium talks
-  summary: Lab members presented talks and posters at the 2024 Nebraska Plant Science
-    Symposium.
-- date: '2024-04-20'
-  title: James Schnable reaches 10K citations
-  summary: Dr. Schnable surpassed 10,000 Google Scholar citations.
-  people:
-    - /peoplepages/jschnable/
 - date: '2024-04-28'
   title: Zhongjie Ji named Heuermann scholar
-  summary: Zhongjie Ji joined the lab as the UNL-PSI Heuermann postdoctoral scholar.
+  summary: Zhongjie Ji, a graduate of our collaborator Addie Thompson's lab at MSU, joined our lab as a UNL-PSI Heuermann postdoctoral scholar focused on plant phenotyping.
   people:
     - /peoplepages/ZhongjieJ/
 - date: '2024-05-10'
@@ -250,29 +241,21 @@
   people:
     - /peoplepages/JonT/
     - /peoplepages/Chidu/
-- date: '2025-03-24'
-  title: Schnable Lab at ASPB Midwest 2025
-  summary: Undergraduates, graduate students, and postdocs represented the lab at
-    ASPB Midwest 2025.
 - date: '2025-03-28'
   title: Deniz İştipliler returns for seminar
-  summary: Dr. Deniz İştipliler visited UNL to discuss efficient water use in agriculture.
+  summary: Dr. Deniz İştipliler, a former scientist in our lab, now a professor at Ege University in Turkey, returned to UNL as part of the Agronomy and Horticulture Seminar Series, discussing his work optimizing agricultural water use efficiency.
   people:
     - /peoplepages/Deniz_Istipiller/
-- date: '2025-04-08'
-  title: 2025 planting season begins
-  summary: The team kicked off planting season with new experiments and ongoing field
-    trials.
 - date: '2025-05-15'
-  title: Heuermann Award for Jensina Davis
-  summary: Jensina Davis earned a Heuermann Award from the Center for Plant Science
-    Innovation.
+  title: Jensina wins another fellowship
+  summary: Jensina Davis was selected for a Heuermann Award by the Center for Plant Science Innovation.
+    The fellowship is awarded excellence in plant science research and potential impact on the field subsequent to graduation.
   people:
     - /peoplepages/Jensina/
 - date: '2025-06-05'
-  title: Sorghum flowering paper published
-  summary: Harshita Mangal and collaborators published “Genes and pathways determining
-    flowering time variation in temperate-adapted sorghum.”
+  title: Sorghum TWAS Published
+  summary: “Genes and pathways determining
+    flowering time variation in temperate-adapted sorghum,” our lab's first sorghum TWAS paper was published in TPJ. Congratulations to lead author Harshita Mangal and the whole team who made this happen.
   people:
     - /peoplepages/HarshitaM/
 - date: '2025-06-08'
@@ -295,24 +278,6 @@
   people:
     - /peoplepages/jschnable/
     - /peoplepages/Chenyong_Miao/
-- date: '2025-07-16'
-  title: Hardin fellowship for Jensina Davis
-  summary: Jensina Davis received the Hardin Distinguished Graduate Fellowship Award
-    from UNL’s Agricultural Research Division.
-  people:
-    - /peoplepages/Jensina/
-- date: '2025-07-18'
-  title: Widaman fellowship for Nikee Shrestha
-  summary: Nikee Shrestha received the Widaman Distinguished Graduate Fellowship Award
-    from UNL’s Agricultural Research Division.
-  people:
-    - /peoplepages/Nikee/
-- date: '2025-07-20'
-  title: Widaman fellowship for Sofiya Arora
-  summary: Sofiya Arora received the Widaman Distinguished Graduate Fellowship Award
-    from UNL’s Agricultural Research Division.
-  people:
-    - /peoplepages/Sofiya/
 - date: '2025-07-22'
   title: Corteva New Frontiers symposium
   image: /images/News_Images/CortevaConference.jpg
@@ -322,15 +287,16 @@
     - /peoplepages/Sofiya/
     - /peoplepages/jschnable/
 - date: '2025-08-10'
-  title: New graduate cohort joins the lab
+  title: New graduate students join in Fall 2025
   summary: Welcome to PhD candidates Karla Cuéllar and Ozgur Altundas, and MS student
-    Hadiya Kounsar—we are thrilled to collaborate with you.
+    Hadiya Kounsar. Karla is a returning lab member having worked with us twice as a visiting undergraduate. 
+    Ozgur is a former student of Caner Yavuz, a former lab member who now works as an assistant professor in Turkey.
   people:
     - /peoplepages/KarlaC2/
     - /peoplepages/OzgurA/
     - /peoplepages/HadiyaK/
 - date: '2025-08-15'
-  title: Ha Truyen presents summer research
+  title: High School Student Research Presentation
   image: /images/News_Images/HaSummerResearchTalk.jpeg
   summary: "Ha Truyen, a summer high school researcher in our lab, presented her project on identifying genes with opposite effects on flowering time in Nebraska and Michigan at the Nebraska Summer Research Symposium."
 - date: '2025-09-12'
@@ -342,43 +308,42 @@
   people:
     - /peoplepages/jschnable/
 - date: '2025-09-15'
-  title: Polish Society keynote on form and function
+  title: Presentation at PSEPB in Warsaw PolandP
   image: /images/News_Images/PolandTalk.jpeg
-  summary: 'James Schnable presented “What We Can See, We Can Change: Linking Plant
-    Form to Gene Function” at the XII Conference of the Polish Society of Experimental
-    Plant Biology in Warsaw.'
+  summary: 'James Schnable was one of the keynote speakers at the 12th Conference of the Polish Society of Experimental
+    Plant Biology. His host was Marcin Grzybowski, a former postdoc in our lab, now an assistant professor at the University of Warsaw where the conference was held.'
   people:
     - /peoplepages/jschnable/
 - date: '2025-09-22'
-  title: CSA News highlights hyperspectral heterosis study
+  title: CSA News Highlight
   image: /images/News_Images/DenizCSA.jpg
-  summary: "Deniz İştipliler’s paper on how maize hybrid leaf spectra differ from their inbred parents was featured in [CSA News](https://www.sciencesocieties.org/publications/csa-news/2025/october/leaf-spectra-maize-hybrid-vigor)."
+  summary: "Deniz İştipliler’s paper on how maize hybrid leaf spectra differ from their inbred parents featured in [CSA News](https://www.sciencesocieties.org/publications/csa-news/2025/october/leaf-spectra-maize-hybrid-vigor)."
   people:
     - /peoplepages/Deniz_Istipiller/
 - date: '2025-10-05'
   title: NCSU Genetics and Genomics Academy seminar
   image: /images/News_Images/NCSUTalk.jpeg
-  summary: "James Schnable was invited to deliver a seminar for the North Carolina State Genetics and Genomics Academy. While there, he caught up with lab alumni [Nate Korth](/peoplepages/NateKorth/) (now a postdoc with Joe Gage) and [Lina Lopez](/peoplepages/LinaLopez/) (now a field manager with Jim Holland)."
+  summary: "James delivers a seminar for the North Carolina State Genetics and Genomics Academy. While there, he had the chance to catch up with two of our successful lab alumni: [Nate Korth](/peoplepages/NateKorth/) (now a postdoc with Joe Gage) and [Lina Lopez](/peoplepages/LinaLopez/) (now a field manager with Jim Holland)."
   people:
     - /peoplepages/jschnable/
     - /peoplepages/NateKorth/
     - /peoplepages/LinaLopez/
 - date: '2025-10-10'
-  title: Trio presents at Nebraska Plant Science Symposium
+  title: Students Presentations at the PSI Plant Science Symposium
   image: /images/News_Images/PSI_Conference.jpg
-  summary: Jensina Davis, Harshita Mangal, and Sofiya Arora each presented research at the University of Nebraska Plant Science Symposium.
+  summary: Jensina Davis, Harshita Mangal, and Sofiya Arora each had the chance to deliver presentations at the 2025 PSI Plant Science Symposium here on campus.
   people:
     - /peoplepages/Jensina/
     - /peoplepages/HarshitaM/
     - /peoplepages/Sofiya/
 - date: '2025-10-24'
-  title: Ozgur Altundas earns Agronomy Elevator Pitch award
+  title: Ozgur Altundas wins Agronomy Elevator Pitch competition
   image: /images/News_Images/OzgurElevator.jpeg
-  summary: "[Ozgur Altundas](/peoplepages/OzgurA/) won second prize at the UNL Agronomy Elevator Pitch competition."
+  summary: "Two short months into his time in our lab, [Ozgur Altundas](/peoplepages/OzgurA/) took home second prize at the UNL Agronomy Elevator Pitch competition."
   people:
     - /peoplepages/OzgurA/
 - date: '2025-10-27'
-  title: Hackathon wins at Bayer Agriculture Data
+  title: UNL-Bayer Hackathon
   image: /images/News_Images/Hackathon.jpg
   summary: "[Ryleigh Kirby](/peoplepages/RyleighK/), [Harshita Mangal](/peoplepages/HarshitaM/), [Sofiya Arora](/peoplepages/Sofiya/), [Jensina Davis](/peoplepages/Jensina/), [Hadiya Kounsar](/peoplepages/HadiyaK/), [Ozgur Altundas](/peoplepages/OzgurA/), [Amany Gomaa](/peoplepages/Amany/), and [Karla Cuéllar](/peoplepages/KarlaC2/) joined the Bayer Agriculture Data Hackathon, where Sofiya's team won first place, Hadiya and Ryleigh's team took second, Jensina's team placed third, and Ozgur's team earned the social engagement award."
   people:
@@ -391,19 +356,19 @@
     - /peoplepages/Amany/
     - /peoplepages/KarlaC2/
 - date: '2025-10-30'
-  title: TPJ Outstanding Paper award for Vladimir Torres-Rodríguez
+  title: TPJ Outstanding Paper Award
   image: /images/News_Images/TPJAward.jpg
-  summary: "[Vladimir Torres-Rodríguez](/peoplepages/Vlad/) received The Plant Journal's Outstanding Original Article award for our 2024 paper [*Population-level gene expression can repeatedly link genes to functions in maize*](https://doi.org/10.1111/tpj.16801)."
+  summary: "[Vladimir Torres-Rodríguez](/peoplepages/Vlad/)'s 2024 paper [*Population-level gene expression can repeatedly link genes to functions in maize*](https://doi.org/10.1111/tpj.16801) has been selected as The Plant Journal's Outstanding Original Article award of 2024."
   people:
     - /peoplepages/Vlad/
 - date: '2025-11-04'
-  title: JonTurkus Wins 2025 Outstanding Employee Award
+  title: JonTurkus Wins the 2025 Outstanding Employee Award
   image: /images/News_Images/TurkusAward.jpg
   summary: "Our exceptional lab manager [Jonathan Turkus](/peoplepages/JonT/) named the 2025 Outstanding Employee. Jon's determination and creativity have made just a big impact not only on our lab, but on groups across the country over the past five years. Congratulations, Jon!"
   people:
     - /peoplepages/JonT/
 - date: '2025-11-24'
-  title: Presenting to Corn Growers
+  title: Nebraska Corn outreach
   image: /images/News_Images/CornBoardPosters.jpg
   summary: "Jensina, Sofiya, and Harshita had the chance to meet with members of the Nebraska Corn Growers Association and talk about their work on lab projects related to crop breeding, optimizing nitrogen use, and using artificial intelligence to study leaf diseases in new ways."
   people:
@@ -411,7 +376,7 @@
     - /peoplepages/Sofiya/
     - /peoplepages/HarshitaM/
 - date: '2025-12-03'
-  title: UNL graduate fellowship honors for lab students
+  title: Three students receive IANR fellowships
   image: /images/News_Images/GradAwards.jpg
   summary: "Three students in our lab were honored as UNL graduate fellowship recipients. Congratulations to [Jensina Davis](/peoplepages/Jensina/) (Hardin Fellow), [Nikee Shrestha](/peoplepages/Nikee/), and [Sofiya Arora](/peoplepages/Sofiya/) (Widaman Fellows)."
   people:
