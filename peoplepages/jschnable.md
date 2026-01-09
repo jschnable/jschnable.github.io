@@ -4,6 +4,8 @@ title: James Schnable
 permalink: /peoplepages/jschnable/
 ---
 
+**Research areas:** Plant Genomics | Phenomics | Quantitative Genetics | Maize | Sorghum
+
 Prof. James Schnable is the Nebraska Corn Checkoff Presidential Chair at the University of Nebraska-Lincoln. His research group focuses on integrating new technologies and capabilities from engineering, computer science, and statistics into maize and sorghum genetic and genomic research.
 
 James received the [Marcus Rhoades Early Career Award for Maize Genetics in 2018](https://www.maizegdb.org/community/awards/maize_past_winners), the [North American Plant Phenotyping Network Early Career Award in 2019](http://nappn.plant-phenotyping.org/early-career-award-2019/), and the [American Society of Plant Biologists Early Career Award in 2019](https://blog.aspb.org/aspb-names-2019-award-recipients/).
