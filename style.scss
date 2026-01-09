@@ -282,6 +282,19 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
+
+.footer-links {
+  margin-top: 10px;
+  font-size: 14px;
+
+  a {
+    color: $gray;
+
+    &:hover {
+      color: $darkGray;
+    }
+  }
+}
 /*//////////////////////////////////////////////////////////////////
 [ FONT ]*/
 
