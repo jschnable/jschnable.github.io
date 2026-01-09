@@ -9,7 +9,7 @@
     {
       "@type": "Person",
       "name": "James Schnable",
-      "description": "Plant biologist and associate professor",
+      "description": "Plant biologist and professor",
       "alternateName": "James C. Schnable",
       "alumniOf": {
         "@type": "CollegeOrUniversity",
@@ -25,11 +25,11 @@
       "gender": "Male",
       "honorificPrefix": "Dr.",
       "honorificSuffix": "PhD",
-      "image": "https://agronomy.unl.edu/images/faculty/SchnableJames_809x1010_0.jpg",
-      "jobTitle": "Associate Professor",
+      "image": "https://schnablelab.org/images/optimized/People_Images/jamesschnable.jpg",
+      "jobTitle": "Professor",
       "nationality": "American",
       "sameAs": [
-        "https://twitter.com/szintri",
+        "https://x.com/szintri",
         "https://scholar.google.com/citations?user=cik4JVYAAAAJ&hl=en"
       ]
     }
@@ -40,9 +40,9 @@
     "addressLocality": "Lincoln",
     "addressRegion": "NE",
     "postalCode": "68588",
-    "addressCountry": "USA"
+    "addressCountry": "US"
   },
   "sameAs": [
-    "https://twitter.com/schnablelab"
+    "https://x.com/schnablelab"
   ]
 }
