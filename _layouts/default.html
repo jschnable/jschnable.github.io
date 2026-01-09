@@ -19,7 +19,12 @@
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" alt="{{ site.name }} logo" /></a>
+          <a href="{{ site.baseurl }}/" class="site-avatar">
+            <picture>
+              <source srcset="/images/optimized/lab_logo_140.webp" type="image/webp">
+              <img src="{{ site.avatar }}" alt="{{ site.name }} logo" width="70" height="60" />
+            </picture>
+          </a>
 
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
