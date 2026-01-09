@@ -14,6 +14,4 @@ James has founded three companies: [Data2Bio](https://www.data2bio.com/) (focuse
 
 James holds a BA in Biology from Cornell University (2008) and a PhD in Plant Biology from UC-Berkeley (2012). From 2013 to 2014 he was an NSF Plant Genome Fellowship-supported postdoctoral scholar at the Danforth Center in St. Louis and the Chinese Academy of Agricultural Sciences in Beijing, China.
 
-[Complete CV](/CVs/JSchnable.pdf)
-
 [Conflict of Interest Disclosure](/peoplepages/coi/)
