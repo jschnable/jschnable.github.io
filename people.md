@@ -5,7 +5,7 @@ title: Schnable Lab Members
 googlefonts: ["Monoton", "Lobster"]
 ---
 
-Meet the scientists, students, and staff who power discovery in the Schnable Lab.
+[Lab Alumni 2014-Present](/alumni)
 
 {% assign category_labels = 'Faculty|Research Staff|Professional Staff|Graduate Students|Undergraduate Researchers|High-school intern' | split: '|' %}
 {% for label in category_labels %}
@@ -77,5 +77,3 @@ Meet the scientists, students, and staff who power discovery in the Schnable Lab
   </ul>
   {% endif %}
 {% endfor %}
-
-[Lab Alumni 2014-Present](/alumni)
