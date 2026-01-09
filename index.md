@@ -10,7 +10,10 @@ bigimg:
 
 <script type="application/ld+json">{% include schema-organization.json %}</script>
 
-![The Schnable Lab](/images/optimized/lab2022_v2.jpg){:width="900" align="middle" }
+<picture>
+  <source srcset="/images/optimized/lab2022_v2_800.webp" type="image/webp">
+  <img src="/images/optimized/lab2022_v2.jpg" alt="The Schnable Lab" width="800" loading="eager">
+</picture>
 
 <div class="hero-banner">
   <h2>Hypothesis-driven research in plant genomics and phenomics</h2>
@@ -29,7 +32,10 @@ Each lab member gains experience coding, building field equipment, running molec
 
 Our alumni are employed as professors at eleven universities across four countries, as research scientists at all three of the major seed companies, and at multiple plant biotechnology startups.
 
-![Alumni map](/images/Alumnitrimmed.png){:width="600" align="middle"}
+<picture>
+  <source srcset="/images/optimized/alumni_map_800.webp" type="image/webp">
+  <img src="/images/Alumnitrimmed.png" alt="Alumni map" width="600" loading="lazy">
+</picture>
 
 ## Recent Lab News
 
@@ -37,7 +43,13 @@ Our alumni are employed as professors at eleven universities across four countri
 <ul class="news-list">
 {% for item in highlights %}
   <li class="news-list__item{% if item.image %} news-list__item--has-image{% endif %}">
-    {% if item.image %}<img src="{{ item.image }}" alt="{{ item.title }}" class="news-list__image" />{% endif %}
+    {% if item.image %}
+      {% assign img_webp = item.image | replace: '.jpg', '_240.webp' | replace: '.jpeg', '_240.webp' | replace: '.png', '_240.webp' %}
+      <picture>
+        <source srcset="{{ img_webp }}" type="image/webp">
+        <img src="{{ item.image }}" alt="{{ item.title }}" class="news-list__image" width="120" height="90" loading="lazy" />
+      </picture>
+    {% endif %}
     <div class="news-list__content">
       <time datetime="{{ item.date | date: '%Y-%m-%d' }}">{{ item.date | date: '%B %d, %Y' }}</time>
       <strong>{{ item.title }}</strong><br />
