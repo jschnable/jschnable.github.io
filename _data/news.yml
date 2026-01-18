@@ -1,3 +1,19 @@
+- date: '2026-01-14'
+  title: PAG Lab Reunion
+  image: /images/News_Images/PAG2026Reunion.jpg
+  summary: "Hit a new record for the number of lab alumni attended: L→R [Sunil K. Kenchanmane Raju](/peoplepages/Sunil_Raju/) (now of UC Riverside), [James Schnable](/peoplepages/jschnable/), [Zhikai Liang](/peoplepages/zliang/) (now of NDSU), [Ravi Mural](/peoplepages/Ravi_Mural/) (now of SDSU), and [Vla Torres-Rodriguez](/peoplepages/Vlad/) (news coming soon)."
+  people:
+    - /peoplepages/Sunil_Raju/
+    - /peoplepages/jschnable/
+    - /peoplepages/zliang/
+    - /peoplepages/Ravi_Mural/
+    - /peoplepages/Vlad/
+- date: '2026-01-13'
+  title: Prof. Schnable featured on The Crop Science Podcast
+  image: /images/News_Images/CropPodcast.jpeg
+  summary: "In [this episode](https://www.wisenetix.co/blog/Corn-Breeding-Advances) of The Crop Science Podcast, [James Schnable](/peoplepages/jschnable/) discusses how genetics, genomics, and machine learning are reshaping modern hybrid development—explaining how breeders use genomic prediction and high-throughput phenotyping to tackle climate variability, stress tolerance, and yield stability."
+  people:
+    - /peoplepages/jschnable/
 - date: '2026-01-05'
   title: New students join for spring 2026
   summary: "Welcome, [Ryleigh Kirby](/peoplepages/RyleighK/), [Surya Krishna Sakthivel](/peoplepages/SuryaK/),
