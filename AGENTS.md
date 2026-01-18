@@ -57,6 +57,76 @@
 - Only edit `_data/lab_authors.yml` if the paper introduces a new lab-affiliated person or a new spelling/initials variant for an existing lab member; external collaborators do not need `member_id`s.
 - After updating the data files, run `python3 scripts/review_lab_authors.py > docs/lab_authors_review.txt` and then `bundle exec jekyll build`; fix any reported issues before committing.
 
+## News Items Workflow
+
+News items are stored in `_data/news.yml` and displayed on the homepage (3 most recent), the news page (6 recent + grouped archive), and the full archive.
+
+### News item schema
+```yaml
+- date: '2025-11-24'           # Required: ISO date format
+  title: Short Descriptive Title  # Required: keep concise
+  image: /images/News_Images/photo.jpg  # Optional: thumbnail image
+  summary: "Description text."  # Required: supports Markdown links
+  people:                      # Optional: lab member page paths
+    - /peoplepages/PersonA/
+    - /peoplepages/PersonB/
+```
+
+### Linking conventions
+
+**Lab members**: Always link lab member names to their people pages using Markdown syntax:
+```yaml
+summary: "[James Schnable](/peoplepages/jschnable/) presented new research..."
+```
+
+**External links**: Embed links directly in the summary text rather than using a separate `link` field:
+```yaml
+# Correct - link embedded in text
+summary: "Read the [full paper](https://doi.org/10.1234/example) in Nature."
+
+# Incorrect - don't use separate link field
+link: https://example.com  # Avoid this pattern
+```
+
+**Example with both**:
+```yaml
+summary: "[Vladimir Torres-Rodríguez](/peoplepages/Vlad/)'s paper [*Population-level gene expression*](https://doi.org/10.1111/tpj.16801) won the TPJ award."
+```
+
+### Adding a news item
+
+**Option 1: Interactive script**
+```bash
+./scripts/add-news.sh
+```
+The script prompts for date, title, summary, image, and people links, then prepends the entry to `_data/news.yml`.
+
+**Option 2: Manual entry**
+- Reference `scripts/news-template.yml` for example formats
+- Add the new entry to `_data/news.yml` (order doesn't matter; items are sorted by date)
+
+### Adding and optimizing news images
+
+1. **Prepare the image**: Resize to ~400px width for thumbnails. Use macOS `sips` or ImageMagick:
+   ```bash
+   sips -Z 400 original.jpg --out images/News_Images/optimized.jpg
+   ```
+
+2. **Target file size**: Aim for 30–60KB per image. The display size is 120×90px on desktop (with 2× retina support) and full-width on mobile at 180px height.
+
+3. **Save location**: Place optimized images in `images/News_Images/`.
+
+4. **Reference in YAML**: Use the path `/images/News_Images/filename.jpg` in the `image` field.
+
+5. **Naming convention**: Use descriptive names matching the news item (e.g., `Hackathon.jpg`, `GradAwards.jpg`).
+
+### WebP optimization (optional)
+
+The site templates support `<picture>` elements with WebP sources. If WebP versions exist at paths like `/images/News_Images/photo_240.webp`, they'll be served to supporting browsers. Generate these with:
+```bash
+python scripts/build_optimized_images.py
+```
+
 ## Commit & Pull Request Guidelines
 - Use concise, imperative commit messages (e.g., `Add Deniz profile` or `Refresh maize phenotyping copy`) and group related edits together.
 - Reference the touched page or asset in the first line of the PR description and include a local preview link (`http://127.0.0.1:4000/path/`) plus screenshots when visual changes matter.
