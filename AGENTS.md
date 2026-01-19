@@ -120,12 +120,55 @@ The script prompts for date, title, summary, image, and people links, then prepe
 
 5. **Naming convention**: Use descriptive names matching the news item (e.g., `Hackathon.jpg`, `GradAwards.jpg`).
 
-### WebP optimization (optional)
+### WebP thumbnails (required for news images)
 
-The site templates support `<picture>` elements with WebP sources. If WebP versions exist at paths like `/images/News_Images/photo_240.webp`, they'll be served to supporting browsers. Generate these with:
+The homepage template uses `<picture>` elements that reference WebP thumbnails at `_240.webp` paths. **When adding a news item with an image, you must also create the corresponding WebP thumbnail**, or the image will show as broken (404 error).
+
+For example, if your news entry has:
+```yaml
+image: /images/News_Images/PAG2026Reunion.jpg
+```
+
+You must also create `images/News_Images/PAG2026Reunion_240.webp`.
+
+**Generate a single thumbnail:**
+```bash
+python3 -c "
+from PIL import Image, ImageOps
+from pathlib import Path
+
+src = Path('images/News_Images/YourImage.jpg')  # Change to your image
+dest = src.parent / (src.stem + '_240.webp')
+
+with Image.open(src) as img:
+    img = ImageOps.exif_transpose(img)
+    ratio = 240 / img.width
+    resized = img.resize((240, int(img.height * ratio)), Image.LANCZOS)
+    if resized.mode in ('RGBA', 'P'):
+        resized = resized.convert('RGB')
+    resized.save(dest, 'WEBP', quality=85)
+    print(f'Created: {dest}')
+"
+```
+
+**Generate all missing thumbnails:**
+```bash
+# Find news images missing WebP versions and list them
+grep -o 'image: /images/News_Images/[^[:space:]]*' _data/news.yml | \
+  sed 's/image: //' | while read img; do
+    base=$(echo "$img" | sed 's/\.[^.]*$//')
+    webp="${base}_240.webp"
+    [ ! -f ".$webp" ] && echo "Missing: $webp"
+  done
+```
+
+### General image optimization (optional)
+
+For bulk optimization of all site images (not the `_240.webp` thumbnails), run:
 ```bash
 python scripts/build_optimized_images.py
 ```
+This creates resized copies under `images/optimized/` for faster page loads.
 
 ## Commit & Pull Request Guidelines
 - Use concise, imperative commit messages (e.g., `Add Deniz profile` or `Refresh maize phenotyping copy`) and group related edits together.
