@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TimeVenn | Schnable Lab</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <nav class="site-nav">
+        <a href="/" class="back-link">← Schnable Lab</a>
+    </nav>
+    <div class="container">
+        <header>
+            <h1>TimeVenn</h1>
+            <p class="subtitle">See when everyone's awake</p>
+        </header>
+
+        <main>
+            <aside class="city-panel">
+                <h2>Cities</h2>
+                <div class="city-search">
+                    <input type="text" id="city-search-input" placeholder="Search for a city..." autocomplete="off">
+                    <div id="city-suggestions" class="suggestions"></div>
+                </div>
+                <div id="selected-cities" class="selected-cities"></div>
+                <div class="city-panel-footer">
+                    <p class="hint">Add up to 5 cities</p>
+                    <button id="clear-all-cities-btn" class="btn-small">Clear All</button>
+                </div>
+            </aside>
+
+            <section class="clock-section">
+                <div id="clock-container" class="clock-container">
+                    <svg id="clock-svg" viewBox="-200 -200 400 400"></svg>
+                </div>
+                <div class="legend">
+                    <div class="legend-item">
+                        <span class="legend-color legend-core"></span>
+                        <span>Office hours (9am-5pm)</span>
+                    </div>
+                    <div class="legend-item">
+                        <span class="legend-color legend-stretch"></span>
+                        <span>Stretch hours (7:30-9am, 5-11pm)</span>
+                    </div>
+                    <div class="legend-item">
+                        <span class="legend-color legend-overlap-core"></span>
+                        <span>All in office hours</span>
+                    </div>
+                    <div class="legend-item">
+                        <span class="legend-color legend-overlap-stretch"></span>
+                        <span>Some in stretch hours</span>
+                    </div>
+                </div>
+                <p class="selection-hint">Click and drag on the clock to select a time range</p>
+            </section>
+
+            <aside id="selection-panel" class="selection-panel hidden">
+                <div class="selection-header">
+                    <h3>Selected Time Range</h3>
+                    <button id="clear-selection-btn" class="btn-small">Clear</button>
+                </div>
+                <div id="selection-duration" class="selection-duration"></div>
+                <div id="selection-times" class="selection-times"></div>
+                <div class="selection-actions">
+                    <button id="copy-times-btn" class="btn">Copy for Email</button>
+                    <span id="copy-feedback" class="copy-feedback"></span>
+                </div>
+            </aside>
+        </main>
+
+        <footer class="controls">
+            <div class="time-controls">
+                <button id="now-btn" class="btn">Now</button>
+                <input type="range" id="time-slider" min="0" max="1440" value="0">
+                <span id="time-display" class="time-display">--:--</span>
+            </div>
+            <div class="share-controls">
+                <button id="share-btn" class="btn">Copy Link</button>
+                <span id="share-feedback" class="share-feedback"></span>
+            </div>
+        </footer>
+    </div>
+
+    <script src="js/cities.js"></script>
+    <script src="js/timezone.js"></script>
+    <script src="js/clock.js"></script>
+    <script src="js/app.js"></script>
+
+    <footer class="site-footer">
+        <p>Inspired by <a href="https://xkcd.com/1335/" target="_blank" rel="noopener">XKCD's "Now"</a> and <a href="https://clock.darkhorseanalytics.com/" target="_blank" rel="noopener">Eugene Chen's WorldChatClock</a></p>
+    </footer>
+</body>
+</html>
