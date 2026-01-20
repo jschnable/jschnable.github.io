@@ -17,8 +17,6 @@
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
   <body>
@@ -48,13 +46,16 @@
             <a href="{{ site.baseurl }}/data/">Data</a>
             <a href="{{ site.baseurl }}/timevenn/">TimeVenn</a>
             <a href="{{ site.baseurl }}/jobs/">Join the Lab</a>
+            <a href="{{ site.baseurl }}/search/">Search</a>
           </nav>
         </header>
       </div>
     </div>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
+    <div id="main" role="main">
+      <article class="page page--homepage">
+        {{ content }}
+      </article>
     </div>
 
     <div class="wrapper-footer">
@@ -71,14 +72,11 @@
     {% include analytics.html %}
 
     <script>
-      // Add shadow to header on scroll
       (function() {
         var masthead = document.getElementById('masthead');
         if (!masthead) return;
-
         var scrollThreshold = 10;
         var ticking = false;
-
         function updateHeader() {
           if (window.scrollY > scrollThreshold) {
             masthead.classList.add('scrolled');
@@ -87,7 +85,6 @@
           }
           ticking = false;
         }
-
         window.addEventListener('scroll', function() {
           if (!ticking) {
             requestAnimationFrame(updateHeader);
