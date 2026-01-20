@@ -41,8 +41,8 @@ googlefonts: ["Monoton", "Lobster"]
 {% assign archive_headings_displayed = 0 %}
 {% for group in grouped %}
   {% if archive_headings_displayed < 3 %}
-### {{ group.name }}
-  <ul class="news-list">
+    <h3>{{ group.name }}</h3>
+    <ul class="news-list">
   {% for entry in group.items %}
       <li class="news-list__item{% if entry.image %} news-list__item--has-image{% endif %}">
         {% if entry.image %}<img src="{{ entry.image }}" alt="{{ entry.title }}" class="news-list__image" />{% endif %}
