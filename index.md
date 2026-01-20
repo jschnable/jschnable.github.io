@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: homepage
 title: Schnable Lab
 subtitle: Hypothesis Driven Research in Plant Genomics and Phenomics
 
@@ -10,23 +10,47 @@ bigimg:
 
 <script type="application/ld+json">{% include schema-organization.json %}</script>
 
+<div class="section">
+<div class="container">
+
 <picture>
   <source srcset="/images/optimized/lab2022_v2_800.webp" type="image/webp">
-  <img src="/images/optimized/lab2022_v2.jpg" alt="The Schnable Lab" width="800" loading="eager">
+  <img src="/images/optimized/lab2022_v2.jpg" alt="The Schnable Lab team" class="lab-photo" loading="eager">
 </picture>
 
-<div class="hero-banner">
-  <h2>Hypothesis-driven research in plant genomics and phenomics</h2>
-  <p>The Schnable Lab blends field experiments, molecular biology, and computational analytics to understand how the genetics of our world's most important crops drives performance in the field.</p>
 </div>
+</div>
+
+<div class="section section--alt">
+<div class="container" markdown="1">
 
 ## What We Study
 
-- **Phenotyping** – developing and testing new approaches to measure plants, from greenhouses to fields to satellites.
-- **Quantitative genetics** – collecting genetic, molecular, and trait data from large populations in multiple environments to understand how genes and environment shape plant phenotypes.
-- **Genomics** – using comparative genomics to figure out how to engineer more stress-tolerant and resource-use-efficient plants.
+<div class="feature-cards">
+  <div class="feature-card">
+    <div class="feature-card__icon">🌱</div>
+    <h3 class="feature-card__title">Phenotyping</h3>
+    <p class="feature-card__desc">Developing and testing new approaches to measure plants, from greenhouses to fields to satellites.</p>
+  </div>
+  <div class="feature-card">
+    <div class="feature-card__icon">📊</div>
+    <h3 class="feature-card__title">Quantitative Genetics</h3>
+    <p class="feature-card__desc">Collecting genetic, molecular, and trait data from large populations to understand how genes and environment shape phenotypes.</p>
+  </div>
+  <div class="feature-card">
+    <div class="feature-card__icon">🧬</div>
+    <h3 class="feature-card__title">Genomics</h3>
+    <p class="feature-card__desc">Using comparative genomics to engineer more stress-tolerant and resource-use-efficient plants.</p>
+  </div>
+</div>
 
 Each lab member gains experience coding, building field equipment, running molecular assays, and communicating results to scientific and public audiences. The cross-training keeps our science grounded in real-world challenges and ensures discoveries translate beyond the lab.
+
+</div>
+</div>
+
+<div class="section">
+<div class="container" markdown="1">
 
 ## Where Our Trainees Go
 
@@ -36,6 +60,12 @@ Our alumni are employed as professors at eleven universities across four countri
   <source srcset="/images/optimized/alumni_map_800.webp" type="image/webp">
   <img src="/images/Alumnitrimmed.png" alt="Alumni map" width="600" loading="lazy">
 </picture>
+
+</div>
+</div>
+
+<div class="section section--alt">
+<div class="container" markdown="1">
 
 ## Recent Lab News
 
@@ -63,4 +93,13 @@ Our alumni are employed as professors at eleven universities across four countri
 
 [See all news]({{ '/news/' | relative_url }})
 
+</div>
+</div>
+
+<div class="section">
+<div class="container" markdown="1">
+
 Looking for the Iowa State group led by Dr. Patrick Schnable? [Visit their site](https://schnablelab.plantgenomics.iastate.edu/).
+
+</div>
+</div>

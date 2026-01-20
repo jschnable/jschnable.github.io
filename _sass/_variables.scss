@@ -19,6 +19,14 @@ $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 
+// Modern font stacks
+$font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+$font-heading: "Source Serif 4", Georgia, "Times New Roman", serif;
+
+// Layout
+$content-width: 1140px;
+$content-padding: 24px;
+
 // Mobile breakpoints
 @mixin mobile {
   @media screen and (max-width: 640px) {

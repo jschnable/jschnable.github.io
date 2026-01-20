@@ -18,6 +18,9 @@
   author_note: Schnable JC is 27 of 36 authors
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
+  - data-release
 - id: 2025-m-food-as-medicine
   year: 2025
   title: 'Food as Medicine: Enhancing Crop Breeding and Food Processing to Shift the Gut Microbiome for Prevention and Treatment
@@ -37,6 +40,9 @@
   url: https://doi.org/10.1016/j.tjnut.2025.101298
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - microbiome
+  - review-methods
 - id: 2025-n-offtheshelf-image-analysis
   year: 2025
   title: Off-the-shelf image analysis models outperform human visual assessment in identifying genes controlling seed color
@@ -69,6 +75,11 @@
   - bioRxiv: 10.1101/2024.07.22.604683
   first_author_is_lab_member: true
   lab_author_count: 9
+  tags:
+  - sorghum
+  - association-studies
+  - image-analysis
+  - phenomics
 - id: 2025-v-genetic-variation-and-historical
   year: 2025
   title: Genetic variation and historical breeding patterns in common bean (Phaseolus vulgaris L.) affect fermentation patterns
@@ -98,6 +109,10 @@
   url: https://doi.org/10.1038/s42003-025-09089-2
   first_author_is_lab_member: false
   lab_author_count: 3
+  tags:
+  - other-crops
+  - association-studies
+  - microbiome
 - id: 2025-w-quantitative-genetics-of
   year: 2025
   title: Quantitative genetics of photosynthetic trait variation in maize.
@@ -130,6 +145,10 @@
   - bioRxiv: 10.1101/2024.11.25.625283
   first_author_is_lab_member: true
   lab_author_count: 6
+  tags:
+  - maize
+  - association-studies
+  - photosynthesis
 - id: 2025-h-genes-and-pathways
   year: 2025
   title: Genes and pathways determining flowering time variation in temperate adapted sorghum.
@@ -158,6 +177,11 @@
   - bioRxiv: 10.1101/2024.12.12.628249
   first_author_is_lab_member: true
   lab_author_count: 5
+  tags:
+  - sorghum
+  - association-studies
+  - transcriptomics
+  - flowering-time
 - id: 2025-d-heritability-heterosis-and
   year: 2025
   title: Heritability, heterosis, and hybrid/inbred classification ability of maize leaf hyperspectral signals under changing
@@ -183,6 +207,11 @@
   url: https://doi.org/10.1002/csc2.70073
   first_author_is_lab_member: true
   lab_author_count: 5
+  tags:
+  - maize
+  - quantitative-genetics
+  - nitrogen
+  - phenomics
 - id: 2025-n-plotlevel-satellite-imagery
   year: 2025
   title: Plot-level satellite imagery can substitute for UAVs in assessing maize phenotypes across multistate field trials.
@@ -219,6 +248,12 @@
   - agriRxiv: 10.31220/agriRxiv.2024.00251
   first_author_is_lab_member: true
   lab_author_count: 5
+  tags:
+  - maize
+  - image-analysis
+  - phenomics
+  - review-methods
+  - data-release
 - id: 2025-jm-assessing-the-impact
   year: 2025
   title: Assessing the impact of yield plasticity on hybrid performance in maize.
@@ -247,6 +282,10 @@
   - bioRxiv: 10.1101/2025.01.21.634104
   first_author_is_lab_member: true
   lab_author_count: 4
+  tags:
+  - maize
+  - quantitative-genetics
+  - genotype-environment-interaction
 - id: 2025-rk-transcripts-and-genomic
   year: 2025
   title: Transcripts and genomic intervals associated with variation in metabolite abundance in maize leaves under field conditions.
@@ -276,6 +315,10 @@
   - bioRxiv: 10.1101/2024.08.26.609532
   first_author_is_lab_member: true
   lab_author_count: 4
+  tags:
+  - maize
+  - association-studies
+  - genomics
 - id: 2025-jm-d-reconstruction-enables
   year: 2025
   title: 3D reconstruction enables high-throughput phenotyping and quantitative genetic analysis of phyllotaxy.
@@ -302,6 +345,11 @@
   - bioRxiv: 10.1101/2024.10.03.616344
   first_author_is_lab_member: true
   lab_author_count: 2
+  tags:
+  - sorghum
+  - image-analysis
+  - phenomics
+  - review-methods
 - id: 2025-f-nighttime-fluorescence-phenotyping
   year: 2025
   title: Nighttime fluorescence phenotyping reduces environmental variability for photosynthetic traits and enables the identification
@@ -321,6 +369,9 @@
   url: https://doi.org/10.3389/fpls.2025.1595339
   first_author_is_lab_member: true
   lab_author_count: 2
+  tags:
+  - maize
+  - photosynthesis
 - id: 2025-jv-evolving-best-practices
   year: 2025
   title: Evolving best practices for transcriptome-wide association studies accelerate discovery of gene-phenotype links.
@@ -337,6 +388,11 @@
   url: https://doi.org/10.1016/j.pbi.2024.102670
   first_author_is_lab_member: true
   lab_author_count: 1
+  tags:
+  - maize
+  - association-studies
+  - transcriptomics
+  - review-methods
 - id: 2025-h-nitrogen-response-and
   year: 2025
   title: Nitrogen response and growth trajectory of sorghum CRISPR-Cas9 mutants using high-throughput phenotyping.
@@ -362,6 +418,10 @@
   - bioRxiv: 10.1101/2024.12.13.624727
   first_author_is_lab_member: true
   lab_author_count: 1
+  tags:
+  - sorghum
+  - genome-editing
+  - nitrogen
 - id: 2025-zhongjie-scalable-methods-for
   year: 2025
   title: Scalable methods for quantifying the stay green ability of corn for yield prediction by using satellite images.
@@ -378,6 +438,11 @@
   url: https://doi.org/10.31220/agriRxiv.2025.00339
   first_author_is_lab_member: true
   lab_author_count: 1
+  tags:
+  - maize
+  - image-analysis
+  - ai-ml
+  - phenomics
 - id: 2025-h-maizeearsam-zeroshot-maize
   year: 2025
   title: 'MaizeEar-SAM: Zero-shot maize ear phenotyping.'
@@ -401,6 +466,10 @@
   url: https://doi.org/10.48550/arXiv.2502.13399
   first_author_is_lab_member: false
   lab_author_count: 3
+  tags:
+  - maize
+  - ai-ml
+  - phenomics
 - id: 2025-a-enhancing-yield-prediction
   year: 2025
   title: Enhancing yield prediction from plot-level satellite imagery through genotype and environment feature disentanglement.
@@ -423,6 +492,13 @@
   url: https://doi.org/10.3389/fpls.2025.1617831
   first_author_is_lab_member: false
   lab_author_count: 2
+  tags:
+  - maize
+  - image-analysis
+  - quantitative-genetics
+  - ai-ml
+  - genotype-environment-interaction
+  - phenomics
 - id: 2025-jo-designing-a-nitrogen
   year: 2025
   title: Designing a nitrogen efficient cold tolerant maize for modern agricultural systems.
@@ -444,6 +520,11 @@
   author_note: Schnable JC is 48 of 56 authors
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
+  - stress-tolerance
+  - nitrogen
+  - review-methods
 - id: 2025-k-employing-spectral-features
   year: 2025
   title: Employing spectral features to accelerate sorghum phenotyping against sap-feeding aphids.
@@ -463,6 +544,9 @@
   url: https://doi.org/10.1002/pld3.70092
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - sorghum
+  - phenomics
 - id: 2025-tn-in-context-promoter
   year: 2025
   title: In context promoter bashing of the Sorghum bicolor gene models functionally annotated as bundle sheath cell preferred
@@ -489,6 +573,10 @@
   url: https://doi.org/10.1002/csc2.70039
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - sorghum
+  - genome-editing
+  - photosynthesis
 - id: 2025-f-phenotypic-plasticity-in
   year: 2025
   title: 'Phenotypic plasticity in maize grain yield: genetic and environmental insights of response to environmental gradients.'
@@ -511,6 +599,10 @@
   author_note: Schnable JC is 11 of 16 authors
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
+  - genomics
+  - genotype-environment-interaction
 - id: 2025-p-positioning-accuracy-of
   year: 2025
   title: Positioning accuracy of RTK-GNSS-enabled drones and their performance in agricultural crop sensing.
@@ -528,6 +620,8 @@
   url: https://elibrary.asabe.org/abstract.asp?AID=55510&t=3&dabs=Y&redir=&redirType=
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - phenomics
 - id: 2025-mc-predicting-complex-phenotypes
   year: 2025
   title: Predicting complex phenotypes using multi-omics data in maize.
@@ -548,6 +642,10 @@
   url: https://doi.org/10.1101/2025.09.30.679283
   first_author_is_lab_member: false
   lab_author_count: 2
+  tags:
+  - maize
+  - transcriptomics
+  - quantitative-genetics
 - id: 2025-n-sequence-based-classifier
   year: 2025
   title: A sequence-based classifier distinguishes phenotype-associated genes from other gene models in plants
@@ -568,6 +666,10 @@
   url: https://doi.org/10.64898/2025.11.30.691407
   first_author_is_lab_member: true
   lab_author_count: 4
+  tags:
+  - genomics
+  - ai-ml
+  - comparative-genomics
 - id: 2025-a-unveiling-shared-genetic
   year: 2025
   title: Unveiling shared genetic regulators for plant architectural and biomass yield traits in sorghum.
@@ -586,6 +688,11 @@
   - bioRxiv: 10.1101/2024.03.13.584802
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - sorghum
+  - association-studies
+  - quantitative-genetics
+  - phenomics
 - id: 2023-j-phenotypic-variation-in
   year: 2025
   title: Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites.
@@ -624,6 +731,9 @@
   - bioRxiv: 10.1101/2023.08.08.551183
   first_author_is_lab_member: false
   lab_author_count: 2
+  tags:
+  - maize
+  - genomics
 - id: 2024-jv-population-level-gene
   year: 2024
   title: Population level gene expression can repeatedly link genes to functions in maize.
@@ -657,6 +767,11 @@
   - bioRxiv: 10.1101/2023.10.31.565032
   first_author_is_lab_member: true
   lab_author_count: 6
+  tags:
+  - maize
+  - association-studies
+  - transcriptomics
+  - flowering-time
 - id: 2024-mc-data-driven-discovery
   year: 2024
   title: Data driven discovery and quantification of hyperspectral leaf reflectance phenotypes across a maize diversity panel.
@@ -686,6 +801,11 @@
   - bioRxiv: 10.1101/2023.12.15.571950
   first_author_is_lab_member: true
   lab_author_count: 5
+  tags:
+  - maize
+  - quantitative-genetics
+  - ai-ml
+  - phenomics
 - id: 2024-n-genomic-colocalization-of
   year: 2024
   title: Genomic co-localization of variation affecting agronomic and human gut microbiome traits in a meta-analysis of diverse
@@ -713,6 +833,10 @@
   - bioRxiv: 10.1101/2023.09.20.558616
   first_author_is_lab_member: true
   lab_author_count: 4
+  tags:
+  - sorghum
+  - genomics
+  - microbiome
 - id: 2024-h-imitating-the-breeders
   year: 2024
   title: 'Imitating the "breeder’s eye": predicting grain yield from measurements of non-yield traits.'
@@ -737,6 +861,10 @@
   - bioRxiv: 10.1101/2023.11.29.568906
   first_author_is_lab_member: true
   lab_author_count: 2
+  tags:
+  - maize
+  - quantitative-genetics
+  - ai-ml
 - id: 2024-mc-models-trained-to
   year: 2024
   title: Models trained to predict differential expression across plant organs identify distal and proximal regulatory regions.
@@ -753,6 +881,9 @@
   url: https://doi.org/10.1101/2024.06.04.597477
   first_author_is_lab_member: true
   lab_author_count: 2
+  tags:
+  - transcriptomics
+  - ai-ml
 - id: 2024-skk-rhythmic-lipid-and
   year: 2024
   title: Rhythmic lipid and gene expression responses to chilling in panicoid grasses.
@@ -777,6 +908,12 @@
   - bioRxiv: 10.1101/2023.09.29.560160
   first_author_is_lab_member: true
   lab_author_count: 2
+  tags:
+  - maize
+  - sorghum
+  - transcriptomics
+  - comparative-genomics
+  - stress-tolerance
 - id: 2024-h-thi-gene-evolutionary
   year: 2024
   title: 'THI1 gene evolutionary trends: A comprehensive plant-focused Assessment via data Mining and large-scale analysis.'
@@ -795,6 +932,9 @@
   url: https://doi.org/10.1093/gbe/evae212
   first_author_is_lab_member: true
   lab_author_count: 2
+  tags:
+  - genomics
+  - microbiome
 - id: 2024-km-variation-in-leaf
   year: 2024
   title: Variation in leaf chlorophyll concentration in response to nitrogen application across maize hybrids in contrasting
@@ -814,6 +954,10 @@
   url: https://doi.org/10.17912/micropub.biology.001115
   first_author_is_lab_member: true
   lab_author_count: 2
+  tags:
+  - maize
+  - photosynthesis
+  - nitrogen
 - id: 2024-d-twas-facilitates-genescale
   year: 2024
   title: TWAS facilitates gene-scale trait genetic dissection through gene expression, structural variations, and alternative
@@ -848,6 +992,10 @@
   - bioRxiv: 10.1101/2023.07.03.545230
   first_author_is_lab_member: true
   lab_author_count: 1
+  tags:
+  - soybean
+  - association-studies
+  - transcriptomics
 - id: 2024-s-nonphotochemical-quenching-kinetics
   year: 2024
   title: Nonphotochemical quenching kinetics GWAS in sorghum identifies genes that may play conserved roles in maize and Arabidopsis
@@ -874,6 +1022,12 @@
   - bioRxiv: 10.1101/2023.08.29.555201
   first_author_is_lab_member: false
   lab_author_count: 5
+  tags:
+  - maize
+  - sorghum
+  - association-studies
+  - comparative-genomics
+  - photosynthesis
 - id: 2024-i-sorghum-segmentation-and
   year: 2024
   title: Sorghum segmentation and leaf counting using an in silico trained deep neural model.
@@ -899,6 +1053,10 @@
   url: https://doi.org/10.1002/ppj2.70002
   first_author_is_lab_member: false
   lab_author_count: 5
+  tags:
+  - sorghum
+  - image-analysis
+  - ai-ml
 - id: 2024-a-disentangling-genotype-and
   year: 2024
   title: Disentangling genotype and environment specific latent features for improved trait prediction using a compositional
@@ -918,6 +1076,10 @@
   url: https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1476070/abstract
   first_author_is_lab_member: false
   lab_author_count: 2
+  tags:
+  - quantitative-genetics
+  - ai-ml
+  - genotype-environment-interaction
 - id: 2024-s-genotypespecific-nonphotochemical-quenching
   year: 2024
   title: Genotype-specific nonphotochemical quenching responses to nitrogen deficit are linked to chlorophyll a to b ratios.
@@ -935,6 +1097,10 @@
   url: https://doi.org/10.1016/j.jplph.2024.154261
   first_author_is_lab_member: false
   lab_author_count: 2
+  tags:
+  - maize
+  - photosynthesis
+  - nitrogen
 - id: 2024-y-dissecting-the-genetic
   year: 2024
   title: Dissecting the genetic architecture of sunflower disc diameter using genome-wide association study.
@@ -955,6 +1121,9 @@
   url: https://doi.org/10.1002/pld3.70010
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - other-crops
+  - association-studies
 - id: 2024-j-genetic-and-environmental
   year: 2024
   title: Genetic and environmental patterns underlying phenotypic plasticity in flowering time and plant height in sorghum.
@@ -984,6 +1153,10 @@
   url: https://doi.org/10.1111/pce.15213
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - sorghum
+  - genotype-environment-interaction
+  - flowering-time
 - id: 2024-r-genomewide-association-study
   year: 2024
   title: Genome-wide association study reveals marker-trait associations for major agronomic traits in proso millet (Panicum
@@ -1002,6 +1175,9 @@
   url: https://doi.org/10.1007/s00425-024-04465-4
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - millets
+  - association-studies
 - id: 2024-l-gwas-analysis-for
   year: 2024
   title: GWAS analysis for plant height and stem diameter in sorghum using multiple phenotyping approaches.
@@ -1027,6 +1203,9 @@
   url: https://doi.org/10.1002/ppj2.70008
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - sorghum
+  - association-studies
 - id: 2024-g-highthroughput-physiological-phenotyping
   year: 2024
   title: High-throughput physiological phenotyping of crop evapotranspiration at the plot scale.
@@ -1049,6 +1228,9 @@
   url: https://doi.org/10.1016/j.fcr.2024.109507
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - image-analysis
+  - phenomics
 - id: 2024-e-image-filtering-to
   year: 2024
   title: Image filtering to improve maize tassel detection accuracy using machine learning algorithms.
@@ -1068,6 +1250,9 @@
   url: https://doi.org/10.3390/s24072172
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
+  - image-analysis
 - id: 2024-r-optimizing-feature-selection
   year: 2024
   title: Optimizing feature selection with gradient boosting machines in PLS regression for predicting moisture and protein
@@ -1090,6 +1275,8 @@
   url: https://doi.org/10.1016/j.foodchem.2024.140062
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
 - id: 2024-a-plantsegnet-d-point
   year: 2024
   title: 'PlantSegNet: 3D point cloud instance segmentation of nearby plant organs with identical semantics.'
@@ -1109,6 +1296,10 @@
   url: https://doi.org/10.1016/j.compag.2024.108922
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - image-analysis
+  - ai-ml
+  - phenomics
 - id: 2023-g-a-role-for
   year: 2023
   title: A role for heritable transcriptomic variation in maize adaptation to temperate environments.
@@ -1138,6 +1329,11 @@
   - bioRxiv: 10.1101/2022.01.28.478212
   first_author_is_lab_member: true
   lab_author_count: 3
+  tags:
+  - maize
+  - genomics
+  - transcriptomics
+  - quantitative-genetics
 - id: 2023-m-a-common-resequencingbased
   year: 2023
   title: A common resequencing-based genetic marker dataset for global maize diversity.
@@ -1159,6 +1355,11 @@
   url: https://doi.org/10.1111/tpj.16123
   first_author_is_lab_member: true
   lab_author_count: 2
+  tags:
+  - maize
+  - genomics
+  - quantitative-genetics
+  - data-release
 - id: 2023-s-genetic-control-of
   year: 2023
   title: Genetic control of photoprotection and photosystem II operating efficiency in plants.
@@ -1176,6 +1377,10 @@
   url: https://doi.org/10.1111/nph.18980
   first_author_is_lab_member: false
   lab_author_count: 2
+  tags:
+  - maize
+  - association-studies
+  - photosynthesis
 - id: 2023-m-multiview-triangulation-without
   year: 2023
   title: Multi-view triangulation without correspondences.
@@ -1193,6 +1398,9 @@
   url: https://doi.org/10.1016/j.compag.2023.107688
   first_author_is_lab_member: false
   lab_author_count: 2
+  tags:
+  - image-analysis
+  - phenomics
 - id: 2023-dc-field-seasons-of
   year: 2023
   title: 2018–2019 field seasons of the Maize Genomes to Fields (G2F) G x E project.
@@ -1215,6 +1423,9 @@
   author_note: Schnable JC is 26 of 37 authors
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
+  - data-release
 - id: 2023-dc-field-seasons-of
   year: 2023
   title: 2020-2021 field seasons of Maize GxE project within the Genomes to Fields Initiative.
@@ -1236,6 +1447,9 @@
   author_note: Schnable JC is 24 of 35 authors
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
+  - data-release
 - id: 2023-j-a-complete-telomeretotelomere
   year: 2023
   title: A complete telomere-to-telomere assembly of the maize genome.
@@ -1264,6 +1478,9 @@
   url: https://doi.org/10.1038/s41588-023-01419-6
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
+  - genomics
 - id: 2023-nk-a-leaflevel-spectral
   year: 2023
   title: 'A leaf-level spectral library to support high throughput plant phenotyping: Predictive accuracy and model transfer.'
@@ -1282,6 +1499,12 @@
   url: https://doi.org/10.1093/jxb/erad129
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
+  - sorghum
+  - image-analysis
+  - phenomics
+  - data-release
 - id: 2023-m-localization-of-crop
   year: 2023
   title: Localization of crop damage utilizing a wake up gas sensor network.
@@ -1308,6 +1531,8 @@
   url: https://ieeexplore.ieee.org/abstract/document/10516771
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - engineering
 - id: 2023-r-multiple-highly-expressed
   year: 2023
   title: Multiple highly expressed phosphoenolpyruvate carboxylase genes have divergent enzyme kinetic properties in two C4
@@ -1326,6 +1551,8 @@
   url: https://doi.org/10.1093/aob/mcad116
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - photosynthesis
 - id: 2023-ac-oligogalactolipid-production-during
   year: 2023
   title: Oligogalactolipid production during cold challenge is conserved in early diverging lineages.
@@ -1346,6 +1573,8 @@
   url: https://doi.org/10.1093/jxb/erad241
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - stress-tolerance
 - id: 2023-c-role-of-the
   year: 2023
   title: Role of the genomics–phenomics–agronomy paradigm in plant breeding.
@@ -1367,6 +1596,8 @@
   url: https://doi.org/10.1002/9781119874157.ch10
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - review-methods
 - id: 2023-d-yield-prediction-through
   year: 2023
   title: Yield prediction through integration of genetic, environment, and management data through deep learning.
@@ -1397,6 +1628,9 @@
   - bioRxiv: 10.1101/2022.07.29.502051
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - ai-ml
+  - genotype-environment-interaction
 - id: 2022-rv-association-mapping-across
   year: 2022
   title: Association mapping across a multitude of traits collected in diverse environments identifies pleiotropic loci in
@@ -1430,6 +1664,10 @@
   - bioRxiv: 10.1101/2022.02.25.480753
   first_author_is_lab_member: true
   lab_author_count: 6
+  tags:
+  - maize
+  - association-studies
+  - data-release
 - id: 2022-g-genome-of-paspalum
   year: 2022
   title: Genome of Paspalum vaginatum and the role of trehalose mediated autophagy in increasing maize biomass.
@@ -1462,6 +1700,10 @@
   author_note: Foltz A is 17 of 26 authors
   first_author_is_lab_member: true
   lab_author_count: 3
+  tags:
+  - genomics
+  - stress-tolerance
+  - nitrogen
 - id: 2022-m-variation-in-morphophysiological
   year: 2022
   title: Variation in morpho-physiological and metabolic responses to low nitrogen stress across the sorghum association panel.
@@ -1487,6 +1729,11 @@
   - bioRxiv: 10.1101/2022.06.08.495271
   first_author_is_lab_member: true
   lab_author_count: 2
+  tags:
+  - sorghum
+  - quantitative-genetics
+  - stress-tolerance
+  - nitrogen
 - id: 2022-rv-can-the-grains
   year: 2022
   title: Can the grains offer each other helping hands? Convergent molecular mechanisms associated with domestication and
@@ -1503,6 +1750,9 @@
   url: https://doi.org/10.1016/j.molp.2022.04.003
   first_author_is_lab_member: true
   lab_author_count: 1
+  tags:
+  - comparative-genomics
+  - review-methods
 - id: 2022-n-the-unique-seed
   year: 2022
   title: The unique seed protein composition of quality protein popcorn promotes growth of beneficial bacteria from the human
@@ -1525,6 +1775,9 @@
   url: https://www.frontiersin.org/articles/10.3389/fmicb.2022.921456/abstract
   first_author_is_lab_member: true
   lab_author_count: 1
+  tags:
+  - maize
+  - microbiome
 - id: 2022-r-snp-discovery-in
   year: 2022
   title: SNP Discovery in Proso millet (Panicum miliaceum L.) using low-pass genome sequencing.
@@ -1544,6 +1797,8 @@
   url: https://doi.org/10.1002/pld3.447
   first_author_is_lab_member: false
   lab_author_count: 3
+  tags:
+  - millets
 - id: 2022-m-maize-rootassociated-microbes
   year: 2022
   title: Maize root-associated microbes likely under adaptive selection by the host to enhance phenotypic performance.
@@ -1571,6 +1826,10 @@
   - bioRxiv: 10.1101/2021.11.01.466815
   first_author_is_lab_member: false
   lab_author_count: 2
+  tags:
+  - maize
+  - quantitative-genetics
+  - microbiome
 - id: 2022-h-pervasive-misannotation-of
   year: 2022
   title: Pervasive misannotation of microexons that are evolutionarily conserved and crucial for gene function in plants.
@@ -1594,6 +1853,8 @@
   url: https://doi.org/10.1038/s41467-022-28449-8
   first_author_is_lab_member: false
   lab_author_count: 2
+  tags:
+  - genomics
 - id: 2022-l-sorghum-association-panel
   year: 2022
   title: Sorghum association panel whole-genome sequencing establishes pivotal resource for dissecting genomic diversity.
@@ -1614,6 +1875,9 @@
   url: https://doi.org/10.1111/tpj.15853
   first_author_is_lab_member: false
   lab_author_count: 2
+  tags:
+  - sorghum
+  - data-release
 - id: 2022-e-a-uavbased-highthroughput
   year: 2022
   title: A UAV-based high-throughput phenotyping approach to assess time-series nitrogen responses and identify traits associated
@@ -1637,6 +1901,11 @@
   - bioRxiv: 10.1101/2021.05.24.445447
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
+  - image-analysis
+  - nitrogen
+  - phenomics
 - id: 2022-sh-field-deployment-of
   year: 2022
   title: Field deployment of a nanogap gas sensor for crop damage detection.
@@ -1665,6 +1934,8 @@
   url: https://doi.org/10.1109/MEMS51670.2022.9699614
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - engineering
 - id: 2022-q-genetic-analysis-of
   year: 2022
   title: Genetic analysis of seed traits in Sorghum bicolor that affect the human gut microbiome.
@@ -1686,6 +1957,9 @@
   url: https://doi.org/10.1038/s41467-022-33419-1
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - sorghum
+  - microbiome
 - id: 2022-k-the-genome-of
   year: 2022
   title: The genome of Orychophragmus violaceus provides genomic insights into the evolution of Brassicaceae polyploidization
@@ -1711,6 +1985,8 @@
   url: https://doi.org/10.1016/j.xplc.2022.100431
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - genomics
 - id: 2022-d-time-series-canopy
   year: 2022
   title: Time series canopy phenotyping enables the identification of genetic variants controlling dynamic phenotypes in soybean.
@@ -1738,6 +2014,9 @@
   url: https://doi.org/10.1111/jipb.13380
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - soybean
+  - association-studies
 - id: 2021-x-predicting-transcriptional-responses
   year: 2021
   title: Predicting transcriptional responses to cold stress across plant species.
@@ -1764,6 +2043,11 @@
   - bioRxiv: 10.1101/2020.08.25.266635
   first_author_is_lab_member: true
   lab_author_count: 4
+  tags:
+  - maize
+  - sorghum
+  - ai-ml
+  - comparative-genomics
 - id: 2021-mc-d-reconstruction-identifies
   year: 2021
   title: 3D reconstruction identifies loci linked to variation in angle of individual sorghum leaves.
@@ -1789,6 +2073,10 @@
   - bioRxiv: 10.1101/2021.06.15.448566
   first_author_is_lab_member: true
   lab_author_count: 3
+  tags:
+  - sorghum
+  - association-studies
+  - phenomics
 - id: 2021-rv-metaanalysis-identifies-pleiotropic
   year: 2021
   title: Meta-analysis identifies pleiotropic loci controlling phenotypic trade-offs in sorghum.
@@ -1817,6 +2105,11 @@
   - bioRxiv: 10.1101/2020.10.27.355495
   first_author_is_lab_member: true
   lab_author_count: 3
+  tags:
+  - sorghum
+  - association-studies
+  - quantitative-genetics
+  - data-release
 - id: 2021-g-quantitative-resistance-loci
   year: 2021
   title: Quantitative resistance loci to southern rust mapped in a temperate maize diversity panel.
@@ -1838,6 +2131,9 @@
   - bioRxiv: 10.1101/2021.04.02.438220
   first_author_is_lab_member: true
   lab_author_count: 3
+  tags:
+  - maize
+  - association-studies
 - id: 2021-x-hour-diurnal-rnaseq
   year: 2021
   title: 72-hour diurnal RNA-seq analysis of fully expanded third leaves from maize, sorghum, and foxtail millet at 3-hour
@@ -1857,6 +2153,9 @@
   url: https://doi.org/10.1186/s13104-020-05431-5
   first_author_is_lab_member: true
   lab_author_count: 2
+  tags:
+  - transcriptomics
+  - data-release
 - id: 2021-c-automation-of-leaf
   year: 2021
   title: Automation of leaf counting in maize and sorghum using deep learning.
@@ -1879,6 +2178,11 @@
   - bioRxiv: 10.1101/2020.12.19.423626
   first_author_is_lab_member: true
   lab_author_count: 2
+  tags:
+  - maize
+  - sorghum
+  - image-analysis
+  - ai-ml
 - id: 2021-m-hyperspectral-reflectancebased-phenotyping
   year: 2021
   title: 'Hyperspectral reflectance-based phenotyping for quantitative genetics in crops: progress and challenges.'
@@ -1897,6 +2201,9 @@
   url: https://doi.org/10.1016/j.xplc.2021.100209
   first_author_is_lab_member: true
   lab_author_count: 1
+  tags:
+  - image-analysis
+  - review-methods
 - id: 2021-dd-comparative-transcriptome-analysis
   year: 2021
   title: Comparative transcriptome analysis reveals genetic mechanisms of sugarcane aphid resistance in grain sorghum.
@@ -1917,6 +2224,9 @@
   url: https://doi.org/10.3390/ijms22137129
   first_author_is_lab_member: false
   lab_author_count: 2
+  tags:
+  - sorghum
+  - transcriptomics
 - id: 2021-l-a-coopted-steroid
   year: 2021
   title: A co-opted steroid synthesis gene, maintained in sorghum but not maize, is associated with a divergence in leaf wax
@@ -1935,6 +2245,10 @@
   url: https://doi.org/10.1073/pnas.2022982118
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
+  - sorghum
+  - comparative-genomics
 - id: 2021-s-can-high-resolution
   year: 2021
   title: Can high resolution satellite imagery be used in high-throughput field phenotyping.
@@ -1954,6 +2268,10 @@
   url: https://doi.org/10.13031/trans.14197
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
+  - image-analysis
+  - phenomics
 - id: 2021-y-continuous-in-situ
   year: 2021
   title: 'Continuous in situ soil nitrate sensors: a comparison with conventional measurements and the value of high temporal
@@ -1975,6 +2293,9 @@
   url: https://doi.org/10.1002/saj2.20226
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - engineering
+  - nitrogen
 - id: 2021-s-dct-a-new
   year: 2021
   title: DCT4 - a new member of the dicarboxylate transporter family in C4 grasses.
@@ -1997,6 +2318,10 @@
   - bioRxiv: 10.1101/762724
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - genomics
+  - comparative-genomics
+  - photosynthesis
 - id: 2021-sh-development-of-a
   year: 2021
   title: Development of a gas sensor for green leaf volatile detection.
@@ -2023,6 +2348,8 @@
   url: https://doi.org/10.1109/Transducers50396.2021.9495597
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - engineering
 - id: 2021-x-genomewide-dna-polymorphism
   year: 2021
   title: Genome-wide DNA polymorphism analysis and molecular marker development for the Setaria italica variety ‘SSR41’ and
@@ -2046,6 +2373,9 @@
   url: https://doi.org/10.3389/fpls.2021.743782
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - millets
+  - genomics
 - id: 2021-m-genomic-resources-in
   year: 2021
   title: Genomic resources in plant breeding for sustainable agriculture.
@@ -2081,6 +2411,8 @@
   url: https://doi.org/10.1016/j.jplph.2020.153351
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - review-methods
 - id: 2021-y-identification-and-utilization
   year: 2021
   title: Identification and utilization of genetic determinants of trait measurement errors in image-based, high-throughput
@@ -2104,6 +2436,11 @@
   url: https://doi.org/10.1093/plcell/koab134
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
+  - image-analysis
+  - quantitative-genetics
+  - phenomics
 - id: 2021-a-maize-tassel-detection
   year: 2021
   title: Maize tassel detection from UAV imagery using deep learning.
@@ -2123,6 +2460,10 @@
   url: https://www.frontiersin.org/articles/10.3389/frobt.2021.600410/abstract
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
+  - image-analysis
+  - ai-ml
 - id: 2021-rj-phosphoenolpyruvate-carboxylase-kinetic
   year: 2021
   title: Phosphoenolpyruvate carboxylase kinetic variation provides opportunity to enhance C4 photosynthetic efficiency.
@@ -2140,6 +2481,8 @@
   url: https://doi.org/10.1111/tpj.15141
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - photosynthesis
 - id: 2021-ma-rhizosphere-microbiomes-in
   year: 2021
   title: Rhizosphere microbiomes in a historical maize/soybean rotation system respond to host species and nitrogen fertilization
@@ -2161,6 +2504,11 @@
   url: https://doi.org/10.1128/AEM.03132-20
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
+  - soybean
+  - microbiome
+  - nitrogen
 - id: 2021-ar-the-importance-of
   year: 2021
   title: The importance of dominance and genotype-by-environment interactions on grain yield variation in a large-scale public
@@ -2184,6 +2532,9 @@
   author_note: Schnable JC is 24 of 39 authors
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
+  - quantitative-genetics
 - id: 2021-d-utility-of-climatic
   year: 2021
   title: Utility of climatic information via combining ability models to improve genomic prediction for yield within the Genomes
@@ -2207,6 +2558,9 @@
   author_note: Schnable JC is 24 of 33 authors
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
+  - genotype-environment-interaction
 - id: 2021-mr-qteller-a-tool
   year: 2021
   title: 'qTeller: A tool for comparative multi-genomic gene expression analysis.'
@@ -2227,6 +2581,10 @@
   url: https://doi.org/10.1093/bioinformatics/btab604
   first_author_is_lab_member: false
   lab_author_count: 0
+  tags:
+  - maize
+  - genomics
+  - transcriptomics
 - id: 2021-a-robotic-technologies-for
   year: 2021
   title: 'Robotic technologies for high-throughput plant phenotyping: reviews and perspectives.'
@@ -2243,6 +2601,10 @@
   url: https://www.frontiersin.org/articles/10.3389/fpls.2021.611940
   first_author_is_lab_member: false
   lab_author_count: 0
+  tags:
+  - engineering
+  - phenomics
+  - review-methods
 - id: 2020-x-interspecific-analysis-of
   year: 2020
   title: Interspecific analysis of diurnal gene regulation in panicoid grasses identifies known and novel regulatory motifs.
@@ -2263,6 +2625,11 @@
   url: https://doi.org/10.1186/s12864-020-06824-3
   first_author_is_lab_member: true
   lab_author_count: 3
+  tags:
+  - maize
+  - sorghum
+  - transcriptomics
+  - comparative-genomics
 - id: 2020-ds-isoseq-transcriptome-assembly
   year: 2020
   title: IsoSeq transcriptome assembly of C3 panicoid grasses provides tools to study evolutionary change in the Panicoideae.
@@ -2282,6 +2649,10 @@
   - bioRxiv: 10.1101/689356
   first_author_is_lab_member: true
   lab_author_count: 2
+  tags:
+  - genomics
+  - transcriptomics
+  - comparative-genomics
 - id: 2020-skk-leaf-angle-extractor
   year: 2020
   title: Leaf Angle eXtractor - A high throughput image processing framework for leaf angle measurement in maize and sorghum.
@@ -2304,6 +2675,8 @@
   url: https://doi.org/10.1002/aps3.11385
   first_author_is_lab_member: true
   lab_author_count: 2
+  tags:
+  - image-analysis
 - id: 2020-c-semantic-segmentation-of
   year: 2020
   title: Semantic segmentation of sorghum using hyperspectral data identifies genetic associations.
@@ -2324,6 +2697,11 @@
   url: https://doi.org/10.34133/2020/4216373
   first_author_is_lab_member: true
   lab_author_count: 2
+  tags:
+  - sorghum
+  - image-analysis
+  - ai-ml
+  - phenomics
 - id: 2020-z-genomephenome-wide-association
   year: 2020
   title: Genome-phenome wide association in maize and arabidopsis identifies a common molecular and evolutionary signature.
@@ -2342,6 +2720,11 @@
   - bioRxiv: 10.1101/534503
   first_author_is_lab_member: true
   lab_author_count: 1
+  tags:
+  - maize
+  - genomics
+  - quantitative-genetics
+  - review-methods
 - id: 2020-c-increased-power-and
   year: 2020
   title: Increased power and accuracy of causal locus identification in time-series genome-wide association in sorghum.
@@ -2359,9 +2742,14 @@
   doi: 10.1104/pp.20.00277
   url: https://doi.org/10.1104/pp.20.00277
   notes:
-  - bioRxiv: 10.1101/2020.02.16.951467<br>[First
+  - bioRxiv: 10.1101/2020.02.16.951467
   first_author_is_lab_member: true
   lab_author_count: 1
+  tags:
+  - sorghum
+  - association-studies
+  - phenomics
+  - review-methods
 - id: 2020-x-nonhomologybased-prediction-of
   year: 2020
   title: Non-homology-based prediction of gene functions.
@@ -2384,6 +2772,9 @@
   - bioRxiv: 10.1101/730473
   first_author_is_lab_member: true
   lab_author_count: 1
+  tags:
+  - genomics
+  - ai-ml
 - id: 2020-z-shared-genetic-control
   year: 2020
   title: Shared genetic control of root system architecture between Zea mays and Sorghum bicolor.
@@ -2410,6 +2801,10 @@
   url: https://doi.org/10.1104/pp.19.00752
   first_author_is_lab_member: false
   lab_author_count: 3
+  tags:
+  - maize
+  - sorghum
+  - association-studies
 - id: 2020-m-voxel-carving-based
   year: 2020
   title: Voxel carving based 3D reconstruction of sorghum identifies genetic determinants of radiation interception efficiency.
@@ -2429,6 +2824,10 @@
   - bioRxiv: 10.1101/2020.04.06.028605
   first_author_is_lab_member: false
   lab_author_count: 2
+  tags:
+  - sorghum
+  - phenomics
+  - review-methods
 - id: 2020-r-a-highthroughput-phenotyping
   year: 2020
   title: A high-throughput phenotyping pipeline for image processing and functional growth curve analysis.
@@ -2447,6 +2846,10 @@
   url: https://doi.org/10.34133/2020/7481687
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - image-analysis
+  - phenomics
+  - review-methods
 - id: 2020-b-advancing-multiscale-crop
   year: 2020
   title: Advancing multi-scale crop modeling for agricultural climate change adaptation assessment.
@@ -2486,6 +2889,8 @@
   url: https://t.co/rl4ywzzDhy?amp=1
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - review-methods
 - id: 2020-d-enhancing-hybrid-prediction
   year: 2020
   title: Enhancing hybrid prediction in pearl millet using genomic and/or multi-environment phenotypic information of inbreds.
@@ -2505,6 +2910,10 @@
   url: https://doi.org/10.3389/fgene.2019.01294
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - millets
+  - quantitative-genetics
+  - genotype-environment-interaction
 - id: 2020-j-genomewide-characterization-of
   year: 2020
   title: Genome-wide characterization of DNase I-hypersensitive sites and cold response regulatory landscapes in grasses.
@@ -2529,6 +2938,9 @@
   url: https://doi.org/10.1105/tpc.19.00716
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - genomics
+  - stress-tolerance
 - id: 2020-s-investigating-the-potential
   year: 2020
   title: Investigating the potential of satellite imagery for high-throughput field phenotyping applications.
@@ -2550,6 +2962,9 @@
   url: https://doi.org/10.1117/12.2558729
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - image-analysis
+  - phenomics
 - id: 2020-b-multiscale-computational-models
   year: 2020
   title: Multiscale computational models can guide experimentation and targeted measurements for crop improvement.
@@ -2572,6 +2987,8 @@
   url: https://doi.org/10.1111/tpj.14722
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - review-methods
 - id: 2020-g-rgpdb-database-of
   year: 2020
   title: 'RGPDB: Database of root-associated genes and promoters in maize, soybean, and sorghum.'
@@ -2598,6 +3015,9 @@
   url: https://doi.org/10.1093/database/baaa038
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - genomics
+  - data-release
 - id: 2020-m-sorghum-segmentation-by
   year: 2020
   title: Sorghum Segmentation by Skeleton Extraction.
@@ -2613,6 +3033,10 @@
   url: Pubs/CVPPP2020_Sorghum.pdf
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - sorghum
+  - image-analysis
+  - ai-ml
 - id: 2020-skk-advances-in-plant
   year: 2020
   title: 'Advances in plant phenomics: From data and algorithms to biological insights.'
@@ -2628,6 +3052,9 @@
   url: https://doi.org/10.1002/aps3.11386
   first_author_is_lab_member: false
   lab_author_count: 0
+  tags:
+  - phenomics
+  - review-methods
 - id: 2020-a-fasterrcnn-based-deep
   year: 2020
   title: Faster-R-CNN based deep learning for locating corn tassels in UAV imagery.
@@ -2645,6 +3072,10 @@
   url: https://doi.org/10.1117/12.2560596
   first_author_is_lab_member: false
   lab_author_count: 0
+  tags:
+  - maize
+  - image-analysis
+  - ai-ml
 - id: 2020-ba-maize-genomes-to
   year: 2020
   title: 'Maize Genomes to Fields (G2F): 2014 –2017 field seasons’ genotype, phenotype, climatic, soil and inbred ear image
@@ -2665,6 +3096,9 @@
   author_note: Schnable JC is 34 of 51 authors
   first_author_is_lab_member: false
   lab_author_count: 0
+  tags:
+  - maize
+  - data-release
 - id: 2020-j-plant-segmentation-by
   year: 2020
   title: Plant segmentation by supervised machine learning methods.
@@ -2681,6 +3115,9 @@
   url: http://dx.doi.org/10.1002/ppj2.20001
   first_author_is_lab_member: false
   lab_author_count: 0
+  tags:
+  - image-analysis
+  - review-methods
 - id: 2020-a-robotic-detection-and
   year: 2020
   title: 'Robotic detection and grasp of maize and sorghum: stem measurement with contact.'
@@ -2697,6 +3134,9 @@
   url: https://doi.org/10.3390/robotics9030058
   first_author_is_lab_member: false
   lab_author_count: 0
+  tags:
+  - engineering
+  - phenomics
 - id: 2019-l-parallel-natural-selection
   year: 2019
   title: Parallel natural selection in the cold-adapted crop-wild relative Tripsacum dactyloides and artificial selection
@@ -2726,6 +3166,10 @@
   - bioRxiv: 10.1101/187575
   first_author_is_lab_member: true
   lab_author_count: 5
+  tags:
+  - maize
+  - comparative-genomics
+  - stress-tolerance
 - id: 2019-ma-continuous-monitoring-of
   year: 2019
   title: Continuous Monitoring of Soil Nitrate Using a Miniature Sensor with Poly(3-octyl-thiophene) and Molybdenum Disulfide
@@ -2749,6 +3193,9 @@
   url: https://doi.org/10.1021/acsami.9b07120
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - engineering
+  - nitrogen
 - id: 2019-p-high-density-genetic
   year: 2019
   title: High density genetic maps of seashore paspalum using genotyping-by-sequencing and their relationship to the Sorghum
@@ -2768,6 +3215,8 @@
   url: https://doi.org/10.1038/s41598-019-48257-3
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - genomics
 - id: 2019-y-highthroughput-analysis-of
   year: 2019
   title: 'High-throughput analysis of leaf physiological and chemical traits with VIS-NIR-SWIR spectroscopy: A case study
@@ -2790,6 +3239,10 @@
   url: https://doi.org/10.1186/s13007-019-0450-8
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
+  - nitrogen
+  - phenomics
 - id: 2019-y-identification-of-loci
   year: 2019
   title: Identification of Loci Controlling Adaptation in Chinese Soybean Landraces via a Combination of Conventional and
@@ -2826,6 +3279,11 @@
   url: https://doi.org/10.1111/pbi.13206
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - soybean
+  - association-studies
+  - quantitative-genetics
+  - genotype-environment-interaction
 - id: 2019-y-inplanta-nitrate-detection
   year: 2019
   title: In-planta nitrate detection using insertable plant microsensor.
@@ -2845,6 +3303,9 @@
   url: https://doi.org/10.1109/TRANSDUCERS.2019.8808527
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - engineering
+  - nitrogen
 - id: 2019-ma-novel-allsolidstate-soil
   year: 2019
   title: Novel all-solid-state soil nutrient sensor using nanocomposite of poly(3-octyl-thiophene) and molybdenum sulfate.
@@ -2865,6 +3326,9 @@
   url: https://doi.org/10.1109/TRANSDUCERS.2019.8808341
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - engineering
+  - nitrogen
 - id: 2019-g-nuspidercam-a-largescale
   year: 2019
   title: 'NU-Spidercam: A large-scale, cable-driven, integrated sensing and robotic system for precision phenotyping, remote
@@ -2886,6 +3350,9 @@
   url: https://authors.elsevier.com/sd/article/S0168169918314170
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - image-analysis
+  - engineering
 - id: 2019-l-qtl-identification-and
   year: 2019
   title: QTL identification and epistatic effect analysis of seed size- and weight-related traits in Zea mays L.
@@ -2904,6 +3371,9 @@
   url: https://doi.org/10.1007/s11032-019-0981-8
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
+  - association-studies
 - id: 2019-c-the-genome-of
   year: 2019
   title: The genome of broomcorn millet.
@@ -2939,6 +3409,9 @@
   url: https://doi.org/10.1038/s41467-019-08409-5
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - millets
+  - genomics
 - id: 2019-jc-genes-and-gene
   year: 2019
   title: Genes and Gene Models, an Important Distinction.
@@ -2952,6 +3425,8 @@
   url: https://doi.org/10.1111/nph.16011
   first_author_is_lab_member: false
   lab_author_count: 0
+  tags:
+  - review-methods
 - id: 2019-a-in-vivo-humanlike
   year: 2019
   title: In vivo human-like robotic phenotyping of leaf traits in maize and sorghum.
@@ -2968,6 +3443,11 @@
   url: https://doi.org/10.1016/j.compag.2019.104854
   first_author_is_lab_member: false
   lab_author_count: 0
+  tags:
+  - maize
+  - sorghum
+  - engineering
+  - phenomics
 - id: 2018-z-phenotypic-data-from
   year: 2018
   title: Phenotypic data from inbred parents can improve genomic prediction in pearl millet hybrids.
@@ -3000,6 +3480,9 @@
   url: https://doi.org/10.1534/g3.118.200242
   first_author_is_lab_member: true
   lab_author_count: 4
+  tags:
+  - millets
+  - quantitative-genetics
 - id: 2018-c-genotypecorrector-improved-genotype
   year: 2018
   title: 'Genotype-Corrector: improved genotype calls for genetic mapping.'
@@ -3021,6 +3504,9 @@
   url: https://doi.org/10.1038/s41598-018-28294-0
   first_author_is_lab_member: true
   lab_author_count: 2
+  tags:
+  - genomics
+  - review-methods
 - id: 2018-ds-integrating-phylogenetic-and
   year: 2018
   title: 'Integrating phylogenetic and network approaches to study gene family evolution: the case of the AGAMOUS family of
@@ -3038,6 +3524,9 @@
   url: https://doi.org/10.1177/1176934318764683
   first_author_is_lab_member: true
   lab_author_count: 2
+  tags:
+  - comparative-genomics
+  - review-methods
 - id: 2018-x-largely-unlinked-gene
   year: 2018
   title: Largely unlinked gene sets targeted by selection for domestication syndrome phenotypes in maize and sorghum.
@@ -3056,6 +3545,10 @@
   url: https://doi.org/10.1111/tpj.13806
   first_author_is_lab_member: true
   lab_author_count: 2
+  tags:
+  - maize
+  - sorghum
+  - genomics
 - id: 2018-c-optimizing-the-identification
   year: 2018
   title: Optimizing the identification of causal variants across varying genetic architectures in crops.
@@ -3073,6 +3566,10 @@
   url: https://doi.org/10.1111/pbi.13023
   first_author_is_lab_member: true
   lab_author_count: 2
+  tags:
+  - association-studies
+  - quantitative-genetics
+  - review-methods
 - id: 2018-z-functional-divergence-between
   year: 2018
   title: Functional Divergence Between Subgenomes and Gene Pairs After Whole Genome Duplications.
@@ -3088,6 +3585,9 @@
   url: https://doi.org/10.1016/j.molp.2017.12.010
   first_author_is_lab_member: true
   lab_author_count: 1
+  tags:
+  - comparative-genomics
+  - review-methods
 - id: 2018-skk-lowtemperature-tolerance-in
   year: 2018
   title: 'Low-temperature tolerance in land plants: Are transcript and membrane responses conserved?.'
@@ -3105,6 +3605,9 @@
   url: https://doi.org/10.1016/j.plantsci.2018.08.002
   first_author_is_lab_member: true
   lab_author_count: 1
+  tags:
+  - stress-tolerance
+  - review-methods
 - id: 2018-s-intragenic-meiotic-crossovers
   year: 2018
   title: Intragenic Meiotic Crossovers Generate Novel Alleles with Transgressive Expression Levels.
@@ -3127,6 +3630,9 @@
   url: https://academic.oup.com/mbe/article/35/11/2762/5090457?guestAccessKey=c8f71ef2-4f29-4078-9c73-b62a8874d62a
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
+  - genomics
 - id: 2018-a-linked-read-technology
   year: 2018
   title: Linked read technology for assembling large complex and polyploid genomes.
@@ -3148,6 +3654,9 @@
   url: https://doi.org/10.1186/s12864-018-5040-z
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - millets
+  - genomics
 - id: 2018-tf-location-of-low
   year: 2018
   title: Location of low copy genes in chromosomes of Brachiaria spp.
@@ -3168,6 +3677,8 @@
   url: https://doi.org/10.1007/s11033-018-4144-5
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - genomics
 - id: 2018-n-maize-genomes-to
   year: 2018
   title: 'Maize Genomes to Fields: 2014 and 2015 field season genotype, phenotype, environment, and inbred ear image datasets.'
@@ -3189,6 +3700,9 @@
   author_note: Schnable JC is 31 of 44 authors
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
+  - data-release
 - id: 2018-y-functional-modeling-of
   year: 2018
   title: Functional Modeling of Plant Growth Dynamics.
@@ -3204,6 +3718,9 @@
   url: https://dl.sciencesocieties.org/publications/tppj/abstracts/1/1/170007
   first_author_is_lab_member: false
   lab_author_count: 0
+  tags:
+  - phenomics
+  - review-methods
 - id: 2017-y-differentially-regulated-orthologs
   year: 2017
   title: Differentially regulated orthologs in sorghum and the subgenomes of maize.
@@ -3227,6 +3744,12 @@
   url: http://dx.doi.org/10.1105/tpc.17.00354
   first_author_is_lab_member: true
   lab_author_count: 4
+  tags:
+  - maize
+  - sorghum
+  - genomics
+  - transcriptomics
+  - comparative-genomics
 - id: 2017-x-genomewide-characterization-of
   year: 2017
   title: Genome-Wide Characterization of Non-Reference Transposable Elements Insertion Polymorphisms Reveals Genetic Diversity
@@ -3251,6 +3774,9 @@
   url: https://doi.org/10.1186/s12864-017-4103-x
   first_author_is_lab_member: true
   lab_author_count: 2
+  tags:
+  - maize
+  - genomics
 - id: 2017-z-conventional-and-hyperspectral
   year: 2017
   title: Conventional and hyperspectral time-series imaging of maize lines widely used in field trials.
@@ -3271,6 +3797,10 @@
   url: https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix117/4656251?guestAccessKey=71c1c32f-78fd-42c0-99a3-38e6c4fd8100
   first_author_is_lab_member: true
   lab_author_count: 1
+  tags:
+  - maize
+  - image-analysis
+  - phenomics
 - id: 2017-x-harnessing-the-potential
   year: 2017
   title: Harnessing the potential of the tea tree genome.
@@ -3286,6 +3816,8 @@
   url: https://doi.org/10.1016/j.molp.2017.05.009
   first_author_is_lab_member: true
   lab_author_count: 1
+  tags:
+  - review-methods
 - id: 2017-jd-genomeguided-phylotranscriptomics
   year: 2017
   title: Genome-Guided Phylo-Transcriptomics.
@@ -3307,6 +3839,9 @@
   url: https://doi.org/10.1038/s41598-017-13236-z
   first_author_is_lab_member: false
   lab_author_count: 2
+  tags:
+  - genomics
+  - genome-editing
 - id: 2017-w-a-comprehensive-analysis
   year: 2017
   title: A comprehensive analysis of alternative splicing in paleopolyploid maize.
@@ -3326,6 +3861,11 @@
   url: https://doi.org/10.3389/fpls.2017.00694
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
+  - genomics
+  - transcriptomics
+  - comparative-genomics
 - id: 2017-s-dice-discovery-of
   year: 2017
   title: 'DiCE: Discovery of Conserved Noncoding Sequences Efficiently.'
@@ -3343,6 +3883,10 @@
   url: http://doi.org/10.1109/BIBM.2017.8217628
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - genomics
+  - comparative-genomics
+  - review-methods
 - id: 2017-w-evolutionarily-conserved-alternative
   year: 2017
   title: Evolutionarily conserved alternative splicing across monocots.
@@ -3360,6 +3904,10 @@
   url: https://doi.org/10.1534/genetics.117.300189
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - genomics
+  - transcriptomics
+  - comparative-genomics
 - id: 2017-p-high-throughput-in
   year: 2017
   title: High throughput in vivo analysis of plant leaf chemical properties using hyperspectral imaging.
@@ -3376,6 +3924,9 @@
   url: http://dx.doi.org/10.3389/fpls.2017.01348
   first_author_is_lab_member: false
   lab_author_count: 0
+  tags:
+  - image-analysis
+  - phenomics
 - id: 2017-z-stagcns-an-orderaware
   year: 2017
   title: 'STAG-CNS: An order-aware conserved noncoding sequence discovery tool for arbitrary numbers of species.'
@@ -3392,6 +3943,10 @@
   url: http://dx.doi.org/10.1016/j.molp.2017.05.010
   first_author_is_lab_member: false
   lab_author_count: 0
+  tags:
+  - genomics
+  - comparative-genomics
+  - review-methods
 - id: 2017-j-the-effect-of
   year: 2017
   title: The effect of artificial selection on phenotypic plasticity in maize.
@@ -3410,6 +3965,9 @@
   author_note: Schnable JC is 29 of 40 authors
   first_author_is_lab_member: false
   lab_author_count: 0
+  tags:
+  - maize
+  - genotype-environment-interaction
 - id: 2017-jc-tunable-genotypingbysequencing-tgbs
   year: 2017
   title: Tunable Genotyping-By-Sequencing (tGBS) enables reliable genotyping of heterozygous loci.
@@ -3425,6 +3983,9 @@
   url: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx853/4210942/tGBS-genotypingbysequencing-enables-reliable?guestAccessKey=0ba723ae-c6b2-4d7f-841e-cd46b4bf68f9
   first_author_is_lab_member: false
   lab_author_count: 0
+  tags:
+  - genomics
+  - review-methods
 - id: 2016-z-rnaseq-based-analysis
   year: 2016
   title: RNA-seq based analysis of population structure within the maize inbred B73.
@@ -3440,6 +4001,10 @@
   url: http://dx.doi.org/10.1371/journal.pone.0157942
   first_author_is_lab_member: true
   lab_author_count: 1
+  tags:
+  - maize
+  - genomics
+  - transcriptomics
 - id: 2016-sd-automated-vegetative-stage
   year: 2016
   title: Automated vegetative stage phenotyping analysis of maize plants using visible light images.
@@ -3458,6 +4023,9 @@
   url: Pubs/Sruti_KDD_FEWS.pdf
   first_author_is_lab_member: false
   lab_author_count: 2
+  tags:
+  - maize
+  - image-analysis
 - id: 2016-p-cross-species-selection
   year: 2016
   title: Cross species selection scans identify components of C4 photosynthesis in the grasses.
@@ -3475,6 +4043,9 @@
   url: http://dx.doi.org/10.1093/jxb/erw256
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - comparative-genomics
+  - photosynthesis
 - id: 2016-f-epigenetic-regulation-of
   year: 2016
   title: Epigenetic regulation of subgenome dominance following whole genome triplication in Brassica rapa.
@@ -3496,6 +4067,9 @@
   url: http://dx.doi.org/10.1111/nph.13884
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - genomics
+  - comparative-genomics
 - id: 2016-bl-fractbias-a-graphical
   year: 2016
   title: 'FractBias: a graphical tool for assessing fractionation bias after whole genome duplications.'
@@ -3514,6 +4088,9 @@
   url: http://dx.doi.org/10.1093/bioinformatics/btw666
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - genomics
+  - comparative-genomics
 - id: 2016-z-integration-of-omic
   year: 2016
   title: Integration of omic networks in a developmental atlas of maize.
@@ -3535,6 +4112,9 @@
   url: http://dx.doi.org/10.1126/science.aag1125
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
+  - genomics
 - id: 2016-x-the-cterminal-motif
   year: 2016
   title: The C-terminal motif of SiAGO1b is required for the regulation of growth, development and stress responses in foxtail
@@ -3558,6 +4138,9 @@
   url: http://dx.doi.org/10.1093/jxb/erw135
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - millets
+  - stress-tolerance
 - id: 2016-sg-mapping-qtls-for
   year: 2016
   title: Mapping QTLs for morpho-agronomic traits in proso millet (Panicum miliaceum L.).
@@ -3573,6 +4156,9 @@
   url: http://dx.doi.org/10.1007/s11032-016-0460-4
   first_author_is_lab_member: false
   lab_author_count: 0
+  tags:
+  - millets
+  - quantitative-genetics
 - id: 2016-y-temporal-dynamics-of
   year: 2016
   title: Temporal dynamics of maize plant growth, water use, and plant water content using automated high throughput RGB and
@@ -3590,6 +4176,10 @@
   url: http://dx.doi.org/10.1016/j.compag.2016.07.028
   first_author_is_lab_member: false
   lab_author_count: 0
+  tags:
+  - maize
+  - image-analysis
+  - phenomics
 - id: 2016-s-the-draft-genome
   year: 2016
   title: 'The draft genome of Dichanthelium oligosanthes: A C3 panicoid grass species.'
@@ -3608,6 +4198,8 @@
   url: http://dx.doi.org/10.1186/s13059-016-1080-3
   first_author_is_lab_member: false
   lab_author_count: 0
+  tags:
+  - genomics
 - id: 2015-h-allmaps-robust-scaffold
   year: 2015
   title: 'ALLMAPS: robust scaffold ordering based on multiple maps.'
@@ -3630,6 +4222,9 @@
   url: http://dx.doi.org/10.1186/s13059-014-0573-1
   first_author_is_lab_member: false
   lab_author_count: 2
+  tags:
+  - genomics
+  - review-methods
 - id: 2015-s-impacts-of-whole
   year: 2015
   title: Impacts of Whole Genome Triplication on MIRNA Evolution in Brassica rapa.
@@ -3648,6 +4243,9 @@
   url: http://dx.doi.org/10.1093/gbe/evv206
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - genomics
+  - comparative-genomics
 - id: 2015-g-microsatellite-variations-of
   year: 2015
   title: Microsatellite Variations of Elite Setaria Varieties Released during Last Six Decades in China.
@@ -3671,6 +4269,8 @@
   url: http://dx.doi.org/10.1371/journal.pone.0125688
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - millets
 - id: 2015-jd-phylogeny-and-photosynthesis
   year: 2015
   title: Phylogeny and photosynthesis of the grass tribe Paniceae.
@@ -3687,6 +4287,9 @@
   url: http://dx.doi.org/10.3732/ajb.1500222
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - comparative-genomics
+  - photosynthesis
 - id: 2015-h-synfind-compiling-syntenic
   year: 2015
   title: 'SynFind: compiling syntenic regions across any set of genomes on demand.'
@@ -3704,6 +4307,10 @@
   url: http://dx.doi.org/10.1093/gbe/evv219
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - genomics
+  - comparative-genomics
+  - review-methods
 - id: 2015-jc-genome-evolution-in
   year: 2015
   title: 'Genome evolution in maize: from genomes back to genes.'
@@ -3717,6 +4324,9 @@
   url: http://dx.doi.org/10.1146/annurev-arplant-043014-115604
   first_author_is_lab_member: false
   lab_author_count: 0
+  tags:
+  - maize
+  - review-methods
 - id: 2014-ja-a-near-complete
   year: 2014
   title: A near complete snapshot of the Zea mays seedling transcriptome revealed from ultra-deep sequencing.
@@ -3741,6 +4351,10 @@
   url: http://www.nature.com/srep/2014/140331/srep04519/full/srep04519.html
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
+  - genomics
+  - transcriptomics
 - id: 2014-amr-cooption-of-the
   year: 2014
   title: Co-option of the polarity gene network shapes filament morphology in angiosperms.
@@ -3759,6 +4373,8 @@
   url: http://dx.doi.org/10.1038/srep06194
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - comparative-genomics
 - id: 2014-x-initiation-of-setaria
   year: 2014
   title: Initiation of Setaria as a model plant.
@@ -3775,6 +4391,9 @@
   url: http://engineering.cae.cn/fase/EN/10.15302/J-FASE-2014011
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - millets
+  - review-methods
 - id: 2014-l-mapping-of-quantitative
   year: 2014
   title: Mapping of Quantitative Trait Locus (QTLs) that Contribute to Germination and Early Seedling Drought Tolerance in
@@ -3800,6 +4419,10 @@
   url: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0101868
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - millets
+  - quantitative-genetics
+  - stress-tolerance
 - id: 2014-a-nonsyntenic-genes-drive
   year: 2014
   title: Nonsyntenic Genes Drive Highly Dynamic Complementation of Gene Expression in Maize Hybrids.
@@ -3822,6 +4445,10 @@
   url: http://dx.doi.org/10.1105/tpc.114.130948
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - maize
+  - transcriptomics
+  - comparative-genomics
 - id: 2013-g-automated-conserved-noncoding
   year: 2013
   title: Automated conserved noncoding sequence (CNS) discovery reveals differences in gene content and promoter evolution
@@ -3839,6 +4466,9 @@
   url: http://dx.doi.org/10.3389/fpls.2013.00170
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - genomics
+  - comparative-genomics
 - id: 2013-a-two-evolutionarily-distinct
   year: 2013
   title: Two Evolutionarily Distinct Classes of Paleopolyploidy.
@@ -3854,6 +4484,9 @@
   url: http://dx.doi.org/10.1093/molbev/mst230
   first_author_is_lab_member: false
   lab_author_count: 0
+  tags:
+  - comparative-genomics
+  - review-methods
 - id: 2012-jc-escape-from-preferential
   year: 2012
   title: Escape from preferential retention following repeated whole genome duplication in plants.
@@ -3870,6 +4503,9 @@
   url: http://dx.doi.org/10.3389/fpls.2012.00094
   first_author_is_lab_member: true
   lab_author_count: 1
+  tags:
+  - comparative-genomics
+  - review-methods
 - id: 2012-jc-genomewide-analysis-of
   year: 2012
   title: Genome-wide analysis of syntenic gene deletion in the grasses.
@@ -3885,6 +4521,9 @@
   url: http://dx.doi.org/10.1093/gbe/evs009
   first_author_is_lab_member: true
   lab_author_count: 1
+  tags:
+  - genomics
+  - comparative-genomics
 - id: 2012-h-altered-patterns-of
   year: 2012
   title: Altered patterns of fractionation and exon deletions in Brassica rapa support a two-step model of paleohexaploidy.
@@ -3906,6 +4545,8 @@
   url: http://dx.doi.org/10.1534/genetics.111.137349
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - comparative-genomics
 - id: 2012-w-highresolution-mapping-of
   year: 2012
   title: High-resolution mapping of open chromatin in the rice genome.
@@ -3925,6 +4566,9 @@
   url: http://dx.doi.org/10.1101/gr.131342.111
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - genomics
+  - other-crops
 - id: 2012-m-fractionation-mutagenesis-and
   year: 2012
   title: Fractionation mutagenesis and similar consequences of mechanisms removing dispensable or less-expressed DNA in plants.
@@ -3943,6 +4587,9 @@
   url: http://dx.doi.org/10.1016/j.pbi.2012.01.015
   first_author_is_lab_member: false
   lab_author_count: 0
+  tags:
+  - comparative-genomics
+  - review-methods
 - id: 2011-jc-comparative-genomics-with
   year: 2011
   title: 'Comparative genomics with maize and other grasses: from genes to genomes.'
@@ -3956,6 +4603,9 @@
   url: http://www.schnablelab.org/Pubs/56_183.pdf
   first_author_is_lab_member: true
   lab_author_count: 1
+  tags:
+  - maize
+  - review-methods
 - id: 2011-jc-differentiation-of-the
   year: 2011
   title: Differentiation of the maize subgenomes by genome dominance and both ancient and ongoing gene loss.
@@ -3971,6 +4621,10 @@
   url: http://www.pnas.org/content/108/10/4069.abstract
   first_author_is_lab_member: true
   lab_author_count: 1
+  tags:
+  - maize
+  - genomics
+  - comparative-genomics
 - id: 2011-jc-dosesensitivity-conserved-noncoding
   year: 2011
   title: Dose-sensitivity, conserved noncoding sequences and duplicate gene retention through multiple tetraploidies in the
@@ -3988,6 +4642,9 @@
   url: http://www.frontiersin.org/plant_genetics_and_genomics/10.3389/fpls.2011.00002/abstract
   first_author_is_lab_member: true
   lab_author_count: 1
+  tags:
+  - genomics
+  - comparative-genomics
 - id: 2011-jc-genes-identified-by
   year: 2011
   title: Genes identified by visible mutant phenotypes show increased bias towards one of two maize subgenomes.
@@ -4002,6 +4659,8 @@
   url: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0017855
   first_author_is_lab_member: true
   lab_author_count: 1
+  tags:
+  - maize
 - id: 2011-h-screening-synteny-blocks
   year: 2011
   title: Screening synteny blocks in pairwise genome comparisons through integer programming.
@@ -4020,6 +4679,9 @@
   url: http://www.biomedcentral.com/1471-2105/12/102/abstract
   first_author_is_lab_member: false
   lab_author_count: 1
+  tags:
+  - comparative-genomics
+  - review-methods
 - id: 2011-jc-heritable-epigenetic-variation
   year: 2011
   title: Heritable epigenetic variation among maize inbreds.
@@ -4042,6 +4704,9 @@
   url: http://dx.doi.org/10.1371/journal.pgen.1002372
   first_author_is_lab_member: false
   lab_author_count: 0
+  tags:
+  - maize
+  - genomics
 - id: 2010-bs-following-tetraploidy-in
   year: 2010
   title: Following tetraploidy in maize, a short deletion mechanism removed genes preferentially from one of the two homeologs.
@@ -4058,6 +4723,9 @@
   url: http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000409
   first_author_is_lab_member: false
   lab_author_count: 0
+  tags:
+  - maize
+  - comparative-genomics
 - id: 2010-initiative-genome-sequencing-and
   year: 2010
   title: Genome sequencing and analysis of the model grass Brachypodium distachyon.
@@ -4070,3 +4738,5 @@
   url: http://dx.doi.org/10.1038/nature08747
   first_author_is_lab_member: false
   lab_author_count: 0
+  tags:
+  - genomics

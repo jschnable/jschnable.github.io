@@ -1,0 +1,121 @@
+# Publication tags vocabulary
+# Colors are used for visual distinction; grouped by category
+
+# Crops - green tones
+- id: maize
+  label: Maize
+  color: "#16a34a"
+  category: crop
+
+- id: sorghum
+  label: Sorghum
+  color: "#ea580c"
+  category: crop
+
+- id: millets
+  label: Millets
+  color: "#ca8a04"
+  category: crop
+
+- id: soybean
+  label: Soybean
+  color: "#059669"
+  category: crop
+
+- id: other-crops
+  label: Other Crops
+  color: "#0d9488"
+  category: crop
+
+# Methods - blue tones
+- id: association-studies
+  label: Association Studies
+  color: "#2563eb"
+  category: method
+
+- id: genomics
+  label: Genomics
+  color: "#7c3aed"
+  category: method
+
+- id: transcriptomics
+  label: Transcriptomics
+  color: "#9333ea"
+  category: method
+
+- id: image-analysis
+  label: Image Analysis
+  color: "#0891b2"
+  category: method
+
+- id: quantitative-genetics
+  label: Quantitative Genetics
+  color: "#4f46e5"
+  category: method
+
+- id: ai-ml
+  label: AI/ML
+  color: "#0284c7"
+  category: method
+
+- id: engineering
+  label: Engineering
+  color: "#475569"
+  category: method
+
+- id: comparative-genomics
+  label: Comparative Genomics
+  color: "#6366f1"
+  category: method
+
+- id: genome-editing
+  label: Genome Editing
+  color: "#8b5cf6"
+  category: method
+
+# Topics - warm tones
+- id: genotype-environment-interaction
+  label: G x E
+  color: "#dc2626"
+  category: topic
+
+- id: flowering-time
+  label: Flowering Time
+  color: "#e11d48"
+  category: topic
+
+- id: stress-tolerance
+  label: Stress Tolerance
+  color: "#db2777"
+  category: topic
+
+- id: photosynthesis
+  label: Photosynthesis
+  color: "#22c55e"
+  category: topic
+
+- id: microbiome
+  label: Microbiome
+  color: "#14b8a6"
+  category: topic
+
+- id: nitrogen
+  label: Nitrogen
+  color: "#06b6d4"
+  category: topic
+
+- id: phenomics
+  label: Phenomics
+  color: "#f59e0b"
+  category: topic
+
+# Types - neutral tones
+- id: review-methods
+  label: Review/Methods
+  color: "#64748b"
+  category: type
+
+- id: data-release
+  label: Data Release
+  color: "#78716c"
+  category: type
