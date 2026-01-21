@@ -14,8 +14,8 @@ bigimg:
 <div class="container">
 
 <picture>
-  <source srcset="/images/optimized/lab2022_v2_800.webp" type="image/webp">
-  <img src="/images/optimized/lab2022_v2.jpg" alt="The Schnable Lab team" class="lab-photo" loading="eager">
+  <source srcset="/images/optimized/lab2024_2280.webp" type="image/webp">
+  <img src="/images/optimized/lab2024_2280.jpg" alt="The Schnable Lab team" class="lab-photo" loading="eager">
 </picture>
 
 </div>
