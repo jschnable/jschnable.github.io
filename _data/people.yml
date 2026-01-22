@@ -24,17 +24,6 @@
   - label: X
     url: https://twitter.com/vla_torres
   category: Faculty
-- name: Zhongjie Ji
-  role: Heuermann Research Fellow
-  status: current
-  image: /images/optimized/People_Images/Zhongjie.jpg
-  page_path: peoplepages/ZhongjieJ.md
-  cv: /CVs/CV_ZhongjieJ.pdf
-  orcid: 0009-0006-1448-305X
-  scholar: https://scholar.google.com/citations?user=n6JlWJQAAAAJ&hl=en&oi=ao
-  github:
-  linkedin: zhongjie-ji-5095b2226
-  category: Research Staff
 - name: Jon Turkus
   role: Lab Manager
   status: current
@@ -48,16 +37,8 @@
   - label: X
     url: https://twitter.com/JonathanTurkus
   category: Research Staff
-- name: Rossy Bedolla
-  role: Office Associate
-  status: current
-  image: /images/optimized/People_Images/RossyB2.jpg
-  page_path: peoplepages/Rossy.md
-  cv: /CVs/CV-RossyB.pdf
-  linkedin: rosa-bedolla-gaxiola-9a9096171
-  category: Professional Staff
 - name: Chidanand "Chidu" Ullagaddi
-  role: Technician
+  role: Field Manager
   status: current
   image: /images/optimized/People_Images/Chidanand.JPG
   page_path: peoplepages/Chidu.md
@@ -69,6 +50,31 @@
   - label: X
     url: https://twitter.com/Chidu_ullagaddi
   category: Research Staff
+- name: Zhongjie Ji
+  role: Heuermann Research Fellow
+  status: current
+  image: /images/optimized/People_Images/Zhongjie.jpg
+  page_path: peoplepages/ZhongjieJ.md
+  cv: /CVs/CV_ZhongjieJ.pdf
+  orcid: 0009-0006-1448-305X
+  scholar: https://scholar.google.com/citations?user=n6JlWJQAAAAJ&hl=en&oi=ao
+  github:
+  linkedin: zhongjie-ji-5095b2226
+  category: Research Staff
+- name: Anuradha Choudhary
+  role: Research and Outreach Specialist
+  status: current
+  image: /images/optimized/People_Images/AnuradhaC.jpg
+  page_path: peoplepages/AnuradhaC.md
+  category: Research Staff
+- name: Rossy Bedolla
+  role: Administrative Specialist
+  status: current
+  image: /images/optimized/People_Images/RossyB2.jpg
+  page_path: peoplepages/Rossy.md
+  cv: /CVs/CV-RossyB.pdf
+  linkedin: rosa-bedolla-gaxiola-9a9096171
+  category: Professional Staff
 - name: Jensina Davis
   role: PhD Student
   status: current
