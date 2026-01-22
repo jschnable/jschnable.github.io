@@ -41,37 +41,6 @@ googlefonts: ["Monoton", "Lobster"]
       {% if person_url %}
         <a class="people-card__cta" href="{{ person_url | relative_url }}">View profile →</a>
       {% endif %}
-      {% assign link_count = 0 %}
-      {% if person.cv %}{% assign link_count = link_count | plus: 1 %}{% endif %}
-      {% if person.orcid %}{% assign link_count = link_count | plus: 1 %}{% endif %}
-      {% if person.scholar %}{% assign link_count = link_count | plus: 1 %}{% endif %}
-      {% if person.github %}{% assign link_count = link_count | plus: 1 %}{% endif %}
-      {% if person.socials %}{% assign link_count = link_count | plus: person.socials.size %}{% endif %}
-      {% if link_count > 0 %}
-      <ul class="people-card__links">
-        {% if person.cv %}<li><a href="{{ person.cv | relative_url }}">CV</a></li>{% endif %}
-        {% if person.orcid %}<li><a href="https://orcid.org/{{ person.orcid }}">ORCID</a></li>{% endif %}
-        {% if person.scholar %}
-          {% assign scholar_url = person.scholar %}
-          {% unless scholar_url contains '://' %}
-            {% assign scholar_url = 'https://scholar.google.com/citations?user=' | append: person.scholar %}
-          {% endunless %}
-          <li><a href="{{ scholar_url }}">Google Scholar</a></li>
-        {% endif %}
-        {% if person.github %}    
-          {% assign github_url = person.github %}    
-          {% unless github_url contains '://' %}      
-            {% assign github_url = 'https://github.com/' | append: person.github %}    
-          {% endunless %}    
-          <li><a href="{{ github_url }}">GitHub</a></li>
-        {% endif %}
-        {% if person.socials %}
-          {% for social in person.socials %}
-            <li><a href="{{ social.url }}">{{ social.label }}</a></li>
-          {% endfor %}
-        {% endif %}
-      </ul>
-      {% endif %}
     </li>
   {% endfor %}
   </ul>
