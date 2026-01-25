@@ -67,6 +67,16 @@
   image: /images/optimized/People_Images/AnuradhaC.jpg
   page_path: peoplepages/AnuradhaC.md
   category: Research Staff
+- name: Sumeet Mankar
+  role: Postdoctoral Research Associate
+  status: current
+  image: /images/optimized/People_Images/SumeetM.jpg
+  page_path: peoplepages/SumeetM.md
+  cv: /CVs/SumeetCV.pdf
+  orcid: 0000-0002-9603-121X
+  scholar: https://scholar.google.com/citations?user=kbUIVnsAAAAJ&hl=en
+  linkedin: sumeetmankar
+  category: Research Staff
 - name: Rossy Bedolla
   role: Administrative Specialist
   status: current
