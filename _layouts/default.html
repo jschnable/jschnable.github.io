@@ -70,13 +70,19 @@
     {% include analytics.html %}
 
     <script>
-      // Add shadow to header on scroll
+      // Add shadow to header on scroll and manage sticky year-nav positioning
       (function() {
         var masthead = document.getElementById('masthead');
         if (!masthead) return;
 
         var scrollThreshold = 10;
         var ticking = false;
+
+        // Set CSS custom property for header height (used by year-nav)
+        function updateHeaderHeight() {
+          var height = masthead.offsetHeight;
+          document.documentElement.style.setProperty('--header-height', height + 'px');
+        }
 
         function updateHeader() {
           if (window.scrollY > scrollThreshold) {
@@ -87,12 +93,39 @@
           ticking = false;
         }
 
+        // Set initial header height
+        updateHeaderHeight();
+
+        // Update on resize (header height may change when nav wraps)
+        window.addEventListener('resize', function() {
+          updateHeaderHeight();
+        }, { passive: true });
+
         window.addEventListener('scroll', function() {
           if (!ticking) {
             requestAnimationFrame(updateHeader);
             ticking = true;
           }
         }, { passive: true });
+
+        // Detect when header leaves viewport and adjust year-nav accordingly
+        if ('IntersectionObserver' in window) {
+          var yearNav = document.querySelector('.year-nav');
+          if (yearNav) {
+            var observer = new IntersectionObserver(function(entries) {
+              entries.forEach(function(entry) {
+                if (entry.isIntersecting) {
+                  // Header is visible - year-nav should be below it
+                  document.documentElement.classList.remove('header-hidden');
+                } else {
+                  // Header is gone - year-nav should go to top
+                  document.documentElement.classList.add('header-hidden');
+                }
+              });
+            }, { threshold: 0 });
+            observer.observe(masthead);
+          }
+        }
       })();
     </script>
   </body>
