@@ -1,0 +1,20 @@
+# Schnable Lab Website - robots.txt
+# https://schnablelab.org
+
+# Allow all crawlers access to public content
+User-agent: *
+Allow: /
+
+# Block internal/development directories
+Disallow: /scripts/
+Disallow: /docs/
+Disallow: /tools/
+Disallow: /_includes/
+Disallow: /_sass/
+
+# Block backup and temporary files
+Disallow: /*.backup
+Disallow: /*~
+
+# Sitemap location
+Sitemap: https://schnablelab.org/sitemap.xml
