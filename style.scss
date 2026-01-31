@@ -20,7 +20,7 @@ html {
 body {
 	background: $white;
   font: 18px/1.6 $font-body;
-  color: $darkGray;
+  color: $darkerGray;
 }
 
 .container {
@@ -52,7 +52,12 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 26px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  margin: 1.5em 0 0.8em;
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid rgba(208, 0, 0, 0.15);
 }
 
 h3 {
@@ -771,13 +776,14 @@ th, td {
   align-items: center;
   gap: 6px;
   margin-bottom: 14px;
-  padding: 6px 14px;
+  padding: 8px 16px;
   border-radius: 999px;
   border: 1px solid #d00000;
+  background: rgba(208, 0, 0, 0.06);
   color: #d00000;
   font-weight: 600;
   font-size: 0.9em;
-  transition: background 0.2s ease, color 0.2s ease, transform 0.2s ease;
+  transition: background 0.2s ease, color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .people-card__cta:hover,
@@ -786,6 +792,7 @@ th, td {
   background: #d00000;
   color: #fff;
   transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(208, 0, 0, 0.25);
 }
 
 .people-card__cta:focus-visible {
@@ -1273,6 +1280,8 @@ footer {
 
   h2 {
     margin-top: 0;
+    border-bottom: none;
+    padding-bottom: 0;
   }
 
   ul {
