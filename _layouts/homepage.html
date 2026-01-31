@@ -20,6 +20,7 @@
   </head>
 
   <body>
+    <a href="#main" class="skip-link">Skip to main content</a>
     <div class="wrapper-masthead" id="masthead">
       <div class="container">
         <header class="masthead">
@@ -37,15 +38,16 @@
               </div>
             </div>
           </div>
-          <nav>
-            <a href="{{ site.baseurl }}/">Home</a>
-            <a href="{{ site.baseurl }}/people/">People</a>
-            <a href="{{ site.baseurl }}/research/">Research</a>
-            <a href="{{ site.baseurl }}/news/">News</a>
-            <a href="{{ site.baseurl }}/papers/">Publications</a>
-            <a href="{{ site.baseurl }}/timevenn/">TimeVenn</a>
-            <a href="{{ site.baseurl }}/jobs/">Join the Lab</a>
-            <a href="{{ site.baseurl }}/search/">Search</a>
+          <nav aria-label="Main navigation">
+            {% assign current_path = page.url | default: '/' %}
+            <a href="{{ site.baseurl }}/"{% if current_path == '/' %} aria-current="page"{% endif %}>Home</a>
+            <a href="{{ site.baseurl }}/people/"{% if current_path contains '/people' %} aria-current="page"{% endif %}>People</a>
+            <a href="{{ site.baseurl }}/research/"{% if current_path contains '/research' %} aria-current="page"{% endif %}>Research</a>
+            <a href="{{ site.baseurl }}/news/"{% if current_path contains '/news' %} aria-current="page"{% endif %}>News</a>
+            <a href="{{ site.baseurl }}/papers/"{% if current_path contains '/papers' %} aria-current="page"{% endif %}>Publications</a>
+            <a href="{{ site.baseurl }}/timevenn/"{% if current_path contains '/timevenn' %} aria-current="page"{% endif %}>TimeVenn</a>
+            <a href="{{ site.baseurl }}/jobs/"{% if current_path contains '/jobs' %} aria-current="page"{% endif %}>Join the Lab</a>
+            <a href="{{ site.baseurl }}/search/"{% if current_path contains '/search' %} aria-current="page"{% endif %}>Search</a>
           </nav>
         </header>
       </div>

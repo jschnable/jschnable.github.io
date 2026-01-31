@@ -36,7 +36,7 @@ Research in the Schnable Lab@UNL is an interdisciplinary endeavor. Here are our 
 
 </div>
 <div class="research-section__image">
-<img src="/images/optimized/Science_Images/HTPMerged.jpg" alt="High Throughput Phenotyping" />
+<img src="/images/optimized/Science_Images/HTPMerged.jpg" alt="High Throughput Phenotyping" width="400" height="300" loading="lazy" decoding="async" />
 </div>
 </div>
 </section>
@@ -62,7 +62,7 @@ Research in the Schnable Lab@UNL is an interdisciplinary endeavor. Here are our 
 
 </div>
 <div class="research-section__image">
-<img src="/images/optimized/Science_Images/QGMerged.jpg" alt="Quantitative Genetics" />
+<img src="/images/optimized/Science_Images/QGMerged.jpg" alt="Quantitative Genetics" width="400" height="300" loading="lazy" decoding="async" />
 </div>
 </div>
 </section>
@@ -86,7 +86,7 @@ Research in the Schnable Lab@UNL is an interdisciplinary endeavor. Here are our 
 
 </div>
 <div class="research-section__image">
-<img src="/images/optimized/Science_Images/CompGenMerged.jpg" alt="Comparative Genomics" />
+<img src="/images/optimized/Science_Images/CompGenMerged.jpg" alt="Comparative Genomics" width="400" height="300" loading="lazy" decoding="async" />
 </div>
 </div>
 </section>
