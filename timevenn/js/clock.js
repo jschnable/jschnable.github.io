@@ -35,8 +35,13 @@ class ClockRenderer {
         // Selection state
         this.selection = null; // { startHour, endHour }
         this.isDragging = false;
+        this.dragMode = null; // 'create' | 'adjustStart' | 'adjustEnd' | 'move'
         this.dragStartHour = null;
+        this.dragOffset = 0; // For 'move' mode: offset from click to selection start
         this.onSelectionChange = null; // Callback for selection changes
+
+        // Handle detection threshold (in hours, ~30 min = easy to grab)
+        this.handleThreshold = 0.5;
 
         this.setupDragHandlers();
     }
@@ -47,12 +52,44 @@ class ClockRenderer {
         this.boundDragEnd = (e) => this.handleDragEnd(e);
 
         this.svg.addEventListener('mousedown', (e) => this.handleDragStart(e));
+        this.svg.addEventListener('mousemove', (e) => this.updateCursor(e));
 
         // Touch support
         this.svg.addEventListener('touchstart', (e) => this.handleDragStart(e), { passive: false });
         this.svg.addEventListener('touchmove', (e) => this.handleDragMove(e), { passive: false });
         this.svg.addEventListener('touchend', (e) => this.handleDragEnd(e));
         this.svg.addEventListener('touchcancel', (e) => this.handleDragEnd(e));
+    }
+
+    // Update cursor based on hover position
+    updateCursor(e) {
+        if (this.isDragging) return; // Don't change cursor while dragging
+
+        const pos = this.getEventPosition(e);
+        const distance = Math.sqrt(pos.x * pos.x + pos.y * pos.y);
+
+        if (distance > CLOCK_CONFIG.outerRadius) {
+            this.svg.style.cursor = 'default';
+            return;
+        }
+
+        if (!this.selection) {
+            this.svg.style.cursor = 'crosshair';
+            return;
+        }
+
+        const hoverHour = this.positionToHour(pos.x, pos.y);
+        const nearStart = this.isNearHour(hoverHour, this.selection.startHour);
+        const nearEnd = this.isNearHour(hoverHour, this.selection.endHour);
+        const inside = this.isInsideSelection(hoverHour);
+
+        if (nearStart || nearEnd) {
+            this.svg.style.cursor = 'grab';
+        } else if (inside) {
+            this.svg.style.cursor = 'move';
+        } else {
+            this.svg.style.cursor = 'crosshair';
+        }
     }
 
     getEventPosition(e) {
@@ -110,15 +147,83 @@ class ClockRenderer {
         // Only start drag if clicking within the clock face
         if (distance <= CLOCK_CONFIG.outerRadius) {
             this.isDragging = true;
-            // Snap to nearest 15-minute interval
-            this.dragStartHour = this.snapToQuarterHour(this.positionToHour(pos.x, pos.y));
-            this.selection = { startHour: this.dragStartHour, endHour: this.dragStartHour };
+            const clickHour = this.positionToHour(pos.x, pos.y);
+
+            // Check if we're interacting with an existing selection
+            if (this.selection) {
+                const nearStart = this.isNearHour(clickHour, this.selection.startHour);
+                const nearEnd = this.isNearHour(clickHour, this.selection.endHour);
+                const inside = this.isInsideSelection(clickHour);
+
+                if (nearStart && !nearEnd) {
+                    // Dragging start handle
+                    this.dragMode = 'adjustStart';
+                    this.dragStartHour = this.selection.endHour; // Keep end fixed
+                } else if (nearEnd && !nearStart) {
+                    // Dragging end handle
+                    this.dragMode = 'adjustEnd';
+                    this.dragStartHour = this.selection.startHour; // Keep start fixed
+                } else if (inside) {
+                    // Moving the entire selection
+                    this.dragMode = 'move';
+                    this.dragOffset = this.hourDifference(this.selection.startHour, clickHour);
+                    this.dragStartHour = clickHour;
+                } else {
+                    // Clicking outside selection - create new
+                    this.dragMode = 'create';
+                    this.dragStartHour = this.snapToQuarterHour(clickHour);
+                    this.selection = { startHour: this.dragStartHour, endHour: this.dragStartHour };
+                }
+            } else {
+                // No existing selection - create new
+                this.dragMode = 'create';
+                this.dragStartHour = this.snapToQuarterHour(clickHour);
+                this.selection = { startHour: this.dragStartHour, endHour: this.dragStartHour };
+            }
+
             this.renderSelection();
 
             // Attach document-level listeners for robust drag handling
-            // This ensures dragging works even when mouse leaves the SVG
             document.addEventListener('mousemove', this.boundDragMove);
             document.addEventListener('mouseup', this.boundDragEnd);
+        }
+    }
+
+    // Check if two hours are within the handle threshold
+    isNearHour(hour1, hour2) {
+        let diff = Math.abs(hour1 - hour2);
+        if (diff > 12) diff = 24 - diff;
+        return diff <= this.handleThreshold;
+    }
+
+    // Calculate the signed hour difference (hour1 - hour2), handling wrap-around
+    hourDifference(hour1, hour2) {
+        let diff = hour1 - hour2;
+        if (diff > 12) diff -= 24;
+        if (diff < -12) diff += 24;
+        return diff;
+    }
+
+    // Check if an hour is inside the current selection
+    isInsideSelection(hour) {
+        if (!this.selection) return false;
+        const { startHour, endHour } = this.selection;
+
+        // Calculate the clockwise duration of the selection
+        let duration = endHour - startHour;
+        if (duration < 0) duration += 24;
+
+        // If selection is more than 12 hours, it's the "short" way in reverse
+        if (duration > 12) {
+            // Check if hour is OUTSIDE the short arc (which means inside the visual selection)
+            let distFromEnd = hour - endHour;
+            if (distFromEnd < 0) distFromEnd += 24;
+            return distFromEnd <= (24 - duration);
+        } else {
+            // Normal case: check if hour is between start and end going clockwise
+            let distFromStart = hour - startHour;
+            if (distFromStart < 0) distFromStart += 24;
+            return distFromStart <= duration;
         }
     }
 
@@ -127,13 +232,49 @@ class ClockRenderer {
         e.preventDefault();
 
         const pos = this.getEventPosition(e);
-        // Snap to nearest 15-minute interval
         const currentHour = this.snapToQuarterHour(this.positionToHour(pos.x, pos.y));
 
-        this.selection = {
-            startHour: this.dragStartHour,
-            endHour: currentHour
-        };
+        switch (this.dragMode) {
+            case 'create':
+            case 'adjustEnd':
+                // End follows the cursor, start stays fixed
+                this.selection = {
+                    startHour: this.dragStartHour,
+                    endHour: currentHour
+                };
+                break;
+
+            case 'adjustStart':
+                // Start follows the cursor, end stays fixed
+                this.selection = {
+                    startHour: currentHour,
+                    endHour: this.dragStartHour
+                };
+                break;
+
+            case 'move':
+                // Move entire selection, maintaining duration
+                const oldStart = this.selection.startHour;
+                const oldEnd = this.selection.endHour;
+                let duration = oldEnd - oldStart;
+                if (duration < 0) duration += 24;
+
+                // New start is cursor position minus the original offset
+                let newStart = currentHour - this.dragOffset;
+                if (newStart < 0) newStart += 24;
+                if (newStart >= 24) newStart -= 24;
+                newStart = this.snapToQuarterHour(newStart);
+
+                let newEnd = newStart + duration;
+                if (newEnd >= 24) newEnd -= 24;
+
+                this.selection = {
+                    startHour: newStart,
+                    endHour: newEnd
+                };
+                break;
+        }
+
         this.renderSelection();
 
         if (this.onSelectionChange) {
@@ -149,16 +290,20 @@ class ClockRenderer {
         document.removeEventListener('mousemove', this.boundDragMove);
         document.removeEventListener('mouseup', this.boundDragEnd);
 
-        // Normalize selection so start < end (unless wrapping)
+        // Handle selection based on drag mode
         if (this.selection) {
             const duration = this.getSelectionDuration();
-            // If selection is very small (less than 15 min), clear it
-            if (duration < 0.25) {
+            // Only clear very small selections when creating new ones
+            // (not when adjusting or moving existing selections)
+            if (this.dragMode === 'create' && duration < 0.25) {
                 this.clearSelection();
             } else if (this.onSelectionChange) {
                 this.onSelectionChange(this.selection);
             }
         }
+
+        // Reset drag mode
+        this.dragMode = null;
     }
 
     getSelectionDuration() {
@@ -302,6 +447,11 @@ class ClockRenderer {
         const startOuter = this.polarToCartesian(CLOCK_CONFIG.outerRadius, startAngle);
         const endOuter = this.polarToCartesian(CLOCK_CONFIG.outerRadius, endAngle);
 
+        // Position handles at ~2/3 of the radius for easy grabbing
+        const handleRadius = CLOCK_CONFIG.outerRadius * 0.65;
+        const startHandle = this.polarToCartesian(handleRadius, startAngle);
+        const endHandle = this.polarToCartesian(handleRadius, endAngle);
+
         this.selectionGroup.appendChild(this.createElement('line', {
             x1: 0, y1: 0,
             x2: startOuter.x, y2: startOuter.y,
@@ -317,6 +467,33 @@ class ClockRenderer {
             stroke: CLOCK_CONFIG.colors.selection,
             'stroke-width': 2,
             opacity: 0.8,
+            'pointer-events': 'none'
+        }));
+
+        // Draw draggable handles at start and end
+        const handleSize = 8;
+
+        // Start handle
+        this.selectionGroup.appendChild(this.createElement('circle', {
+            cx: startHandle.x,
+            cy: startHandle.y,
+            r: handleSize,
+            fill: CLOCK_CONFIG.colors.selection,
+            stroke: CLOCK_CONFIG.colors.clockFace,
+            'stroke-width': 2,
+            style: 'cursor: grab',
+            'pointer-events': 'none'
+        }));
+
+        // End handle
+        this.selectionGroup.appendChild(this.createElement('circle', {
+            cx: endHandle.x,
+            cy: endHandle.y,
+            r: handleSize,
+            fill: CLOCK_CONFIG.colors.selection,
+            stroke: CLOCK_CONFIG.colors.clockFace,
+            'stroke-width': 2,
+            style: 'cursor: grab',
             'pointer-events': 'none'
         }));
     }
