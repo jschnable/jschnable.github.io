@@ -120,13 +120,15 @@ function getRelativeTimeWindows(referenceTimezone, targetTimezone, date = new Da
     const windows = calculateTimeWindows(targetTimezone, date);
     const refOffset = getTimezoneOffset(referenceTimezone, date);
     const targetOffset = getTimezoneOffset(targetTimezone, date);
+    // To convert from target local time to reference local time, subtract the difference
+    // (if target is ahead of reference, target times appear earlier in reference time)
     const diff = targetOffset - refOffset;
 
     return windows.map(w => ({
-        start: normalizeHour(w.start + diff),
-        end: normalizeHour(w.end + diff),
+        start: normalizeHour(w.start - diff),
+        end: normalizeHour(w.end - diff),
         type: w.type,
-        wraps: w.start + diff < 0 || w.end + diff >= 24
+        wraps: w.start - diff < 0 || w.end - diff >= 24
     }));
 }
 
