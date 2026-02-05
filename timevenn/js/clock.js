@@ -42,15 +42,17 @@ class ClockRenderer {
     }
 
     setupDragHandlers() {
+        // Bind handlers so we can add/remove them from document
+        this.boundDragMove = (e) => this.handleDragMove(e);
+        this.boundDragEnd = (e) => this.handleDragEnd(e);
+
         this.svg.addEventListener('mousedown', (e) => this.handleDragStart(e));
-        this.svg.addEventListener('mousemove', (e) => this.handleDragMove(e));
-        this.svg.addEventListener('mouseup', (e) => this.handleDragEnd(e));
-        this.svg.addEventListener('mouseleave', (e) => this.handleDragEnd(e));
 
         // Touch support
         this.svg.addEventListener('touchstart', (e) => this.handleDragStart(e), { passive: false });
         this.svg.addEventListener('touchmove', (e) => this.handleDragMove(e), { passive: false });
         this.svg.addEventListener('touchend', (e) => this.handleDragEnd(e));
+        this.svg.addEventListener('touchcancel', (e) => this.handleDragEnd(e));
     }
 
     getEventPosition(e) {
@@ -112,6 +114,11 @@ class ClockRenderer {
             this.dragStartHour = this.snapToQuarterHour(this.positionToHour(pos.x, pos.y));
             this.selection = { startHour: this.dragStartHour, endHour: this.dragStartHour };
             this.renderSelection();
+
+            // Attach document-level listeners for robust drag handling
+            // This ensures dragging works even when mouse leaves the SVG
+            document.addEventListener('mousemove', this.boundDragMove);
+            document.addEventListener('mouseup', this.boundDragEnd);
         }
     }
 
@@ -137,6 +144,10 @@ class ClockRenderer {
     handleDragEnd(e) {
         if (!this.isDragging) return;
         this.isDragging = false;
+
+        // Remove document-level listeners
+        document.removeEventListener('mousemove', this.boundDragMove);
+        document.removeEventListener('mouseup', this.boundDragEnd);
 
         // Normalize selection so start < end (unless wrapping)
         if (this.selection) {
@@ -422,12 +433,12 @@ class ClockRenderer {
             const sleepCenterLocal = 3.25; // 3:15 AM local (center of 23:00 to 7:30)
 
             // Convert from city local time to reference timezone
-            // Use same logic as getRelativeTimeWindows
+            // Use same logic as getRelativeTimeWindows (subtract diff to convert)
             const refOffset = getTimezoneOffset(this.referenceTimezone, this.referenceDate);
             const cityOffset = getTimezoneOffset(city.timezone, this.referenceDate);
             const tzDiff = cityOffset - refOffset;
 
-            let labelCenterHour = sleepCenterLocal + tzDiff;
+            let labelCenterHour = sleepCenterLocal - tzDiff;
 
             // Normalize to 0-24 range
             while (labelCenterHour < 0) labelCenterHour += 24;
