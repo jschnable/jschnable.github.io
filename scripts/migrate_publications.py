@@ -149,19 +149,18 @@ def _process_single_author(author_str, alias_to_id):
     # Clean up any trailing punctuation and whitespace
     author_name = re.sub(r'[,."\'\s]+$', '', author_name)
 
-    # For bold authors, try to find member_id
-    member_id = None
-    if is_bold:
-        normalized = normalize_author_name(author_name)
-        member_id = alias_to_id.get(normalized)
+    # Try to find member_id for ALL authors (not just bold ones)
+    # This catches cases where lab members weren't bolded in the source
+    normalized = normalize_author_name(author_name)
+    member_id = alias_to_id.get(normalized)
 
-        # Try fuzzy matching if not found
-        if not member_id:
-            for alias, mid in alias_to_id.items():
-                if alias.replace(',', '').replace('.', '').replace(' ', '').lower() == \
-                   normalized.replace(',', '').replace('.', '').replace(' ', '').lower():
-                    member_id = mid
-                    break
+    # Try fuzzy matching if not found - remove punctuation and spaces
+    if not member_id:
+        normalized_clean = normalized.replace(',', '').replace('.', '').replace(' ', '').lower()
+        for alias, mid in alias_to_id.items():
+            if alias.replace(',', '').replace('.', '').replace(' ', '').lower() == normalized_clean:
+                member_id = mid
+                break
 
     author_obj = {'name': author_name}
     if member_id:
