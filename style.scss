@@ -57,7 +57,7 @@ h2 {
   letter-spacing: -0.01em;
   margin: 1.5em 0 0.8em;
   padding-bottom: 0.3em;
-  border-bottom: 2px solid rgba(208, 0, 0, 0.15);
+  border-bottom: 2px solid rgba($primary, 0.15);
 }
 
 h3 {
@@ -74,13 +74,13 @@ p {
 }
 
 a {
-  color: #d00000;
+  color: $primary;
   text-decoration: none;
   cursor: pointer;
   transition: color 0.15s ease;
 
   &:hover, &:active {
-    color: #a00000;
+    color: $primary-dark;
     text-decoration: underline;
   }
 }
@@ -166,7 +166,7 @@ img {
 
   &:focus {
     top: 0;
-    outline: 2px solid #d00000;
+    outline: 2px solid $primary;
     outline-offset: 2px;
   }
 }
@@ -256,7 +256,7 @@ img {
     color: inherit;
 
     &:hover {
-      color: #d00000;
+      color: $primary;
     }
   }
 }
@@ -296,13 +296,13 @@ nav {
     transition: all 0.2s ease;
 
     &:hover, &:focus {
-      color: #d00000;
-      background: rgba(208, 0, 0, 0.06);
+      color: $primary;
+      background: rgba($primary, 0.06);
     }
 
     &[aria-current="page"] {
-      color: #d00000;
-      background: rgba(208, 0, 0, 0.08);
+      color: $primary;
+      background: rgba($primary, 0.08);
       font-weight: 600;
     }
 
@@ -445,52 +445,6 @@ footer {
     }
   }
 }
-/*//////////////////////////////////////////////////////////////////
-[ FONT ]*/
-
-
-@font-face {
-  font-family: $helvetica;
-}
-
-@font-face {
-  font-family: $helvetica;
-}
-
-/*//////////////////////////////////////////////////////////////////
-[ RESTYLE TAG ]*/
-* {
-	margin: 0px; 
-	padding: 0px; 
-	box-sizing: border-box;
-}
-
-body, html {
-	height: 100%;
-	font-family: $font-body;
-}
-
-/* ------------------------------------ */
-a {
-	margin: 0px;
-	transition: all 0.4s;
-	-webkit-transition: all 0.4s;
-  -o-transition: all 0.4s;
-  -moz-transition: all 0.4s;
-}
-
-a:focus {
-	outline: none !important;
-}
-
-a:hover {
-	text-decoration: none;
-}
-
-/* ------------------------------------ */
-h1,h2,h3,h4,h5,h6 {margin: 0px;}
-
-p {margin: 0px;}
 
 
 /* ------------------------------------ */
@@ -600,7 +554,7 @@ th, td {
   line-height: 1.4;
   font-weight: 600;
 
-  background-color: #d00000;
+  background-color: $primary;
 }
 
 .table100.ver1 td {
@@ -657,7 +611,7 @@ th, td {
 }
 
 .hero-actions a {
-  background: #d00000;
+  background: $primary;
   border-radius: 999px;
   color: #fff;
   display: inline-block;
@@ -668,8 +622,8 @@ th, td {
 
 .hero-actions a.secondary {
   background: transparent;
-  border: 2px solid #d00000;
-  color: #d00000;
+  border: 2px solid $primary;
+  color: $primary;
 }
 
 .hero-actions a:hover,
@@ -680,7 +634,7 @@ th, td {
 
 .hero-actions a.secondary:hover,
 .hero-actions a.secondary:focus {
-  background: #d00000;
+  background: $primary;
   color: #fff;
 }
 
@@ -721,7 +675,7 @@ th, td {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: rgba(208, 0, 0, 0.75);
+  background: rgba($primary, 0.75);
   color: #fff;
   font-weight: 600;
   font-size: 0.85em;
@@ -734,7 +688,7 @@ th, td {
 .people-card__image-link:hover,
 .people-card__image-link:focus {
   transform: translateY(-4px);
-  box-shadow: 0 12px 30px rgba(208, 0, 0, 0.25);
+  box-shadow: 0 12px 30px rgba($primary, 0.25);
 }
 
 .people-card__image-link:hover::after,
@@ -744,7 +698,7 @@ th, td {
 }
 
 .people-card__image-link:focus-visible {
-  outline: 3px solid #d00000;
+  outline: 3px solid $primary;
   outline-offset: 4px;
 }
 
@@ -778,9 +732,9 @@ th, td {
   margin-bottom: 14px;
   padding: 8px 16px;
   border-radius: 999px;
-  border: 1px solid #d00000;
-  background: rgba(208, 0, 0, 0.06);
-  color: #d00000;
+  border: 1px solid $primary;
+  background: rgba($primary, 0.06);
+  color: $primary;
   font-weight: 600;
   font-size: 0.9em;
   transition: background 0.2s ease, color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
@@ -789,14 +743,14 @@ th, td {
 .people-card__cta:hover,
 .people-card__cta:focus,
 .people-card__cta:focus-visible {
-  background: #d00000;
+  background: $primary;
   color: #fff;
   transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(208, 0, 0, 0.25);
+  box-shadow: 0 4px 12px rgba($primary, 0.25);
 }
 
 .people-card__cta:focus-visible {
-  outline: 2px solid #d00000;
+  outline: 2px solid $primary;
   outline-offset: 3px;
 }
 
@@ -853,6 +807,15 @@ th, td {
   text-transform: uppercase;
 }
 
+.news-list__title {
+  font-family: $font-body;
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0 0 4px;
+  line-height: 1.4;
+  color: $darkerGray;
+}
+
 .news-list__item--has-image {
   display: flex;
   gap: 16px;
@@ -905,8 +868,8 @@ th, td {
 }
 
 #search-input:focus {
-  border-color: #d00000;
-  box-shadow: 0 0 0 3px rgba(208, 0, 0, 0.15);
+  border-color: $primary;
+  box-shadow: 0 0 0 3px rgba($primary, 0.15);
   outline: none;
 }
 
@@ -928,7 +891,7 @@ footer {
 // Year navigation bar
 .year-nav {
   background: #fff;
-  border-bottom: 2px solid #d00000;
+  border-bottom: 2px solid $primary;
   padding: 12px 0;
   margin: 20px 0 30px 0;
   position: sticky;
@@ -964,7 +927,7 @@ footer {
     text-decoration: none;
 
     &:hover {
-      background: #d00000;
+      background: $primary;
       color: #fff;
     }
   }
@@ -991,8 +954,8 @@ footer {
   }
 
   h2 {
-    color: #d00000;
-    border-bottom: 2px solid #d00000;
+    color: $primary;
+    border-bottom: 2px solid $primary;
     padding-bottom: 8px;
     margin-bottom: 20px;
   }
@@ -1053,7 +1016,7 @@ footer {
   transition: all 0.2s ease;
 
   &:hover {
-    border-left-color: #d00000;
+    border-left-color: $primary;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
   }
 }
@@ -1167,14 +1130,14 @@ footer {
   transition: all 0.15s ease;
 
   &:hover {
-    border-color: var(--tag-color, #d00000);
-    color: var(--tag-color, #d00000);
-    background: color-mix(in srgb, var(--tag-color, #d00000) 8%, white);
+    border-color: var(--tag-color, $primary);
+    color: var(--tag-color, $primary);
+    background: color-mix(in srgb, var(--tag-color, $primary) 8%, white);
   }
 
   &.active {
-    background: var(--tag-color, #d00000);
-    border-color: var(--tag-color, #d00000);
+    background: var(--tag-color, $primary);
+    border-color: var(--tag-color, $primary);
     color: #fff;
   }
 }
@@ -1196,8 +1159,8 @@ footer {
   padding: 5px 12px;
 
   &:hover {
-    border-color: #d00000;
-    color: #d00000;
+    border-color: $primary;
+    color: $primary;
   }
 }
 
@@ -1234,9 +1197,9 @@ footer {
   transition: all 0.15s ease;
 
   &:hover {
-    border-color: #d00000;
-    color: #d00000;
-    background: rgba(208, 0, 0, 0.05);
+    border-color: $primary;
+    color: $primary;
+    background: rgba($primary, 0.05);
     text-decoration: none;
   }
 }
@@ -1338,7 +1301,7 @@ footer {
     }
 
     &:hover {
-      color: #d00000;
+      color: $primary;
     }
   }
 
@@ -1428,7 +1391,7 @@ footer {
 }
 
 .person__link {
-  color: #d00000;
+  color: $primary;
   font-weight: 600;
 }
 
@@ -1521,9 +1484,9 @@ footer {
     margin: 16px 0;
 
     &:focus {
-      outline: 2px solid #d00000;
+      outline: 2px solid $primary;
       outline-offset: 2px;
-      border-color: #d00000;
+      border-color: $primary;
     }
   }
 

@@ -8,6 +8,9 @@ name: The Schnable Lab@UNL
 # Short bio or description (displayed in the header)
 description: Hypothesis Driven Research in Plant Genomics and Phenomics
 
+# Primary brand color (used for theme-color meta tag)
+primary_color: "#d00000"
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/optimized/lab_logo.jpg
 

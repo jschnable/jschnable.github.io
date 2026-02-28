@@ -45,4 +45,4 @@
     {% if site.footer-links.twitter %}
       <meta name="twitter:site" content="@{{ site.footer-links.twitter }}" />
     {% endif %}
-    <meta name="theme-color" content="#d00000" />
+    <meta name="theme-color" content="{{ site.primary_color | default: '#d00000' }}" />
