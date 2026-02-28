@@ -2,7 +2,6 @@
 layout: page
 title: Schnable Lab Members
 
-googlefonts: ["Monoton", "Lobster"]
 ---
 
 [Lab Alumni 2014-Present](/alumni)

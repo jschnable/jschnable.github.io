@@ -127,6 +127,21 @@ layout: default
 {% endfor %}
 {% assign person_news = person_news | sort: 'date' | reverse %}
 
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": {{ page.title | jsonify }},
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Schnable Lab, University of Nebraska-Lincoln"
+  }{% if person_role %},
+  "jobTitle": {{ person_role | jsonify }}{% endif %}{% if photo_src != "/images/optimized/People_Images/placeholder.jpg" %},
+  "image": "{{ site.url }}{{ photo_href }}"{% endif %}{% if person_orcid %},
+  "sameAs": [{% assign orcid_full = person_orcid %}{% unless orcid_full contains 'http' %}{% assign orcid_full = 'https://orcid.org/' | append: person_orcid %}{% endunless %}"{{ orcid_full }}"{% if person_scholar %},{% assign scholar_full = person_scholar %}{% unless scholar_full contains '://' %}{% assign scholar_full = 'https://scholar.google.com/citations?user=' | append: person_scholar %}{% endunless %}"{{ scholar_full }}"{% endif %}{% if person_github %},{% assign github_full = person_github %}{% unless github_full contains '://' %}{% assign github_full = 'https://github.com/' | append: person_github %}{% endunless %}"{{ github_full }}"{% endif %}{% if person_linkedin %},{% assign linkedin_full = person_linkedin %}{% unless linkedin_full contains '://' %}{% assign linkedin_full = 'https://www.linkedin.com/in/' | append: person_linkedin %}{% endunless %}"{{ linkedin_full }}"{% endif %}]{% elsif person_scholar %},
+  "sameAs": [{% assign scholar_full = person_scholar %}{% unless scholar_full contains '://' %}{% assign scholar_full = 'https://scholar.google.com/citations?user=' | append: person_scholar %}{% endunless %}"{{ scholar_full }}"{% if person_github %},{% assign github_full = person_github %}{% unless github_full contains '://' %}{% assign github_full = 'https://github.com/' | append: person_github %}{% endunless %}"{{ github_full }}"{% endif %}{% if person_linkedin %},{% assign linkedin_full = person_linkedin %}{% unless linkedin_full contains '://' %}{% assign linkedin_full = 'https://www.linkedin.com/in/' | append: person_linkedin %}{% endunless %}"{{ linkedin_full }}"{% endif %}]{% elsif person_github %},
+  "sameAs": [{% assign github_full = person_github %}{% unless github_full contains '://' %}{% assign github_full = 'https://github.com/' | append: person_github %}{% endunless %}"{{ github_full }}"{% if person_linkedin %},{% assign linkedin_full = person_linkedin %}{% unless linkedin_full contains '://' %}{% assign linkedin_full = 'https://www.linkedin.com/in/' | append: person_linkedin %}{% endunless %}"{{ linkedin_full }}"{% endif %}]{% elsif person_linkedin %},
+  "sameAs": [{% assign linkedin_full = person_linkedin %}{% unless linkedin_full contains '://' %}{% assign linkedin_full = 'https://www.linkedin.com/in/' | append: person_linkedin %}{% endunless %}"{{ linkedin_full }}"]{% endif %}
+}</script>
 <article class="person">
   <header class="person__header">
     <div class="person__media">
@@ -200,7 +215,7 @@ layout: default
       {% for item in person_news limit: 6 %}
         <li class="news-list__item">
           <time datetime="{{ item.date | date: '%Y-%m-%d' }}">{{ item.date | date: '%B %d, %Y' }}</time>
-          <strong>{{ item.title }}</strong><br />
+          <h3 class="news-list__title">{{ item.title }}</h3>
           {% assign summary_html = item.summary | markdownify | strip_newlines | replace: '<p>', '' | replace: '</p>', '' %}
           {{ summary_html }}
         </li>

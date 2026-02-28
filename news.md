@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Schnable Lab News
-googlefonts: ["Monoton", "Lobster"]
 ---
 
 ## Recent Highlights
@@ -26,7 +25,7 @@ googlefonts: ["Monoton", "Lobster"]
     {% if item.image %}<img src="{{ item.image }}" alt="{{ item.title }}" class="news-list__image" width="120" height="90" loading="lazy" decoding="async" />{% endif %}
     <div class="news-list__content">
       <time datetime="{{ item.date | date: '%Y-%m-%d' }}">{{ item.date | date: '%B %d, %Y' }}</time>
-      <strong>{{ item.title }}</strong><br />
+      <h3 class="news-list__title">{{ item.title }}</h3>
       {% assign summary_html = item.summary | markdownify | strip_newlines | replace: '<p>', '' | replace: '</p>', '' %}
       {{ summary_html }}
     </div>

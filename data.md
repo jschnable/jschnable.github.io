@@ -3,7 +3,6 @@ layout: page
 title: Published Datasets and Code Repositories
 subtitle: Hypothesis Driven Research in Plant Genomics and Phenomics
 
-googlefonts: ["Monoton", "Lobster"]
 bigimg:
 ---
 
