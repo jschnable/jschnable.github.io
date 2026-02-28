@@ -12,7 +12,8 @@
   category: Faculty
 - name: Vladimir Torres-Rodriguez
   role: Research Assistant Professor
-  status: current
+  status: alumni
+  current: Scientist, Traits Company
   image: /images/optimized/People_Images/vlad2.jpg
   page_path: peoplepages/Vlad.md
   cv: /CVs/CV_Vladimir3.pdf
