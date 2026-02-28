@@ -2,7 +2,6 @@
 layout: page
 title: Schnable Lab News Archive
 permalink: /news-archive/
-googlefonts: ["Monoton", "Lobster"]
 ---
 
 ### 2025 August

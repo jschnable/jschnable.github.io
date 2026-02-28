@@ -25,3 +25,12 @@
 {% if pub.status and pub.status != "published" %}
   <span class="pub-status pub-status--{{ pub.status }}">{{ pub.status | capitalize }}</span>
 {% endif %}
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": {{ pub.title | jsonify }},
+  "author": [{% for author in pub.authors %}{% unless author.truncated %}{"@type": "Person", "name": {{ author.name | jsonify }}}{% unless forloop.last %},{% endunless %}{% endunless %}{% endfor %}]{% if pub.year %},
+  "datePublished": "{{ pub.year }}"{% endif %}{% if pub.journal %},
+  "isPartOf": {"@type": "Periodical", "name": {{ pub.journal | jsonify }}}{% endif %}{% if pub.doi %},
+  "sameAs": "https://doi.org/{{ pub.doi }}"{% endif %}
+}</script>

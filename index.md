@@ -3,7 +3,6 @@ layout: homepage
 title: Schnable Lab
 subtitle: Hypothesis Driven Research in Plant Genomics and Phenomics
 
-googlefonts: ["Monoton", "Lobster"]
 bigimg:
   - "/images/optimized/Front_Page_Images/header.png" : ""
 ---
@@ -82,7 +81,7 @@ Our alumni are employed as professors at eleven universities across four countri
     {% endif %}
     <div class="news-list__content">
       <time datetime="{{ item.date | date: '%Y-%m-%d' }}">{{ item.date | date: '%B %d, %Y' }}</time>
-      <strong>{{ item.title }}</strong><br />
+      <h3 class="news-list__title">{{ item.title }}</h3>
       {% assign summary_html = item.summary | markdownify | strip_newlines | replace: '<p>', '' | replace: '</p>', '' %}
       {{ summary_html }}
       {% if item.link %}<br /><a href="{{ item.link }}">Learn more</a>{% endif %}

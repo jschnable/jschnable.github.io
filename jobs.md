@@ -3,7 +3,6 @@ layout: page
 title: Positions in the Schnable Lab
 subtitle: Hypothesis Driven Research in Plant Genomics and Phenomics
 
-googlefonts: ["Monoton", "Lobster"]
 bigimg:
   - "/images/optimized/Front_Page_Images/header.png" : ""
 ---
