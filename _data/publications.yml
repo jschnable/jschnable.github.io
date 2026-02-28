@@ -12,9 +12,10 @@
   - name: Weldekidan T
   - name: Xu W
   - name: de Leon N
-  status: accepted
+  status: published
   type: article
   journal: BMC Research Notes
+  doi: 10.1186/s13104-026-07629-5
   author_note: Schnable JC is 27 of 36 authors
   first_author_is_lab_member: false
   lab_author_count: 1
