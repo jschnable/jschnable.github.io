@@ -1,3 +1,36 @@
+- date: '2026-02-28'
+  title: Jensina Davis speaks at Maize Genetics Conference
+  image: /images/News_Images/MaizeGenetics2.jpg
+  summary: "[Jensina Davis](/peoplepages/Jensina/) presented her work on rapid prototyping of field imaging systems and AI image embeddings to map genes controlling plant disease responses at the Maize Genetics Conference in K\u00f6ln, Germany."
+  people:
+    - /peoplepages/Jensina/
+- date: '2026-02-25'
+  title: Schnable Lab at Corn Breeding Research Meeting
+  image: /images/News_Images/CornBreedingResearch.jpg
+  summary: "[Harshita Mangal](/peoplepages/HarshitaM/), [Waqar Ali](/peoplepages/Waqar/), [Karla Cu\u00e9llar](/peoplepages/KarlaC2/), and [Zhongjie Ji](/peoplepages/ZhongjieJ/) presented at the Corn Breeding Research meeting."
+  people:
+    - /peoplepages/HarshitaM/
+    - /peoplepages/Waqar/
+    - /peoplepages/KarlaC2/
+    - /peoplepages/ZhongjieJ/
+- date: '2026-02-23'
+  title: James Schnable elected to National Academy of Inventors
+  summary: "[James Schnable](/peoplepages/jschnable/) has been elected a member of the [National Academy of Inventors](https://academyofinventors.org/)."
+  people:
+    - /peoplepages/jschnable/
+- date: '2026-02-20'
+  title: James Schnable speaks at Texas A&M Plant Breeding Symposium
+  image: /images/News_Images/TexasAM.jpg
+  summary: "[James Schnable](/peoplepages/jschnable/) was an invited speaker at the Texas A&M Plant Breeding Symposium in College Station, Texas."
+  people:
+    - /peoplepages/jschnable/
+- date: '2026-02-13'
+  title: Schnable Lab at NAPPN Conference
+  image: /images/News_Images/NAPPNPhoto.jpg
+  summary: "[Jensina Davis](/peoplepages/Jensina/) and [Karla Cu\u00e9llar](/peoplepages/KarlaC2/) spoke at the NAPPN conference in East Lansing, Michigan."
+  people:
+    - /peoplepages/Jensina/
+    - /peoplepages/KarlaC2/
 - date: '2026-01-26'
   title: James Schnable wins NAS Prize in Food and Agriculture
   image: /images/News_Images/NASPrize.jpg
@@ -7,7 +40,7 @@
 - date: '2026-01-14'
   title: PAG Lab Reunion
   image: /images/News_Images/PAG2026Reunion.jpg
-  summary: "Hit a new record for the number of lab alumni attended: L→R [Sunil K. Kenchanmane Raju](/peoplepages/Sunil_Raju/) (now of UC Riverside), [James Schnable](/peoplepages/jschnable/), [Zhikai Liang](/peoplepages/zliang/) (now of NDSU), [Ravi Mural](/peoplepages/Ravi_Mural/) (now of SDSU), and [Vla Torres-Rodriguez](/peoplepages/Vlad/) (news coming soon)."
+  summary: "Hit a new record for the number of lab alumni attended: L→R [Sunil K. Kenchanmane Raju](/peoplepages/Sunil_Raju/) (now of UC Riverside), [James Schnable](/peoplepages/jschnable/), [Zhikai Liang](/peoplepages/zliang/) (now of NDSU), [Ravi Mural](/peoplepages/Ravi_Mural/) (now of SDSU), and [Vladimir Torres-Rodriguez](/peoplepages/Vlad/) (now a Scientist at Traits Company)."
   people:
     - /peoplepages/Sunil_Raju/
     - /peoplepages/jschnable/
