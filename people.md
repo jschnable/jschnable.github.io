@@ -6,7 +6,7 @@ title: Schnable Lab Members
 
 [Lab Alumni 2014-Present](/alumni)
 
-{% assign category_labels = 'Faculty|Research Staff|Professional Staff|Graduate Students|Undergraduate Researchers|High-school intern' | split: '|' %}
+{% assign category_labels = 'Faculty & Staff|Graduate Students|Undergraduate Researchers|High-school intern' | split: '|' %}
 {% for label in category_labels %}
   {% assign singles = site.data.people | where: 'category', label %}
   {% assign multi_candidates = site.data.people | where_exp: 'person', 'person.categories' %}
