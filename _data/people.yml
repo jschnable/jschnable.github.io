@@ -9,7 +9,7 @@
   socials:
   - label: X
     url: https://twitter.com/szintri
-  category: Faculty
+  category: Faculty & Staff
 - name: Vladimir Torres-Rodriguez
   role: Research Assistant Professor
   status: alumni
@@ -24,7 +24,7 @@
   socials:
   - label: X
     url: https://twitter.com/vla_torres
-  category: Faculty
+  category: Faculty & Staff
 - name: Jon Turkus
   role: Lab Manager
   status: current
@@ -37,7 +37,7 @@
   socials:
   - label: X
     url: https://twitter.com/JonathanTurkus
-  category: Research Staff
+  category: Faculty & Staff
 - name: Chidanand "Chidu" Ullagaddi
   role: Field Manager
   status: current
@@ -50,7 +50,7 @@
   socials:
   - label: X
     url: https://twitter.com/Chidu_ullagaddi
-  category: Research Staff
+  category: Faculty & Staff
 - name: Zhongjie Ji
   role: Heuermann Research Fellow
   status: current
@@ -61,13 +61,13 @@
   scholar: https://scholar.google.com/citations?user=n6JlWJQAAAAJ&hl=en&oi=ao
   github:
   linkedin: zhongjie-ji-5095b2226
-  category: Research Staff
+  category: Faculty & Staff
 - name: Anuradha Choudhary
   role: Research and Outreach Specialist
   status: current
   image: /images/optimized/People_Images/AnuradhaC.jpg
   page_path: peoplepages/AnuradhaC.md
-  category: Research Staff
+  category: Faculty & Staff
 - name: Sumeet Mankar
   role: Postdoctoral Research Associate
   status: current
@@ -77,7 +77,7 @@
   orcid: 0000-0002-9603-121X
   scholar: https://scholar.google.com/citations?user=kbUIVnsAAAAJ&hl=en
   linkedin: sumeetmankar
-  category: Research Staff
+  category: Faculty & Staff
 - name: Rossy Bedolla
   role: Administrative Specialist
   status: current
@@ -85,7 +85,7 @@
   page_path: peoplepages/Rossy.md
   cv: /CVs/CV-RossyB.pdf
   linkedin: rosa-bedolla-gaxiola-9a9096171
-  category: Professional Staff
+  category: Faculty & Staff
 - name: Jensina Davis
   role: PhD Student
   status: current
