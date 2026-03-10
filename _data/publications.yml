@@ -22,6 +22,42 @@
   tags:
   - maize
   - data-release
+- id: 2026-a-phenomicsderived-temporal-maize-health
+  year: 2026
+  title: Phenomics-derived Temporal Maize Health Signals and Enviromics Enhance Physiology-Informed Prediction of Yield Across Environments
+  authors:
+  - name: Adak A
+  - name: DeSalvio AJ
+  - name: Murray SC
+  - name: de Leon N
+  - name: Bohn M
+  - name: Edwards J
+  - name: Ertl D
+  - name: Hirsch C
+  - name: Holland J
+  - name: Kaeppler S
+  - name: Knoll JE
+  - name: Lima DC
+  - name: Minyo R
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Sekhon RS
+  - name: Singh MP
+  - name: Sparks EE
+  - name: Thompson A
+  - name: Tuinstra MR
+  - name: Washburn JD
+  - name: Weldekidan T
+  status: accepted
+  type: article
+  journal: Plant Physiology
+  first_author_is_lab_member: false
+  lab_author_count: 1
+  tags:
+  - maize
+  - phenomics
+  - genotype-environment-interaction
+  - quantitative-genetics
 - id: 2026-m-haplotype-rich-cisregulation
   year: 2026
   title: Haplotype-rich cis-regulation underlies transcriptomic diversity across the breeding history of maize (Zea mays).
