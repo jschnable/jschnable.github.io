@@ -3,7 +3,16 @@ layout: page
 title: Schnable Lab Papers
 ---
 
-{% assign preprints = site.data.publications | where: "status", "preprint" | sort: "year" | reverse %}
+{% comment %}
+Current publications data flow:
+- Source of truth: _data/publications.yml
+- Author aliases: _data/lab_authors.yml
+- Card renderer: _includes/publication-card.html
+- Per-person lists: _includes/person-publications.html
+See docs/publications-reference.md for the live schema and workflow.
+{% endcomment %}
+
+{% assign preprints = site.data.publications | where: "status", "preprint" | sort: "lab_author_count" | reverse %}
 {% assign published = site.data.publications | where_exp: "pub", "pub.status != 'preprint'" %}
 {% assign grouped = published | group_by: "year" | sort: "name" | reverse %}
 
@@ -68,7 +77,22 @@ title: Schnable Lab Papers
 <section id="year-{{ group.name }}" class="pub-year-section">
   <h2>{{ group.name }}</h2>
   <ul class="pub-list">
-{% for pub in group.items %}<li class="pub-item" data-tags="{{ pub.tags | join: ' ' }}"{% if pub.first_author_is_lab_member %} data-lab-first="true"{% endif %}>{% include publication-card.html pub=pub %}</li>
+{% assign no_link_papers = '' | split: '' %}
+{% assign linked_papers = '' | split: '' %}
+{% for pub in group.items %}
+  {% assign has_link = false %}
+  {% if pub.doi or pub.url %}
+    {% assign has_link = true %}
+  {% endif %}
+  {% if has_link %}
+    {% assign linked_papers = linked_papers | push: pub %}
+  {% else %}
+    {% assign no_link_papers = no_link_papers | push: pub %}
+  {% endif %}
+{% endfor %}
+{% assign linked_papers = linked_papers | sort: 'lab_author_count' | reverse %}
+{% assign year_ordered_papers = no_link_papers | concat: linked_papers %}
+{% for pub in year_ordered_papers %}<li class="pub-item" data-tags="{{ pub.tags | join: ' ' }}"{% if pub.first_author_is_lab_member %} data-lab-first="true"{% endif %}>{% include publication-card.html pub=pub %}</li>
 {% endfor %}</ul>
 </section>
 {% endfor %}

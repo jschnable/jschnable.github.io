@@ -4,6 +4,8 @@ published: false
 
 # Publications Data Overhaul – Implementation Specification
 
+> Note: this is the migration/design specification. For the current live schema and rendering map, see `docs/publications-reference.md`.
+
 This document describes the steps required to migrate the Schnable Lab publication workflow to a YAML-based system, introduce a client-side BibTeX→YAML helper page, and prepare the data model for per-person bibliographies. The goal is to provide everything another engineer needs to implement the design end-to-end.
 
 ## Objectives
