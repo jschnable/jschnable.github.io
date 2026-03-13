@@ -22,6 +22,29 @@
   tags:
   - maize
   - data-release
+- id: 2026-h-a-sorghumanchored-pan-grass
+  year: 2026
+  title: A Sorghum-Anchored Pan-Grass Syntenic Gene Set in Grasses
+  authors:
+  - name: Dias H
+    member_id: dias-henrique
+  - name: Sagawa G
+  - name: Torres-Rodriguez V
+    member_id: torres-rodriguez-vladimir
+  - name: Mural RV
+    member_id: mural-ravi
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Van Sluys M-A
+  status: accepted
+  type: article
+  journal: NAR Genomics and Bioinformatics
+  first_author_is_lab_member: true
+  lab_author_count: 4
+  tags:
+  - sorghum
+  - comparative-genomics
+  - genomics
 - id: 2026-a-phenomicsderived-temporal-maize-health
   year: 2026
   title: Phenomics-derived Temporal Maize Health Signals and Enviromics Enhance Physiology-Informed Prediction of Yield Across Environments

@@ -45,14 +45,17 @@
 - Large data downloads, PDFs, or slide decks belong in `News/` or `Pubs/`; link to them from a short markdown summary so they surface in the news feed.
 
 ## Publications Workflow
-- Follow the schema in `docs/publications-data-spec.md` when editing `_data/publications.yml`; keep entries sorted by year and ensure each lab author carries the correct `member_id` from `_data/lab_authors.yml`.
+- Start with `docs/publications-reference.md` for the current, implemented data model and rendering flow. `docs/publications-data-spec.md` is historical migration/design context.
+- `_data/publications.yml` is canonical and should stay sorted newest year first.
+- Current publication keys commonly used in production are: `id`, `year`, `title`, `authors`, `status`, `type`, `journal`, optional `doi`, optional `url`, optional `notes`, optional `author_note`, `first_author_is_lab_member`, `lab_author_count`, and `tags`.
+- In `authors`, each item should include `name` and optionally `member_id` (for lab members from `_data/lab_authors.yml`). Use `truncated: true` author rows only for intentionally abbreviated long author lists.
 - Add or update aliases in `_data/lab_authors.yml` whenever a new spelling appears; the optional `scripts/build_lab_authors.py` helper can reseed from roster data, but expected edits should be manual and reviewed.
-- Use the planned helper page at `/tools/bibtex-to-yaml` (or the spec’s examples until that page lands) to convert BibTeX into the required YAML structure.
+- Use `/tools/bibtex-to-yaml` to convert BibTeX into YAML blocks that match the live schema.
 - After making changes, run `python scripts/review_lab_authors.py` for alias validation and `bundle exec jekyll build` to confirm the Liquid templates still render.
 
 ### Adding a new publication (quick recipe)
 - Copy the BibTeX for the paper from the journal or preprint server.
-- In your browser, open `/tools/bibtex-to-yaml` (once available) and paste the BibTeX to generate a YAML block; until then, follow the examples in `docs/publications-data-spec.md` and existing entries in `_data/publications.yml`.
+- In your browser, open `/tools/bibtex-to-yaml` and paste the BibTeX to generate a YAML block.
 - Append the YAML block to `_data/publications.yml` under the correct year, keeping IDs unique and consistent with the existing `YYYY-key-phrase` pattern.
 - Only edit `_data/lab_authors.yml` if the paper introduces a new lab-affiliated person or a new spelling/initials variant for an existing lab member; external collaborators do not need `member_id`s.
 - After updating the data files, run `python3 scripts/review_lab_authors.py > docs/lab_authors_review.txt` and then `bundle exec jekyll build`; fix any reported issues before committing.

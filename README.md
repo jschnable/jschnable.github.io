@@ -14,10 +14,12 @@ This repository hosts the Schnable Lab group website built with Jekyll. Content 
 - Publications QA: `python scripts/review_lab_authors.py > docs/lab_authors_review.txt`
 
 ## Publications data
-- `_data/publications.yml` is the canonical list of papers. Follow the schema in `docs/publications-data-spec.md`, keep entries grouped by `year`, and ensure every lab author includes a `member_id` that matches `_data/lab_authors.yml`.
+- `docs/publications-reference.md` is the best starting point for the current publication storage, schema, and rendering flow.
+- `_data/publications.yml` is the canonical list of papers. Keep entries grouped newest year first and preserve the live field schema used by templates.
 - `_data/lab_authors.yml` stores lab-affiliated authors and alias spellings. Extend it whenever a new variation appears in a citation; `scripts/build_lab_authors.py` can regenerate a draft list from the roster, but changes should be manually reviewed.
 - `papers.md` renders from the YAML dataset via `_includes/publication-card.html` and `_includes/person-publications.html` (used for per-member listings on people pages). Do not edit publication prose directly in `papers.md`.
-- A client-side BibTeX→YAML helper page will live at `/tools/bibtex-to-yaml`; until it lands, convert fields manually using the examples in the spec.
+- `/tools/bibtex-to-yaml` converts a single BibTeX entry into a publication YAML block and highlights unmatched author aliases.
+- `docs/publications-data-spec.md` captures migration/design history; treat it as background context rather than the source of truth for current fields.
 
 ## Scripts
 - `scripts/review_lab_authors.py` audits alias coverage and unmatched authors; commit the refreshed `docs/lab_authors_review.txt` alongside publication edits.
