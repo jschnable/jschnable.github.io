@@ -16,6 +16,8 @@ This repository hosts the Schnable Lab group website built with Jekyll. Content 
 ## Publications data
 - `docs/publications-reference.md` is the best starting point for the current publication storage, schema, and rendering flow.
 - `_data/publications.yml` is the canonical list of papers. Keep entries grouped newest year first and preserve the live field schema used by templates.
+- Keep publication titles in sentence case with a trailing period.
+- For published papers, provide both `doi` and `url` (typically `https://doi.org/<doi>`) so paper titles are clickable on the publications page.
 - `_data/lab_authors.yml` stores lab-affiliated authors and alias spellings. Extend it whenever a new variation appears in a citation; `scripts/build_lab_authors.py` can regenerate a draft list from the roster, but changes should be manually reviewed.
 - `papers.md` renders from the YAML dataset via `_includes/publication-card.html` and `_includes/person-publications.html` (used for per-member listings on people pages). Do not edit publication prose directly in `papers.md`.
 - `/tools/bibtex-to-yaml` converts a single BibTeX entry into a publication YAML block and highlights unmatched author aliases.
