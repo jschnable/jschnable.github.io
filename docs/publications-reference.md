@@ -18,7 +18,7 @@ Each publication is one YAML object in `_data/publications.yml`.
 ```yaml
 - id: 2026-example-publication
   year: 2026
-  title: Example publication title
+  title: Example publication title.
   authors:
   - name: Example A
     member_id: example-author
@@ -28,8 +28,8 @@ Each publication is one YAML object in `_data/publications.yml`.
   status: published        # e.g. published | accepted | in-press | preprint
   type: article            # e.g. article | review | preprint | conference | chapter
   journal: Example Journal
-  doi: 10.1000/example-doi # optional but preferred when known
-  url: https://doi.org/10.1000/example-doi # optional if no landing page exists
+  doi: 10.1000/example-doi # required for published papers when known
+  url: https://doi.org/10.1000/example-doi # required for published papers (title links come from this)
   notes:                   # optional list of key/value maps
   - bioRxiv: 10.1101/2026.01.01.123456
   author_note: Example note for abbreviated author list context # optional
@@ -42,9 +42,12 @@ Each publication is one YAML object in `_data/publications.yml`.
 
 ### Field Notes
 
+- `title` should be sentence case and end with a period (`.`) for consistency with existing records.
 - `authors[].member_id` must match an `id` in `_data/lab_authors.yml`.
 - `authors[].truncated: true` is used when an author list is intentionally abbreviated with `...`.
 - `status: preprint` drives the preprint section in the publications page.
+- Published papers should include both `doi` and `url` (usually `https://doi.org/<doi>`) so titles render as clickable links.
+- Accepted/in-press items may omit `doi`/`url` until available.
 - `tags` should use IDs defined in `_data/publication_tags.yml`.
 
 ## Rendering Flow

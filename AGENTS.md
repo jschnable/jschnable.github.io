@@ -49,6 +49,9 @@
 - `_data/publications.yml` is canonical and should stay sorted newest year first.
 - Current publication keys commonly used in production are: `id`, `year`, `title`, `authors`, `status`, `type`, `journal`, optional `doi`, optional `url`, optional `notes`, optional `author_note`, `first_author_is_lab_member`, `lab_author_count`, and `tags`.
 - In `authors`, each item should include `name` and optionally `member_id` (for lab members from `_data/lab_authors.yml`). Use `truncated: true` author rows only for intentionally abbreviated long author lists.
+- Keep publication `title` values in sentence case and end titles with a period.
+- For published papers, include both `doi` and `url` (normally `https://doi.org/<doi>`) so titles render as clickable links.
+- Accepted/in-press records may omit `doi`/`url` until assigned.
 - Add or update aliases in `_data/lab_authors.yml` whenever a new spelling appears; the optional `scripts/build_lab_authors.py` helper can reseed from roster data, but expected edits should be manual and reviewed.
 - Use `/tools/bibtex-to-yaml` to convert BibTeX into YAML blocks that match the live schema.
 - After making changes, run `python scripts/review_lab_authors.py` for alias validation and `bundle exec jekyll build` to confirm the Liquid templates still render.
