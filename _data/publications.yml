@@ -1,6 +1,6 @@
 - id: 2026-qc-genomes-to-fields-competition
   year: 2026
-  title: Genomes to Fields 2024 Maize Genotype by Environment Prediction Competition
+  title: Genomes to Fields 2024 maize genotype by environment prediction competition.
   authors:
   - name: Chen Q
   - name: Washburn JD
@@ -16,6 +16,7 @@
   type: article
   journal: BMC Research Notes
   doi: 10.1186/s13104-026-07629-5
+  url: https://doi.org/10.1186/s13104-026-07629-5
   author_note: Schnable JC is 27 of 36 authors
   first_author_is_lab_member: false
   lab_author_count: 1
@@ -24,7 +25,7 @@
   - data-release
 - id: 2026-h-a-sorghumanchored-pan-grass
   year: 2026
-  title: A Sorghum-Anchored Pan-Grass Syntenic Gene Set in Grasses
+  title: A sorghum-anchored pan-grass syntenic gene set in grasses.
   authors:
   - name: Dias H
     member_id: dias-henrique
@@ -47,7 +48,7 @@
   - genomics
 - id: 2026-a-phenomicsderived-temporal-maize-health
   year: 2026
-  title: Phenomics-derived Temporal Maize Health Signals and Enviromics Enhance Physiology-Informed Prediction of Yield Across Environments
+  title: Phenomics-derived temporal maize health signals and enviromics enhance physiology-informed prediction of yield across environments.
   authors:
   - name: Adak A
   - name: DeSalvio AJ
