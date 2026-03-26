@@ -18,7 +18,18 @@
       <nav aria-label="Main navigation">
         {% assign current_path = page.url | default: '/' %}
         <a href="{{ site.baseurl }}/"{% if current_path == '/' %} aria-current="page"{% endif %}>Home</a>
-        <a href="{{ site.baseurl }}/people/"{% if current_path contains '/people' %} aria-current="page"{% endif %}>People</a>
+        <div class="nav-dropdown">
+          <a class="nav-dropdown__toggle"
+             href="{{ site.baseurl }}/people/"
+             aria-haspopup="true"
+             {% if current_path contains '/people' or current_path contains '/alumni' %}aria-current="page"{% endif %}>
+            People
+          </a>
+          <div class="nav-dropdown__menu" aria-label="People submenu">
+            <a href="{{ site.baseurl }}/people/"{% if current_path contains '/people' %} aria-current="page"{% endif %}>Current</a>
+            <a href="{{ site.baseurl }}/alumni/"{% if current_path contains '/alumni' %} aria-current="page"{% endif %}>Alumni</a>
+          </div>
+        </div>
         <a href="{{ site.baseurl }}/research/"{% if current_path contains '/research' %} aria-current="page"{% endif %}>Research</a>
         <a href="{{ site.baseurl }}/news/"{% if current_path contains '/news' %} aria-current="page"{% endif %}>News</a>
         <a href="{{ site.baseurl }}/papers/"{% if current_path contains '/papers' %} aria-current="page"{% endif %}>Publications</a>
