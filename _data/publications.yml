@@ -922,6 +922,7 @@
   - name: Benson AK
   status: published
   type: article
+  journal: G3 Genes|Genomes|Genetics
   doi: 10.1093/g3journal/jkae145
   url: https://doi.org/10.1093/g3journal/jkae145
   notes:
@@ -1548,6 +1549,7 @@
   - name: de Leon N
   status: published
   type: article
+  journal: BMC Research Notes
   doi: 10.1186/s13104-023-06430-y
   url: https://doi.org/10.1186/s13104-023-06430-y
   author_note: Schnable JC is 24 of 35 authors
@@ -1729,6 +1731,7 @@
   - name: Washburn JD
   status: published
   type: article
+  journal: G3 Genes|Genomes|Genetics
   doi: 10.1093/g3journal/jkad006
   url: https://doi.org/10.1093/g3journal/jkad006
   notes:
