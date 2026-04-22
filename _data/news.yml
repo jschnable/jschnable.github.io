@@ -1,15 +1,21 @@
 - date: '2026-04-03'
+  title: Amany's PhD Dissertation Exam
+  image: /images/optimized/People_Images/Amany.jfif
+  summary: "Congratulations to [Amany Gomaa](/peoplepages/Amany.md/) on the successful completion of her PhD dissertation. We celebrate this significant achievement and wish her the very best in the next step of her career."
+  people:  
+    - /peoplepages/Amani/
+- date: '2026-04-03'
   title: Nikee's PhD Dissertation Exam
   image: /images/optimized/People_Images/NikeeS.PNG
   summary: "Congratulations to [Nikee Shrestha](/peoplepages/Nikee.md/) on successfully passing her PhD dissertation exam and earning the PhD title. We wish her continued success in her research and future endeavors."
   people:  
-    - /peoplepages/Nikee.md/
+    - /peoplepages/Nikee/
 - date: '2026-03-27'
   title: Harshita's PhD Candidacy
   image: /images/optimized/People_Images/HarshitaM2.jpg
   summary: "Congratulations to [Harshita Mangal](/peoplepages/HarshitaM.md/) on advancing to PhD candidacy. This milestone reflects her dedication and progress toward completing her doctoral research."
   people:
-    - /peoplepages/HarshitaM.md/
+    - /peoplepages/HarshitaM/
 - date: '2026-02-28'
   title: Jensina Davis speaks at Maize Genetics Conference
   image: /images/News_Images/MaizeGenetics2.jpg
