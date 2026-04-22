@@ -71,6 +71,14 @@
   cv: /CVs/CV-RossyB.pdf
   linkedin: rosa-bedolla-gaxiola-9a9096171
   category: Faculty & Staff
+  - name: Meijie Luo
+  role: Visiting Scholar
+  status: current
+  image: /images/optimized/People_Images/MeijieL.jpg
+  page_path: peoplepages/MeijieL.md
+  cv: /CVs/CV_MeijieL.pdf
+  orcid: 0000-0002-1704-8639
+  category: Faculty & Staff
 - name: Jensina Davis
   role: PhD Student
   status: current
