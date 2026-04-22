@@ -2,6 +2,8 @@
   title: Harshita's PhD Candidacy
   image: /images/optimized/People_Images/HarshitaM2.jpg
   summary: "Congratulations to [Harshita Mangal](/peoplepages/HarshitaM.md/) on advancing to PhD candidacy. This milestone reflects her dedication and progress toward completing her doctoral research."
+  people:
+    - /peoplepages/HarshitaM.md/
 - date: '2026-02-28'
   title: Jensina Davis speaks at Maize Genetics Conference
   image: /images/News_Images/MaizeGenetics2.jpg
