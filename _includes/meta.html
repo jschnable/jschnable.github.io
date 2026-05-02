@@ -3,7 +3,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    {% assign meta_description = page.excerpt | default: site.description | strip_html | strip_newlines | escape %}
+    {% assign meta_description = page.description | default: page.excerpt | default: site.description | strip_html | strip_newlines | escape %}
     <meta name="description" content="{{ meta_description }}" />
     <meta property="og:description" content="{{ meta_description }}" />
     <meta name="twitter:description" content="{{ meta_description }}" />
@@ -37,10 +37,9 @@
       <meta name="twitter:image" content="{{ og_image }}" />
     {% endif %}
 
-    {% if page.title %}
-      <meta property="og:title" content="{{ page.title }}" />
-      <meta property="twitter:title" content="{{ page.title }}" />
-    {% endif %}
+    {% assign meta_title = page.title | default: site.name %}
+    <meta property="og:title" content="{{ meta_title }}" />
+    <meta property="twitter:title" content="{{ meta_title }}" />
     <meta name="twitter:card" content="{% if site.avatar %}summary_large_image{% else %}summary{% endif %}" />
     {% if site.footer-links.twitter %}
       <meta name="twitter:site" content="@{{ site.footer-links.twitter }}" />
