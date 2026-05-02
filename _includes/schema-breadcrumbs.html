@@ -1,0 +1,22 @@
+{% if site.url %}
+  {% assign crumb_url = site.url | append: site.baseurl | append: page.url %}
+  {% assign crumb_name = page.title | default: site.name %}
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": {{ site.url | append: site.baseurl | append: "/" | jsonify }}
+    }{% unless page.url == "/" %},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": {{ crumb_name | jsonify }},
+      "item": {{ crumb_url | jsonify }}
+    }{% endunless %}
+  ]
+}</script>
+{% endif %}

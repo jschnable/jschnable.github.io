@@ -1,0 +1,14 @@
+{% if site.url %}
+{% assign search_url = site.url | append: site.baseurl | append: "/search/?q=" %}
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ site.name | jsonify }},
+  "url": {{ site.url | append: site.baseurl | append: "/" | jsonify }},
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ search_url }}{% raw %}{search_term_string}{% endraw %}",
+    "query-input": "required name=search_term_string"
+  }
+}</script>
+{% endif %}

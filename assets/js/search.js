@@ -66,6 +66,11 @@
     .then((data) => {
       hydrateDocuments(data);
       buildIndex();
+      const initialQuery = new URLSearchParams(window.location.search).get('q');
+      if (initialQuery && initialQuery.trim().length >= 2) {
+        searchInput.value = initialQuery.trim();
+        performSearch(searchInput.value);
+      }
     })
     .catch((error) => {
       console.error('Search index failed to load', error);

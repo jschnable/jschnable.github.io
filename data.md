@@ -74,7 +74,7 @@ marker data, with S3 documenting trait definitions, collection sites, and source
 
 *Exhaustive list of published plant genomes as of early 2015.*
 
-# Code
+## Code
 
 <a href="https://github.com/alejandropages/SLHTP"> <b>SLHTP</b></a> <i>- A set of software packages for automated image processing based phenotyping </i>
 <br> Created by Alejandro D Pages, undergraduate researcher, 2018-19.
