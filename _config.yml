@@ -87,6 +87,18 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - AGENTS.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - scripts
+  - docs
+  - Papers
+  - images/index.html
+  - images/people.html
+  - images/People_Images/people.html
+  - images/People_Images/interests.html
+  - images/People_Images/Appendix-E Form_Schnable.pdf
   - papers_original.md
   - papers2.md
   - papers.md.backup

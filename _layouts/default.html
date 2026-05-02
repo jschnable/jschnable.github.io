@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>{% if page.title %}{{ page.title }} | {{ site.name }}{% else %}{{ site.name }} | {{ site.description }}{% endif %}</title>
 
     {% include meta.html %}
+    {% include schema-website.html %}
+    {% include schema-breadcrumbs.html %}
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

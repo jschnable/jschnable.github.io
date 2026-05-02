@@ -2,6 +2,8 @@
 layout: page
 title: "BibTeX to Publications YAML"
 permalink: /tools/bibtex-to-yaml/
+search_exclude: true
+sitemap: false
 ---
 
 Paste a single BibTeX entry below and use this helper to generate a YAML block compatible with `_data/publications.yml`.
@@ -330,4 +332,3 @@ Paste a single BibTeX entry below and use this helper to generate a YAML block c
     });
   })();
 </script>
-
