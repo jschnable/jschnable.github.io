@@ -227,3 +227,15 @@
   image: /images/optimized/People_Images/SawyerJ.jpg
   page_path: peoplepages/SawyerJ.md
   category: Undergraduate Researchers
+- name: Bri Johnson
+  role: Undergraduate Research Assistant
+  status: current
+  image: /images/optimized/People_Images/BriJ.png
+  page_path: peoplepages/Bri-Johnon.md
+  category: Undergraduate Researchers
+- name: Taryn Peffers
+  role: Undergraduate Research Assistant
+  status: current
+  image: /images/optimized/People_Images/TarynP.jpeg
+  page_path: peoplepages/Taryn-Peffers.md
+  category: Undergraduate Researchers
