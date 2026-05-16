@@ -82,6 +82,30 @@
   - phenomics
   - genotype-environment-interaction
   - quantitative-genetics
+- id: 2026-mc-predicting-complex-phenotypes
+  year: 2026
+  title: Predicting complex phenotypes using multi-omics data in maize.
+  authors:
+  - name: Creach M
+  - name: Webster B
+  - name: Newton L
+  - name: Turkus J
+    member_id: turkus-jon
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Thompson AM
+  - name: VanBuren R
+  status: accepted
+  type: article
+  journal: The Plant Cell
+  notes:
+  - bioRxiv: 10.1101/2025.09.30.679283
+  first_author_is_lab_member: false
+  lab_author_count: 2
+  tags:
+  - maize
+  - transcriptomics
+  - quantitative-genetics
 - id: 2026-m-haplotype-rich-cisregulation
   year: 2026
   title: Haplotype-rich cis-regulation underlies transcriptomic diversity across the breeding history of maize (Zea mays).
@@ -711,30 +735,6 @@
   lab_author_count: 1
   tags:
   - phenomics
-- id: 2025-mc-predicting-complex-phenotypes
-  year: 2025
-  title: Predicting complex phenotypes using multi-omics data in maize.
-  authors:
-  - name: Creach M
-  - name: Webster B
-  - name: Newton L
-  - name: Turkus J
-    member_id: turkus-jon
-  - name: Schnable JC
-    member_id: schnable-james
-  - name: Thompson AM
-  - name: VanBuren R
-  status: preprint
-  type: preprint
-  journal: bioRxiv
-  doi: 10.1101/2025.09.30.679283
-  url: https://doi.org/10.1101/2025.09.30.679283
-  first_author_is_lab_member: false
-  lab_author_count: 2
-  tags:
-  - maize
-  - transcriptomics
-  - quantitative-genetics
 - id: 2025-n-sequence-based-classifier
   year: 2025
   title: A sequence-based classifier distinguishes phenotype-associated genes from other gene models in plants
