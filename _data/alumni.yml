@@ -488,6 +488,11 @@
     current: UNL class of 2026
 - title: Professional Staff
   people:
+  - name: Rossy Bedolla
+    link: /peoplepages/Rossy.md
+    image: /images/optimized/People_Images/RossyB2.jpeg
+    role: Administrative Specialist
+    tenure: 2024-2026
   - name: Kyle Linders
     link: /peoplepages/KyleL/
     image: /images/optimized/People_Images/KyleL.jpg
