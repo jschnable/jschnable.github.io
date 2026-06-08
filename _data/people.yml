@@ -231,3 +231,9 @@
   image: /images/optimized/People_Images/TarynP.jpeg
   page_path: peoplepages/Taryn-Peffers.md
   category: Undergraduate Researchers
+- name: Christopher Wang
+  role: Young Nebraska Scientist
+  status: current
+  image: /images/optimized/People_Images/ChristopherWang.jpg
+  page_path: peoplepages/ChristopherWang.md
+  category: High-school intern
