@@ -73,11 +73,15 @@ Our alumni are employed as professors at eleven universities across four countri
 {% for item in highlights %}
   <li class="news-list__item{% if item.image %} news-list__item--has-image{% endif %}">
     {% if item.image %}
-      {% assign img_webp = item.image | replace: '.jpg', '_240.webp' | replace: '.jpeg', '_240.webp' | replace: '.png', '_240.webp' %}
-      <picture>
-        <source srcset="{{ img_webp }}" type="image/webp">
+      {% if item.image contains '/images/News_Images/' %}
+        {% assign img_webp = item.image | replace: '.jpg', '_240.webp' | replace: '.jpeg', '_240.webp' | replace: '.png', '_240.webp' %}
+        <picture>
+          <source srcset="{{ img_webp }}" type="image/webp">
+          <img src="{{ item.image }}" alt="{{ item.title }}" class="news-list__image" width="120" height="90" loading="lazy" />
+        </picture>
+      {% else %}
         <img src="{{ item.image }}" alt="{{ item.title }}" class="news-list__image" width="120" height="90" loading="lazy" />
-      </picture>
+      {% endif %}
     {% endif %}
     <div class="news-list__content">
       <time datetime="{{ item.date | date: '%Y-%m-%d' }}">{{ item.date | date: '%B %d, %Y' }}</time>
