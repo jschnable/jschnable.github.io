@@ -476,6 +476,10 @@ nav {
   margin: 14px auto 22px;
 }
 
+.rapid-media-card--portrait {
+  max-width: 540px;
+}
+
 .rapid-media-card__thumb {
   display: block;
   background: #f3f3f3;
@@ -486,6 +490,11 @@ nav {
     aspect-ratio: 16 / 10;
     object-fit: cover;
   }
+}
+
+.rapid-media-card--portrait .rapid-media-card__thumb img {
+  aspect-ratio: auto;
+  object-fit: contain;
 }
 
 .rapid-video-wrap {
