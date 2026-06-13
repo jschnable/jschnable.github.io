@@ -24,6 +24,26 @@ study, was 2,898 tubes collected from 966 plots in 92 minutes with a team of ele
 several coordinators managing hot-swapping of tube racks. That's a sustained rate of one plot per
 minute (one tube every 20 seconds) per person for more than 1.5 hours.
 
+<figure class="rapid-media-card rapid-media-card--inline rapid-media-card--portrait">
+  <picture class="rapid-media-card__thumb">
+    <source srcset="{{ site.baseurl }}/images/optimized/rapid-field-rna-sampling.webp" type="image/webp">
+    <img
+      src="{{ site.baseurl }}/images/optimized/rapid-field-rna-sampling.jpg"
+      alt="Researcher collecting pre-labeled leaf tissue samples in a maize field using the rapid field tissue collection system."
+      width="900"
+      height="1200"
+      loading="lazy"
+      decoding="async" />
+  </picture>
+  <figcaption class="rapid-media-card__body">
+    <p class="rapid-media-card__type">Field workflow</p>
+    <p class="rapid-media-card__caption">
+      Pre-ordered tube trays and field-ready carriers let samplers move through crop rows quickly
+      while keeping tissue collection organized and immediately ready for preservation.
+    </p>
+  </figcaption>
+</figure>
+
 <figure class="rapid-media-card rapid-media-card--inline rapid-media-card--embed">
   <div class="rapid-media-card__thumb rapid-video-wrap">
     <iframe
