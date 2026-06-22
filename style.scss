@@ -415,6 +415,174 @@ nav {
   color: $gray;
 }
 
+// Maize gene synthesis lookup tool
+.maize-synth-tool {
+  margin-top: 22px;
+}
+
+.maize-synth-search {
+  border: 1px solid #dfddd7;
+  border-radius: 8px;
+  padding: 22px;
+  background: #fbfbfa;
+}
+
+.maize-synth-intro {
+  color: $gray;
+  margin-top: 0;
+}
+
+.maize-synth-form {
+  margin-top: 18px;
+
+  label {
+    display: block;
+    font-weight: 700;
+    margin-bottom: 8px;
+  }
+}
+
+.maize-synth-input-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 10px;
+
+  input {
+    width: 100%;
+    min-width: 0;
+    border: 1px solid #cfcac2 !important;
+    border-radius: 6px;
+    padding: 11px 12px;
+    font: inherit;
+    background: #fff;
+
+    &:focus {
+      border-color: $primary !important;
+      box-shadow: 0 0 0 3px rgba($primary, 0.12);
+    }
+  }
+
+  button {
+    border-radius: 6px;
+    background: $primary;
+    color: #fff;
+    font-weight: 700;
+    padding: 0 18px;
+
+    &:hover,
+    &:focus {
+      background: $primary-dark;
+    }
+  }
+}
+
+.maize-synth-status {
+  margin-top: 14px;
+  color: $gray;
+  font-size: 0.95rem;
+
+  &[data-kind="ready"] {
+    color: #287044;
+  }
+
+  &[data-kind="warn"],
+  &[data-kind="error"] {
+    color: #9a3412;
+  }
+}
+
+.maize-synth-result {
+  margin-top: 26px;
+  border-top: 3px solid rgba($primary, 0.25);
+  padding-top: 18px;
+}
+
+.maize-synth-result__header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  border-bottom: 1px solid #e6e1da;
+  padding-bottom: 12px;
+
+  h2 {
+    border: 0;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.maize-synth-kicker {
+  margin: 0 0 4px;
+  color: $gray;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.maize-synth-share {
+  flex: 0 0 auto;
+  border: 1px solid #cfcac2;
+  border-radius: 6px;
+  padding: 6px 10px;
+  font-size: 0.9rem;
+}
+
+.maize-synth-match {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 10px;
+  margin: 16px 0 20px;
+
+  div {
+    border: 1px solid #e6e1da;
+    border-radius: 8px;
+    padding: 10px 12px;
+    background: #fff;
+  }
+
+  dt {
+    color: $gray;
+    font-size: 0.85rem;
+    font-weight: 700;
+  }
+
+  dd {
+    margin: 2px 0 0;
+  }
+}
+
+.maize-synth-phrase {
+  font-weight: 700;
+}
+
+.maize-synth-result p {
+  white-space: pre-wrap;
+}
+
+@include mobile {
+  .maize-synth-search {
+    padding: 16px;
+  }
+
+  .maize-synth-input-row {
+    grid-template-columns: 1fr;
+
+    button {
+      min-height: 44px;
+    }
+  }
+
+  .maize-synth-result__header {
+    display: block;
+  }
+
+  .maize-synth-share {
+    display: inline-block;
+    margin-top: 10px;
+  }
+}
+
 // Rapid Field Tissue Collection System page
 .rapid-byline {
   margin-top: -6px;

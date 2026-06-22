@@ -20,4 +20,11 @@ This page collects lab tools currently available on this site.
       Field workflow resources and supporting materials for rapid sampling protocols.
     </p>
   </a>
+
+  <a class="tools-card" href="{{ site.baseurl }}/tools/maize-gene-syntheses/">
+    <h2 class="tools-card__title">Maize Gene Function Syntheses</h2>
+    <p class="tools-card__desc">
+      Look up direct-evidence maize gene synthesis statements by v3, v4, v5, or unambiguous synonym.
+    </p>
+  </a>
 </div>
