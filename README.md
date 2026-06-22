@@ -13,8 +13,8 @@ This repository hosts the Schnable Lab group website built with Jekyll. Content 
 - Doctor the site when debugging links or configuration: `bundle exec jekyll doctor`
 - Publications QA: `python scripts/review_lab_authors.py > docs/lab_authors_review.txt`
 
-## Maize gene synthesis tool data
-The `/tools/maize-gene-syntheses/` page is a static browser tool backed by generated JSON in `assets/data/maize-gene-syntheses/`. Do not edit those JSON files by hand; rebuild them from the current GeneAnnotation SQLite databases.
+## Gene function summaries tool data
+The `/tools/maize-gene-syntheses/` page is a static browser tool backed by generated maize JSON in `assets/data/maize-gene-syntheses/`. Do not edit those JSON files by hand; rebuild them from the current GeneAnnotation SQLite databases.
 
 Default rebuild, assuming sibling checkouts under `/Users/jschnable/Projects/`:
 

@@ -5,6 +5,7 @@
   const baseUrl = root.dataset.baseurl || "";
   const dataBase = `${baseUrl}/assets/data/maize-gene-syntheses`;
   const form = document.getElementById("maize-synth-form");
+  const speciesSelect = document.getElementById("maize-synth-species");
   const queryInput = document.getElementById("maize-synth-query");
   const statusEl = document.getElementById("maize-synth-status");
   const resultEl = document.getElementById("maize-synth-result");
@@ -51,7 +52,7 @@
   async function loadLookup() {
     if (lookupIndex) return lookupIndex;
     lookupIndex = await fetchJson(`${dataBase}/lookup.json`);
-    setStatus(`Lookup ready. ${Object.keys(lookupIndex).length.toLocaleString()} unambiguous IDs and synonyms available.`, "ready");
+    setStatus("Ready.", "ready");
     return lookupIndex;
   }
 
@@ -66,7 +67,13 @@
     const normalized = normalizeQuery(rawQuery);
     if (!normalized) {
       resultEl.hidden = true;
-      setStatus("Enter a maize gene model ID or unambiguous synonym.", "warn");
+      setStatus("Enter a gene model ID or gene name.", "warn");
+      return;
+    }
+
+    if (speciesSelect && speciesSelect.value !== "maize") {
+      resultEl.hidden = true;
+      setStatus("This species is not available yet.", "warn");
       return;
     }
 
@@ -75,7 +82,7 @@
     const match = lookup[normalized];
     if (!match) {
       resultEl.hidden = true;
-      setStatus(`No unambiguous maize gene match found for "${rawQuery}".`, "warn");
+      setStatus(`No gene match found for "${rawQuery}".`, "warn");
       return;
     }
 
