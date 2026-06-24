@@ -3,7 +3,11 @@
   if (!root) return;
 
   const baseUrl = root.dataset.baseurl || "";
-  const dataBase = `${baseUrl}/assets/data/maize-gene-syntheses`;
+  const dataBase = `${baseUrl}/assets/data/gene-function-summaries`;
+  const speciesConfig = {
+    maize: { label: "Maize" },
+    sorghum: { label: "Sorghum" },
+  };
   const form = document.getElementById("maize-synth-form");
   const speciesSelect = document.getElementById("maize-synth-species");
   const queryInput = document.getElementById("maize-synth-query");
@@ -19,7 +23,7 @@
     abstract: document.getElementById("maize-synth-abstract"),
   };
 
-  let lookupIndex = null;
+  const lookupCache = new Map();
   const shardCache = new Map();
 
   function normalizeQuery(value) {
@@ -38,7 +42,12 @@
   function updateUrl(query) {
     const url = new URL(window.location.href);
     url.searchParams.set("q", query);
+    url.searchParams.set("species", getSpecies());
     window.history.replaceState({}, "", url);
+  }
+
+  function getSpecies() {
+    return speciesSelect ? speciesSelect.value : "maize";
   }
 
   async function fetchJson(url) {
@@ -49,40 +58,43 @@
     return response.json();
   }
 
-  async function loadLookup() {
-    if (lookupIndex) return lookupIndex;
-    lookupIndex = await fetchJson(`${dataBase}/lookup.json`);
+  async function loadLookup(species) {
+    if (lookupCache.has(species)) return lookupCache.get(species);
+    const lookupIndex = await fetchJson(`${dataBase}/${encodeURIComponent(species)}/lookup.json`);
+    lookupCache.set(species, lookupIndex);
     setStatus("Ready.", "ready");
     return lookupIndex;
   }
 
-  async function loadShard(shard) {
-    if (shardCache.has(shard)) return shardCache.get(shard);
-    const shardData = await fetchJson(`${dataBase}/shards/${encodeURIComponent(shard)}.json`);
-    shardCache.set(shard, shardData);
+  async function loadShard(species, shard) {
+    const key = `${species}:${shard}`;
+    if (shardCache.has(key)) return shardCache.get(key);
+    const shardData = await fetchJson(`${dataBase}/${encodeURIComponent(species)}/shards/${encodeURIComponent(shard)}.json`);
+    shardCache.set(key, shardData);
     return shardData;
   }
 
   async function search(rawQuery, options) {
     const normalized = normalizeQuery(rawQuery);
+    const species = getSpecies();
     if (!normalized) {
       resultEl.hidden = true;
       setStatus("Enter a gene model ID or gene name.", "warn");
       return;
     }
 
-    if (speciesSelect && speciesSelect.value !== "maize") {
+    if (!speciesConfig[species]) {
       resultEl.hidden = true;
       setStatus("This species is not available yet.", "warn");
       return;
     }
 
     setStatus("Searching...", "info");
-    const lookup = await loadLookup();
+    const lookup = await loadLookup(species);
     const match = lookup[normalized];
     if (!match) {
       resultEl.hidden = true;
-      setStatus(`No gene match found for "${rawQuery}".`, "warn");
+      setStatus(`No ${speciesConfig[species].label.toLowerCase()} gene match found for "${rawQuery}".`, "warn");
       return;
     }
 
@@ -90,7 +102,7 @@
     const label = match[1];
     const type = match[2];
     const shardName = match[3];
-    const shard = await loadShard(shardName);
+    const shard = await loadShard(species, shardName);
     const record = shard[geneId];
     if (!record) {
       resultEl.hidden = true;
@@ -132,11 +144,25 @@
     });
   });
 
+  if (speciesSelect) {
+    speciesSelect.addEventListener("change", function () {
+      resultEl.hidden = true;
+      loadLookup(getSpecies()).catch(function (error) {
+        setStatus(error.message, "error");
+      });
+    });
+  }
+
   shareEl.addEventListener("click", copyShareLink);
 
-  loadLookup()
+  const params = new URLSearchParams(window.location.search);
+  const initialSpecies = params.get("species");
+  if (initialSpecies && speciesSelect && speciesConfig[initialSpecies]) {
+    speciesSelect.value = initialSpecies;
+  }
+
+  loadLookup(getSpecies())
     .then(function () {
-      const params = new URLSearchParams(window.location.search);
       const initialQuery = params.get("q");
       if (initialQuery) {
         queryInput.value = initialQuery;

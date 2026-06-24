@@ -21,7 +21,7 @@ This page collects lab tools currently available on this site.
     </p>
   </a>
 
-  <a class="tools-card" href="{{ site.baseurl }}/tools/maize-gene-syntheses/">
+  <a class="tools-card" href="{{ site.baseurl }}/tools/gene-function-summaries/">
     <h2 class="tools-card__title">Gene Function Summaries</h2>
     <p class="tools-card__desc">
       Known and inferred phenotypes and functions of genes searchable by gene name or gene model ID.
