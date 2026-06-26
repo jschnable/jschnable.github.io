@@ -37,9 +37,13 @@
   - name: Schnable JC
     member_id: schnable-james
   - name: Van Sluys M-A
-  status: accepted
+  status: published
   type: article
   journal: NAR Genomics and Bioinformatics
+  doi: 10.1093/nargab/lqag030
+  url: https://doi.org/10.1093/nargab/lqag030
+  notes:
+  - bioRxiv: 10.1101/2024.11.12.623179
   first_author_is_lab_member: true
   lab_author_count: 4
   tags:
@@ -95,9 +99,11 @@
     member_id: schnable-james
   - name: Thompson AM
   - name: VanBuren R
-  status: accepted
+  status: published
   type: article
   journal: The Plant Cell
+  doi: 10.1093/plcell/koag185
+  url: https://doi.org/10.1093/plcell/koag185
   notes:
   - bioRxiv: 10.1101/2025.09.30.679283
   first_author_is_lab_member: false
@@ -126,6 +132,103 @@
   - maize
   - transcriptomics
   - genomics
+- id: 2026-h-rnaseq-resource-cold-responses
+  year: 2026
+  title: An RNA-seq data resource for time-of-day-dependent cold responses in sorghum and foxtail millet.
+  authors:
+  - name: Mangal H
+    member_id: mangal-harshita
+  - name: Mahboub S
+  - name: Shomo ZD
+  - name: Ullagaddi C
+    member_id: ullagaddi-chidanand
+  - name: Biney EE
+  - name: Turkus J
+    member_id: turkus-jon
+  - name: Linders K
+    member_id: linders-kyle
+  - name: Tonido CB
+  - name: Sugita K
+  - name: Obata T
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Roston RL
+  - name: Harmon FG
+  status: preprint
+  type: preprint
+  doi: 10.21203/rs.3.rs-9620448/v1
+  url: https://doi.org/10.21203/rs.3.rs-9620448/v1
+  notes:
+  - Research Square: 10.21203/rs.3.rs-9620448/v1
+  first_author_is_lab_member: true
+  lab_author_count: 5
+  tags:
+  - sorghum
+  - millets
+  - transcriptomics
+  - stress-tolerance
+  - data-release
+- id: 2026-m-hyperspectral-phenotyping-senescence
+  year: 2026
+  title: High-throughput hyperspectral phenotyping and transcriptomics reveal expression networks associated with nitrogen-limitation-induced
+    senescence in sorghum.
+  authors:
+  - name: Belaffif MB
+  - name: Zwiener-Malcom M
+  - name: Sreedasyam A
+  - name: Battu G
+  - name: Ji Z
+  - name: Hirannaiah P
+  - name: Manjunatha S
+  - name: Grzybowski M
+    member_id: grzybowski-marcin
+  - name: Myler S
+  - name: Dietz B
+  - name: Grimwood J
+  - name: Ge Y
+  - name: Schmutz J
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Swaminathan K
+  status: preprint
+  type: preprint
+  doi: 10.21203/rs.3.rs-9954680/v1
+  url: https://doi.org/10.21203/rs.3.rs-9954680/v1
+  notes:
+  - Research Square: 10.21203/rs.3.rs-9954680/v1
+  first_author_is_lab_member: false
+  lab_author_count: 2
+  tags:
+  - sorghum
+  - nitrogen
+  - transcriptomics
+  - phenomics
+- id: 2026-s-distinct-effects-domestication-improvement
+  year: 2026
+  title: Distinct effects of domestication and improvement on genetic load and nitrogen-response variation in sorghum.
+  authors:
+  - name: Mahamkali VSSS
+  - name: Davis J
+    member_id: davis-jensina
+  - name: Linders K
+    member_id: linders-kyle
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Xu G
+  - name: Yang J
+    member_id: yang-jinliang
+  status: preprint
+  type: preprint
+  doi: 10.64898/2026.04.28.721488
+  url: https://doi.org/10.64898/2026.04.28.721488
+  notes:
+  - bioRxiv: 10.64898/2026.04.28.721488
+  first_author_is_lab_member: false
+  lab_author_count: 3
+  tags:
+  - sorghum
+  - nitrogen
+  - quantitative-genetics
 - id: 2025-m-food-as-medicine
   year: 2025
   title: 'Food as Medicine: Enhancing Crop Breeding and Food Processing to Shift the Gut Microbiome for Prevention and Treatment
@@ -975,7 +1078,7 @@
   - name: Schnable JC
     member_id: schnable-james
   status: preprint
-  type: article
+  type: preprint
   doi: 10.1101/2024.06.04.597477
   url: https://doi.org/10.1101/2024.06.04.597477
   first_author_is_lab_member: true
