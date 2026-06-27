@@ -88,6 +88,8 @@
 - name: Nikee Shrestha
   role: PhD Student
   status: alumni
+  tenure: 2022-2026
+  current: Bayer
   image: /images/optimized/People_Images/NikeeS.PNG
   page_path: peoplepages/Nikee.md
   cv: /CVs/CV_NikeeS.pdf
@@ -128,6 +130,7 @@
 - name: Amany Gomaa
   role: PhD Student (co-advised)
   status: alumni
+  tenure: 2024-2026
   image: /images/optimized/People_Images/Amany.jfif
   page_path: peoplepages/Amany.md
   cv: /CVs/CV_AmanyG.pdf
@@ -178,6 +181,8 @@
 - name: Surya Krishna Sakthivel
   role: Rotating PhD Student
   status: alumni
+  tenure: '2026'
+  current: PhD Student, University of Nebraska-Lincoln
   image: /images/optimized/People_Images/SuryaK.jpg
   page_path: peoplepages/SuryaK.md
   cv: /CVs/CV_SuryaK.pdf
@@ -188,6 +193,8 @@
 - name: Sofiya Arora
   role: MS Student
   status: alumni
+  tenure: 2024-2026
+  current: PhD Student, North Carolina State University
   image: /images/optimized/People_Images/Sofiya.png
   page_path: peoplepages/Sofiya.md
   cv: /CVs/CV_SofiyaA2.pdf
