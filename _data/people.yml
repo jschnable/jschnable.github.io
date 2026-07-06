@@ -131,6 +131,7 @@
   role: PhD Student (co-advised)
   status: alumni
   tenure: 2024-2026
+  current: Postdoc, University of Nebraska-Lincoln
   image: /images/optimized/People_Images/Amany.jfif
   page_path: peoplepages/Amany.md
   cv: /CVs/CV_AmanyG.pdf
@@ -170,7 +171,9 @@
   category: Graduate Students
 - name: Hira Aslam
   role: Visiting PhD Student
-  status: current
+  status: alumni
+  tenure: 2025-2026
+  current: PhD Student, PMAS-Arid Agriculture University
   image: /images/optimized/People_Images/HiraA.jpg
   page_path: peoplepages/HiraA.md
   cv: /CVs/CV_HiraA.pdf
@@ -206,7 +209,9 @@
   category: Graduate Students
 - name: Hadiya Kounsar
   role: MS Student
-  status: current
+  status: alumni
+  tenure: 2025-2026
+  current: PhD Student, University of Wisconsin
   image: /images/optimized/People_Images/HadiyaK2.jpg
   page_path: peoplepages/HadiyaK.md
   cv: /CVs/CV_HadiyaK.pdf
