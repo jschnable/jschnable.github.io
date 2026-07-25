@@ -58,9 +58,45 @@
     return response.json();
   }
 
+  /**
+   * Ensure every gene model ID is searchable by its canonical ID.
+   * Some synonym exports only include transcript accessions
+   * (e.g. Sobic.001G195100.1), which leaves bare gene-model queries unresolved.
+   */
+  function ensureGeneModelKeys(lookupIndex) {
+    Object.keys(lookupIndex).forEach(function (key) {
+      const match = lookupIndex[key];
+      if (!match || !match[0]) return;
+      const geneKey = normalizeQuery(match[0]);
+      if (!geneKey || lookupIndex[geneKey]) return;
+      lookupIndex[geneKey] = [match[0], match[0], "gene_model_id", match[3]];
+    });
+    return lookupIndex;
+  }
+
+  /**
+   * Resolve a query against the lookup index. Exact match first; if the query
+   * looks like a transcript/isoform accession, also try the parent gene model.
+   */
+  function resolveMatch(lookup, normalized) {
+    if (lookup[normalized]) return lookup[normalized];
+
+    // Sorghum-style transcript: Sobic.001G195100.1 → Sobic.001G195100
+    const dotted = normalized.match(/^(.*)\.(\d+)$/);
+    if (dotted && lookup[dotted[1]]) return lookup[dotted[1]];
+
+    // Maize-style transcript: zm00001eb000010_t001 → zm00001eb000010
+    const underscored = normalized.match(/^(.*)_t\d+$/);
+    if (underscored && lookup[underscored[1]]) return lookup[underscored[1]];
+
+    return null;
+  }
+
   async function loadLookup(species) {
     if (lookupCache.has(species)) return lookupCache.get(species);
-    const lookupIndex = await fetchJson(`${dataBase}/${encodeURIComponent(species)}/lookup.json`);
+    const lookupIndex = ensureGeneModelKeys(
+      await fetchJson(`${dataBase}/${encodeURIComponent(species)}/lookup.json`)
+    );
     lookupCache.set(species, lookupIndex);
     setStatus("Ready.", "ready");
     return lookupIndex;
@@ -91,7 +127,7 @@
 
     setStatus("Searching...", "info");
     const lookup = await loadLookup(species);
-    const match = lookup[normalized];
+    const match = resolveMatch(lookup, normalized);
     if (!match) {
       resultEl.hidden = true;
       setStatus(`No ${speciesConfig[species].label.toLowerCase()} gene match found for "${rawQuery}".`, "warn");

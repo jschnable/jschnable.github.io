@@ -139,6 +139,23 @@ def load_lookup(
                     shard_for_gene(gene_id, config),
                 ],
             )
+
+    # Always index each synthesis gene by its gene model ID. Synonym tables
+    # sometimes only list transcript accessions (e.g. Sobic.001G195100.1), which
+    # would otherwise leave bare gene model searches (Sobic.001G195100) unresolved.
+    for gene_id in valid_gene_ids:
+        key = normalize_query(gene_id)
+        if not key:
+            continue
+        lookup.setdefault(
+            key,
+            [
+                gene_id,
+                gene_id,
+                "gene_model_id",
+                shard_for_gene(gene_id, config),
+            ],
+        )
     return lookup, skipped
 
 
