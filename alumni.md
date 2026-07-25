@@ -57,7 +57,6 @@ title: Schnable Lab Alumni
       {% if person.tenure %}<li><strong>Years:</strong> {{ person.tenure }}</li>{% endif %}
       {% if person.current %}<li><strong>Now:</strong> {{ person.current }}</li>{% endif %}
       {% if person.orcid %}<li><a href="https://orcid.org/{{ person.orcid }}">ORCID</a></li>{% endif %}
-      {% if person.cv %}<li><a href="{{ person.cv | relative_url }}">CV</a></li>{% endif %}
     </ul>
   </li>
 {% endfor %}

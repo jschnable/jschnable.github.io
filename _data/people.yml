@@ -3,7 +3,6 @@
   status: current
   image: /images/optimized/People_Images/jamesschnable.jpg
   page_path: peoplepages/jschnable.md
-  cv: /CVs/JSchnable.pdf
   orcid: 0000-0001-6739-5527
   scholar: https://scholar.google.com/citations?user=cik4JVYAAAAJ&hl=en&oi=ao
   socials:
@@ -15,7 +14,6 @@
   status: current
   image: /images/optimized/People_Images/JonT.jpg
   page_path: peoplepages/JonT.md
-  cv: /CVs/CV_JonathanT.pdf
   orcid: 0000-0002-2006-0137
   scholar: https://scholar.google.com/citations?user=BIXeJAMAAAAJ&hl=en&authuser=1&oi=ao
   linkedin: jonathanturkus
@@ -28,7 +26,6 @@
   status: current
   image: /images/optimized/People_Images/Chidanand.JPG
   page_path: peoplepages/Chidu.md
-  cv: /CVs/CV_Chidanand.pdf
   orcid: 0009-0009-4005-3282
   scholar: https://scholar.google.com/citations?user=O_LrPogAAAAJ&hl=en&oi=ao
   linkedin: chidanand-ullagaddi-31647226
@@ -41,7 +38,6 @@
   status: current
   image: /images/optimized/People_Images/Zhongjie.jpg
   page_path: peoplepages/ZhongjieJ.md
-  cv: /CVs/CV_ZhongjieJ.pdf
   orcid: 0009-0006-1448-305X
   scholar: https://scholar.google.com/citations?user=n6JlWJQAAAAJ&hl=en&oi=ao
   github:
@@ -58,7 +54,6 @@
   status: current
   image: /images/optimized/People_Images/SumeetM.jpg
   page_path: peoplepages/SumeetM.md
-  cv: /CVs/SumeetCV.pdf
   orcid: 0000-0002-9603-121X
   scholar: https://scholar.google.com/citations?user=kbUIVnsAAAAJ&hl=en
   linkedin: sumeetmankar
@@ -68,7 +63,6 @@
   status: current
   image: /images/optimized/People_Images/MeijieL.jpg
   page_path: peoplepages/MeijieL.md
-  cv: /CVs/CV_MeijieL.pdf
   orcid: 0000-0002-1704-8639
   category: Faculty & Staff
 - name: Jensina Davis
@@ -76,7 +70,6 @@
   status: current
   image: /images/optimized/People_Images/JensinaD2.jpg
   page_path: peoplepages/Jensina.md
-  cv: /CVs/CV_JensinaDavis-2.pdf
   orcid: 0009-0000-3638-9482
   scholar: https://scholar.google.com/citations?user=Y5Gk5zwAAAAJ&hl=en&oi=ao
   github: https://github.com/jdavis-132
@@ -92,7 +85,6 @@
   current: Bayer
   image: /images/optimized/People_Images/NikeeS.PNG
   page_path: peoplepages/Nikee.md
-  cv: /CVs/CV_NikeeS.pdf
   orcid: 0000-0003-4195-7549
   scholar: https://scholar.google.com/citations?user=iIFpXjAAAAAJ&hl=en&oi=ao
   socials:
@@ -104,7 +96,6 @@
   status: current
   image: /images/optimized/People_Images/WaqarAli2.jpg
   page_path: peoplepages/Waqar.md
-  cv: /CVs/WaqarAliCV.pdf
   orcid: 0009-0001-8822-0950
   scholar: https://scholar.google.com/citations?user=Qxyc8R4AAAAJ&hl=en&oi=ao
   github: https://github.com/waqarali1994
@@ -118,7 +109,6 @@
   status: current
   image: /images/optimized/People_Images/HarshitaM2.jpg
   page_path: peoplepages/HarshitaM.md
-  cv: /CVs/CV_HarshitaM.pdf
   orcid: 0009-0002-8424-6026
   scholar: https://scholar.google.com/citations?user=NSkbSfQAAAAJ&hl=en&oi=ao
   github: https://github.com/harshita9817
@@ -134,7 +124,6 @@
   current: Postdoc, University of Nebraska-Lincoln
   image: /images/optimized/People_Images/Amany.jfif
   page_path: peoplepages/Amany.md
-  cv: /CVs/CV_AmanyG.pdf
   orcid: 0000-0002-7309-5229
   category: Graduate Students
 - name: "Karla Cu\xE9llar"
@@ -142,7 +131,6 @@
   status: current
   image: /images/optimized/People_Images/KarlaC.jpeg
   page_path: peoplepages/KarlaC2.md
-  cv: /CVs/CV_KarlaC.pdf
   orcid: 0009-0001-2851-6370
   linkedin: karla-montserrat-cuéllar-pérez-a949ab263
   category: Graduate Students
@@ -151,7 +139,6 @@
   status: current
   image: /images/optimized/People_Images/OzgurA.jpg
   page_path: peoplepages/OzgurA.md
-  cv: /CVs/CV_OzgurA.pdf
   orcid: 0000-0002-4579-599X
   scholar: https://scholar.google.com/citations?user=xqjVHMIAAAAJ&hl=en&oi=ao
   linkedin: özgüraltundas
@@ -164,7 +151,6 @@
   status: current
   image: /images/optimized/People_Images/RyleighK.jpg
   page_path: peoplepages/RyleighK.md
-  cv: /CVs/CV_RyleighK.pdf
   scholar: https://scholar.google.com/citations?user=0TTcJesAAAAJ&hl=en&oi=ao
   orcid: 0000-0002-3336-7728
   linkedin: ryleigh-kirby
@@ -176,7 +162,6 @@
   current: PhD Student, PMAS-Arid Agriculture University
   image: /images/optimized/People_Images/HiraA.jpg
   page_path: peoplepages/HiraA.md
-  cv: /CVs/CV_HiraA.pdf
   orcid: 0009-0003-2406-4519
   scholar: https://scholar.google.com/citations?user=ogMvlCkAAAAJ&hl=en
   linkedin: hiraaslamm
@@ -188,7 +173,6 @@
   current: PhD Student, University of Nebraska-Lincoln
   image: /images/optimized/People_Images/SuryaK.jpg
   page_path: peoplepages/SuryaK.md
-  cv: /CVs/CV_SuryaK.pdf
   orcid: 0009-0006-9656-7643
   scholar:  https://scholar.google.com/citations?hl=en&user=fBc01YYAAAAJ
   linkedin: surya-krishna-sakthivel-11859220b
@@ -200,7 +184,6 @@
   current: PhD Student, North Carolina State University
   image: /images/optimized/People_Images/Sofiya.png
   page_path: peoplepages/Sofiya.md
-  cv: /CVs/CV_SofiyaA2.pdf
   orcid: 0009-0004-5357-6094
   linkedin: sofiya-arora-4857902b4
   socials:
@@ -214,7 +197,6 @@
   current: PhD Student, University of Wisconsin
   image: /images/optimized/People_Images/HadiyaK2.jpg
   page_path: peoplepages/HadiyaK.md
-  cv: /CVs/CV_HadiyaK.pdf
   orcid: 0009-0001-5087-7690
   scholar: https://scholar.google.com/citations?user=lmiqBhcAAAAJ&hl=en&oi=ao
   linkedin: hadiya-kounsar-29a3b7220
