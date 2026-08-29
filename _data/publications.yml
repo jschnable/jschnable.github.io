@@ -1,3 +1,27 @@
+- id: 2026-g-enviromics-abiotic-enviromics
+  year: 2026
+  title: 'Enviromics and abiotic enviromics: enhancing stress biology and plant resilience breeding.'
+  authors:
+  - name: Sun G
+    member_id: sun-guangchao
+  - name: Araus JL
+  - name: Schnable JC
+    member_id: schnable-james
+  - name: Xu J
+  - name: Nguyen HT
+  - name: Xu Y
+  - name: Lu Y
+  status: published
+  type: review
+  journal: Advanced Science
+  doi: 10.1002/advs.77304
+  url: https://doi.org/10.1002/advs.77304
+  first_author_is_lab_member: true
+  lab_author_count: 2
+  tags:
+  - genotype-environment-interaction
+  - stress-tolerance
+  - review-methods
 - id: 2026-qc-genomes-to-fields-competition
   year: 2026
   title: Genomes to Fields 2024 maize genotype by environment prediction competition.
