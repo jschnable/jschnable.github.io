@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Rapid Field Tissue Collection System"
+title: "Rapid Field Tissue Collection Kit"
 permalink: /rapidfieldsampling/
 ---
 
@@ -29,7 +29,7 @@ minute (one tube every 20 seconds) per person for more than 1.5 hours.
     <source srcset="{{ site.baseurl }}/images/optimized/rapid-field-rna-sampling.webp" type="image/webp">
     <img
       src="{{ site.baseurl }}/images/optimized/rapid-field-rna-sampling.jpg"
-      alt="Researcher collecting pre-labeled leaf tissue samples in a maize field using the rapid field tissue collection system."
+      alt="Researcher collecting pre-labeled leaf tissue samples in a maize field using the rapid field tissue collection kit."
       width="900"
       height="1200"
       loading="lazy"
@@ -48,7 +48,7 @@ minute (one tube every 20 seconds) per person for more than 1.5 hours.
   <div class="rapid-media-card__thumb rapid-video-wrap">
     <iframe
       src="https://www.youtube-nocookie.com/embed/ep0gtoMmKBw"
-      title="Full demonstration of the rapid field tissue collection system during a sampling campaign"
+      title="Full demonstration of the rapid field tissue collection kit during a sampling campaign"
       loading="lazy"
       referrerpolicy="strict-origin-when-cross-origin"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -58,7 +58,7 @@ minute (one tube every 20 seconds) per person for more than 1.5 hours.
   <figcaption class="rapid-media-card__body">
     <p class="rapid-media-card__type">Video</p>
     <p class="rapid-media-card__caption">
-      Full demonstration of the rapid field tissue collection system during a sampling campaign.
+      Full demonstration of the rapid field tissue collection kit during a sampling campaign.
       <a href="https://youtu.be/ep0gtoMmKBw">Open on YouTube</a>.
     </p>
   </figcaption>
@@ -66,7 +66,7 @@ minute (one tube every 20 seconds) per person for more than 1.5 hours.
 
 ## How It Works
 
-At its core, the system combines pre-labeled tubes and leaf punches for sample collection with a
+At its core, the kit combines pre-labeled tubes and leaf punches for sample collection with a
 carrier system that allows collectors to safely transport liquid nitrogen or dry ice through the
 field.
 
@@ -149,24 +149,24 @@ and chromatin accessibility - from the same population, in the same field, at th
 
 ## Adoption
 
-The system has been used by research groups across ten states and by multiple private companies
+The kit has been used by research groups across ten states and by multiple private companies
 for high-throughput molecular phenotyping under field conditions. We use it primarily for corn and
 sorghum, but other groups have successfully tested it with other crops.
 
 <figure class="rapid-media-card rapid-media-card--inline">
   <img
     src="{{ site.baseurl }}/images/tissue_collection_adoption.png"
-    alt="Map showing research groups and companies using the rapid field tissue collection system."
+    alt="Map showing research groups and companies using the rapid field tissue collection kit."
     loading="lazy"
     decoding="async" />
   <figcaption class="rapid-media-card__body">
     <p class="rapid-media-card__caption">
-      Research groups and companies using the rapid field tissue collection system.
+      Research groups and companies using the rapid field tissue collection kit.
     </p>
   </figcaption>
 </figure>
 
-## Publications Using This System
+## Publications Using This Kit
 
 <ol class="rapid-pubs">
   <li>
@@ -214,14 +214,14 @@ Interested in learning more or collaborating? Reach out to
   <a class="rapid-media-card__thumb" href="https://www.flickr.com/photos/schnablelab/53234773871/">
     <img
       src="https://live.staticflickr.com/65535/53234773871_88e7ca34a5_z.jpg"
-      alt="The rapid field tissue collection system in use during a sorghum diversity panel sampling campaign."
+      alt="The rapid field tissue collection kit in use during a sorghum diversity panel sampling campaign."
       loading="lazy"
       decoding="async" />
   </a>
   <figcaption class="rapid-media-card__body">
     <p class="rapid-media-card__type">Photo</p>
     <p class="rapid-media-card__caption">
-      The rapid field tissue collection system in use during a sorghum diversity panel sampling campaign.
+      The rapid field tissue collection kit in use during a sorghum diversity panel sampling campaign.
       <a href="https://www.flickr.com/photos/schnablelab/53234773871/">View on Flickr</a>.
     </p>
   </figcaption>
