@@ -1,0 +1,59 @@
+diff --git a/_data/news.yml b/_data/news.yml
+index 864e5fb..d9d5b6e 100644
+--- a/_data/news.yml
++++ b/_data/news.yml
+@@ -1,3 +1,9 @@
++- date: '2026-08-16'
++  title: Jensina's PhD Dissertation Exam
++  image: /images/optimized/People_Images/JensinaD2.jpg
++  summary: "Congratulations to [Jensina Davis](/peoplepages/Jensina/) on successfully passing her PhD dissertation exam and earning the PhD title. We wish her continued success in her research and future endeavors."
++  people:
++    - /peoplepages/Jensina/
+ - date: '2026-06-08'
+   title: Harshita Mangal receives 2026 PSI Heuermann Award
+   image: /images/optimized/People_Images/HarshitaM2.jpg
+@@ -45,7 +51,7 @@
+     - /peoplepages/ZhongjieJ/
+ - date: '2026-02-23'
+   title: James Schnable elected to National Academy of Inventors
+-  summary: "[James Schnable](/peoplepages/jschnable/) has been elected a member of the [National Academy of Inventors](https://academyofinventors.org/)."
++  summary: "[James Schnable](/peoplepages/jschnable/) has been elected a Senior Member of the [National Academy of Inventors](https://academyofinventors.org/)."
+   people:
+     - /peoplepages/jschnable/
+ - date: '2026-02-20'
+@@ -96,7 +102,7 @@
+     - /peoplepages/SuryaK/
+     - /peoplepages/HiraA/
+ - date: '2025-10-21'
+-  title: Wrapping up our 2026 field season
++  title: Wrapping up our 2025 field season
+   image: /images/News_Images/EndOfHarvest.jpeg
+   summary: Thank you to everyone from our lab, and our collaborators in the Benson and Kim labs, who showed up on a cold Saturday morning to complete the hand harvest of our lab field for 2025. Now time to start planning 2026 fields. 
+ - date: '2024-11-22'
+@@ -257,7 +263,7 @@
+ - date: '2025-01-20'
+   title: Satellite phenotyping spotlight
+   summary: Nikee Shrestha’s USDA NIFA-supported project on satellite-based corn phenotyping
+-    was featured in Plant People Planet.
++    was featured in Plants, People, Planet.
+   people:
+     - /peoplepages/Nikee/
+ - date: '2025-01-24'
+@@ -396,7 +402,7 @@
+     - /peoplepages/NateKorth/
+     - /peoplepages/LinaLopez/
+ - date: '2025-10-10'
+-  title: Students Presentations at the PSI Plant Science Symposium
++  title: Student Presentations at the PSI Plant Science Symposium
+   image: /images/News_Images/PSI_Conference.jpg
+   summary: Jensina Davis, Harshita Mangal, and Sofiya Arora each had the chance to deliver presentations at the 2025 PSI Plant Science Symposium here on campus.
+   people:
+@@ -429,7 +435,7 @@
+   people:
+     - /peoplepages/Vlad/
+ - date: '2025-11-04'
+-  title: JonTurkus Wins the 2025 Outstanding Employee Award
++  title: Jon Turkus Wins the 2025 Outstanding Employee Award
+   image: /images/News_Images/TurkusAward.jpg
+   summary: "Our exceptional lab manager [Jonathan Turkus](/peoplepages/JonT/) named the 2025 Outstanding Employee. Jon's determination and creativity have made just a big impact not only on our lab, but on groups across the country over the past five years. Congratulations, Jon!"
+   people:
