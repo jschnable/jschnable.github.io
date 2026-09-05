@@ -10,7 +10,6 @@ layout: default
 {% assign person_role = "" %}
 {% assign person_status = "" %}
 {% assign person_image = nil %}
-{% assign person_cv = nil %}
 {% assign person_orcid = nil %}
 {% assign person_scholar = nil %}
 {% assign person_socials = nil %}
@@ -22,7 +21,6 @@ layout: default
   {% assign person_role = person_entry.role %}
   {% assign person_status = person_entry.status %}
   {% assign person_image = person_entry.image %}
-  {% assign person_cv = person_entry.cv %}
   {% assign person_orcid = person_entry.orcid %}
   {% assign person_scholar = person_entry.scholar %}
   {% assign person_github = person_entry.github %}
@@ -36,7 +34,6 @@ layout: default
   {% assign person_role = page.role %}
   {% assign person_status = "alumni" %}
   {% assign person_image = page.image %}
-  {% assign person_cv = page.cv %}
   {% assign person_orcid = page.orcid %}
   {% assign person_scholar = page.scholar %}
   {% assign person_github = page.github %}
@@ -63,7 +60,6 @@ layout: default
       {% assign person_role = match.role %}
       {% assign person_status = "alumni" %}
       {% assign person_image = match.image %}
-      {% assign person_cv = match.cv %}
       {% assign person_orcid = match.orcid %}
       {% assign person_scholar = match.scholar %}
       {% assign person_socials = match.socials %}
@@ -157,13 +153,6 @@ layout: default
         {% if person_status and person_scope == 'current' %}<li><strong>Status</strong> <span>{{ person_status | capitalize }}</span></li>{% endif %}
         {% if person_tenure %}<li><strong>Tenure</strong> <span>{{ person_tenure }}</span></li>{% endif %}
         {% if person_current_role %}<li><strong>Now</strong> <span>{{ person_current_role }}</span></li>{% endif %}
-        {% if person_cv %}
-          {% assign cv_href = person_cv %}
-          {% unless cv_href contains '://' %}
-            {% assign cv_href = cv_href | relative_url %}
-          {% endunless %}
-          <li><strong>CV</strong> <a class="person__link" href="{{ cv_href }}">Download PDF</a></li>
-        {% endif %}
         {% if person_orcid %}
           {% assign orcid_url = person_orcid %}
           {% unless person_orcid contains 'http' %}
