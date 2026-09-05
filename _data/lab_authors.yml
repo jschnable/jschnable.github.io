@@ -1,1 +1,5 @@
-@/tmp/mcp-args/lab_content_only.txt
+- id: agarwal-bhushit
+  name: Bhushit Agarwal
+  aliases:
+  - Agarwal B
+  active: false
