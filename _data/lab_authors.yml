@@ -292,3 +292,299 @@
   - Duryee, Logan
   - L. Duryee
   active: false
+- id: enersen-alex
+  name: Alex Enersen
+  aliases:
+  - A. Enersen
+  - Enersen A
+  - Enersen A.
+  - Enersen, A
+  - Enersen, A.
+  - Enersen, Alex
+  active: false
+- id: faber-maddy
+  name: Maddy Faber
+  aliases:
+  - Faber M
+  - Faber M.
+  - Faber, M
+  - Faber, M.
+  - Faber, Maddy
+  - M. Faber
+  active: false
+- id: finch-alexis
+  name: Alexis Finch
+  aliases:
+  - A. Finch
+  - Finch A
+  - Finch A.
+  - Finch, A
+  - Finch, A.
+  - Finch, Alexis
+  active: false
+- id: foltz-ashley
+  name: Ashley Foltz
+  aliases:
+  - A. Foltz
+  - Foltz A
+  - Foltz A.
+  - Foltz, A
+  - Foltz, A.
+  - Foltz, Ashley
+  active: false
+- id: frost-elijah
+  name: Elijah Frost
+  aliases:
+  - E. Frost
+  - Frost E
+  - Frost E.
+  - Frost, E
+  - Frost, E.
+  - Frost, Elijah
+  active: false
+- id: gomaa-amany
+  name: Amany Gomaa
+  aliases:
+  - A. Gomaa
+  - Gomaa A
+  - Gomaa A.
+  - Gomaa, A
+  - Gomaa, A.
+  - Gomaa, Amany
+  active: true
+  people_page: peoplepages/Amany.md
+  orcid: 0000-0002-7309-5229
+- id: grace-sofia
+  name: Sofia Grace
+  aliases:
+  - Grace S
+  - Grace S.
+  - Grace, S
+  - Grace, S.
+  - Grace, Sofia
+  - S. Grace
+  active: false
+- id: grove-ryleigh
+  name: Ryleigh Grove
+  aliases:
+  - Grove R
+  - Grove R.
+  - Grove RJ
+  - Grove, R
+  - Grove, R.
+  - Grove, Ryleigh
+  - R. Grove
+  active: false
+- id: grzybowski-marcin
+  name: Marcin Grzybowski
+  aliases:
+  - Grzybowski M
+  - Grzybowski M.
+  - Grzybowski, M
+  - Grzybowski, M.
+  - Grzybowski, Marcin
+  - M. Grzybowski
+  active: false
+  people_page: /peoplepages/Marcin_Grzybowski/
+  orcid: 0000-0002-6303-5433
+- id: guo-alice
+  name: Alice Guo
+  aliases:
+  - A. Guo
+  - Guo A
+  - Guo A.
+  - Guo, A
+  - Guo, A.
+  - Guo, Alice
+  active: false
+- id: hamad-shurouk
+  name: Shurouk Hamad
+  aliases:
+  - Hamad S
+  - Hamad S.
+  - Hamad, S
+  - Hamad, S.
+  - Hamad, Shurouk
+  - S. Hamad
+  active: false
+- id: hirwa-remy
+  name: Remy Hirwa
+  aliases:
+  - Hirwa R
+  - Hirwa R.
+  - Hirwa, R
+  - Hirwa, R.
+  - Hirwa, Remy
+  - R. Hirwa
+  active: false
+- id: hoang-khang
+  name: Khang Hoang
+  aliases:
+  - Hoang K
+  - Hoang K.
+  - Hoang, K
+  - Hoang, K.
+  - Hoang, Khang
+  - K. Hoang
+  active: false
+- id: hoban-thomas
+  name: Thomas Hoban
+  aliases:
+  - Hoban T
+  - Hoban T.
+  - Hoban, T
+  - Hoban, T.
+  - Hoban, Thomas
+  - T. Hoban
+  active: false
+  orcid: 0000-0001-7607-1903
+- id: hochstein-jill
+  name: Jill Hochstein
+  aliases:
+  - Hochstein J
+  - Hochstein J.
+  - Hochstein, J
+  - Hochstein, J.
+  - Hochstein, Jill
+  - J. Hochstein
+  people_page: peoplepages/Jill_Hochstein.md
+- id: hollander-nicole
+  name: Nicole Hollander
+  aliases:
+  - Hollander N
+  - Hollander N.
+  - Hollander, N
+  - Hollander, N.
+  - Hollander, Nicole
+  - N. Hollander
+  active: false
+- id: horanituze-jocelyne
+  name: Jocelyne Horanituze
+  aliases:
+  - Horanituze J
+  - Horanituze J.
+  - Horanituze, J
+  - Horanituze, J.
+  - Horanituze, Jocelyne
+  - J. Horanituze
+  active: false
+- id: horn-taylor
+  name: Taylor Horn
+  aliases:
+  - Horn T
+  - Horn T.
+  - Horn, T
+  - Horn, T.
+  - Horn, Taylor
+  - T. Horn
+  active: false
+- id: hurst-preston
+  name: Preston Hurst
+  aliases:
+  - Hurst JP
+  - Hurst P
+  - Hurst P.
+  - Hurst, P
+  - Hurst, P.
+  - Hurst, Preston
+  - P. Hurst
+  active: false
+  people_page: /peoplepages/Preston_Hurst/
+- id: hurst-j
+  name: J. Preston Hurst
+  aliases:
+  - Hurst J
+  - Hurst J P
+  - Hurst J.
+  - Hurst JP
+  - Hurst, J
+  - Hurst, J.
+  - Hurst, J. Preston
+  - Hurst, JP
+  - J P Hurst
+  - J. P. Hurst
+  people_page: peoplepages/Preston_Hurst.md
+- id: hussaini-mohamed
+  name: Mohamed Al Hussaini
+  aliases:
+  - Hussaini M
+  - Hussaini M A
+  - Hussaini M.
+  - Hussaini MA
+  - Hussaini, M
+  - Hussaini, M.
+  - Hussaini, MA
+  - Hussaini, Mohamed
+  - Hussaini, Mohamed Al
+  - M A Hussaini
+  - M. A. Hussaini
+  - Al Hussaini M
+  - Al Hussaini, M
+  - Mohamed Al Hussaini
+  active: false
+- id: igiraneza-alliance
+  name: Alliance Igiraneza
+  aliases:
+  - A. Igiraneza
+  - Igiraneza A
+  - Igiraneza A.
+  - Igiraneza, A
+  - Igiraneza, A.
+  - Igiraneza, Alliance
+  active: false
+- id: istipliler-deniz
+  name: Deniz Istipliler
+  aliases:
+  - D. Istipliler
+  - Istipliler D
+  - Istipliler D.
+  - Istipliler, D
+  - Istipliler, D.
+  - Istipliler, Deniz
+  active: false
+  people_page: /peoplepages/Deniz_Istipiller/
+  orcid: 0000-0002-0887-1121
+- id: ji-zhongjie
+  name: Zhongjie Ji
+  aliases:
+  - Ji Z
+  - Ji Z.
+  - Ji Zhongjie
+  - Ji, Z
+  - Ji, Z.
+  - Ji, Zhongjie
+  - Z. Ji
+  active: true
+  people_page: peoplepages/ZhongjieJ.md
+  orcid: 0009-0006-1448-305X
+- id: jin-hongyu
+  name: Hongyu Jin
+  aliases:
+  - H. Jin
+  - Jin H
+  - Jin H.
+  - Jin, H
+  - Jin, H.
+  - Jin, Hongyu
+  active: false
+  people_page: /peoplepages/Hongyu_Jin/
+- id: johnson-kyle
+  name: Kyle Johnson
+  aliases:
+  - Johnson K
+  - Johnson K.
+  - Johnson, K
+  - Johnson, K.
+  - Johnson, Kyle
+  - K. Johnson
+  active: false
+- id: johnson-sarah
+  name: Sarah Johnson
+  aliases:
+  - Johnson S
+  - Johnson S.
+  - Johnson, S
+  - Johnson, S.
+  - Johnson, Sarah
+  - S. Johnson
+  active: false
