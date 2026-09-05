@@ -10,7 +10,7 @@
   - name: Caner Yavuz
     image: /images/optimized/People_Images/Caner.jpg
     role: Visiting Scientist
-    tenure: '2025'
+    tenure: 2024-2025
     current: Assistant Professor, NOHU (Turkey)
   - name: Khang Hoang
     image: /images/optimized/People_Images/Khang.png
@@ -154,6 +154,7 @@
     image: /images/optimized/People_Images/Ramesh.jpg
     role: MS Student
     tenure: 2022-2024
+    current: PhD Student, Texas A&M
   - name: Kahheetah Barnoskie
     image: /images/optimized/People_Images/Kahheetah.jpg
     role: MS Student
@@ -189,7 +190,6 @@
 - title: Bachelors Students
   people:
   - name: Jordan Bares
-    link: /peoplepages/Charlie-Colvin.md/
     image: /images/optimized/People_Images/Jordan.jpeg
     role: Undergraduate Research Assistant
     tenure: '2024-2025'
@@ -346,7 +346,7 @@
     image: /images/optimized/People_Images/Sam2021.jpg
     role: Bachelors Student
     tenure: '2021'
-  - name: Mohamed Al Hussaini]
+  - name: Mohamed Al Hussaini
     image: /images/optimized/People_Images/MohamedAH.jpg
     role: Bachelors Student
     tenure: Summer 2021
@@ -445,8 +445,9 @@
     tenure: 2022-2023
   - name: Aime Nishimwe
     image: /images/optimized/People_Images/Aime.jpg
-    role: CUSP Bachelors Student 0000-0003-0074-9364
+    role: CUSP Bachelors Student
     tenure: 2018-2022
+    orcid: 0000-0003-0074-9364
   - name: Natasha Nguyen
     image: /images/optimized/People_Images/NatashaNguyen.jpeg
     role: Undergraduate Research Assistant
@@ -487,7 +488,7 @@
     image: /images/optimized/People_Images/Ryleigh.jpg
     role: YNS Student
     tenure: Summer 2021
-    current: UNL class of 2026
+    current: Now Ryleigh Kirby, PhD student (co-advised), Schnable Lab / UNL
 - title: Professional Staff
   people:
   - name: Rossy Bedolla

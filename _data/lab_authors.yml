@@ -505,19 +505,22 @@
   - J. P. Hurst
   people_page: peoplepages/Preston_Hurst.md
 - id: hussaini-mohamed
-  name: Mohamed Al Hussaini]
+  name: Mohamed Al Hussaini
   aliases:
-  - Hussaini] M
-  - Hussaini] M A
-  - Hussaini] M.
-  - Hussaini] MA
-  - Hussaini], M
-  - Hussaini], M.
-  - Hussaini], MA
-  - Hussaini], Mohamed
-  - Hussaini], Mohamed Al
-  - M A Hussaini]
-  - M. A. Hussaini]
+  - Hussaini M
+  - Hussaini M A
+  - Hussaini M.
+  - Hussaini MA
+  - Hussaini, M
+  - Hussaini, M.
+  - Hussaini, MA
+  - Hussaini, Mohamed
+  - Hussaini, Mohamed Al
+  - M A Hussaini
+  - M. A. Hussaini
+  - Al Hussaini M
+  - Al Hussaini, M
+  - Mohamed Al Hussaini
   active: false
 - id: igiraneza-alliance
   name: Alliance Igiraneza
