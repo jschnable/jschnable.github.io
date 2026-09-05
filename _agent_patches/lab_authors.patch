@@ -1,0 +1,40 @@
+diff --git a/_data/lab_authors.yml b/_data/lab_authors.yml
+index 6d99fd9..cb7ac7a 100644
+--- a/_data/lab_authors.yml
++++ b/_data/lab_authors.yml
+@@ -505,19 +505,22 @@
+   - J. P. Hurst
+   people_page: peoplepages/Preston_Hurst.md
+ - id: hussaini-mohamed
+-  name: Mohamed Al Hussaini]
+-  aliases:
+-  - Hussaini] M
+-  - Hussaini] M A
+-  - Hussaini] M.
+-  - Hussaini] MA
+-  - Hussaini], M
+-  - Hussaini], M.
+-  - Hussaini], MA
+-  - Hussaini], Mohamed
+-  - Hussaini], Mohamed Al
+-  - M A Hussaini]
+-  - M. A. Hussaini]
++  name: Mohamed Al Hussaini
++  aliases:
++  - Hussaini M
++  - Hussaini M A
++  - Hussaini M.
++  - Hussaini MA
++  - Hussaini, M
++  - Hussaini, M.
++  - Hussaini, MA
++  - Hussaini, Mohamed
++  - Hussaini, Mohamed Al
++  - M A Hussaini
++  - M. A. Hussaini
++  - Al Hussaini M
++  - Al Hussaini, M
++  - Mohamed Al Hussaini
+   active: false
+ - id: igiraneza-alliance
+   name: Alliance Igiraneza
