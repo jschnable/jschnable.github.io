@@ -2,4 +2,44 @@
   name: Bhushit Agarwal
   aliases:
   - Agarwal B
+  - Agarwal B.
+  - Agarwal, B
+  - Agarwal, B.
+  - Agarwal, Bhushit
+  - B. Agarwal
   active: false
+- id: airori-aldi
+  name: Aldi Airori
+  aliases:
+  - A. Airori
+  - Airori A
+  - Airori A.
+  - Airori, A
+  - Airori, A.
+  - Airori, Aldi
+  active: false
+- id: ali-waqar
+  name: Waqar Ali
+  aliases:
+  - Ali W
+  - Ali W.
+  - Ali, W
+  - Ali, W.
+  - Ali, Waqar
+  - W. Ali
+  - Waqar Ali
+  active: true
+  people_page: peoplepages/Waqar.md
+  orcid: 0009-0001-8822-0950
+- id: altundas-ozgur
+  name: Ozgur Altundas
+  aliases:
+  - Altundas O
+  - Altundas O.
+  - Altundas, O
+  - Altundas, O.
+  - Altundas, Ozgur
+  - O. Altundas
+  active: true
+  people_page: peoplepages/OzgurA.md
+  orcid: 0000-0002-4579-599X
