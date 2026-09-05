@@ -1,1 +1,294 @@
-PLACEHOLDER_WILL_FAIL
+- id: agarwal-bhushit
+  name: Bhushit Agarwal
+  aliases:
+  - Agarwal B
+  - Agarwal B.
+  - Agarwal, B
+  - Agarwal, B.
+  - Agarwal, Bhushit
+  - B. Agarwal
+  active: false
+- id: airori-aldi
+  name: Aldi Airori
+  aliases:
+  - A. Airori
+  - Airori A
+  - Airori A.
+  - Airori, A
+  - Airori, A.
+  - Airori, Aldi
+  active: false
+- id: ali-waqar
+  name: Waqar Ali
+  aliases:
+  - Ali W
+  - Ali W.
+  - Ali, W
+  - Ali, W.
+  - Ali, Waqar
+  - W. Ali
+  - Waqar Ali
+  active: true
+  people_page: peoplepages/Waqar.md
+  orcid: 0009-0001-8822-0950
+- id: altundas-ozgur
+  name: Ozgur Altundas
+  aliases:
+  - Altundas O
+  - Altundas O.
+  - Altundas, O
+  - Altundas, O.
+  - Altundas, Ozgur
+  - O. Altundas
+  active: true
+  people_page: peoplepages/OzgurA.md
+  orcid: 0000-0002-4579-599X
+- id: andreasen-nate
+  name: Nate Andreasen
+  aliases:
+  - Andreasen N
+  - Andreasen N.
+  - Andreasen, N
+  - Andreasen, N.
+  - Andreasen, Nate
+  - N. Andreasen
+  active: false
+- id: arora-sofiya
+  name: Sofiya Arora
+  aliases:
+  - Arora S
+  - Arora S.
+  - Arora, S
+  - Arora, S.
+  - Arora, Sofiya
+  - S. Arora
+  active: true
+  people_page: peoplepages/Sofiya.md
+  orcid: 0009-0004-5357-6094
+- id: askey-bryce
+  name: Bryce Askey
+  aliases:
+  - Askey B
+  - Askey B.
+  - Askey, B
+  - Askey, B.
+  - Askey, Bryce
+  - B. Askey
+  active: false
+- id: aydt-abaigeal
+  name: Abaigeal Aydt
+  aliases:
+  - A. Aydt
+  - Aydt A
+  - Aydt A.
+  - Aydt, A
+  - Aydt, A.
+  - Aydt, Abaigeal
+  active: false
+- id: bares-jordan
+  name: Jordan Bares
+  aliases:
+  - Bares J
+  - Bares J.
+  - Bares, J
+  - Bares, J.
+  - Bares, Jordan
+  - J. Bares
+  active: true
+- id: barnoskie-kahheetah
+  name: Kahheetah Barnoskie
+  aliases:
+  - Barnoskie K
+  - Barnoskie K.
+  - Barnoskie, K
+  - Barnoskie, K.
+  - Barnoskie, Kahheetah
+  - K. Barnoskie
+  active: false
+- id: bashyam-srinidhi
+  name: Srinidhi Bashyam
+  aliases:
+  - Bashyam S
+  - Bashyam S.
+  - Bashyam, S
+  - Bashyam, S.
+  - Bashyam, Srinidhi
+  - S. Bashyam
+  active: false
+- id: bedolla-rossy
+  name: Rossy Bedolla
+  aliases:
+  - Bedolla R
+  - Bedolla R.
+  - Bedolla, R
+  - Bedolla, R.
+  - Bedolla, Rossy
+  - R. Bedolla
+  active: true
+  people_page: peoplepages/Rossy.md
+- id: belz-natalie
+  name: Natalie Belz
+  aliases:
+  - Belz N
+  - Belz N.
+  - Belz, N
+  - Belz, N.
+  - Belz, Natalie
+  - N. Belz
+  active: false
+- id: bouwens-brooke
+  name: Brooke Bouwens
+  aliases:
+  - B. Bouwens
+  - Bouwens B
+  - Bouwens B.
+  - Bouwens, B
+  - Bouwens, B.
+  - Bouwens, Brooke
+  active: false
+- id: bradley-alexandra
+  name: Alexandra Bradley
+  aliases:
+  - A. Bradley
+  - Bradley A
+  - Bradley A.
+  - Bradley, A
+  - Bradley, A.
+  - Bradley, Alexandra
+  active: false
+- id: butera-christian
+  name: Christian Butera
+  aliases:
+  - Butera C
+  - Butera C.
+  - Butera, C
+  - Butera, C.
+  - Butera, Christian
+  - C. Butera
+  active: false
+- id: carey-grace
+  name: Grace Carey
+  aliases:
+  - Carey G
+  - Carey G.
+  - Carey, G
+  - Carey, G.
+  - Carey, Grace
+  - G. Carey
+  active: false
+- id: carvalho-daniel
+  name: Daniel Carvalho
+  aliases:
+  - Carvalho D
+  - Carvalho D.
+  - Carvalho DS
+  - Carvalho, D
+  - Carvalho, D.
+  - Carvalho, Daniel
+  - D. Carvalho
+  active: false
+  people_page: /peoplepages/Daniel_Carvalho/
+  orcid: 0000-0001-6590-4287
+- id: changa-taity
+  name: Taity Changa
+  aliases:
+  - Changa T
+  - Changa T.
+  - Changa, T
+  - Changa, T.
+  - Changa, Taity
+  - T. Changa
+  active: false
+- id: christenson-clay
+  name: Clay Christenson
+  aliases:
+  - C. Christenson
+  - Christenson C
+  - Christenson C.
+  - Christenson, C
+  - Christenson, C.
+  - Christenson, Clay
+  active: false
+- id: colvin-charlie
+  name: Charlie Colvin
+  aliases:
+  - C. Colvin
+  - Colvin C
+  - Colvin C.
+  - Colvin, C
+  - Colvin, C.
+  - Colvin, Charlie
+  active: false
+  people_page: /peoplepages/Charlie-Colvin.md/
+- id: conway-sierra
+  name: Sierra Conway
+  aliases:
+  - Conway S
+  - Conway S.
+  - Conway, S
+  - Conway, S.
+  - Conway, Sierra
+  - S. Conway
+  active: false
+- id: cullar-karla
+  name: Karla Cuéllar
+  aliases:
+  - Cuéllar K
+  - Cuéllar K.
+  - Cuéllar, K
+  - Cuéllar, K.
+  - Cuéllar, Karla
+  - K. Cuéllar
+  active: true
+  people_page: peoplepages/KarlaC2.md
+  orcid: 0009-0001-2851-6370
+- id: dai-xiuru
+  name: Xiuru Dai
+  aliases:
+  - Dai X
+  - Dai X.
+  - Dai, X
+  - Dai, X.
+  - Dai, Xiuru
+  - X. Dai
+  active: false
+  orcid: 0000-0002-2516-1068
+- id: davis-jensina
+  name: Jensina Davis
+  aliases:
+  - Davis J
+  - Davis J.
+  - Davis JM
+  - Davis, J
+  - Davis, J.
+  - Davis, Jensina
+  - J. Davis
+  active: true
+  people_page: peoplepages/Jensina.md
+  orcid: 0009-0000-3638-9482
+- id: dias-henrique
+  name: Henrique Moura Dias
+  aliases:
+  - Dias H
+  - Dias H M
+  - Dias H.
+  - Dias HM
+  - Dias, H
+  - Dias, H.
+  - Dias, HM
+  - Dias, Henrique
+  - Dias, Henrique Moura
+  - H M Dias
+  - H. M. Dias
+  - Moura Dias H
+  active: false
+- id: duryee-logan
+  name: Logan Duryee
+  aliases:
+  - Duryee L
+  - Duryee L.
+  - Duryee, L
+  - Duryee, L.
+  - Duryee, Logan
+  - L. Duryee
+  active: false
