@@ -1,7 +1,7 @@
 - date: '2026-08-19'
-  title: Greenhouse imaging of 600+ sorghum lines
+  title: Largest greenhouse imaging study approved
   image: /images/optimized/People_Images/Zhongjie.jpg
-  summary: "[Zhongjie Ji](/peoplepages/ZhongjieJ/) and his team set up the lab's largest run yet on UNL's greenhouse imaging system, tracking development of more than 600 resequenced sorghum lines in three dimensions from seedling stage to seed set."
+  summary: "We are officially approved for our largest greenhouse imaging study ever! [Zhongjie Ji](/peoplepages/ZhongjieJ/) leads the effort to collect RGB and hyperspectral images tracking the development of 600 resequenced sorghum lines from seedlings to seed production. Thank you to UNL ARD for your support of this project!"
   people:
     - /peoplepages/ZhongjieJ/
 - date: '2026-08-16'
@@ -10,38 +10,22 @@
   summary: "Congratulations to [Jensina Davis](/peoplepages/Jensina/) on successfully passing her PhD dissertation exam and earning the PhD title. We wish her continued success in her research and future endeavors."
   people:
     - /peoplepages/Jensina/
-- date: '2026-08-07'
-  title: Lab tool to verify RNA-seq sample identity
-  summary: "The lab built a faster tool to verify the identity of RNA-seq samples and used it to revisit older datasets, making it easier to catch and explain mismatched samples before analysis."
 - date: '2026-08-04'
-  title: Lab helps Chris prepare for summer research fair
+  title: Farewell to summer intern Christopher Wang
   image: /images/optimized/People_Images/ChristopherWang.jpg
-  summary: "Lab members helped [Christopher Wang](/peoplepages/ChristopherWang/), our Young Nebraska Scientist high school intern, practice for his summer research fair presentation on hardware prototyping, image analysis, and sorghum quantitative genetics."
+  summary: "Farewell to our summer high school intern [Christopher Wang](/peoplepages/ChristopherWang/), who worked with [Karla Cuéllar](/peoplepages/KarlaC2/) developing and testing new methods to estimate chlorophyll content from leaf images. Chris was supported by the Young Nebraska Scientist program and delivered his farewell poster presentation at the 2026 summer Nebraska Research Fair."
   people:
     - /peoplepages/ChristopherWang/
-- date: '2026-08-03'
-  title: From prototyping to manufacturing field equipment
-  summary: "As the lab scaled new field tools this season, building equipment crossed the line from prototyping into manufacturing."
-- date: '2026-07-28'
-  title: New leaf guillotine for tissue sampling
-  summary: "The lab rolled out a new leaf guillotine to speed high-throughput leaf tissue sampling in the field and greenhouse."
-- date: '2026-07-22'
-  title: Thousands of sorghum leaf samples collected
-  summary: "The team collected thousands of sorghum leaf samples from the field nursery—work that goes much faster (and keeps spirits higher) on a cool day than in mid-summer heat."
-- date: '2026-07-12'
-  title: First flowering in a global sorghum planting
-  summary: "About forty days after planting nearly 1,000 sorghum accessions from around the globe, the first plants were getting ready to flower. Photo by [Chidu Ullagaddi](/peoplepages/Chidu/)."
-  people:
-    - /peoplepages/Chidu/
+    - /peoplepages/KarlaC2/
 - date: '2026-07-08'
   title: Students fly the lab's first UAV timepoint
-  summary: "After nearly a decade of working with UAV data flown by others, lab students flew the drones themselves for the first time, collecting a timepoint across about 4,500 research plots."
-- date: '2026-06-29'
-  title: Preparing tools for a large field collection
-  image: /images/optimized/People_Images/JonT.jpg
-  summary: "Ahead of a 20-person field collection day, [Jonathan Turkus](/peoplepages/JonT/) and his team spent months prototyping, testing, and planning the tools that make large field datasets possible."
+  summary: "Our lab has worked with UAV data for almost a decade—building code, training and evaluating models, answering questions, and publishing papers—but we depended on collaborators and contractors to fly our fields. Until now. We collected our first timepoint—of many—for 4,500 research plots outside Lincoln, Nebraska. Our students flew. Thank you to Biquan Zhao (our teacher), [Zhongjie Ji](/peoplepages/ZhongjieJ/) (our UAV data expert), and Jinliang Yang (who trusted us with his now-irreplaceable UAV), and congratulations to the lab's four newly FAA-licensed UAV pilots: [Karla Cuéllar](/peoplepages/KarlaC2/), [Harshita Mangal](/peoplepages/HarshitaM/), [Anuradha Choudhary](/peoplepages/AnuradhaC/), and [Ryleigh Kirby](/peoplepages/RyleighK/). Special thanks also to Pascal Izere for outstanding collaboration over the years."
   people:
-    - /peoplepages/JonT/
+    - /peoplepages/ZhongjieJ/
+    - /peoplepages/KarlaC2/
+    - /peoplepages/HarshitaM/
+    - /peoplepages/AnuradhaC/
+    - /peoplepages/RyleighK/
 - date: '2026-06-19'
   title: Multi-omics maize trait prediction in The Plant Cell
   summary: "Madison Creach led a [Plant Cell paper](https://doi.org/10.1093/plcell/koag185) testing whether population-scale RNA-seq can help predict plant traits across 129 maize phenotype datasets, using gene expression from 750 maize lines grown in two environments. Coauthors include [Jon Turkus](/peoplepages/JonT/) and [James Schnable](/peoplepages/jschnable/)."
@@ -54,16 +38,6 @@
   summary: "Congratulations to [Harshita Mangal](/peoplepages/HarshitaM/) on being named the recipient of the 2026 PSI Heuermann Award."
   people:
     - /peoplepages/HarshitaM/
-- date: '2026-05-27'
-  title: Summer leaf sampling for RNA and metabolomics
-  summary: "If the weather holds, the lab plans to collect enough maize and sorghum leaf samples this summer to fill about 150 trays for RNA and metabolomics work."
-- date: '2026-05-05'
-  title: Planting more than 1,000 corn varieties
-  image: /images/optimized/People_Images/NikeeS.PNG
-  summary: "Five lab members planted more than 1,000 corn varieties on a cold Nebraska morning. Special thanks to [Nikee Shrestha](/peoplepages/Nikee/) and [Sofiya Arora](/peoplepages/Sofiya/), who volunteered to help plant ahead of graduating that Friday."
-  people:
-    - /peoplepages/Nikee/
-    - /peoplepages/Sofiya/
 - date: '2026-04-22'
   title: Sofiya's MS Exam
   image: /images/optimized/People_Images/Sofiya.png
