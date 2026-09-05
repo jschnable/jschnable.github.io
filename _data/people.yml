@@ -40,7 +40,6 @@
   page_path: peoplepages/ZhongjieJ.md
   orcid: 0009-0006-1448-305X
   scholar: https://scholar.google.com/citations?user=n6JlWJQAAAAJ&hl=en&oi=ao
-  github:
   linkedin: zhongjie-ji-5095b2226
   category: Faculty & Staff
 - name: Anuradha Choudhary
@@ -82,7 +81,8 @@
   category: Faculty & Staff
 - name: Jensina Davis
   role: PhD Student
-  status: current
+  status: alumni
+  tenure: 2022-2026
   image: /images/optimized/People_Images/JensinaD2.jpg
   page_path: peoplepages/Jensina.md
   orcid: 0009-0000-3638-9482
@@ -189,7 +189,7 @@
   image: /images/optimized/People_Images/SuryaK.jpg
   page_path: peoplepages/SuryaK.md
   orcid: 0009-0006-9656-7643
-  scholar:  https://scholar.google.com/citations?hl=en&user=fBc01YYAAAAJ
+  scholar: https://scholar.google.com/citations?hl=en&user=fBc01YYAAAAJ
   linkedin: surya-krishna-sakthivel-11859220b
   category: Graduate Students
 - name: Sofiya Arora
@@ -242,7 +242,8 @@
   category: Undergraduate Researchers
 - name: Christopher Wang
   role: Young Nebraska Scientist
-  status: current
+  status: alumni
+  tenure: Summer 2026
   image: /images/optimized/People_Images/ChristopherWang.jpg
   page_path: peoplepages/ChristopherWang.md
   category: High-school intern
