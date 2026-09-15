@@ -22,22 +22,6 @@
   - genotype-environment-interaction
   - stress-tolerance
   - review-methods
-- id: 2026-response-letter-food-as-medicine
-  year: 2026
-  title: 'Response to "Letter to Editor: Food as Medicine…".'
-  authors:
-  - truncated: true
-  - name: Schnable JC
-    member_id: schnable-james
-  - truncated: true
-  status: accepted
-  type: article
-  journal: The Journal of Nutrition
-  first_author_is_lab_member: false
-  lab_author_count: 1
-  tags:
-  - microbiome
-  - review-methods
 - id: 2026-qc-genomes-to-fields-competition
   year: 2026
   title: Genomes to Fields 2024 maize genotype by environment prediction competition.
@@ -5054,3 +5038,4 @@
   lab_author_count: 0
   tags:
   - genomics
+
