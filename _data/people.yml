@@ -1,4 +1,5 @@
 - name: James Schnable
+  country: USA
   role: Professor
   status: current
   image: /images/optimized/People_Images/jamesschnable.jpg
@@ -10,6 +11,7 @@
     url: https://twitter.com/szintri
   category: Faculty & Staff
 - name: Jon Turkus
+  country: USA
   role: Lab Manager
   status: current
   image: /images/optimized/People_Images/JonT.jpg
@@ -34,6 +36,7 @@
     url: https://twitter.com/Chidu_ullagaddi
   category: Faculty & Staff
 - name: Zhongjie Ji
+  country: China
   role: Heuermann Research Fellow
   status: current
   image: /images/optimized/People_Images/Zhongjie.jpg
@@ -43,6 +46,7 @@
   linkedin: zhongjie-ji-5095b2226
   category: Faculty & Staff
 - name: Anuradha Choudhary
+  country: India
   role: Research and Outreach Specialist
   status: current
   image: /images/optimized/People_Images/AnuradhaC.jpg
@@ -58,6 +62,7 @@
   linkedin: sumeetmankar
   category: Faculty & Staff
 - name: Meijie Luo
+  country: China
   role: Visiting Scholar
   status: current
   image: /images/optimized/People_Images/MeijieL.jpg
@@ -72,6 +77,7 @@
   orcid: 0009-0002-8382-0583
   category: Faculty & Staff
 - name: Shokhista Turdalieva
+  country: Uzbekistan
   role: Visiting Scholar
   status: current
   image: /images/optimized/People_Images/Shokhista.jpg
@@ -80,6 +86,7 @@
   linkedin: shokhista-turdalieva-13b95625b
   category: Faculty & Staff
 - name: Jensina Davis
+  country: USA
   role: PhD Student
   status: alumni
   tenure: 2022-2026
@@ -107,6 +114,7 @@
     url: https://www.linkedin.com/in/nikeeshrestha/
   category: Graduate Students
 - name: Waqar Ali
+  country: Pakistan
   role: PhD Student
   status: current
   image: /images/optimized/People_Images/WaqarAli2.jpg
@@ -120,6 +128,7 @@
     url: https://twitter.com/WaqarAli325
   category: Graduate Students
 - name: Harshita Mangal
+  country: India
   role: PhD Student
   status: current
   image: /images/optimized/People_Images/HarshitaM2.jpg
@@ -133,6 +142,7 @@
     url: https://twitter.com/Harshita17_
   category: Graduate Students
 - name: Amany Gomaa
+  country: Egypt
   role: PhD Student (co-advised)
   status: alumni
   tenure: 2024-2026
@@ -142,6 +152,7 @@
   orcid: 0000-0002-7309-5229
   category: Graduate Students
 - name: "Karla Cu\xE9llar"
+  country: Mexico
   role: PhD Student
   status: current
   image: /images/optimized/People_Images/KarlaC.jpeg
@@ -150,6 +161,7 @@
   linkedin: karla-montserrat-cuéllar-pérez-a949ab263
   category: Graduate Students
 - name: Ozgur Altundas
+  country: Turkey
   role: PhD Student
   status: current
   image: /images/optimized/People_Images/OzgurA.jpg
@@ -171,6 +183,7 @@
   linkedin: ryleigh-kirby
   category: Graduate Students
 - name: Hira Aslam
+  country: Pakistan
   role: Visiting PhD Student
   status: alumni
   tenure: 2025-2026
@@ -193,6 +206,7 @@
   linkedin: surya-krishna-sakthivel-11859220b
   category: Graduate Students
 - name: Sofiya Arora
+  country: India
   role: MS Student
   status: alumni
   tenure: 2024-2026
@@ -206,6 +220,7 @@
     url: https://twitter.com/Sofiya_arora
   category: Graduate Students
 - name: Hadiya Kounsar
+  country: India
   role: MS Student
   status: alumni
   tenure: 2025-2026
@@ -217,6 +232,7 @@
   linkedin: hadiya-kounsar-29a3b7220
   category: Graduate Students
 - name: Sophie Rohlfing
+  country: USA
   role: Undergraduate Research Assistant
   status: current
   image: /images/optimized/People_Images/SophieR.jpg
@@ -229,12 +245,14 @@
   page_path: peoplepages/SawyerJ.md
   category: Undergraduate Researchers
 - name: Bri Johnson
+  country: USA
   role: Undergraduate Research Assistant
   status: current
   image: /images/optimized/People_Images/BriJ.png
   page_path: peoplepages/Bri-Johnson.md
   category: Undergraduate Researchers
 - name: Taryn Peffers
+  country: USA
   role: Undergraduate Research Assistant
   status: current
   image: /images/optimized/People_Images/TarynP.jpeg

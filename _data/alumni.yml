@@ -1,6 +1,7 @@
 - title: Postdocs and Visiting Scientists
   people:
   - name: Vladimir Torres-Rodriguez
+    country: Mexico
     link: peoplepages/Vlad.md
     image: /images/optimized/People_Images/vlad2.jpg
     role: Research Assistant Professor
@@ -8,11 +9,13 @@
     current: Scientist, Traits Company
     orcid: 0000-0001-6056-3452
   - name: Caner Yavuz
+    country: Turkey
     image: /images/optimized/People_Images/Caner.jpg
     role: Visiting Scientist
     tenure: 2024-2025
     current: Assistant Professor, NOHU (Turkey)
   - name: Khang Hoang
+    country: Vietnam
     image: /images/optimized/People_Images/Khang.png
     role: Visiting Scientist
     tenure: '2024'
@@ -25,6 +28,7 @@
     current: Assistant Professor at South Dakota State University
     orcid: 0000-0002-5489-9918
   - name: Marcin Grzybowski
+    country: Poland
     link: /peoplepages/Marcin_Grzybowski/
     image: /images/optimized/People_Images/Marcin.jpg
     role: Postdoctoral Scholar
@@ -32,6 +36,7 @@
     current: Assistant Professor, University of Warsaw
     orcid: 0000-0002-6303-5433
   - name: Deniz Istipliler
+    country: Turkey
     link: /peoplepages/Deniz_Istipiller/
     image: /images/optimized/People_Images/Deniz2.PNG
     role: Visiting Scholar
@@ -39,6 +44,7 @@
     current: Assistant Professor Ege University
     orcid: 0000-0002-0887-1121
   - name: Guangchao Sun
+    country: China
     link: /peoplepages/Guangchao_Sun/
     image: /images/optimized/People_Images/Guangchao.JPG
     role: Postdoctoral Scholar
@@ -64,6 +70,7 @@
     tenure: 2017-2018
     current: Assistant Professor, UC Riverside
   - name: Lang Yan
+    country: China
     image: /images/optimized/People_Images/Lang_Small.jpg
     role: Visiting Scholar
     tenure: 2016-2017
@@ -74,6 +81,7 @@
     tenure: 2016-2017
     current: Associate Professor, University of Nebraska-Lincoln
   - name: Yang Zhang
+    country: China
     link: /peoplepages/Yang_Zhang/
     image: /images/optimized/People_Images/yzhang_small.jpg
     role: Postdoctoral Scholar
@@ -82,24 +90,28 @@
 - title: PhD Students
   people:
   - name: Fangyi Li
+    country: China
     link: /peoplepages/FangyiLi/
     image: /images/optimized/People_Images/Fangyi.jpg
     role: PhD Student (co-advised)
     tenure: '2024'
     current: Postdoc, Kunming Institute of Botany
   - name: Hongyu Jin
+    country: China
     link: /peoplepages/Hongyu_Jin/
     image: /images/optimized/People_Images/Hongyu.jpg
     role: PhD Student (co-advised)
     tenure: 2019-2024
     current: Postdoc, South China Agricultural University
   - name: Michael Tross
+    country: St. Kitts and Nevis
     link: /peoplepages/Michael_Tross/
     image: /images/optimized/People_Images/MichaelT.jpg
     role: PhD Student
     tenure: '2024'
     current: AI Developer, Corteva Agriscience
   - name: Henrique Moura Dias
+    country: Brazil
     image: /images/optimized/People_Images/Henrique.jpg
     role: Visiting PhD Student
     tenure: '2023'
@@ -111,6 +123,7 @@
     tenure: 2017-2022
     current: Postdoc, North Carolina State
   - name: Santos Yenandy
+    country: Colombia
     image: /images/optimized/People_Images/Santos.jpg
     role: PhD Student (co-advised)
     tenure: '2021'
@@ -123,18 +136,21 @@
     current: Phenomics Data Scientist, Bayer Crop Science
     orcid: 0000-0002-0904-3707
   - name: Xiuru Dai
+    country: China
     image: /images/optimized/People_Images/Xiuru_small.jpg
     role: Visiting PhD Student Shandong Agricultural University
     tenure: 2018-2019
     current: Assistant Professor, Shandong Agricultural University
     orcid: 0000-0002-2516-1068
   - name: Daniel Carvalho
+    country: Brazil
     link: /peoplepages/Daniel_Carvalho/
     image: /images/optimized/People_Images/Daniel_Carvalho.jpg
     role: PhD Student, CV
     tenure: 2015-2019
     current: Postdoc, Federal University of Minas Gerais
   - name: Zhikai Liang
+    country: China
     link: /peoplepages/zliang/
     image: /images/optimized/People_Images/Zhikai_Liang_small.jpg
     role: PhD Student CV
@@ -142,6 +158,7 @@
     current: Assistant Professor, North Dakota State University
     orcid: 0000-0002-9963-8631
   - name: Xianjun Lai
+    country: China
     link: /peoplepages/Xianjun_Lai/
     image: /images/optimized/People_Images/xlai.jpg
     role: CSC PhD Student
@@ -150,6 +167,7 @@
 - title: Masters Students
   people:
   - name: Ramesh Kanna Mathivanan
+    country: India
     link: /peoplepages/Ramesh/
     image: /images/optimized/People_Images/Ramesh.jpg
     role: MS Student
@@ -172,6 +190,7 @@
     tenure: 2019-2021
     current: Statistician, US Dept. of Homeland Security
   - name: Preston Hurst
+    country: USA
     link: /peoplepages/Preston_Hurst/
     image: /images/optimized/People_Images/Preston.jpg
     role: MS Student
@@ -199,16 +218,19 @@
     role: Crop-to-Food Innovation REEU Program
     tenure: '2025'
   - name: Trisha Nanjaraju
+    country: India
     link: /peoplepages/TrishaN/
     image: /images/optimized/People_Images/TrishaN.jpg
     role: Undergraduate Student from India
     tenure: '2025'
   - name: Preethi Jagadish Gowda Kabbakki
+    country: India
     link: /peoplepages/Preethi/
     image: /images/optimized/People_Images/PreethiJK.jpg
     role: Undergraduate Student from India
     tenure: '2025'
   - name: Daniel Ngu
+    country: Malaysia
     image: /images/optimized/People_Images/Danielngu_small.jpg
     role: Bachelors Student
     tenure: 2014-2017
@@ -259,6 +281,7 @@
     role: Bachelors Student
     tenure: 2017-2019
   - name: Alejandro Pages
+    country: USA
     image: /images/optimized/People_Images/AlexP.jpg
     role: UCARE Bachelors Student
     tenure: 2018-2019
@@ -335,6 +358,7 @@
     tenure: 2019-2021
     current: Technician, Evonik
   - name: Olivier N Mizero
+    country: Rwanda
     image: /images/optimized/People_Images/Olivier.jpg
     role: CUSP Bachelors Student
     tenure: 2020-2021
@@ -444,6 +468,7 @@
     role: Undergraduate Research Assistant
     tenure: 2022-2023
   - name: Aime Nishimwe
+    country: Rwanda
     image: /images/optimized/People_Images/Aime.jpg
     role: CUSP Bachelors Student
     tenure: 2018-2022
@@ -492,6 +517,7 @@
 - title: Professional Staff
   people:
   - name: Rossy Bedolla
+    country: Mexico
     link: /peoplepages/Rossy/
     image: /images/optimized/People_Images/RossyB2.jpeg
     role: Administrative Specialist
@@ -503,6 +529,7 @@
     tenure: 2023-2025
     current: Research Agronomist, PivotBio
   - name: Lina López-Corona
+    country: Mexico
     link: /peoplepages/LinaLopez/
     image: /images/optimized/People_Images/Lina.jpg
     role: Technician
@@ -520,12 +547,14 @@
 - title: All Others
   people:
   - name: Niranjan Pokhrel
+    country: Nepal
     link: /peoplepages/Niranjan/
     image: /images/optimized/People_Images/Niranjan.jpeg
     role: Rotating PhD Student Complex Biosystems
     tenure: Fall 2024
     current: PhD Student UNL
   - name: Lei Tian
+    country: China
     image: /images/optimized/People_Images/Lei_Tian_Small.JPG
     role: Visiting PhD Student Henan Agricultural University
     tenure: Summer 2014
@@ -557,6 +586,7 @@
     tenure: 2019-2022
     current: PhD student, Pauli Lab, University of Arizona
   - name: Olivier Mizero
+    country: Rwanda
     link: /peoplepages/Olivier/
     image: /images/optimized/People_Images/Olivier.jpg
     role: Post-Bac Student
