@@ -24,6 +24,7 @@
     url: https://twitter.com/JonathanTurkus
   category: Faculty & Staff
 - name: Chidanand "Chidu" Ullagaddi
+  country: India
   role: Field Manager
   status: current
   image: /images/optimized/People_Images/Chidanand.JPG
@@ -53,6 +54,7 @@
   page_path: peoplepages/AnuradhaC.md
   category: Faculty & Staff
 - name: Sumeet Mankar
+  country: India
   role: Postdoctoral Research Associate
   status: current
   image: /images/optimized/People_Images/SumeetM.jpg
@@ -70,6 +72,7 @@
   orcid: 0000-0002-1704-8639
   category: Faculty & Staff
 - name: Pooja Shukla
+  country: India
   role: Fulbright Visiting Scholar
   status: current
   image: /images/optimized/People_Images/PoojaS.jpg
@@ -101,6 +104,7 @@
     url: https://twitter.com/JensinaDavis
   category: Graduate Students
 - name: Nikee Shrestha
+  country: Nepal
   role: PhD Student
   status: alumni
   tenure: 2022-2026
@@ -174,6 +178,7 @@
     url: https://twitter.com/AltundasOzgur
   category: Graduate Students
 - name: Ryleigh Kirby
+  country: USA
   role: PhD Student (co-advised)
   status: current
   image: /images/optimized/People_Images/RyleighK.jpg
@@ -195,6 +200,7 @@
   linkedin: hiraaslamm
   category: Graduate Students
 - name: Surya Krishna Sakthivel
+  country: India
   role: Rotating PhD Student
   status: alumni
   tenure: '2026'
@@ -239,6 +245,7 @@
   page_path: peoplepages/SophieR.md
   category: Undergraduate Researchers
 - name: Sawyer Johnson
+  country: USA
   role: Undergraduate Research Assistant
   status: current
   image: /images/optimized/People_Images/SawyerJ.jpg
@@ -259,6 +266,7 @@
   page_path: peoplepages/Taryn-Peffers.md
   category: Undergraduate Researchers
 - name: Christopher Wang
+  country: USA
   role: Young Nebraska Scientist
   status: alumni
   tenure: Summer 2026
