@@ -1025,7 +1025,7 @@ Aliases:
   - SG Rajput
 
 ID: raju-sunil
-Name: Sunil KK Raju
+Name: Sunil K. Kenchanmane Raju
 Active: False
 Page: /peoplepages/Sunil_Raju/
 Aliases:

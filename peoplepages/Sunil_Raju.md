@@ -1,6 +1,6 @@
 ---
 layout: person
-title: Sunil KK Raju
+title: Sunil K. Kenchanmane Raju
 permalink: /peoplepages/Sunil_Raju/
 ---
 
