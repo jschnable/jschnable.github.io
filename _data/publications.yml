@@ -718,8 +718,8 @@
   - image-analysis
   - ai-ml
   - phenomics
-- id: 2025-h-maizeearsam-zeroshot-maize
-  year: 2025
+- id: 2026-h-maizeearsam-zeroshot-maize
+  year: 2026
   title: 'MaizeEar-SAM: Zero-shot maize ear phenotyping.'
   authors:
   - name: Zaremehrjerdi H
@@ -734,11 +734,13 @@
     member_id: schnable-james
   - name: Schnable PS
   - name: Ganapathysubramanian B
-  status: preprint
-  type: preprint
-  journal: arXiv
-  doi: 10.48550/arXiv.2502.13399
-  url: https://doi.org/10.48550/arXiv.2502.13399
+  status: published
+  type: article
+  journal: The Plant Phenome Journal
+  doi: 10.1002/ppj2.70102
+  url: https://doi.org/10.1002/ppj2.70102
+  notes:
+  - arXiv: 10.48550/arXiv.2502.13399
   first_author_is_lab_member: false
   lab_author_count: 3
   tags:
