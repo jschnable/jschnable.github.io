@@ -1,3 +1,6 @@
+# Exhaustive list of current and former Schnable lab authors for publication
+# member_id linking (lab site) and CV author bolding. Include alumni; active or not,
+# anyone listed here is a lab author. Add new lab people (and aliases) here first.
 - id: agarwal-bhushit
   name: Bhushit Agarwal
   aliases:
@@ -62,9 +65,11 @@
   - Arora, S.
   - Arora, Sofiya
   - S. Arora
-  active: true
+  - Sofiya Arora
+  active: false
   people_page: peoplepages/Sofiya.md
   orcid: 0009-0004-5357-6094
+
 - id: askey-bryce
   name: Bryce Askey
   aliases:
@@ -239,9 +244,26 @@
   - Cuéllar, K.
   - Cuéllar, Karla
   - K. Cuéllar
+  - Cuéllar-Perez KM
+  - Cuellar-Perez KM
+  - Cuéllar-Perez K
+  - Cuellar-Perez K
+  - Cuéllar KM
+  - Cuellar KM
+  - Cuéllar-Perez, KM
+  - Cuellar-Perez, KM
+  - Cuéllar-Perez, K
+  - Cuellar-Perez, K
+  - K. Cuéllar-Perez
+  - K. Cuellar-Perez
+  - Karla Cuéllar
+  - Karla Cuellar
+  - Karla Cuéllar-Perez
+  - Karla Cuellar-Perez
   active: true
   people_page: peoplepages/KarlaC2.md
   orcid: 0009-0001-2851-6370
+
 - id: dai-xiuru
   name: Xiuru Dai
   aliases:
