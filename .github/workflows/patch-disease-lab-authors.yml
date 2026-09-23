@@ -1,0 +1,170 @@
+name: patch-disease-lab-authors
+on:
+  push:
+    branches: [master]
+    paths:
+      - '.github/workflows/patch-disease-lab-authors.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Patch publications, lab_authors, AGENTS
+        run: |
+          set -euo pipefail
+          python3 << 'EOF'
+          from pathlib import Path
+          import re
+
+          # --- publications.yml ---
+          p = Path('_data/publications.yml')
+          text = p.read_text()
+          old_size = p.stat().st_size
+          old = """  - name: Arora S
+  - name: Cuellar-Perez KM
+"""
+          new = """  - name: Arora S
+    member_id: arora-sofiya
+  - name: Cuellar-Perez KM
+    member_id: cullar-karla
+"""
+          assert old in text and text.count(old) == 1
+          text = text.replace(old, new, 1)
+          m = re.search(r'(id: 2026-jm-embeddings-sorghum-leaf-disease.*?lab_author_count: )4(\n)', text, re.S)
+          assert m
+          text = text[:m.start(1)] + m.group(1) + '6' + m.group(2) + text[m.end(2):]
+          assert 'member_id: arora-sofiya' in text and 'member_id: cullar-karla' in text
+          assert re.search(r'id: 2026-jm-embeddings-sorghum-leaf-disease.*?lab_author_count: 6', text, re.S)
+          p.write_text(text)
+          print('publications.yml', old_size, '->', p.stat().st_size)
+          assert p.stat().st_size > 100000
+
+          # --- lab_authors.yml ---
+          la_path = Path('_data/lab_authors.yml')
+          la = la_path.read_text()
+          comment = (
+              "# Exhaustive list of current and former Schnable lab authors for publication\n"
+              "# member_id linking (lab site) and CV author bolding. Include alumni; active or not,\n"
+              "# anyone listed here is a lab author. Add new lab people (and aliases) here first.\n"
+          )
+          if not la.lstrip().startswith('# Exhaustive list'):
+              la = comment + la
+          arora_old = """- id: arora-sofiya
+  name: Sofiya Arora
+  aliases:
+  - Arora S
+  - Arora S.
+  - Arora, S
+  - Arora, S.
+  - Arora, Sofiya
+  - S. Arora
+  active: true
+  people_page: peoplepages/Sofiya.md
+  orcid: 0009-0004-5357-6094
+"""
+          arora_new = """- id: arora-sofiya
+  name: Sofiya Arora
+  aliases:
+  - Arora S
+  - Arora S.
+  - Arora, S
+  - Arora, S.
+  - Arora, Sofiya
+  - S. Arora
+  - Sofiya Arora
+  active: false
+  people_page: peoplepages/Sofiya.md
+  orcid: 0009-0004-5357-6094
+"""
+          assert arora_old in la
+          la = la.replace(arora_old, arora_new, 1)
+          karla_old = """- id: cullar-karla
+  name: Karla Cu\u00e9llar
+  aliases:
+  - Cu\u00e9llar K
+  - Cu\u00e9llar K.
+  - Cu\u00e9llar, K
+  - Cu\u00e9llar, K.
+  - Cu\u00e9llar, Karla
+  - K. Cu\u00e9llar
+  active: true
+  people_page: peoplepages/KarlaC2.md
+  orcid: 0009-0001-2851-6370
+"""
+          karla_new = """- id: cullar-karla
+  name: Karla Cu\u00e9llar
+  aliases:
+  - Cu\u00e9llar K
+  - Cu\u00e9llar K.
+  - Cu\u00e9llar, K
+  - Cu\u00e9llar, K.
+  - Cu\u00e9llar, Karla
+  - K. Cu\u00e9llar
+  - Cu\u00e9llar-Perez KM
+  - Cuellar-Perez KM
+  - Cu\u00e9llar-Perez K
+  - Cuellar-Perez K
+  - Cu\u00e9llar KM
+  - Cuellar KM
+  - Cu\u00e9llar-Perez, KM
+  - Cuellar-Perez, KM
+  - Cu\u00e9llar-Perez, K
+  - Cuellar-Perez, K
+  - K. Cu\u00e9llar-Perez
+  - K. Cuellar-Perez
+  - Karla Cu\u00e9llar
+  - Karla Cuellar
+  - Karla Cu\u00e9llar-Perez
+  - Karla Cuellar-Perez
+  active: true
+  people_page: peoplepages/KarlaC2.md
+  orcid: 0009-0001-2851-6370
+"""
+          # Decode unicode escapes so we match file bytes
+          karla_old = karla_old.encode().decode('unicode_escape')
+          karla_new = karla_new.encode().decode('unicode_escape')
+          assert karla_old in la, 'karla block missing'
+          la = la.replace(karla_old, karla_new, 1)
+          assert la.count('\n- id:') >= 130
+          la_path.write_text(la)
+          print('lab_authors.yml size', la_path.stat().st_size)
+
+          # --- AGENTS.md ---
+          agents = Path('AGENTS.md')
+          site = agents.read_text()
+          rule = """
+### Bold / `member_id` rule (lab authors)
+- `_data/lab_authors.yml` is the **exhaustive** list of current **and former** Schnable lab authors used for publication linking and CV bolding.
+- Anyone listed there (`active: true` or `active: false`) is a lab author: attach `member_id` on their `authors` row in `_data/publications.yml`, and bold them on the CV.
+- Alumni remain lab authors for bolding; do not omit `member_id` just because `active` is false.
+- When a new lab person appears on a paper, add them (with publication/CV name aliases) to `_data/lab_authors.yml` **first**, then set `member_id` and bump `lab_author_count`.
+- Cross-ref: CV repo `jschnable/schnable-cv` uses the same roster for `\\textbf{}` in `sections/publications.tex`.
+"""
+          insert_after = '- Start with `docs/publications-reference.md` for the current, implemented data model and rendering flow. `docs/publications-data-spec.md` is historical migration/design context.\n'
+          assert insert_after in site
+          if 'Bold / `member_id` rule' not in site:
+              site = site.replace(insert_after, insert_after + rule, 1)
+          agents.write_text(site)
+          print('AGENTS.md size', agents.stat().st_size)
+          assert 'Bold / `member_id` rule' in agents.read_text()
+          print('OK')
+          EOF
+      - name: Commit and remove workflow
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -f .github/workflows/patch-disease-lab-authors.yml
+          git add -A
+          git status
+          git commit -m "$(cat <<'EOF'
+Bold Sofiya Arora and Karla Cuellar-Perez as lab authors on disease preprint
+
+Attach member_ids on the site publications entry, expand lab_authors aliases,
+set Sofiya alumni active:false, and document the bold/member_id rule in AGENTS.md.
+EOF
+)"
+          git push
