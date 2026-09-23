@@ -7,7 +7,9 @@
   - name: Turkus J
     member_id: turkus-jon
   - name: Arora S
+    member_id: arora-sofiya
   - name: Cuellar-Perez KM
+    member_id: cullar-karla
   - name: Gomez-Trejo LF
   - name: Ruvalcaba-Ramirez R
   - name: Ullagaddi C
@@ -25,7 +27,7 @@
   notes:
   - bioRxiv: 10.64898/2026.09.21.753202
   first_author_is_lab_member: true
-  lab_author_count: 4
+  lab_author_count: 6
   tags:
   - sorghum
   - disease
