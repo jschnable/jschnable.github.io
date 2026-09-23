@@ -1,0 +1,40 @@
+name: prepend-biorxiv-preprints
+on:
+  push:
+    branches: [master]
+    paths:
+      - '_data/publications_prepend.yml'
+      - '.github/workflows/prepend-biorxiv-preprints.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  prepend:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Prepend new preprint entries
+        run: |
+          set -euo pipefail
+          python3 << 'EOF'
+          from pathlib import Path
+          frag = Path('_data/publications_prepend.yml').read_text()
+          pubs = Path('_data/publications.yml')
+          body = pubs.read_text()
+          assert '753202' in frag and '752900' in frag
+          assert '753202' not in body
+          assert frag + body != body
+          pubs.write_text(frag + body)
+          print('prepended', len(frag), 'bytes; new total', pubs.stat().st_size)
+          EOF
+      - name: Commit and cleanup
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -f _data/publications_prepend.yml
+          rm -f .github/workflows/prepend-biorxiv-preprints.yml
+          git add -A
+          git status
+          git commit -m "Add two Sep 2026 bioRxiv preprints to publications.yml"
+          git push
