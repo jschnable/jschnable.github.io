@@ -291,7 +291,7 @@
     member_id: schnable-james
   - name: Roston RL
   - name: Harmon FG
-  status: accepted
+  status: published
   type: article
   journal: BMC Research Notes
   notes:
@@ -328,8 +328,8 @@
   - name: Swaminathan K
   status: preprint
   type: preprint
-  doi: 10.21203/rs.3.rs-9954680/v1
-  url: https://doi.org/10.21203/rs.3.rs-9954680/v1
+  doi: 10.1186/s13104-026-08007-x
+  url: https://doi.org/10.1186/s13104-026-08007-x
   notes:
   - Research Square: 10.21203/rs.3.rs-9954680/v1
   first_author_is_lab_member: false
