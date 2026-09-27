@@ -1,0 +1,37 @@
+name: upgrade-cold-rnaseq-published
+on:
+  push:
+    branches: [master]
+    paths:
+      - '.github/workflows/upgrade-cold-rnaseq-published.yml'
+      - 'scripts/_agent_tmp_upgrade_cold_rnaseq.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run patch
+        run: python3 scripts/_agent_tmp_upgrade_cold_rnaseq.py
+      - name: Commit and cleanup
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -f .github/workflows/upgrade-cold-rnaseq-published.yml
+          rm -f scripts/_agent_tmp_upgrade_cold_rnaseq.py
+          git add -A
+          git status
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+            exit 0
+          fi
+          git commit -m "$(cat <<'EOF'
+Upgrade Mangal et al. cold RNA-seq BMC Research Notes to published with publisher DOI
+
+Status accepted/Research Square -> published article; primary DOI 10.1186/s13104-026-08007-x.
+EOF
+)"
+          git push
