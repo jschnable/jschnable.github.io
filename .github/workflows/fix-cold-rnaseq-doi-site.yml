@@ -1,0 +1,29 @@
+name: fix-cold-rnaseq-doi-site
+on:
+  push:
+    branches: [master]
+    paths:
+      - '.github/workflows/fix-cold-rnaseq-doi-site.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Insert publisher DOI/URL on cold RNA-seq entry
+        run: |
+          set -euo pipefail
+          echo 'ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCnAgPSBQYXRoKCJfZGF0YS9wdWJsaWNhdGlvbnMueW1sIikKdGV4dCA9IHAucmVhZF90ZXh0KCkKa2V5ID0gIjIwMjYtaC1ybmFzZXEtcmVzb3VyY2UtY29sZC1yZXNwb25zZXMiCnN0YXJ0ID0gdGV4dC5pbmRleChrZXkpCiMgZW5kIGF0IG5leHQgIi0gaWQ6IiBhdCBiZWdpbm5pbmcgb2YgbGluZQpyZXN0ID0gdGV4dFtzdGFydDpdCiMgZmluZCBuZXh0IGVudHJ5CmlkeCA9IHJlc3QuZmluZCgiXG4tIGlkOiAiKQphc3NlcnQgaWR4ID4gMAplbnRyeSA9IHJlc3RbOmlkeF0KcHJpbnQoIkJFRk9SRSBFTlRSWTpcbiIsIGVudHJ5KQojIEVuc3VyZSBzdGF0dXMgcHVibGlzaGVkCmVudHJ5MiA9IGVudHJ5LnJlcGxhY2UoIiAgc3RhdHVzOiBhY2NlcHRlZFxuIiwgIiAgc3RhdHVzOiBwdWJsaXNoZWRcbiIpCmlmICIgIHN0YXR1czogcHVibGlzaGVkXG4iIG5vdCBpbiBlbnRyeTI6CiAgICByYWlzZSBTeXN0ZW1FeGl0KCJubyBwdWJsaXNoZWQgc3RhdHVzIikKIyBSZW1vdmUgYW55IHdyb25nIHRvcC1sZXZlbCBkb2kvdXJsIHBvaW50aW5nIGF0IHJlc2VhcmNoIHNxdWFyZQpsaW5lcyA9IFtdCmZvciBsbiBpbiBlbnRyeTIuc3BsaXRsaW5lcyhUcnVlKToKICAgIGlmIGxuLnN0YXJ0c3dpdGgoIiAgZG9pOiIpIGFuZCAicnMuMy5ycyIgaW4gbG46CiAgICAgICAgY29udGludWUKICAgIGlmIGxuLnN0YXJ0c3dpdGgoIiAgdXJsOiIpIGFuZCAicnMuMy5ycyIgaW4gbG46CiAgICAgICAgY29udGludWUKICAgIGxpbmVzLmFwcGVuZChsbikKZW50cnkyID0gIiIuam9pbihsaW5lcykKIyBJbnNlcnQgZG9pK3VybCBhZnRlciBqb3VybmFsIGxpbmUgaWYgbWlzc2luZyBwdWJsaXNoZXIgZG9pCmlmICIxMC4xMTg2L3MxMzEwNC0wMjYtMDgwMDcteCIgbm90IGluIGVudHJ5MjoKICAgIGogPSAiICBqb3VybmFsOiBCTUMgUmVzZWFyY2ggTm90ZXNcbiIKICAgIGlmIGogbm90IGluIGVudHJ5MjoKICAgICAgICByYWlzZSBTeXN0ZW1FeGl0KCJqb3VybmFsIGxpbmUgbWlzc2luZyIpCiAgICBpbnNlcnQgPSAoCiAgICAgICAgagogICAgICAgICsgIiAgZG9pOiAxMC4xMTg2L3MxMzEwNC0wMjYtMDgwMDcteFxuIgogICAgICAgICsgIiAgdXJsOiBodHRwczovL2RvaS5vcmcvMTAuMTE4Ni9zMTMxMDQtMDI2LTA4MDA3LXhcbiIKICAgICkKICAgIGVudHJ5MiA9IGVudHJ5Mi5yZXBsYWNlKGosIGluc2VydCwgMSkKIyBFbnN1cmUgbm90ZXMga2VlcCBSZXNlYXJjaCBTcXVhcmUKaWYgInJzLTk2MjA0NDgiIG5vdCBpbiBlbnRyeTI6CiAgICAjIGFkZCBub3RlcyBiZWZvcmUgZmlyc3RfYXV0aG9yIGlmIG5lZWRlZAogICAgbWFya2VyID0gIiAgZmlyc3RfYXV0aG9yX2lzX2xhYl9tZW1iZXI6IgogICAgaWYgbWFya2VyIGluIGVudHJ5MiBhbmQgIiAgbm90ZXM6IiBub3QgaW4gZW50cnkyOgogICAgICAgIGVudHJ5MiA9IGVudHJ5Mi5yZXBsYWNlKAogICAgICAgICAgICBtYXJrZXIsCiAgICAgICAgICAgICIgIG5vdGVzOlxuICAtIFJlc2VhcmNoIFNxdWFyZTogMTAuMjEyMDMvcnMuMy5ycy05NjIwNDQ4L3YxXG4iICsgbWFya2VyLAogICAgICAgICAgICAxLAogICAgICAgICkKYXNzZXJ0ICJzdGF0dXM6IHB1Ymxpc2hlZCIgaW4gZW50cnkyCmFzc2VydCAiMTAuMTE4Ni9zMTMxMDQtMDI2LTA4MDA3LXgiIGluIGVudHJ5Mgphc3NlcnQgInVybDogaHR0cHM6Ly9kb2kub3JnLzEwLjExODYvczEzMTA0LTAyNi0wODAwNy14IiBpbiBlbnRyeTIKdGV4dDIgPSB0ZXh0WzpzdGFydF0gKyBlbnRyeTIgKyByZXN0W2lkeDpdCnAud3JpdGVfdGV4dCh0ZXh0MikKcHJpbnQoIkFGVEVSIEVOVFJZOlxuIiwgZW50cnkyKQpwcmludCgiT0siLCBsZW4odGV4dDIpKQo=' | base64 -d > /tmp/fix_site.py
+          python3 /tmp/fix_site.py
+      - name: Commit and cleanup
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -f .github/workflows/fix-cold-rnaseq-doi-site.yml
+          git add -A
+          git status
+          git commit -m "Add publisher DOI/URL to published cold RNA-seq BMC Research Notes entry"
+          git push
