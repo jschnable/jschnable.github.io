@@ -53,6 +53,14 @@
   image: /images/optimized/People_Images/AnuradhaC.jpg
   page_path: peoplepages/AnuradhaC.md
   category: Faculty & Staff
+- name: Bibash Rokaya
+  country: Nepal
+  role: Research Specialist
+  status: current
+  image: /images/optimized/People_Images/BibashR.jpg
+  page_path: peoplepages/BibashR.md
+  linkedin: bibash-rokaya-4
+  category: Faculty & Staff
 - name: Sumeet Mankar
   country: India
   role: Postdoctoral Research Associate

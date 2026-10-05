@@ -1135,6 +1135,18 @@
   - Richter, Michael
   active: false
   orcid: 0000-0001-9702-4292
+- id: rokaya-bibash
+  name: Bibash Rokaya
+  aliases:
+  - B. Rokaya
+  - Bibash Rokaya
+  - Rokaya B
+  - Rokaya B.
+  - Rokaya, B
+  - Rokaya, B.
+  - Rokaya, Bibash
+  active: true
+  people_page: peoplepages/BibashR.md
 - id: ruester-chessie
   name: Chessie Ruester
   aliases:
