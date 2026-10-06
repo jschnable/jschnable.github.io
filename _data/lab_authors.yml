@@ -644,3 +644,179 @@
   - P. JG. Kabbakki
   active: false
   people_page: /peoplepages/Preethi.md/
+- id: kagaba-lionel
+  name: Lionel Kagaba
+  aliases:
+  - Kagaba L
+  - Kagaba L.
+  - Kagaba, L
+  - Kagaba, L.
+  - Kagaba, Lionel
+  - L. Kagaba
+  active: false
+- id: kirby-ryleigh
+  name: Ryleigh Kirby
+  aliases:
+  - Kirby R
+  - Kirby R.
+  - Kirby, R
+  - Kirby, R.
+  - Kirby, Ryleigh
+  - R. Kirby
+  active: true
+  people_page: peoplepages/RyleighK.md
+- id: kohrell-annaliese
+  name: Annaliese Kohrell
+  aliases:
+  - A. Kohrell
+  - Kohrell A
+  - Kohrell A.
+  - Kohrell, A
+  - Kohrell, A.
+  - Kohrell, Annaliese
+  active: false
+- id: korth-nate
+  name: Nate Korth
+  aliases:
+  - Korth N
+  - Korth N.
+  - Korth, N
+  - Korth, N.
+  - Korth, Nate
+  - N. Korth
+  active: false
+- id: kounsar-hadiya
+  name: Hadiya Kounsar
+  aliases:
+  - H. Kounsar
+  - Kounsar H
+  - Kounsar H.
+  - Kounsar, H
+  - Kounsar, H.
+  - Kounsar, Hadiya
+  active: true
+  people_page: peoplepages/HadiyaK.md
+  orcid: 0009-0001-5087-7690
+- id: kyavuma-oddine
+  name: Oddine Kyavuma
+  aliases:
+  - Kyavuma O
+  - Kyavuma O.
+  - Kyavuma, O
+  - Kyavuma, O.
+  - Kyavuma, Oddine
+  - O. Kyavuma
+  active: false
+- id: lai-xianjun
+  name: Xianjun Lai
+  aliases:
+  - Lai X
+  - Lai X.
+  - Lai, X
+  - Lai, X.
+  - Lai, Xianjun
+  - X. Lai
+  active: false
+  people_page: /peoplepages/Xianjun_Lai/
+  orcid: 0000-0001-9795-3358
+- id: li-delin
+  name: Delin Li
+  aliases:
+  - D. Li
+  - Li D
+  - Li D.
+  - Li, D
+  - Li, D.
+  - Li, Delin
+  active: false
+- id: li-fangyi
+  name: Fangyi Li
+  aliases:
+  - F. Li
+  - Li F
+  - Li F.
+  - Li, F
+  - Li, F.
+  - Li, Fangyi
+  active: false
+  people_page: /peoplepages/FangyiLi/
+- id: li-xiangjun
+  name: Xiangjun Li
+  aliases:
+  - Li X
+  - Li X.
+  - Li, X
+  - Li, X.
+  - Li, Xiangjun
+  - X. Li
+  active: false
+- id: liang-zhikai
+  name: Zhikai Liang
+  aliases:
+  - Liang Z
+  - Liang Z.
+  - Liang, Z
+  - Liang, Z.
+  - Liang, Zhikai
+  - Z. Liang
+  active: false
+  people_page: /peoplepages/zliang/
+  orcid: 0000-0002-9963-8631
+- id: linders-kyle
+  name: Kyle Linders
+  aliases:
+  - K. Linders
+  - Linders K
+  - Linders K.
+  - Linders KM
+  - Linders, K
+  - Linders, K.
+  - Linders, Kyle
+  active: false
+  people_page: peoplepages/KyleL.md
+- id: liu-xiangdong
+  name: Xiangdong "Brian" Liu
+  aliases:
+  - Liu X
+  - Liu X B
+  - Liu X.
+  - Liu XB
+  - Liu, X
+  - Liu, X.
+  - Liu, XB
+  - Liu, Xiangdong
+  - Liu, Xiangdong Brian
+  - X B Liu
+  - X. B. Liu
+  active: false
+- id: lopez-lina
+  name: Lina López-Corona
+  aliases:
+  - L. Lopez
+  - L. López-Corona
+  - Lopez L
+  - Lopez L.
+  - Lopez, L
+  - Lopez, L.
+  - Lopez, Lina
+  - Lopez-Corona L
+  - Lopez-Corona L.
+  - Lopez-Corona, L
+  - Lopez-Corona, L.
+  - López-Corona L
+  - López-Corona L.
+  - López-Corona, L
+  - López-Corona, L.
+  - López-Corona, Lina
+  active: false
+  people_page: /peoplepages/LinaLopez/
+- id: lowry-matthew
+  name: Matthew Lowry
+  aliases:
+  - Lowry M
+  - Lowry M.
+  - Lowry, M
+  - Lowry, M.
+  - Lowry, Matthew
+  - M. Lowry
+  active: false
