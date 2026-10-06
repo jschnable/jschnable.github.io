@@ -1,7 +1,7 @@
 ---
 layout: person
-title: Karla Montserrat Cuéllar Perez
+title: Karla Montserrat Cuéllar Pérez
 permalink: /peoplepages/KarlaC2/
 ---
 
-Karla Montserrat Cuéllar Perez is a Ph.D. student in Complex Biosystems at the University of Nebraska–Lincoln, specializing in Integrative Plant Biology. Her research focuses on the comparative analysis of eQTLs in maize and sorghum. She has a background in bioinformatics and molecular biology, and her interests include gene regulation, statistical genomics, and plant systems biology.
+Karla Montserrat Cuéllar Pérez is a Ph.D. student in Complex Biosystems at the University of Nebraska–Lincoln, specializing in Integrative Plant Biology. Her research focuses on the comparative analysis of eQTLs in maize and sorghum. She has a background in bioinformatics and molecular biology, and her interests include gene regulation, statistical genomics, and plant systems biology.
