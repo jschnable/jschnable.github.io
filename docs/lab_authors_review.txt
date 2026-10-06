@@ -114,7 +114,7 @@ Aliases:
   - S. Conway
 
 ID: cullar-karla
-Name: Karla Cuéllar
+Name: Karla Montserrat Cuéllar Pérez
 Active: True
 Page: peoplepages/KarlaC2.md
 ORCID: 0009-0001-2851-6370
