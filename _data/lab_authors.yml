@@ -820,3 +820,168 @@
   - Lowry, Matthew
   - M. Lowry
   active: false
+- id: mangal-harshita
+  name: Harshita Mangal
+  aliases:
+  - H. Mangal
+  - Mangal H
+  - Mangal H.
+  - Mangal, H
+  - Mangal, H.
+  - Mangal, Harshita
+  active: true
+  people_page: peoplepages/HarshitaM.md
+  orcid: 0009-0002-8424-6026
+- id: mathivanan-ramesh
+  name: Ramesh Kanna Mathivanan
+  aliases:
+  - Mathivanan R
+  - Mathivanan R K
+  - Mathivanan R.
+  - Mathivanan RK
+  - Mathivanan, R
+  - Mathivanan, R.
+  - Mathivanan, RK
+  - Mathivanan, Ramesh
+  - Mathivanan, Ramesh Kanna
+  - R K Mathivanan
+  - R. K. Mathivanan
+  active: false
+  people_page: /peoplepages/Ramesh/
+- id: medlock-henry
+  name: Henry "Hank" Medlock
+  aliases:
+  - H H Medlock
+  - H. H. Medlock
+  - Medlock H
+  - Medlock H H
+  - Medlock H.
+  - Medlock HH
+  - Medlock, H
+  - Medlock, H.
+  - Medlock, HH
+  - Medlock, Henry
+  - Medlock, Henry Hank
+  active: false
+- id: meng-xiaoxi
+  name: Xiaoxi "Peggy" Meng
+  aliases:
+  - Meng X
+  - Meng X P
+  - Meng X.
+  - Meng XP
+  - Meng, X
+  - Meng, X.
+  - Meng, XP
+  - Meng, Xiaoxi
+  - Meng, Xiaoxi Peggy
+  - X P Meng
+  - X. Meng
+  - X. P. Meng
+  active: false
+  people_page: /peoplepages/Xiaoxi_Meng/
+  orcid: 0000-0001-7217-2037
+- id: miao-chenyong
+  name: Chenyong Miao
+  aliases:
+  - C. Miao
+  - Miao C
+  - Miao C.
+  - Miao, C
+  - Miao, C.
+  - Miao, Chenyong
+  active: false
+  people_page: /peoplepages/Chenyong_Miao/
+  orcid: 0000-0002-0904-3707
+- id: micek-luke
+  name: Luke Micek
+  aliases:
+  - L. Micek
+  - Micek L
+  - Micek L.
+  - Micek, L
+  - Micek, L.
+  - Micek, Luke
+  active: false
+- id: miller-aleah
+  name: Aleah Miller
+  aliases:
+  - A. Miller
+  - Miller A
+  - Miller A.
+  - Miller, A
+  - Miller, A.
+  - Miller, Aleah
+  active: false
+- id: mizero-olivier
+  name: Olivier N Mizero
+  aliases:
+  - Mizero O
+  - Mizero O N
+  - Mizero O.
+  - Mizero ON
+  - Mizero, O
+  - Mizero, O.
+  - Mizero, ON
+  - Mizero, Olivier
+  - Mizero, Olivier N
+  - O N Mizero
+  - O. Mizero
+  - O. N. Mizero
+  active: false
+  people_page: /peoplepages/Olivier/
+  orcid: 0000-0003-0675-6936
+- id: molnar-alex
+  name: Alex Molnar
+  aliases:
+  - A. Molnar
+  - Molnar A
+  - Molnar A.
+  - Molnar, A
+  - Molnar, A.
+  - Molnar, Alex
+  active: false
+- id: mural-ravi
+  name: Ravi Mural
+  aliases:
+  - Mural R
+  - Mural R.
+  - Mural RV
+  - Mural, R
+  - Mural, R.
+  - Mural, Ravi
+  - R. Mural
+  active: false
+  people_page: /peoplepages/Ravi_Mural/
+  orcid: 0000-0002-5489-9918
+- id: mushimiyimana-carine
+  name: Carine Mushimiyimana
+  aliases:
+  - C. Mushimiyimana
+  - Mushimiyimana C
+  - Mushimiyimana C.
+  - Mushimiyimana, C
+  - Mushimiyimana, C.
+  - Mushimiyimana, Carine
+  active: false
+- id: nanjaraju-trisha
+  name: Trisha Nanjaraju
+  aliases:
+  - Nanjaraju T
+  - Nanjaraju T.
+  - Nanjaraju, T
+  - Nanjaraju, T.
+  - Nanjaraju, Trisha
+  - T. Nanjaraju
+  active: false
+  people_page: /peoplepages/TrishaN.md/
+- id: ngiruwonsanga-prince
+  name: Prince Ngiruwonsanga
+  aliases:
+  - Ngiruwonsanga P
+  - Ngiruwonsanga P.
+  - Ngiruwonsanga, P
+  - Ngiruwonsanga, P.
+  - Ngiruwonsanga, Prince
+  - P. Ngiruwonsanga
+  active: false
