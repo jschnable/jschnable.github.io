@@ -1157,6 +1157,24 @@
   - Ruester, C.
   - Ruester, Chessie
   active: false
+- id: ruvalcaba-ruben
+  name: Ruben Ruvalcaba-Ramirez
+  aliases:
+  - R. Ruvalcaba
+  - R. Ruvalcaba-Ramirez
+  - Ruvalcaba R
+  - Ruvalcaba R.
+  - Ruvalcaba, R
+  - Ruvalcaba, R.
+  - Ruvalcaba, Ruben
+  - Ruvalcaba-Ramirez R
+  - Ruvalcaba-Ramirez R.
+  - Ruvalcaba-Ramirez, R
+  - Ruvalcaba-Ramirez, R.
+  - Ruvalcaba-Ramirez, Ruben
+  - Ruben Ruvalcaba-Ramirez
+  active: true
+  people_page: peoplepages/RubenR.md
 - id: schnable-james
   name: James Schnable
   aliases:
