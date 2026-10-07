@@ -418,6 +418,10 @@ nav {
 // Maize gene synthesis lookup tool
 .maize-synth-tool {
   margin-top: 22px;
+
+  [hidden] {
+    display: none !important;
+  }
 }
 
 .maize-synth-subtitle {
@@ -433,14 +437,7 @@ nav {
   background: #fbfbfa;
 }
 
-.maize-synth-intro {
-  color: $gray;
-  margin-top: 0;
-}
-
 .maize-synth-form {
-  margin-top: 18px;
-
   label {
     display: block;
     font-weight: 700;
@@ -528,14 +525,6 @@ nav {
   }
 }
 
-.maize-synth-kicker {
-  margin: 0 0 4px;
-  color: $gray;
-  font-size: 0.85rem;
-  font-weight: 700;
-  text-transform: uppercase;
-}
-
 .maize-synth-share {
   flex: 0 0 auto;
   border: 1px solid #cfcac2;
@@ -544,36 +533,152 @@ nav {
   font-size: 0.9rem;
 }
 
-.maize-synth-match {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-  gap: 10px;
-  margin: 16px 0 20px;
+.maize-synth-result p {
+  white-space: pre-wrap;
+}
 
-  div {
-    border: 1px solid #e6e1da;
-    border-radius: 8px;
-    padding: 10px 12px;
+.maize-synth-papers {
+  padding-left: 1.4em;
+
+  li {
+    margin-bottom: 10px;
+    line-height: 1.45;
+  }
+}
+
+.maize-synth-paper-title {
+  font-weight: 600;
+}
+
+.maize-synth-paper-reason {
+  display: block;
+  margin-top: 2px;
+  color: $gray;
+  font-size: 0.88rem;
+}
+
+.maize-synth-orthologs {
+  padding-left: 1.2em;
+
+  li {
+    margin-bottom: 6px;
+  }
+}
+
+.maize-synth-evidence {
+  color: $gray;
+  font-size: 0.6em;
+  font-weight: 400;
+}
+
+.maize-synth-gene-meta {
+  margin: 4px 0 0;
+  color: $gray;
+  font-size: 0.92rem;
+}
+
+.maize-synth-tabs {
+  display: flex;
+  gap: 4px;
+  margin: -6px 0 18px;
+  border-bottom: 1px solid #dfddd7;
+}
+
+.maize-synth-tab {
+  border: 1px solid transparent;
+  border-bottom: 0;
+  border-radius: 6px 6px 0 0;
+  margin-bottom: -1px;
+  padding: 9px 16px;
+  background: transparent;
+  color: $gray;
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+
+  &:hover {
+    color: $primary;
+  }
+
+  &[aria-selected="true"] {
+    border-color: #dfddd7;
+    background: #fff;
+    color: $primary;
+  }
+}
+
+.maize-synth-region-form {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr auto;
+  gap: 12px;
+  align-items: end;
+
+  select,
+  input {
+    width: 100%;
+    min-width: 0;
+    margin-bottom: 0;
+    border: 1px solid #cfcac2 !important;
+    border-radius: 6px;
+    box-sizing: border-box;
+    height: 44px;
+    padding: 0 10px;
+    font: inherit;
     background: #fff;
   }
 
-  dt {
-    color: $gray;
-    font-size: 0.85rem;
+  button {
+    border-radius: 6px;
+    background: $primary;
+    color: #fff;
     font-weight: 700;
-  }
+    height: 44px;
+    padding: 0 18px;
 
-  dd {
-    margin: 2px 0 0;
+    &:hover,
+    &:focus {
+      background: $primary-dark;
+    }
   }
 }
 
-.maize-synth-phrase {
-  font-weight: 700;
+.maize-synth-region-assembly {
+  margin: 12px 0 0;
+  color: $gray;
+  font-size: 0.88rem;
 }
 
-.maize-synth-result p {
-  white-space: pre-wrap;
+.maize-synth-region-result {
+  margin-top: 26px;
+  border-top: 3px solid rgba($primary, 0.25);
+  padding-top: 18px;
+}
+
+.maize-synth-region-list {
+  padding-left: 1.2em;
+
+  li {
+    margin-bottom: 6px;
+  }
+}
+
+.maize-synth-region-pos {
+  color: $gray;
+  font-size: 0.9rem;
+}
+
+.maize-synth-choices {
+  margin-top: 26px;
+
+  li {
+    margin-bottom: 10px;
+  }
+}
+
+.maize-synth-version {
+  margin-top: 28px;
+  color: $gray;
+  font-size: 0.85rem;
 }
 
 @include mobile {
@@ -591,6 +696,15 @@ nav {
 
   .maize-synth-result__header {
     display: block;
+  }
+
+  .maize-synth-region-form {
+    grid-template-columns: 1fr 1fr;
+
+    button {
+      grid-column: 1 / -1;
+      min-height: 44px;
+    }
   }
 
   .maize-synth-share {
