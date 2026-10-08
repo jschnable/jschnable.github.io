@@ -6,7 +6,7 @@ search_exclude: true
 sitemap: false
 ---
 
-<div class="maize-synth-tool" data-baseurl="{{ site.baseurl }}">
+<div class="maize-synth-tool" data-baseurl="{{ site.baseurl }}" data-dataurl="/gene-function-data">
   <p class="maize-synth-subtitle">
     Known and inferred phenotypes and functions of genes searchable by gene name or gene model ID.
   </p>

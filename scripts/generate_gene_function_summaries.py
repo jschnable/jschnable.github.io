@@ -2,8 +2,10 @@
 """Generate static gene function summary assets for the website tool (GeneAnnotation v2).
 
 Reads the GeneAnnotation_v2 database (active summaries, gene names, key papers, Dias et al. 2025
-syntenic orthologs) and the key-paper author cache, and writes gzipped JSON under
-assets/data/gene-function-summaries/:
+syntenic orthologs) and the key-paper author cache, and writes gzipped JSON into a checkout of the
+separate data repository jschnable/gene-function-data (default: a sibling of this repository), which
+GitHub Pages serves at https://schnablelab.org/gene-function-data/. Publish it with
+scripts/publish_gene_function_data.sh; the data are kept out of this repository's history.
 
   metadata.json                            plain JSON: version, counts, bucket/shard counts
   <species>/lookup/NN.json.gz              name index, LOOKUP_BUCKETS buckets
@@ -41,7 +43,7 @@ FORMAT_VERSION = 2
 LOOKUP_BUCKETS = 64
 GENE_SHARDS = 128
 DEFAULT_V2 = Path(__file__).resolve().parents[2] / "GeneAnnotation_v2"
-DEFAULT_OUTPUT_DIR = Path(__file__).resolve().parents[1] / "assets/data/gene-function-summaries"
+DEFAULT_OUTPUT_DIR = Path(__file__).resolve().parents[2] / "gene-function-data"
 NAME_LINE = re.compile(r"^- Name to use in summaries: `([^`]+)`", re.M)
 ORTHOLOG_SOURCE = "Dias et al. 2025 PGSGS synteny"
 
@@ -251,8 +253,10 @@ def main() -> int:
     orthologs = load_orthologs(conn, all_genes)
 
     out = args.output_dir
-    if out.exists():
-        shutil.rmtree(out)
+    out.mkdir(parents=True, exist_ok=True)
+    for c in SPECIES:  # replace generated data only; keep .git, README.md and .nojekyll
+        if (out / c.key).exists():
+            shutil.rmtree(out / c.key)
     meta_species = []
     for c in SPECIES:
         genes = all_genes[c.species]

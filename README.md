@@ -14,31 +14,23 @@ This repository hosts the Schnable Lab group website built with Jekyll. Content 
 - Publications QA: `python scripts/review_lab_authors.py > docs/lab_authors_review.txt`
 
 ## Gene function summaries tool data
-The `/tools/gene-function-summaries/` page is a static browser tool backed by generated JSON in `assets/data/gene-function-summaries/`. Do not edit those JSON files by hand; rebuild them from the current GeneAnnotation SQLite databases.
+The `/tools/gene-function-summaries/` page is a static browser tool. Its data (gzipped JSON) are **not** in this
+repository: they live in [jschnable/gene-function-data](https://github.com/jschnable/gene-function-data), a GitHub
+Pages project site served on the same domain at `https://schnablelab.org/gene-function-data/`. That repository keeps
+a single commit, replaced on each publish, so data updates never grow this repository's history. Do not commit
+generated data here and do not edit the data files by hand.
 
-Default rebuild, assuming sibling checkouts under `/Users/jschnable/Projects/`:
-
-```bash
-python3 scripts/generate_gene_function_summaries.py
-bundle exec jekyll build
-```
-
-Rebuild from alternate or newly produced databases:
+Update, assuming sibling checkouts `GeneAnnotation_v2/` and `gene-function-data/` under `/Users/jschnable/Projects/`:
 
 ```bash
-python3 scripts/generate_gene_function_summaries.py \
-  --synthesis-db /path/to/direct_synthesis.sqlite \
-  --evidence-db /path/to/evidence.sqlite \
-  --output-dir assets/data/gene-function-summaries
-bundle exec jekyll build
+python3 scripts/generate_gene_function_summaries.py   # read-only on the GeneAnnotation_v2 database
+scripts/publish_gene_function_data.sh                 # force-pushes one fresh commit to gene-function-data
 ```
 
-Required source tables:
-
-- `direct_synthesis.sqlite`: table `direct_gene_syntheses`, using `species`, `gene_id`, `function_phrase`, `function_sentence`, `annotation_abstract`, `created_at`, `batch_id`, and `custom_id`; the newest row for each species/gene is exported.
-- `evidence.sqlite`: tables `maize_gene_synonyms` and `sorghum_gene_synonyms`, using `synonym_norm`, `synonym`, `gene_id`, `synonym_type`, `query_priority`, `is_ambiguous`, `is_gene_model_id`, and `include_in_pubmed_query`; exported lookup terms must have `is_ambiguous = 0` and either `is_gene_model_id = 1` or `include_in_pubmed_query = 1`.
-
-After rebuilding, spot-check the tool locally with maize and sorghum IDs/names, for example `Zm00001eb237930`, `Zm00001d016066`, `GRMZM2G120408`, and `Sobic.001G000100`.
+The generator reads the live `GeneAnnotation_v2` SQLite database (active summaries, names, key papers, Dias et al.
+2025 syntenic orthologs) and `data/processed/paper_authors/key_paper_authors.tsv` there; it documents the file
+layout in its docstring. After publishing, spot-check the tool with, for example, `tb1`, `Zm00001eb054440`,
+`Sobic.001G000100`, `Os03g0215400` and a region search.
 
 ## Publications data
 - `docs/publications-reference.md` is the best starting point for the current publication storage, schema, and rendering flow.
@@ -53,7 +45,7 @@ After rebuilding, spot-check the tool locally with maize and sorghum IDs/names, 
 ## Scripts
 - `scripts/review_lab_authors.py` audits alias coverage and unmatched authors; commit the refreshed `docs/lab_authors_review.txt` alongside publication edits.
 - `scripts/build_lab_authors.py` bootstraps `lab_authors.yml` from `_data/people.yml`, `_data/alumni.yml`, and `peoplepages/`; run it when rosters change significantly, then reconcile aliases by hand.
-- `scripts/generate_gene_function_summaries.py` rebuilds the static lookup index and synthesis shards for `/tools/gene-function-summaries/` from GeneAnnotation SQLite databases.
+- `scripts/generate_gene_function_summaries.py` rebuilds the data for `/tools/gene-function-summaries/` from the GeneAnnotation v2 database into the `gene-function-data` checkout; `scripts/publish_gene_function_data.sh` publishes it.
 - `scripts/migrate_publications.py` was used for the initial markdown→YAML migration and serves as a reference for future bulk conversions.
 
 ## Contributing

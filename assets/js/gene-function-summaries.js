@@ -3,7 +3,9 @@
   if (!root) return;
 
   const baseUrl = root.dataset.baseurl || "";
-  const dataBase = `${baseUrl}/assets/data/gene-function-summaries`;
+  // Data live in the separate jschnable/gene-function-data repository (GitHub Pages project site on
+  // the same domain), so regenerated data never enter this repository's history.
+  const dataBase = (root.dataset.dataurl || "/gene-function-data").replace(/\/$/, "");
   // Show the model-written one-line reason under each key paper (preview: decide before publishing).
   const SHOW_PAPER_REASONS = true;
   const speciesConfig = {
