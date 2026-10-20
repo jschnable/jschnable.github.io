@@ -46,6 +46,13 @@
 
 ## Publications Workflow
 - Start with `docs/publications-reference.md` for the current, implemented data model and rendering flow. `docs/publications-data-spec.md` is historical migration/design context.
+
+### Bold / `member_id` rule (lab authors)
+- `_data/lab_authors.yml` is the **exhaustive** list of current **and former** Schnable lab authors used for publication linking and CV bolding.
+- Anyone listed there (`active: true` or `active: false`) is a lab author: attach `member_id` on their `authors` row in `_data/publications.yml`, and bold them on the CV.
+- Alumni remain lab authors for bolding; do not omit `member_id` just because `active` is false.
+- When a new lab person appears on a paper, add them (with publication/CV name aliases) to `_data/lab_authors.yml` **first**, then set `member_id` and bump `lab_author_count`.
+- Cross-ref: CV repo `jschnable/schnable-cv` uses the same roster for `\textbf{}` in `sections/publications.tex`.
 - `_data/publications.yml` is canonical and should stay sorted newest year first.
 - Current publication keys commonly used in production are: `id`, `year`, `title`, `authors`, `status`, `type`, `journal`, optional `doi`, optional `url`, optional `notes`, optional `author_note`, `first_author_is_lab_member`, `lab_author_count`, and `tags`.
 - In `authors`, each item should include `name` and optionally `member_id` (for lab members from `_data/lab_authors.yml`). Use `truncated: true` author rows only for intentionally abbreviated long author lists.

@@ -115,7 +115,7 @@ title: Schnable Lab Papers
 * Zheng R, Jia Y, **Ullagaddi C**, Allen C, Rausch K, Singh V, **Schnable JC**, Kamruzzaman M (2024) [Optimizing feature selection with gradient boosting machines in PLS regression for predicting moisture and protein in multi-Country corn kernels via NIR spectroscopy.](https://doi.org/10.1016/j.foodchem.2024.140062) *Food Chemistry* doi: 10.1016/j.foodchem.2024.140062
 
 <div data-badge-type="2" data-doi="10.1093/jxb/erae247" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
-* **Raju SKK**, **Zhang Y**, Mahboub S, **Ngu DW**, Qiu Y, Harmon FG, **Schnable JC**, Roston RL (2024) [Rhythmic lipid and gene expression responses to chilling in panicoid grasses.](https://doi.org/10.1093/jxb/erae247) *Journal of Experimental Botany* doi: 10.1093/jxb/erae247 *bioRxiv* doi: 10.1101/2023.09.29.560160
+* **Kenchanmane Raju SK**, **Zhang Y**, Mahboub S, **Ngu DW**, Qiu Y, Harmon FG, **Schnable JC**, Roston RL (2024) [Rhythmic lipid and gene expression responses to chilling in panicoid grasses.](https://doi.org/10.1093/jxb/erae247) *Journal of Experimental Botany* doi: 10.1093/jxb/erae247 *bioRxiv* doi: 10.1101/2023.09.29.560160
 
 <div data-badge-type="2" data-doi="10.1016/j.jplph.2024.154261" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed" style="float:right;"></div>
 * Sahay S, **Grzybowski M**, **Schnable JC**, Glowacka K (2024) [Genotype-specific nonphotochemical quenching responses to nitrogen deficit are linked to chlorophyll a to b ratios.](https://doi.org/10.1016/j.jplph.2024.154261) *Journal of Plant Physiology* doi: 10.1016/j.jplph.2024.154261
@@ -307,10 +307,10 @@ Commentary by Chris Surridge published in *Nature Plants*. doi: [10.1038/s41477-
 * Gaillard M, **Miao C**, **Schnable JC**, Benes B (2020) "[Voxel carving based 3D reconstruction of sorghum identifies genetic determinants of radiation interception efficiency.](https://doi.org/10.1002/pld3.255)" *Plant Direct* doi: 10.1002/pld3.255 *bioRxiv* doi: 10.1101/2020.04.06.028605
 
 <div data-badge-type="2" data-doi="10.1002/aps3.11386" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
-* Raju SKK, Thompson AM, **Schnable JC** (2020) "[Advances in plant phenomics: From data and algorithms to biological insights.](https://doi.org/10.1002/aps3.11386)" *Applications in Plant Sciences* doi: 10.1002/aps3.11386
+* Kenchanmane Raju SK, Thompson AM, **Schnable JC** (2020) "[Advances in plant phenomics: From data and algorithms to biological insights.](https://doi.org/10.1002/aps3.11386)" *Applications in Plant Sciences* doi: 10.1002/aps3.11386
 
 <div data-badge-type="2" data-doi="10.1002/aps3.11385" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
-* **Raju SKK**, Atkins M, **Enerson A**, **Carvalho DS**, Studer AJ, Ganapathysubramanian B, Schnable PS, **Schnable JC** (2020) "[Leaf Angle eXtractor - A high throughput image processing framework for leaf angle measurement in maize and sorghum.](https://doi.org/10.1002/aps3.11385)" *Applications in Plant Sciences* doi: 10.1002/aps3.11385
+* **Kenchanmane Raju SK**, Atkins M, **Enerson A**, **Carvalho DS**, Studer AJ, Ganapathysubramanian B, Schnable PS, **Schnable JC** (2020) "[Leaf Angle eXtractor - A high throughput image processing framework for leaf angle measurement in maize and sorghum.](https://doi.org/10.1002/aps3.11385)" *Applications in Plant Sciences* doi: 10.1002/aps3.11385
 
 <div data-badge-type="2" data-doi="10.3390/robotics9030058" data-hide-no-mentions="true" data-hide-less-than="0" class="altmetric-embed" style="float:right;"></div>
 * Atefi A, Ge Y, Pitla S, **Schnable JC** (2020) "[Robotic detection and grasp of maize and sorghum: stem measurement with contact.](https://doi.org/10.3390/robotics9030058)" *Robotics* doi: 10.3390/robotics9030058
@@ -393,7 +393,7 @@ Commentary by Chris Surridge published in *Nature Plants*. doi: [10.1038/s41477-
 * Atefi A, Ge Y,  Pitla S, **Schnable JC** (2019) "[*In vivo* human-like robotic phenotyping of leaf traits in maize and sorghum.](https://doi.org/10.1016/j.compag.2019.104854)" *Computers and Electronics in Agriculture* doi: 10.1016/j.compag.2019.104854
 
 <div data-badge-type="2" data-doi="10.1111/tpj.14376" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Yan L**, **Raju SKK**, **Lai X**, **Zhang Y**, **Dai X**, Rodriguez O, Mahboub S, Roston RL, **Schnable JC** (2019) "[Parallel natural selection in the cold-adapted crop-wild relative *Tripsacum dactyloides* and artificial selection in temperate adapted maize.](https://doi.org/10.1111/tpj.14376)" *The Plant Journal* doi: 10.1111/tpj.14376 *bioRxiv* doi: 10.1101/187575
+* **Yan L**, **Kenchanmane Raju SK**, **Lai X**, **Zhang Y**, **Dai X**, Rodriguez O, Mahboub S, Roston RL, **Schnable JC** (2019) "[Parallel natural selection in the cold-adapted crop-wild relative *Tripsacum dactyloides* and artificial selection in temperate adapted maize.](https://doi.org/10.1111/tpj.14376)" *The Plant Journal* doi: 10.1111/tpj.14376 *bioRxiv* doi: 10.1101/187575
 
 <div data-badge-type="2" data-doi="10.1007/s11032-019-0981-8" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * Li L, Li X, Li L, **Schnable JC**, Gu R, J Wang (2019) "[QTL identification and epistatic effect analysis of seed size- and weight-related traits in *Zea mays* L.](https://doi.org/10.1007/s11032-019-0981-8)" *Molecular Breeding* doi: 10.1007/s11032-019-0981-8
@@ -416,7 +416,7 @@ Commentary by Chris Surridge published in *Nature Plants*. doi: [10.1038/s41477-
 * Liu S, **Schnable JC**, Ott A, Yeh CT, Springer NM, Yu J, Meuhbauer G, Timmermans MCP, Scanlon MJ, Schnable PS. (2018) "[Intragenic Meiotic Crossovers Generate Novel Alleles with Transgressive Expression Levels.](https://academic.oup.com/mbe/article/35/11/2762/5090457?guestAccessKey=c8f71ef2-4f29-4078-9c73-b62a8874d62a)" *Molecular Biology and Evolution* doi: 10.1093/molbev/msy174
 
 <div data-badge-type="2" data-doi="10.1016/j.plantsci.2018.08.002" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
-* **Raju SKK**, Barnes A, **Schnable JC**, Roston RL. (2018) "[Low-temperature tolerance in land plants: Are transcript and membrane responses conserved?](https://doi.org/10.1016/j.plantsci.2018.08.002)" *Plant Science* doi: 10.1016/j.plantsci.2018.08.002
+* **Kenchanmane Raju SK**, Barnes A, **Schnable JC**, Roston RL. (2018) "[Low-temperature tolerance in land plants: Are transcript and membrane responses conserved?](https://doi.org/10.1016/j.plantsci.2018.08.002)" *Plant Science* doi: 10.1016/j.plantsci.2018.08.002
 
 <div data-badge-type="2" data-doi="10.1534/g3.118.200242" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right;"></div>
 * <b>Liang Z</b>, Gupta SK, Yeh CT, <b>Zhang Y</b>, <b>Ngu DW</b>, Kumar R, Patil HT, Mungra KD, Yadav DV, Rathore A, Srivastava RK, Gupkta R, <b>Yang J</b>, Varshney RK, Schnable PS, <b>Schnable JC</b>. (2018) "[Phenotypic data from inbred parents can improve genomic prediction in pearl millet hybrids.](https://doi.org/10.1534/g3.118.200242)" *G3: Genes Genomes Genetics* doi: 10.1534/g3.118.200242

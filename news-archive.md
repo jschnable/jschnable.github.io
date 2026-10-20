@@ -61,7 +61,7 @@ permalink: /news-archive/
 
 * We are thrilled to announce that Jensina Davis has advanced to PhD candidacy. Congratulations, Jensina!
 * Congratulations to all lab members for their exceptional work at the 2024 PSI Retreat. Keep up the great work!
-* We were pleased to welcome Dr. Sunil Kenchanmane from UC Riverside as a guest speaker at PSI 2024, celebrating the accomplishments of our alumni.
+* We were pleased to welcome Dr. Sunil K. Kenchanmane Raju from UC Riverside as a guest speaker at PSI 2024, celebrating the accomplishments of our alumni.
 * Great job to all who represented our lab at MLCAS 2024 and IPPS8 2024. Your hard work shone through!
 * It was a pleasure to reconnect with alumni Dr. Zhikai Liang and Dr. Deniz İştipliler. Thank you for sharing your experiences and career journeys with us!
 * Congratulations to Dr. Schnable on his presentation at the CSU Plant Adaptation Symposium! We're proud of his contributions and of how he represents our lab's work.
@@ -623,7 +623,7 @@ R->L Christine (Schnable Lab), Connor (Schnable Lab), Sam (Yang Lab), Jinliang Y
 ![Connor's SRF Poster](/images/optimized/News_Images/ConnorPoster.jpg){:width="500" align="middle" }
 
 ### 2018, March
-* Sunil Kumar leaves the lab for his real first postdoc in the Niedehuth Lab at Michigan State. He carries with him Pete2, a the same Tripsacum clone Jinliang Yang brought to the Schnable Lab from California.
+* Sunil K. Kenchanmane Raju leaves the lab for his real first postdoc in the Niedehuth Lab at Michigan State. He carries with him Pete2, a the same Tripsacum clone Jinliang Yang brought to the Schnable Lab from California.
 
 ![Sunil Tripsacum](/images/optimized/News_Images/Sunil_Tripsacum.jpg){:width="500" align="middle" }
 
@@ -663,7 +663,7 @@ _Thanks to Elizabeth Lee for the Photo_
 - Daniel Carvalho advances to PhD candidacy.
 
 ### 2017 November
-- Sunil Kumar joins the lab for a short term postdoc focused on becoming one of the world's experts on Tripsacum genomics -- it's a small community -- before he becomes a founding member of the Niederhuth lab at MSU in the spring.
+- Sunil K. Kenchanmane Raju joins the lab for a short term postdoc focused on becoming one of the world's experts on Tripsacum genomics -- it's a small community -- before he becomes a founding member of the Niederhuth lab at MSU in the spring.
 
 ### 2017 October
 - We're happy to welcome Guangchao Sun who just finished up his PhD in the Wilson lab to the lab. Guangchao is studying the genetic control of variation in gene expression levels across maize hybrids.

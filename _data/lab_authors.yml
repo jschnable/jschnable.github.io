@@ -1,3 +1,6 @@
+# Exhaustive list of current and former Schnable lab authors for publication
+# member_id linking (lab site) and CV author bolding. Include alumni; active or not,
+# anyone listed here is a lab author. Add new lab people (and aliases) here first.
 - id: agarwal-bhushit
   name: Bhushit Agarwal
   aliases:
@@ -62,9 +65,11 @@
   - Arora, S.
   - Arora, Sofiya
   - S. Arora
-  active: true
+  - Sofiya Arora
+  active: false
   people_page: peoplepages/Sofiya.md
   orcid: 0009-0004-5357-6094
+
 - id: askey-bryce
   name: Bryce Askey
   aliases:
@@ -231,7 +236,7 @@
   - S. Conway
   active: false
 - id: cullar-karla
-  name: Karla Cuéllar
+  name: Karla Montserrat Cuéllar Pérez
   aliases:
   - Cuéllar K
   - Cuéllar K.
@@ -239,6 +244,53 @@
   - Cuéllar, K.
   - Cuéllar, Karla
   - K. Cuéllar
+  - Cuéllar-Perez KM
+  - Cuellar-Perez KM
+  - Cuéllar-Pérez KM
+  - Cuéllar-Perez K
+  - Cuellar-Perez K
+  - Cuéllar-Pérez K
+  - Cuéllar KM
+  - Cuellar KM
+  - Cuéllar-Perez, KM
+  - Cuellar-Perez, KM
+  - Cuéllar-Pérez, KM
+  - Cuéllar-Perez, K
+  - Cuellar-Perez, K
+  - Cuéllar-Pérez, K
+  - K. Cuéllar-Perez
+  - K. Cuellar-Perez
+  - K. Cuéllar-Pérez
+  - K. M. Cuéllar Perez
+  - K. M. Cuellar Perez
+  - K. M. Cuéllar Pérez
+  - K. M. Cuéllar-Perez
+  - K. M. Cuellar-Perez
+  - K. M. Cuéllar-Pérez
+  - KM Cuéllar Perez
+  - KM Cuellar Perez
+  - KM Cuéllar Pérez
+  - Cuéllar Perez KM
+  - Cuellar Perez KM
+  - Cuéllar Pérez KM
+  - Cuéllar Perez, KM
+  - Cuellar Perez, KM
+  - Cuéllar Pérez, KM
+  - Cuéllar Perez, K
+  - Cuellar Perez, K
+  - Cuéllar Pérez, K
+  - Karla Cuéllar
+  - Karla Cuellar
+  - Karla Cuéllar-Perez
+  - Karla Cuellar-Perez
+  - Karla Cuéllar-Pérez
+  - Karla Cuéllar Perez
+  - Karla Cuellar Perez
+  - Karla Cuéllar Pérez
+  - Karla Montserrat Cuéllar Perez
+  - Karla Montserrat Cuellar Perez
+  - Karla Montserrat Cuéllar Pérez
+  - Karla Montserrat Cuellar Pérez
   active: true
   people_page: peoplepages/KarlaC2.md
   orcid: 0009-0001-2851-6370
@@ -505,19 +557,22 @@
   - J. P. Hurst
   people_page: peoplepages/Preston_Hurst.md
 - id: hussaini-mohamed
-  name: Mohamed Al Hussaini]
+  name: Mohamed Al Hussaini
   aliases:
-  - Hussaini] M
-  - Hussaini] M A
-  - Hussaini] M.
-  - Hussaini] MA
-  - Hussaini], M
-  - Hussaini], M.
-  - Hussaini], MA
-  - Hussaini], Mohamed
-  - Hussaini], Mohamed Al
-  - M A Hussaini]
-  - M. A. Hussaini]
+  - Hussaini M
+  - Hussaini M A
+  - Hussaini M.
+  - Hussaini MA
+  - Hussaini, M
+  - Hussaini, M.
+  - Hussaini, MA
+  - Hussaini, Mohamed
+  - Hussaini, Mohamed Al
+  - M A Hussaini
+  - M. A. Hussaini
+  - Al Hussaini M
+  - Al Hussaini, M
+  - Mohamed Al Hussaini
   active: false
 - id: igiraneza-alliance
   name: Alliance Igiraneza
@@ -1069,13 +1124,17 @@
   - SG Rajput
   active: false
 - id: raju-sunil
-  name: Sunil KK Raju
+  name: Sunil K. Kenchanmane Raju
   aliases:
   - Raju S
   - Raju S K
   - Raju S.
   - Raju SK
   - Raju SKK
+  - Kenchanmane Raju SK
+  - Kenchanmane Raju S
+  - Kenchanmane Raju, Sunil K
+  - Kenchanmane Raju, Sunil Kumar
   - Raju, S
   - Raju, S.
   - Raju, SK
@@ -1106,6 +1165,18 @@
   - Richter, Michael
   active: false
   orcid: 0000-0001-9702-4292
+- id: rokaya-bibash
+  name: Bibash Rokaya
+  aliases:
+  - B. Rokaya
+  - Bibash Rokaya
+  - Rokaya B
+  - Rokaya B.
+  - Rokaya, B
+  - Rokaya, B.
+  - Rokaya, Bibash
+  active: true
+  people_page: peoplepages/BibashR.md
 - id: ruester-chessie
   name: Chessie Ruester
   aliases:
@@ -1116,6 +1187,24 @@
   - Ruester, C.
   - Ruester, Chessie
   active: false
+- id: ruvalcaba-ruben
+  name: Ruben Ruvalcaba-Ramirez
+  aliases:
+  - R. Ruvalcaba
+  - R. Ruvalcaba-Ramirez
+  - Ruvalcaba R
+  - Ruvalcaba R.
+  - Ruvalcaba, R
+  - Ruvalcaba, R.
+  - Ruvalcaba, Ruben
+  - Ruvalcaba-Ramirez R
+  - Ruvalcaba-Ramirez R.
+  - Ruvalcaba-Ramirez, R
+  - Ruvalcaba-Ramirez, R.
+  - Ruvalcaba-Ramirez, Ruben
+  - Ruben Ruvalcaba-Ramirez
+  active: true
+  people_page: peoplepages/RubenR.md
 - id: schnable-james
   name: James Schnable
   aliases:
