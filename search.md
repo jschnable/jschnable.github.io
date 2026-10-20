@@ -6,6 +6,7 @@ search_exclude: true
 sitemap: false
 ---
 
+<label for="search-input">Search the Schnable Lab site</label>
 <input type="search" id="search-input" placeholder="Search pages, news, and people" aria-label="Search the Schnable Lab site" />
 <ul id="search-results" class="news-list" aria-live="polite"></ul>
 

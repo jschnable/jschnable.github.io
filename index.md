@@ -25,19 +25,22 @@ bigimg:
 
 ## What We Study
 
+The Schnable Lab at the University of Nebraska–Lincoln studies plant genetics, genomics,
+and phenotyping to understand crop traits and improve crop performance.
+
 <div class="feature-cards">
   <div class="feature-card">
-    <div class="feature-card__icon">🌱</div>
+    <div class="feature-card__icon" aria-hidden="true">🌱</div>
     <h3 class="feature-card__title">Phenotyping</h3>
     <p class="feature-card__desc">Developing and testing new approaches to measure plants, from greenhouses to fields to satellites.</p>
   </div>
   <div class="feature-card">
-    <div class="feature-card__icon">📊</div>
+    <div class="feature-card__icon" aria-hidden="true">📊</div>
     <h3 class="feature-card__title">Quantitative Genetics</h3>
     <p class="feature-card__desc">Collecting genetic, molecular, and trait data from large populations to understand how genes and environment shape phenotypes.</p>
   </div>
   <div class="feature-card">
-    <div class="feature-card__icon">🧬</div>
+    <div class="feature-card__icon" aria-hidden="true">🧬</div>
     <h3 class="feature-card__title">Genomics</h3>
     <p class="feature-card__desc">Using comparative genomics to engineer more stress-tolerant and resource-use-efficient plants.</p>
   </div>
@@ -53,12 +56,15 @@ Each lab member gains experience coding, building field equipment, running molec
 
 ## Where Our Trainees Go
 
-Our alumni are employed as professors at eleven universities across four countries, as research scientists at all three of the major seed companies, and at multiple plant biotechnology startups.
+As of October 20, 2026, our alumni are employed as professors at eleven universities across four countries, as research scientists at all three of the major seed companies, and at multiple plant biotechnology startups.
 
 <picture>
   <source srcset="/images/optimized/alumni_map_800.webp" type="image/webp">
-  <img src="/images/Alumnitrimmed.png" alt="Alumni map" width="600" loading="lazy">
+  <img src="/images/Alumnitrimmed.png" alt="Map of alumni faculty and industry positions in the United States, China, Colombia, Poland, and Türkiye" width="600" loading="lazy">
 </picture>
+
+The map shows alumni faculty and industry positions in the United States, China,
+Colombia, Poland, and Türkiye. See the [alumni directory](/alumni/) for names and career details.
 
 </div>
 </div>
@@ -77,10 +83,10 @@ Our alumni are employed as professors at eleven universities across four countri
         {% assign img_webp = item.image | replace: '.jpg', '_240.webp' | replace: '.jpeg', '_240.webp' | replace: '.png', '_240.webp' %}
         <picture>
           <source srcset="{{ img_webp }}" type="image/webp">
-          <img src="{{ item.image }}" alt="{{ item.title }}" class="news-list__image" width="120" height="90" loading="lazy" />
+          <img src="{{ item.image }}" alt="{{ item.image_alt | default: item.title | escape }}" class="news-list__image" width="120" height="90" loading="lazy" />
         </picture>
       {% else %}
-        <img src="{{ item.image }}" alt="{{ item.title }}" class="news-list__image" width="120" height="90" loading="lazy" />
+        <img src="{{ item.image }}" alt="{{ item.image_alt | default: item.title | escape }}" class="news-list__image" width="120" height="90" loading="lazy" />
       {% endif %}
     {% endif %}
     <div class="news-list__content">

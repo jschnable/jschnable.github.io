@@ -22,7 +22,7 @@ title: Schnable Lab News
 <ul class="news-list">
 {% for item in recent_news %}
   <li class="news-list__item{% if item.image %} news-list__item--has-image{% endif %}">
-    {% if item.image %}<img src="{{ item.image }}" alt="{{ item.title }}" class="news-list__image" width="120" height="90" loading="lazy" decoding="async" />{% endif %}
+    {% if item.image %}<img src="{{ item.image }}" alt="{{ item.image_alt | default: item.title | escape }}" class="news-list__image" width="120" height="90" loading="lazy" decoding="async" />{% endif %}
     <div class="news-list__content">
       <time datetime="{{ item.date | date: '%Y-%m-%d' }}">{{ item.date | date: '%B %d, %Y' }}</time>
       <h3 class="news-list__title">{{ item.title }}</h3>
@@ -44,7 +44,7 @@ title: Schnable Lab News
     <ul class="news-list">
   {% for entry in group.items %}
       <li class="news-list__item{% if entry.image %} news-list__item--has-image{% endif %}">
-        {% if entry.image %}<img src="{{ entry.image }}" alt="{{ entry.title }}" class="news-list__image" width="120" height="90" loading="lazy" decoding="async" />{% endif %}
+        {% if entry.image %}<img src="{{ entry.image }}" alt="{{ entry.image_alt | default: entry.title | escape }}" class="news-list__image" width="120" height="90" loading="lazy" decoding="async" />{% endif %}
         <div class="news-list__content">
           <strong>{{ entry.title }}</strong><br />
           {% assign entry_summary = entry.summary | markdownify | strip_newlines | replace: '<p>', '' | replace: '</p>', '' %}
@@ -60,7 +60,7 @@ title: Schnable Lab News
     <ul class="news-list">
     {% for entry in group.items %}
       <li class="news-list__item{% if entry.image %} news-list__item--has-image{% endif %}">
-        {% if entry.image %}<img src="{{ entry.image }}" alt="{{ entry.title }}" class="news-list__image" width="120" height="90" loading="lazy" decoding="async" />{% endif %}
+        {% if entry.image %}<img src="{{ entry.image }}" alt="{{ entry.image_alt | default: entry.title | escape }}" class="news-list__image" width="120" height="90" loading="lazy" decoding="async" />{% endif %}
         <div class="news-list__content">
           <strong>{{ entry.title }}</strong><br />
           {% assign entry_summary = entry.summary | markdownify | strip_newlines | replace: '<p>', '' | replace: '</p>', '' %}

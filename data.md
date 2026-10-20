@@ -63,14 +63,14 @@ marker data, with S3 documenting trait definitions, collection sites, and source
 * Schnable JC, Lyons E. (2015) Plant Paleopolyploidy. <b>figShare.</b>
 <a href="https://dx.doi.org/10.6084/m9.figshare.1538627.v1">10.6084/m9.figshare.1538627.v1</a><br>
 
-*Best effort attempt to describe the positioning and evidence supporting different known whole genome events relative to the phylogeny of all plant genomes sequenced at the time. <a href="https://genomevolution.org/wiki/index.php/Plant_paleopolyploidy">Also on CoGePedia.</a>*
+*Best effort attempt to describe the positioning and evidence supporting different known whole genome events relative to the phylogeny of all plant genomes sequenced at the time. Previously also hosted on CoGePedia.*
 
 * Schnable, JC (2015) Maize and Sorghum Genesets. <b>figShare.</b>
 <a href="https://dx.doi.org/10.6084/m9.figshare.1537501.v1">10.6084/m9.figshare.1537501.v1</a><br>
 
 *BED files answering the question: Where would each sorghum gene be in each maize subgenome if there were zero fractionation after the maize WGD? Also some useful figures generated using the same data.*
 
-* Schnable JC. (2015) Sequenced Plant Genomes. <b>CoGePedia</b> <a href="https://genomevolution.org/wiki/index.php/Sequenced_plant_genomes">Wiki Page</a><br>
+* Schnable JC. (2015) Sequenced Plant Genomes. <b>CoGePedia</b> (original wiki page no longer available)<br>
 
 *Exhaustive list of published plant genomes as of early 2015.*
 

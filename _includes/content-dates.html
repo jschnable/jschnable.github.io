@@ -1,0 +1,12 @@
+{% if page.published_on or page.last_modified_at or page.layout == 'post' %}
+  <p class="content-dates">
+    {% if page.published_on or page.layout == 'post' %}
+      {% assign published_on = page.published_on | default: page.date %}
+      Published <time datetime="{{ published_on | date: '%Y-%m-%d' }}">{{ published_on | date: '%B %-d, %Y' }}</time>
+    {% endif %}
+    {% if page.last_modified_at %}
+      {% if page.published_on or page.layout == 'post' %} · {% endif %}
+      Updated <time datetime="{{ page.last_modified_at | date: '%Y-%m-%d' }}">{{ page.last_modified_at | date: '%B %-d, %Y' }}</time>
+    {% endif %}
+  </p>
+{% endif %}

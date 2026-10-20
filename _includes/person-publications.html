@@ -10,7 +10,8 @@
         {% break %}
       {% endif %}
     {% endfor %}
-    {% if has_member %}
+    {% comment %} in-review papers are tracked in publications.yml but never shown on the site {% endcomment %}
+    {% if has_member and pub.status != 'in-review' %}
       {% assign matched = matched | push: pub %}
     {% endif %}
   {% endfor %}

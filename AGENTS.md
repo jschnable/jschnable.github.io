@@ -59,6 +59,7 @@
 - Keep publication `title` values in sentence case and end titles with a period.
 - For published papers, include both `doi` and `url` (normally `https://doi.org/<doi>`) so titles render as clickable links.
 - Accepted/in-press records may omit `doi`/`url` until assigned.
+- `status: in-review` is a private tracking state for manuscripts under review: such entries stay in `_data/publications.yml` but are filtered out of every render path (`papers.md`, `research.md`, `_includes/person-publications.html`) and never appear on the site. They require a `date_added: YYYY-MM-DD` field; see the "In-Review Tracking" section of `docs/publications-reference.md` for the full workflow (including how to check on and graduate them).
 - Add or update aliases in `_data/lab_authors.yml` whenever a new spelling appears; the optional `scripts/build_lab_authors.py` helper can reseed from roster data, but expected edits should be manual and reviewed.
 - Use `/tools/bibtex-to-yaml` to convert BibTeX into YAML blocks that match the live schema.
 - After making changes, run `python scripts/review_lab_authors.py` for alias validation and `bundle exec jekyll build` to confirm the Liquid templates still render.

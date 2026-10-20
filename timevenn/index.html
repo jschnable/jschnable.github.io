@@ -16,13 +16,14 @@
     <div class="container">
         <header>
             <h1>TimeVenn</h1>
-            <p class="subtitle">See when everyone's awake</p>
+            <p class="subtitle">Compare local times across cities to find overlapping working hours for meetings.</p>
         </header>
 
         <main>
             <aside class="city-panel">
                 <h2>Cities</h2>
                 <div class="city-search">
+                    <label for="city-search-input">Search for a city</label>
                     <input type="text" id="city-search-input" placeholder="Search for a city..." autocomplete="off">
                     <div id="city-suggestions" class="suggestions"></div>
                 </div>
@@ -35,7 +36,7 @@
 
             <section class="clock-section">
                 <div id="clock-container" class="clock-container">
-                    <svg id="clock-svg" viewBox="-200 -200 400 400"></svg>
+                    <svg role="img" aria-label="24-hour clock comparing working hours in the selected cities" id="clock-svg" viewBox="-200 -200 400 400"></svg>
                 </div>
                 <div class="legend">
                     <div class="legend-item">
@@ -75,6 +76,7 @@
         <footer class="controls">
             <div class="time-controls">
                 <button id="now-btn" class="btn">Now</button>
+                <label for="time-slider">Time of day</label>
                 <input type="range" id="time-slider" min="0" max="1440" value="0">
                 <span id="time-display" class="time-display">--:--</span>
             </div>

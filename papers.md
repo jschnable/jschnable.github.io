@@ -12,8 +12,10 @@ Current publications data flow:
 See docs/publications-reference.md for the live schema and workflow.
 {% endcomment %}
 
-{% assign preprints = site.data.publications | where: "status", "preprint" | sort: "lab_author_count" | reverse %}
-{% assign published = site.data.publications | where_exp: "pub", "pub.status != 'preprint'" %}
+{% comment %} in-review papers are tracked in publications.yml but never rendered on the site {% endcomment %}
+{% assign visible_pubs = site.data.publications | where_exp: "pub", "pub.status != 'in-review'" %}
+{% assign preprints = visible_pubs | where: "status", "preprint" | sort: "lab_author_count" | reverse %}
+{% assign published = visible_pubs | where_exp: "pub", "pub.status != 'preprint'" %}
 {% assign grouped = published | group_by: "year" | sort: "name" | reverse %}
 
 {% comment %} Filter Buttons in collapsible menu {% endcomment %}

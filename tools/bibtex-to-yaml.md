@@ -42,6 +42,7 @@ Paste a single BibTeX entry below and use this helper to generate a YAML block c
   </div>
 
   <h2 style="margin-top: 2rem;">Output YAML</h2>
+  <label for="yaml-output">Generated publications YAML</label>
   <textarea id="yaml-output" rows="14" style="width: 100%;" readonly placeholder="Generated YAML will appear here..."></textarea>
   <div style="margin-top: 0.5rem;">
     <button id="copy-yaml-button">Copy YAML to clipboard</button>

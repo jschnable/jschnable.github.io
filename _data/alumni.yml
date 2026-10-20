@@ -2,7 +2,7 @@
   people:
   - name: Vladimir Torres-Rodriguez
     country: Mexico
-    link: peoplepages/Vlad.md
+    link: /peoplepages/Vlad/
     image: /images/optimized/People_Images/vlad2.jpg
     role: Research Assistant Professor
     tenure: 2021-2025

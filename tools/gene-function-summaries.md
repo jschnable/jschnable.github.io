@@ -2,9 +2,13 @@
 layout: page
 title: "Gene Function Summaries"
 permalink: /tools/gene-function-summaries/
-search_exclude: true
-sitemap: false
 ---
+
+<p>Search maize, sorghum, and rice gene summaries by gene name, gene model ID, or genomic region.
+Results include function summaries, supporting papers, and ortholog information where available.
+The <a href="https://github.com/jschnable/gene-function-data">gene function dataset</a> is also
+available for download and programmatic access.</p>
+<noscript><p>Interactive lookup requires JavaScript. Use the dataset link above to access the data directly.</p></noscript>
 
 <div class="maize-synth-tool" data-baseurl="{{ site.baseurl }}" data-dataurl="/gene-function-data">
   <p class="maize-synth-subtitle">

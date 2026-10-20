@@ -101,11 +101,12 @@ class WorldChatClockApp {
         }
 
         results.forEach(cityData => {
-            const div = document.createElement('div');
+            const div = document.createElement('button');
+            div.type = 'button';
             div.className = 'suggestion-item';
             div.innerHTML = `
-                <div class="suggestion-city">${cityData.city}</div>
-                <div class="suggestion-country">${cityData.country}</div>
+                <span class="suggestion-city">${cityData.city}</span>
+                <span class="suggestion-country">${cityData.country}</span>
             `;
             div.addEventListener('click', () => {
                 this.addCity(cityData);
@@ -182,6 +183,7 @@ class WorldChatClockApp {
                 <button class="city-tag-remove" title="Remove">&times;</button>
             `;
 
+            div.querySelector('.city-tag-remove').setAttribute('aria-label', `Remove ${city.city}`);
             div.querySelector('.city-tag-remove').addEventListener('click', () => {
                 this.removeCity(city);
             });

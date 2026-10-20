@@ -17,11 +17,11 @@ No. The Nebraska Food for Health Center collaborates with and supports research 
 No. The Nebraska Food for Health Center and its associated plant breeders at the University of Nebraska use the same forms of plant breeding have been employed around the world for centuries to select from naturally occurring genetic diversity in the crop plants we already eat. The center used advanced technologies to better understand the impact natural plant diversity can have on the human gut microbiome and human health which lets breeders learn which crop varieties have the potential to positively influence the health of the people who will ultimately eat those crops.
 
 ## I’m excited about the Nebraska Food for Health Center, how can I get involved?
-You can visit the Nebraska Food for Health website and find opportunities to [join our team](https://foodforhealth.unl.edu/open-positions).  You can also [donate to support the Nebraska Food for Health center’s mission](https://nufoundation.org/give/university-of-nebraska-lincoln/nebraska-food-for-health-center/) developing new health promoting crops for Nebraska farmers and people who eat food (that means all of us).
+You can visit the Nebraska Food for Health website and find opportunities to join our team.  You can also [donate to support the Nebraska Food for Health center’s mission](https://nufoundation.org/give/university-of-nebraska-lincoln/nebraska-food-for-health-center/) developing new health promoting crops for Nebraska farmers and people who eat food (that means all of us).
 
 ## About the Nebraska Food for Health Center
 The Nebraska Food for Health Center was launched in 2016 with a $5M gift to the University of Nebraska and the mission to improve human health by linking agriculture and food production to wellness and disease prevention through microbiome research. Driven by the knowledge that our gut microbiome eats the same food as us, the Nebraska Food for Health Center links genetic variation in food crops with changes in the gut microbiome and ultimately changes in health outcomes for human beings.
 
 ## Contacts
 
-To learn more please reach out to [Jill Hochstein](https://foodforhealth.unl.edu/jill-hochstein) or [Nate Korth](https://foodforhealth.unl.edu/nate-korth)
+To learn more please reach out to Jill Hochstein or [Nate Korth](/peoplepages/NateKorth/)

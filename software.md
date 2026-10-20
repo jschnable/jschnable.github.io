@@ -23,7 +23,7 @@ The Schnable Lab publishes software that supports high-throughput phenotyping, c
 ## Getting Started & Contributing
 
 1. Clone the target repository and follow the README to install Python/R dependencies. Most projects expect `conda` environments; phenotyping code additionally requires OpenCV and PyTorch.
-2. Open issues for bugs or feature requests before submitting a pull request. We follow the same review expectations outlined in [AGENTS.md](/AGENTS.md).
+2. Open issues for bugs or feature requests before submitting a pull request. We follow the same review expectations outlined in [repository contribution guidelines](https://github.com/jschnable/jschnable.github.io/blob/master/AGENTS.md).
 3. Document new scripts with example commands and add small sample data under a `tests/` or `examples/` directory so other lab members can reproduce your results quickly.
 
 Looking for published datasets, imagery, or derived gene lists? Browse the [Published Datasets and Code Repositories](/data/) page for DOI-linked archives that complement these tools.

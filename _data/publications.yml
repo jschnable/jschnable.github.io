@@ -3402,7 +3402,7 @@
   status: published
   type: article
   journal: CVPPP 2020
-  url: Pubs/CVPPP2020_Sorghum.pdf
+  url: /Pubs/CVPPP2020_Sorghum.pdf
   first_author_is_lab_member: false
   lab_author_count: 2
   tags:
@@ -4399,7 +4399,7 @@
   status: published
   type: article
   journal: 'KDD: Data Science for Food, Energy, and Water'
-  url: Pubs/Sruti_KDD_FEWS.pdf
+  url: /Pubs/Sruti_KDD_FEWS.pdf
   first_author_is_lab_member: false
   lab_author_count: 2
   tags:
@@ -4980,7 +4980,7 @@
   status: published
   type: article
   journal: Maydica
-  url: http://www.schnablelab.org/Pubs/56_183.pdf
+  url: /Pubs/Maydica_GenesGenomes.pdf
   first_author_is_lab_member: true
   lab_author_count: 1
   tags:

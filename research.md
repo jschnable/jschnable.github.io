@@ -5,14 +5,15 @@ title: Schnable Lab Research Interests
 
 Research in the Schnable Lab@UNL is an interdisciplinary endeavor. Here are our main focus areas:
 
-<div class="research-nav">
+<nav class="research-nav" aria-label="Research topics">
   <a href="#Phenotyping" class="research-nav__btn">Phenotyping</a>
   <a href="#QuantGen" class="research-nav__btn">Quantitative Genetics</a>
   <a href="#Genomics" class="research-nav__btn">Genomics</a>
   <a href="#AIML" class="research-nav__btn">AI/ML</a>
-</div>
+</nav>
 
-{% assign all_pubs = site.data.publications | sort: "year" | reverse %}
+{% comment %} in-review papers are tracked in publications.yml but never rendered on the site {% endcomment %}
+{% assign all_pubs = site.data.publications | where_exp: "pub", "pub.status != 'in-review'" | sort: "year" | reverse %}
 {% assign lab_first_pubs = all_pubs | where: "first_author_is_lab_member", true %}
 
 <section id="Phenotyping" class="research-section">
@@ -36,7 +37,7 @@ Research in the Schnable Lab@UNL is an interdisciplinary endeavor. Here are our 
 
 </div>
 <div class="research-section__image">
-<img src="/images/optimized/Science_Images/HTPMerged.jpg" alt="High Throughput Phenotyping" width="400" height="300" loading="lazy" decoding="async" />
+<img src="/images/optimized/Science_Images/HTPMerged.jpg" alt="Plant imaging, a robotic sensor system, aerial field plots, and a soil electrical conductivity map" width="400" height="300" loading="lazy" decoding="async" />
 </div>
 </div>
 </section>
@@ -62,7 +63,7 @@ Research in the Schnable Lab@UNL is an interdisciplinary endeavor. Here are our 
 
 </div>
 <div class="research-section__image">
-<img src="/images/optimized/Science_Images/QGMerged.jpg" alt="Quantitative Genetics" width="400" height="300" loading="lazy" decoding="async" />
+<img src="/images/optimized/Science_Images/QGMerged.jpg" alt="Trait association and correlation plots, allele frequencies, linkage decay, and population structure in four grass crops" width="400" height="300" loading="lazy" decoding="async" />
 </div>
 </div>
 </section>
@@ -86,7 +87,7 @@ Research in the Schnable Lab@UNL is an interdisciplinary endeavor. Here are our 
 
 </div>
 <div class="research-section__image">
-<img src="/images/optimized/Science_Images/CompGenMerged.jpg" alt="Comparative Genomics" width="400" height="300" loading="lazy" decoding="async" />
+<img src="/images/optimized/Science_Images/CompGenMerged.jpg" alt="Grass evolutionary relationships, conserved gene order, maize and sorghum stems, and chromosome synteny" width="400" height="300" loading="lazy" decoding="async" />
 </div>
 </div>
 </section>

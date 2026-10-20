@@ -276,7 +276,7 @@ permalink: /news-archive/
 
 * Guangchao Sun's last day in our lab. He moves to Mayo Clinic as a bioinformatician.
 
-* Jon Turkus and the Schnable Lab are featured in the [2021 Strategic Discussions for Nebraska](https://sdn.unl.edu/2021-healthy-nebraska).
+* Jon Turkus and the Schnable Lab are featured in the 2021 Strategic Discussions for Nebraska.
 
 ### 2021 July
 
@@ -344,7 +344,7 @@ permalink: /news-archive/
 
 ### 2020 July
 
-* Chenyong is officially [awarded the Widaman Distinguished Graduate Fellowship]((https://agronomy.unl.edu/news/doctoral-students-receive-awards-high-scholastic-merit-and-research-potential)). Well deserved. Congratulations!
+* Chenyong is officially [awarded the Widaman Distinguished Graduate Fellowship](https://agronomy.unl.edu/news/doctoral-students-receive-awards-high-scholastic-merit-and-research-potential). Well deserved. Congratulations!
 
 * Lodging and greensnap. Planting errors and poor germination. Such is life in field research. This is why field plans should always build in more replication and redundancy than one expects to need. Thankfully our resilience was enough to save the day.
 
@@ -362,7 +362,7 @@ permalink: /news-archive/
 
 ### 2020, April
 
-* Mackenzie Zweiner is [the photo of the week for Nebraska Today](https://news.unl.edu/newsrooms/today/article/research-continues-photo-of-the-week/), continuing to prep seeds for her field this summer in her parent's sun room after everyone was kicked off campus.  
+* Mackenzie Zweiner is the photo of the week for Nebraska Today, continuing to prep seeds for her field this summer in her parent's sun room after everyone was kicked off campus.
 
 * The other shoe we've been waiting for drops and UNL goes to complete on campus shutdown. Christine is essential personnel and still able to access the building. Many of the undergrads who worked so hard to make this field season possible go on (thankfully paid!) leave.
 
@@ -380,7 +380,7 @@ permalink: /news-archive/
 
 * Daniel Carvalho publishes the second chapter of his PhD. Aime Valetin is a co-author and this is his very first time publishing a scientific paper. Congrats, Aime!
 
-* Chenyong Miao was the subject of a "First Author Insight" in Plantae for his new paper just out in Plant Phenomics. Check out both [the interview](https://community.plantae.org/article/5447329265999677113/plant-phenomics-first-author-insights-02-04-2020) and [the paper](https://doi.org/10.34133/2020/4216373).
+* Chenyong Miao was the subject of a "First Author Insight" in Plantae for his new paper just out in Plant Phenomics. The interview link is no longer available; read [the paper](https://doi.org/10.34133/2020/4216373).
 
 ### 2020, January
 
@@ -392,7 +392,7 @@ permalink: /news-archive/
 
 ### 2019, December
 
-* [Interview with James Schnable on Plantae](https://community.plantae.org/article/5393868633501861372/faculty-job-myths-amp-amp-realities-an-interview-with-james-schnable) as part of the "Faculty Jobs: Myths and Realities" series.
+* [Interview with James Schnable on Plantae](https://plantae.org/faculty-job-myths-realities-an-interview-with-james-schnable/) as part of the "Faculty Jobs: Myths and Realities" series.
 
 ### 2019, November
 
@@ -445,7 +445,7 @@ permalink: /news-archive/
 
 ![CUSP Experiential Learning Expo](/images/optimized/News_Images/aimeucare.png){:width="800" align="middle"}
 
-*Big thanks to [Justina Clark](https://directory.unl.edu/people/jclark17),Director of Undergraduate Research
+*Big thanks to Justina Clark,Director of Undergraduate Research
 Undergraduate Education & Student Success, for stopping by!*
 
 
@@ -546,7 +546,7 @@ Top row L-> R: Tom Hoban, Xiuru Dai, Chenyong Miao, Preston Hurst. Bottom row L-
 
 ### 2018, November
 
-* Daniel Carvalho is awarded the Henry M. Beachell Fellowship. [Article here.](https://agronomy.unl.edu/news/carvalho-awarded-henry-m-beachell-fellowship)
+* Daniel Carvalho is awarded the Henry M. Beachell Fellowship. Article here.
 
 * [Brandi Sigmon](http://schnablelab.org/peoplepages/Brandi_Sigmon/) an assistant professor of practice and an expert on evolutionary development in maize and sorghum joins the lab.
 
@@ -565,7 +565,7 @@ Top row L-> R: Tom Hoban, Xiuru Dai, Chenyong Miao, Preston Hurst. Bottom row L-
 
 ### 2018, September
 
-* NSF awards a new grant to study [the nitrogen responsive gene regulatory networks in sorghum](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1826781&HistoricalAwards=false) to us, collaborators here at UNL, and collaborators at HudsonAlpha in Huntsville, Alabama. Check out the great work happening in lead PI [Jeremy Schmutz's group](https://hudsonalpha.org/faculty/jeremy-schmutz/), [Kankshita Swaminathan's lab](https://hudsonalpha.org/faculty/kankshita-swaminathan/lab/), [Tom Clemente's Lab](https://www.unl.edu/clementelab/index.html), [Jinliang Yang's Lab](http://jyanglab.com/) (a Schnable lab alum!), and [Yufeng Ge's lab](https://engineering.unl.edu/bse/faculty/yufeng-ge-1/)
+* NSF awards a new grant to study [the nitrogen responsive gene regulatory networks in sorghum](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1826781&HistoricalAwards=false) to us, collaborators here at UNL, and collaborators at HudsonAlpha in Huntsville, Alabama. Check out the great work happening in lead PI [Jeremy Schmutz's group](https://hudsonalpha.org/faculty/jeremy-schmutz/), [Kankshita Swaminathan's lab](https://www.hudsonalpha.org/faculty/kankshita-swaminathan/), [Tom Clemente's Lab](https://clementelab.unl.edu/), [Jinliang Yang's Lab](http://jyanglab.com/) (a Schnable lab alum!), and [Yufeng Ge's lab](https://engineering.unl.edu/person/yufeng-ge/)
 
 * Welcome to the lab Xiaoxi Meng! Xiaoxi is coming to the lab having finished a PhD in biochemistry working on rice at Mississippi State. [Follow her on twitter.](https://twitter.com/xiaoxi_meng)
 

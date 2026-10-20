@@ -21,12 +21,13 @@
     <a href="#main" class="skip-link">Skip to main content</a>
     {% include masthead.html show_search=true %}
 
-    <div id="main" role="main">
+    <main id="main" tabindex="-1">
       <article class="page page--homepage">
         <h1 class="sr-only">{{ page.title | default: site.name }}</h1>
+        {% include content-dates.html %}
         {{ content }}
       </article>
-    </div>
+    </main>
 
     <div class="wrapper-footer">
       <div class="container">

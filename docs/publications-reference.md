@@ -25,7 +25,7 @@ Each publication is one YAML object in `_data/publications.yml`.
   - name: Example B
   # optional abbreviation for very long author lists:
   # - truncated: true
-  status: published        # e.g. published | accepted | in-press | preprint
+  status: published        # e.g. published | accepted | in-press | preprint | in-review
   type: article            # e.g. article | review | preprint | conference | chapter
   journal: Example Journal
   doi: 10.1000/example-doi # required for published papers when known
@@ -49,6 +49,54 @@ Each publication is one YAML object in `_data/publications.yml`.
 - Published papers should include both `doi` and `url` (usually `https://doi.org/<doi>`) so titles render as clickable links.
 - Accepted/in-press items may omit `doi`/`url` until available.
 - `tags` should use IDs defined in `_data/publication_tags.yml`.
+
+## In-Review Tracking (Hidden From Site)
+
+`status: in-review` is a private tracking state for manuscripts under review at a journal.
+These entries live in `_data/publications.yml` alongside everything else but are **never
+rendered** anywhere on the site:
+
+- `papers.md` filters them out before building both the preprint and year-grouped sections.
+- `_includes/person-publications.html` filters them out of per-person lists.
+
+Use this to keep a running record of submissions so they aren't forgotten while in review.
+
+```yaml
+- id: 2026-in-review-example
+  year: 2026
+  title: Example manuscript under review.
+  authors:
+  - name: Example A
+    member_id: example-author
+  status: in-review
+  type: article
+  journal: Journal Name (submitted)   # target/submitted journal, if known
+  date_added: 2026-06-29              # YYYY-MM-DD this entry was added to tracking
+  first_author_is_lab_member: true
+  lab_author_count: 1
+  tags:
+  - maize
+```
+
+Field notes for in-review entries:
+
+- `date_added` (required for `in-review`): the date the manuscript was added to tracking,
+  in `YYYY-MM-DD` format. This is what lets us tell how long something has been in review.
+- `doi`/`url` are usually omitted until the paper is accepted or posted as a preprint.
+- `journal` may name the target/submitting journal; mark it as submitted to avoid confusion
+  with published venue.
+
+### Checking On In-Review Papers
+
+When asked to "check on papers in review", scan `_data/publications.yml` for
+`status: in-review` entries and report each one's `title`, `journal`, and `date_added`
+(and how long ago that was) so stale submissions can be followed up on. To update one:
+
+- **Accepted/published**: change `status` to `published` (or `accepted`/`in-press`), add
+  `doi`/`url`, and remove `date_added`.
+- **Posted as preprint**: change `status` to `preprint`, add the preprint `url`, and remove
+  `date_added`.
+- **Withdrawn/abandoned**: delete the entry.
 
 ## Rendering Flow
 

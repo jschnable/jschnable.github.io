@@ -5,6 +5,8 @@ title: Applying to Integrated Plant Biology at the University of Nebraska Lincol
 
 ### The Officially Unofficial Guide
 
+Admissions and program information current as of October 20, 2026.
+
 The Integrated Plant Biology PhD track and the Complex Biosystems program of which it is part is one of the only interdepartmental graduate programs at the University of Nebraska-Lincoln. Students admitted to the program get to pick three different professors at UNL to rotate with in their first year **with funding provided by the graduate program.** During that first year they also take a core curriculum in biology and statistics with all first year students in the different Complex Biosystems graduate tracks. At the end of the first year, students join a research group sometimes with an individual mentor or more frequently with a primary advisor and a second co-advisor.
 
 Students can apply to the Integrated Plant Biology track with either a bachelors or a masters degree.  
@@ -18,7 +20,7 @@ Yes we do.
 If you are an international student, yes.  The program requires a minimum score of 550 on the paper exam or 79 on the online exam and an IELTS score of 6.5
 
 **Is there a fee to apply:**
-Yes $50. There is no official way to get a fee waiver through graduate studies. If you would like to apply to Integrated Plant Biology/Complex Biosystems and the fee is a barrier to you doing so, [write to Dr Schnable](https://www.unl.edu/psi/james-schnable).
+Yes $50. There is no official way to get a fee waiver through graduate studies. If you would like to apply to Integrated Plant Biology/Complex Biosystems and the fee is a barrier to you doing so, [write to Dr Schnable](/peoplepages/jschnable/).
 
 **What do I need to apply:**
 1. A CV
@@ -30,16 +32,16 @@ It helps to list specific faculty you are interested in as part of your applicat
 
 ### Professors Who Advise Integrated Plant Biology Students
 
-* **Ed Cahoon** is a professor in Biochemistry who studies plant lipids. ([Lab Website](https://www.unl.edu/cahoonlab/welcome)) ([Google Scholar Profile](https://scholar.google.com/citations?user=vgInU3QAAAAJ&hl=en))
-* **Tom Clemente** is a professor in Agronomy who studies plant transformation. ([Lab Website](https://www.unl.edu/clementelab/index.html)) ([Google Scholar Profile](https://scholar.google.com/citations?user=jCWIXfEAAAAJ&hl=en))
-* **Yufeng Ge** is a professor in Biological Systems Engineering who works on plant phenotyping in the greenhouse and field. ([Faculty Profile](https://engineering.unl.edu/bse/faculty/yufeng-ge-1/))([Google Scholar Profile](https://scholar.google.com/citations?user=XiC54_8AAAAJ&hl=en))
+* **Ed Cahoon** is a professor in Biochemistry who studies plant lipids. ([Lab Website](https://cahoonlab.unl.edu/)) ([Google Scholar Profile](https://scholar.google.com/citations?user=vgInU3QAAAAJ&hl=en))
+* **Tom Clemente** is a professor in Agronomy who studies plant transformation. ([Lab Website](https://clementelab.unl.edu/)) ([Google Scholar Profile](https://scholar.google.com/citations?user=jCWIXfEAAAAJ&hl=en))
+* **Yufeng Ge** is a professor in Biological Systems Engineering who works on plant phenotyping in the greenhouse and field. ([Faculty Profile](https://engineering.unl.edu/person/yufeng-ge/))([Google Scholar Profile](https://scholar.google.com/citations?user=XiC54_8AAAAJ&hl=en))
 * **Katarzyna Glowacka** is a professor in Biochemistry who studies photosynthesis and cold tolerance. ([Lab Website](https://www.glowackalab.com/)) ([Google Scholar Profile](https://scholar.google.com/citations?user=gjIz2bsAAAAJ&hl=en))
 * **Toshihiro Obata** is a professor in Biochemistry who studies plant metabolism. ([Lab Website](https://obatalab.unl.edu/)) ([Google Scholar Profile](https://scholar.google.de/citations?user=SDqLq-cAAAAJ&hl=en))
 * **Rebecca Roston** is a professor in Biochemistry who studies plant lipids and cold tolerance. ([Lab Website](https://www.rostonlab.com/)) ([Google Scholar Profile](https://scholar.google.com/citations?user=1CkQ7iIAAAAJ&hl=en))
 * **James Schnable** is a professor in Agronomy who studies plant quantitative genetics, comparative genomics and high throughput phenotyping. (You're already on his lab website) ([Google Scholar Profile](https://scholar.google.com/citations?user=cik4JVYAAAAJ&hl=en))
 * **Jinliang Yang** is a professor in Agronomy who studies population and quantitative genetics in plants with a particular focus on maize. ([Lab Website](https://jyanglab.com/)) ([Google Scholar Profile](https://scholar.google.com/citations?user=2CiKnzkAAAAJ&hl=en))
 
-In addition to these eight professors, there are currently 25 other faculty who can mentor students as part of the Integrated Plant Biology graduate school track. [Here are their names and links to their websites](https://bigdata.unl.edu/phd-program-faculty#block-views-faculty-member-block-2).
+In addition to these eight professors, there are currently 25 other faculty who can mentor students as part of the Integrated Plant Biology graduate school track. [Here are their names and links to their websites](https://cbio.unl.edu/complex-biosystems/faculty-directory/).
 
 ### When and How to Apply
 
@@ -56,10 +58,10 @@ Go to the Complex Biosystems listed on the [UNL Graduate Studies website](https:
 
 Profiles of some current and former Integrated Plant Biology Students.
 
-* [Sarah Johnson](https://cbio.unl.edu/sarah-johnson)
-* [Nate Korth](https://cbio.unl.edu/nate-korth)
-* [Michael Richter](https://cbio.unl.edu/michael-richter)
-* [Michael Tross](https://cbio.unl.edu/michael-tross)
-* [Zhikai Yang](https://cbio.unl.edu/zhikai-yang)
+* Sarah Johnson
+* [Nate Korth](/peoplepages/NateKorth/)
+* Michael Richter
+* [Michael Tross](/peoplepages/Michael_Tross/)
+* Zhikai Yang
 
 You can follow some of the current Integrated Plant Biology students here in Lincoln, Nebraska on twitter. Here is a link to [a list that combines their tweets](https://twitter.com/i/lists/1329565274761211905).

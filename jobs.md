@@ -7,6 +7,8 @@ bigimg:
   - "/images/optimized/Front_Page_Images/header.png" : ""
 ---
 
+The following guidance is current as of October 20, 2026.
+
 There are two primary tracks to joining the lab: coming in with your own funding (e.g. a fellowship) or being hired with existing grant funds in the lab. 
 
 ## Fellowship Applications
@@ -33,4 +35,4 @@ I know writing cold e-mails is hard. Most of them don't get answers. Most of the
 
 ## Opportunities for Undergraduates
 
-The Schnable Lab is always recruiting promising undergraduates who either wish to gain experience in computational or molecular biology techniques working as paid assistants on existing research projects, or who wish to develop and carry out independent research projects within our areas of investigation through the [University of Nebraska's UCARE program](https://ucare.unl.edu/apply-ucare).
+The Schnable Lab is always recruiting promising undergraduates who either wish to gain experience in computational or molecular biology techniques working as paid assistants on existing research projects, or who wish to develop and carry out independent research projects within our areas of investigation through the [University of Nebraska's UCARE program](https://uraf.unl.edu/undergraduate-research/ucare-undergraduate-research/).

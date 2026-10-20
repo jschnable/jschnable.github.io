@@ -85,6 +85,15 @@ a {
   }
 }
 
+// Inline links must be recognizable without relying on color alone.
+main p a,
+main li a,
+main .news-list__content a,
+main .pub-item a {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
@@ -284,7 +293,7 @@ img {
   }
 }
 
-nav {
+nav:not(.research-nav) {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
