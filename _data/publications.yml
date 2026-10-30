@@ -223,7 +223,7 @@
   - genotype-environment-interaction
 - id: 2026-d-dna-rna-protein-pqtl-soybean
   year: 2026
-  title: 'From DNA to RNA to protein: pQTL mapping and proteome-wide association study uncover protein-level drivers of soybean traits.'
+  title: 'From DNA to RNA to protein: pQTL mapping and proteome-wide association study reveal protein-level drivers of soybean traits.'
   authors:
   - name: Li D
     member_id: li-delin
@@ -236,9 +236,11 @@
     member_id: schnable-james
   - name: Li YH
   - name: Qiu LJ
-  status: accepted
+  status: published
   type: article
   journal: Molecular Plant
+  doi: 10.1016/j.molp.2026.09.011
+  url: https://doi.org/10.1016/j.molp.2026.09.011
   first_author_is_lab_member: true
   lab_author_count: 2
   tags:
