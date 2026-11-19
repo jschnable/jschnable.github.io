@@ -731,6 +731,26 @@
   active: false
   people_page: /peoplepages/Xianjun_Lai/
   orcid: 0000-0001-9795-3358
+- id: lamego-danielle
+  name: Danielle Leal Lamêgo
+  aliases:
+  - D. Lamêgo
+  - D. Lamego
+  - Danielle Leal Lamêgo
+  - Lamêgo D
+  - Lamêgo D.
+  - Lamêgo DL
+  - Lamêgo, D
+  - Lamêgo, D.
+  - Lamêgo, Danielle
+  - Lamego D
+  - Lamego D.
+  - Lamego DL
+  - Lamego, D
+  - Lamego, D.
+  - Lamego, Danielle
+  active: true
+  people_page: /peoplepages/DanielleL/
 - id: li-delin
   name: Delin Li
   aliases:
